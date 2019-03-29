@@ -1,0 +1,746 @@
+,episode,speaker,lines
+0,41,The Adventure Zone,
+1,41,Dungeon Master & NPCs, Griffin McElroy
+2,41,Magnus Burnsides, Travis McElroy
+3,41,Merle Highchurch, Clint McElroy
+4,41,Taako Taaco, Justin McElroy
+5,41,Episode 41, The Eleventh Hour - Chapter One 
+6,41,(part of TAZscripts on Tumblr),
+7,41,Griffin," Previously, on The Adventure Zone"
+8,41,The Director," That is where you come in, the reclaimers. This is actually a very hard position for us to fill because most of the time anybody who discovers one of the Grand Relics is unable to fight off the temptation to claim it for their own."
+9,41,Boyland, My name… is Boyland.
+10,41,Magnus, [Laughing] Excuse me?
+11,41,Griffin," You see a crystallized figure, a dwarven figure with a cigar in his mouth."
+12,41,Travis," Oh, God, it’s Merle!"
+13,41,Griffin," No, you actually recognize this crystallized figure as Boyland. "
+14,41,"The Director draws a curtain and you can see a window into the Cerebro Chamber, like you’ve seen three times now. These huge columns of light stab through the ball—",
+15,41,Justin," So that’s four, so that’s the glove, the belt, the stone…"
+16,41,Griffin, The Oculus.
+17,41,Justin," That’s like halfway, right?"
+18,41,Griffin," More than halfway— we’re more than halfway there. Yeah, that’s—"
+19,41,Taako," More than halfway! Good for us, wow!"
+20,41,The Director, This is going better than I ever could’ve expected. You three—
+21,41,Merle, [Laughing] Us too!
+22,41,[Intro music],
+23,41,The Announcer," Can our heroes recover the final three Grand Relics before they’re crushed by the weight of their incompetence? No, they can’t. It’s The Adventure Zone!"
+24,41,[Theme music, Déjà Vu by Mort Garson]
+25,41,{1,40}
+26,41,Griffin, New story time!
+27,41,Clint, Yaaaay!
+28,41,Griffin, New story day!
+29,41,Justin, Crack open the dusty volume.
+30,41,Griffin, Crack this dusty volume right open.
+31,41,Justin, The tales…
+32,41,Travis, [Rhythmically] Crack that dusty volume!
+33,41,Griffin," Well, hold on, no, it’s new story time. If there’s dust on the volume, then that’s a manufacturing error."
+34,41,Justin," I like to imagine you pulling down a tome, an age-ripened tome from the shelves."
+35,41,Travis," Maybe the book’s alive, like in The Pagemaster, and it’s screaming as you rip it open."
+36,41,Justin," “Another tale of the McElroy boys, you say.”"
+37,41,Clint, Bound in human skin.
+38,41,Griffin," Just like in The Pagemaster, all of the voices of this arc will be Whoopi Goldberg. Please enjoy. "
+39,41,"Uh, I’m gonna start this arc off on a somewhat dour note. The three of you— it’s been, let’s say it’s been, like, a month and a half, maybe two, so it’s late winter, early spring. And the three of you are attending the Rites of Remembrance for everyone’s favorite character, Boyland. The Director has been putting this off. The Rites of Remembrance are when a Bureau member goes down in the line of duty, their information is fed to the Voidfish so as to avoid uncomfortable questions from the world below as to their whereabouts.",
+40,41,Travis, So Boyland is gone but not yet forgotten. But soon.
+41,41,Griffin," But in— like, no joke, in like a minute and a half, both of the things. And you’re in the Voidfish’s chambers, where you actually haven’t been in a while. And it is just as you remember it. You’ve got the big tank with the Voidfish, jellyfish-looking giant guy, floating in the tank. And pretty much everybody from the Bureau is here."
+42,41,Travis, Even Pringles?
+43,41,Griffin," No, Pringles is in jail. Where he belongs."
+44,41,Travis, [Huffs] Still?
+45,41,Justin," God, I hope this arc is about prison-breaking out Pringles."
+46,41,[Clint laughs],
+47,41,Travis, Are we eventually going to find out what happened to Pringles and what the justice system is like in this organization?
+48,41,Griffin," Maybe. Maybe I just put him in jail because of his bad name. It’s possible, that’s entirely possible."
+49,41,Justin," Hey, Griff, can I ask a canon question?"
+50,41,Griffin," Yeah, please."
+51,41,Travis, “How do cannons work?”
+52,41,Justin," I know— yeah, is it sparks or gunpowder, what’s up in there? Suction? Uh, no. When somebody is fed into the Voidfish—"
+53,41,Griffin," The people aren’t fed into the Voidfish, that’s ghoulish."
+54,41,Clint," Oh, man! "
+55,41,Justin," Okay, what do you— they write their names down or whatever. What happens to, like, physical evidence of that person’s existence on Earth? Like, how are physical, uh…"
+56,41,Griffin," Yeah, no, I’ll break down some of the, like, Voidfish… because I’ve been thinking a lot about the Voidfish lately."
+57,41,Justin, As have we all.
+58,41,Griffin," I think the Voidfish has kind of an ability where not only do they erase information, right, when they’re fed information they erase it from the world— ooh, it’s storming outside, that’s some nice ambiance. Not only does it disappear from the world, except for those who are inoculated, I think the Voidfish’s powers are a bit broader than that in that they sort of implant whatever you need to kind of write your own narrative as to— write your own way around that information."
+59,41,"So it’s not like the stuff just disappears because that would be weird, and I did kind of set up that that’s how Angus joined the Bureau of Balance, is because people kind of knew there were, like, these edges of the periphery of their memory that something was wrong, somebody was missing, and in investigating those missing persons that’s how Angus ended up there. But I think the Voidfish has an ability where it’s just like, Boyland is gone, and it’s like, there’s a big chair here that they can’t read the name that’s etched into the chair of Boyland. So, like, maybe that chair is just for a family friend that they also can’t remember, you know what I mean?",
+60,41,Travis, There’s brain fog over it.
+61,41,Griffin," Yeah, fog is a good way of putting it. Not only does the Voidfish erase the information, it fills in the gaps, or it enables you to sort of fill in the gap."
+62,41,Justin, But that does not apply to those of us who have been inoculated.
+63,41,Griffin," No, you— no. They don’t disappear from you, they just disappear from everybody else in the world, which is a lot of people."
+64,41,Justin, Many.
+65,41,Griffin, Right.
+66,41,Clint, Like Marty McFly’s brother and sister.
+67,41,[Everyone agrees],
+68,41,Griffin," So it’s been a couple months, you’re at the Rites of Remembrance, everybody is here except for Pringles—"
+69,41,Travis, It took us a couple months to get the Rites of Remembrance together?
+70,41,Griffin," Yeah, the Director’s kinda been putting it off. And everybody’s here— Avi’s actually not here, Avi’s been missing for a week or so. I said missing, that sounds ominous, he just hasn’t been around."
+71,41,Clint, Foreshadowing!
+72,41,Griffin," And here’s the thing about this ceremony everybody is so sad. Like, everybody is so bummed out. And you get the impression that maybe you guys are the only people in this whole organization that were not, like, gigantic Boyland fans."
+73,41,Justin," Boyland boys, as he preferred to call them. "
+74,41,Griffin," This room is full of Boyland boys, and everybody’s crying and, like, sharing their favorite stories— and Boyland’s not, like— listening to their stories, Boyland sounds like a dope dude. He always brought in donuts to the office, and people loved that. And he had a lot of fun jokes that were not offensive, they were really— they were people pleasers. "
+75,41,"Boyland was a people pleaser, and people seem really bummed out, and people are getting up there and giving some speeches. Killian and Carey, who served with him as regulators, have some, like, totally rad war stories, and just, everybody seems super upset. And you are clued into the fact that maybe you guys should’ve gotten to know Boyland a little bit better, because he sounds like a total party animal.",
+76,41,Travis," Wow. You know what, I stand by it. I think that they were all blinded by, they were too close to the situation, and we were able to see him for what he really was a dick."
+77,41,Clint, A giant dick.
+78,41,Griffin, [Laughing] Is this your speech? Is this the speech you’re giving to the room?
+79,41,Travis, No. [Griffin Okay.] Magnus would never say that. But Travis would.
+80,41,Griffin, Do you wanna say anything? Is there anything you want to do in this scene?
+81,41,Travis," I’m gonna raise— oh, this is great because I haven’t gotten to use this a lot— my flagon that makes everything, like, doubly potently alcoholic."
+82,41,Griffin, Okay.
+83,41,Travis, And I’m getting real drunk at this wake.
+84,41,Magnus, [Drunkenly] To Boyland! [pronounced “Boy-lund”] 
+85,41,Griffin, Okay. Everybody joins you.
+86,41,Bureau members, To Boyland! [pronounced “Boy-lund”]
+87,41,"[Sad, slow music begins playing]",
+88,41,Griffin," —they all shout, and raise their own flagons that they all have for some reason. So the Director walks in, and walks sort of close to the tank. And she has a few rolls of parchment, which she hands over to Johann, who’s been playing sort of accompaniment to this scene. He’s been playing a slow, sad tune on his cello, probably that he wrote specifically for Boyland."
+89,41,Clint, Good God!
+90,41,Griffin," Yeah, he’s really weepy. And Johann takes it and puts it into the tank and pulls the lever, and you see these three rolls of parchment float up into the tank. And the Voidfish wraps some of its tendrils around these three rolls of parchment and pull it into its body. "
+91,41,[Johann’s music ends],
+92,41,"And suddenly, instantly, as soon as these parchments that contain information about Boyland are consumed, the Voidfish illuminates from within in a way that you’ve never really seen before. The Voidfish has always had, like, a sort of faint spiral galaxy, like, nebula of stars floating around inside of it that you can see, but this is like all of those galaxies explode at once. You see these bright strands of red and yellow and green just sort of zipping around inside its body, there’s a lot of, like, light activity in there. And as soon as that happens, Johann like, steps back, and he’s like,",
+93,41,Johann, I’ve never seen a reaction like this before.
+94,41,Travis, I lean down to Taako and Merle.
+95,41,Magnus," You guys see this too, right?"
+96,41,Griffin," Everybody sees this. Everybody’s like, everybody’s actually kind of scared a little bit. They’re stepping back, because it’s like— the Voidfish is— there’s like a fireworks show going off inside of it. And the Director says,"
+97,41,The Director," Oh, my god. It’s, uh… it’s his comically large family, Johann."
+98,41,Griffin," And Johann’s like,"
+99,41,Johann," Oh, oh. Oh, God, that’s horrible. Sorry— whenever the Voidfish blocks information that it consumed, that’s what causes those lights inside of it. It’s like a little alarm, if you will, showing the people out there trying to think of the things that the Voidfish blocked. So that’s all… that’s, like, his four hundred kids and wives and husbands and stuff. That’s… god, that’s rough."
+100,41,Taako," Yeah, but they don’t know, right? I mean, they— it’s not— it’s only sort of rough from sort of like an ethical perspective, practically speaking."
+101,41,Magnus, Yeah.
+102,41,Merle, They’ve already forgotten him.
+103,41,Taako," Think about it, maybe the Voidfish created for them a brand new dad."
+104,41,Magnus, A better dad.
+105,41,Merle, Who wasn’t a giant dick!
+106,41,Griffin," Johann says,"
+107,41,Johann," [Weepy] Yeah. Really, if you think about it, his family has it easy, ‘cause the rest of us have to go on knowing what a great dude we lost. [Tearful moaning]"
+108,41,Taako," As I’ve always said in every situation, I’m the one hurt most by this."
+109,41,[Clint laughing],
+110,41,Magnus," Yeah. Is this, like, a physical strain for the Voidfish? Is this… I mean, that just seems like a lot of work."
+111,41,Clint, Is it grunting?
+112,41,Griffin," No, it’s not— it doesn’t seem—"
+113,41,Travis," I’m not asking you, Griffin, I’m asking Johann."
+114,41,Griffin," Oh, he says, uh."
+115,41,Travis," I did it in character voice, damn it."
+116,41,Johann," [Teary] Um, I mean, the Voidfish doesn’t seem like it’s particularly distressed by all this. It’s just, whatever reaction is happening inside of there, it’s— the Voidfish is blocking a lot of information right now. It’s rough."
+117,41,Taako," Johann, do you know, does he need this? Like, does the Voidfish get antsy if he doesn’t get fed from time to time?"
+118,41,Johann," I don’t know that it’s a he. But, um, I feed it my compositions from time to time to just kind of keep it fed and happy and fat. I love the Voidfish very much."
+119,41,Taako," I guess you could say it’s your number one fan. Hey— hey, Johann, do your t-shirts come in XXXXXXXXXXXXXXXXL?"
+120,41,[Laughter],
+121,41,Johann," Yeah, and they have hundreds of armholes. You’ve cheered me up."
+122,41,Griffin," The Director, who’s like very— she’s really upset. You see the Stone of Far Speech that she has around her neck, her pendant, start to light up again, and she turns and talks to the voice coming from inside of it. You actually hear that it’s Avi."
+123,41,Justin, [imitating Navi from the Legend of Zelda series] Hey! Listen!
+124,41,Griffin," She has a short conversation with N-Avi [pronounced “nuh-avi”]. She turns to the three of you and says,"
+125,41,The Director, It’s time.
+126,41,Travis, [Crosstalk] You have to die.
+127,41,The Director, Collect yourselves and then meet me in my office for a briefing.
+128,41,Travis," Before I do that, Magnus just puts his hand on the glass and stares at the Voidfish, just… mesmerized by the flashing lights inside of it."
+129,41,Griffin," Very quickly, it puts up one of its tendrils and puts it up against your own. And then you hear it actually sing that song again that it sang a few Lunar Interludes ago, the one that’s just seven notes."
+130,41,[The Voidfish’s seven-note song begins in the background.],
+131,41,Clint, Let’s listen.
+132,41,Griffin," Yeah, let’s listen into the Voidfish’s— "
+133,41,Clint, Seven-note song.
+134,41,Travis, The dirge of the Voidfish.
+135,41,Griffin," Yeah, it does have some sort of reaction to that, Magnus."
+136,41,Travis," I love this Voidfish, you guys."
+137,41,[The Voidfish’s song ends.],
+138,41,Clint, You’re also hammered.
+139,41,Travis," I have animal proficiency, I don’t know what to tell you."
+140,41,Griffin," The Director mentioned to you that it’s time. About a week ago, she mentioned that—"
+141,41,Travis," Can I— I would like to jump in here really quick, by the way—"
+142,41,Griffin, Please.
+143,41,Travis," —and thank all of our listeners, and I mean this sincerely, for finally explaining to me what it means to have proficiency in stuff."
+144,41,Griffin, Yeah.
+145,41,Travis," Somebody explained to me how proficiency in thieves’ tools worked, and I was like, “Oh, duh”."
+146,41,Griffin, Yeah.
+147,41,Travis," And it all made so much sense to me. Thank you, everyone."
+148,41,Clint, And you didn’t know that?
+149,41,Griffin," Oh, please, please, please."
+150,41,Travis," [Crosstalk] Well, I didn’t know, like, what it translated to to have proficiency in, like, a tool."
+151,41,Griffin," Dad practically wrote these rules. So, if you ever need—"
+152,41,Clint," Yeah, I would like you to be a little bit more informed in the future."
+153,41,Griffin," If you ever need to go to dungeon school, you can take Clint McElroy’s correspondence course."
+154,41,Travis, Dungeons and Dragons and Daddies.
+155,41,Griffin, Yeah.
+156,41,Travis," Ew, actually, that sounds weird."
+157,41,Griffin," That’s not great. The Director mentioned that it’s time. About a week back, she mentioned that she had a beat on a job coming up, and she mentioned that it was big, but it was gonna be a little while before she could figure out how to get a plan of attack going and to keep it under your hat."
+158,41,Travis," Oh, okay, so we know what’s up. When she says “It’s time,” it’s like, a finger to the nose."
+159,41,Griffin, You know that she has a job. Do you want to move into her office and get briefed?
+160,41,Magnus," Goodbye, Voidfish!"
+161,41,Griffin," It does its little song again, but quieter this time. But those lights inside of it are still popping off."
+162,41,Travis, I sprinkle some food onto the top of its bowl.
+163,41,Griffin," Okay. Well, its food would be, like… “When I was a little boy, I had a, y’know, a rabbit named Douglas,” and it’d be like, “Mmm, thank you! [Eating noises] Douglas is gone”."
+164,41,Travis," This is fun, though, because I wouldn’t forget it. I could feed the Voidfish any— if it was like, “One time I slighted my friend Jim, like, we were supposed to split it 50-50 and I gave him 40 and he never forgave me”. I could put that in there and Jim would not remember that I did that."
+165,41,Griffin," Yeah, for sure. There’s a million times that you probably farted and it was just a bad situation. And you could just, like, purge that."
+166,41,Clint," Is our immunity to this selective? Like, if we wanted to forget something, could we ask the Voidfish to do it?"
+167,41,Griffin," Nope. Nah, you’ve been inoculated."
+168,41,Clint," ‘Cause I’m so sick of hearing about damn Boyland, I could puke!"
+169,41,Griffin, Okay.
+170,41,Justin, [Laughing] It’s been like five minutes!
+171,41,Clint, I know!
+172,41,Griffin," If you cloned the Voidfish— if you cloned that Voidfish, and then fed it the name Boyland, you might be able to get out of the way."
+173,41,Travis, Griffin?
+174,41,Griffin, Please.
+175,41,Travis, This does leave— Magnus has got a backstory and has got a dude that does not like him.
+176,41,Griffin, Yeah.
+177,41,Travis," Could Magnus make that guy forget him? I’m not asking this in character, because [crosstalk] I don’t think this has occurred to Magnus yet—"
+178,41,Griffin," Yeah, for sure, this is how it works, yeah."
+179,41,Travis, Okay. That might occur to Magnus later.
+180,41,Griffin," So you’ve moved on to the Director’s office. You’ve been in here a few times now. The last time you were in here was actually a bit uncomfortable because there was some tension between you and the Director, but she, uh…"
+181,41,Clint, She and I worked that out.
+182,41,Griffin," Yeah, you guys really squashed the beef."
+183,41,Travis," Oh, that’s a good question, have we caught each other up on what happened in our individual things?"
+184,41,Griffin," Yeah, if you wanted to. Maybe— I don’t know if Taako told you guys about his umbrella acting up. I don’t know if— I don’t know if you guys listened to the last fucking episode, maybe you didn’t."
+185,41,Clint," Still might be fun to tell each other, ‘cause…"
+186,41,Griffin, Yeah.
+187,41,Travis," I think I definitely told them about, like, training with Carey, but I don’t think I told them about the box and the whole thing with Killian."
+188,41,Griffin," Sure, sure, sure."
+189,41,Travis, I don’t think I’d betray that confidence.
+190,41,Justin," Oh my god, I’m hearing about the things that I may or may not know from a podcast I did in fact listen to, it’s the most boring thing that’s ever happened."
+191,41,Griffin," So you’re in the Director’s office, let’s move on. You’re in the Director’s office. She seems bummed out, and she says,"
+192,41,The Director," Have you collected yourselves? Are you… are you emotionally prepared to— if you need to take a day, I think we could probably give you some leave."
+193,41,Merle," Is it paid? Paid leave? [Someone laughs] I mean, the whole thing with Boyland has just— I’m pretty shattered, but I don’t want to lose a day of pay."
+194,41,The Director," If that’s what you desire, if that’s what you need, then I completely understand."
+195,41,Merle," [Sighs] Boy, boy, Boyland."
+196,41,The Director, If you are ready…
+197,41,Travis, Wouldn’t it be great if the whole rest of this episode and like the next three episodes was just us taking paid leave off before starting?
+198,41,Griffin," [Laughing] Just watching Orange is the New Black season four or whatever? Just, like, chilling? Doing some binge-watching?"
+199,41,The Director," Assuming you’re okay, I’m ready to tell you about the next mission."
+200,41,Merle," Are we okay, guys?"
+201,41,Taako, Hit it.
+202,41,Magnus, I feel good.
+203,41,Merle," Yep, we’re good."
+204,41,The Director," So… [Sighs] Sorry, I’m… I’m worried about the three of you on this next mission because the last one we sent you on ended up being much more dangerous than we initially expected."
+205,41,Magnus, And longer.
+206,41,Merle, And we didn’t kill as many people.
+207,41,Taako," Yeah, barely any."
+208,41,The Director, That will not be the case with the mission I’m sending you on.
+209,41,[Everyone cheers],
+210,41,Taako, Hell yeah.
+211,41,Magnus, I crave blood!
+212,41,The Director," Because I know exactly how dangerous this mission’s going to be. Which is to say, extraordinarily."
+213,41,Magnus, Okay.
+214,41,The Director," But not for the reasons you might expect. To be frank, I don’t know what’s waiting for you on this mission, but I know what’s waiting for you at the end of it."
+215,41,Magnus, Hugs?
+216,41,The Director, And– it’s the fifth Grand Relic.
+217,41,Magnus, Oh.
+218,41,The Director," It is the Temporal Chalice [pronounced with a soft “sh” sound]. Or Chalice [pronounced with a hard “ch” sound], depending on just sort of what region you’re from. Let’s go with “chalice” [with the hard “ch”]."
+219,41,Merle," So it’s a giant– it’s like an onion, then?"
+220,41,The Director," It is a Relic, a cup, that gives–"
+221,41,Travis," Dad, I want you to know I got that."
+222,41,Clint, Thank you.
+223,41,Griffin," I got it, it’s just, like…"
+224,41,Clint, I didn’t use the amulet.
+225,41,Griffin," Yeah, you should… you’re lucky."
+226,41,The Director," It is a Relic, it is a cup that gives the holder power over the flow of time itself. You’ve been able to withstand the thrall of each of the relics that you’ve faced so far, and that is commendable, but there’s no power and no treasure more seductive than that which the Temporal Chalice presents. It will tempt you in ways that you’ve never been tempted before, and I have no way to aid you except to warn you. The power to fix your mistakes is a power that is nearly impossible to resist."
+227,41,Magnus," Do you know anything in regards to the extent of the power of the Chalice or who’s wielding it now, anything that can clue us into who we might face or be up against when we face the person?"
+228,41,Griffin," She says,"
+229,41,The Director, Allow me to brief you.
+230,41,Griffin," And she pulls out one of those spheres that she showed you all of those scenes of destruction from in the last episode, and taps it. And you see another sort of display pop up over it. "
+231,41,"This one is showing a large, brown, dusty canyon. It’s actually a series of canyons that are just sort of weaving a bunch of channels into the ground. Dry channels, they’re not rivers, it’s just dry canyons, all made of red clay. And you see one of the canyons, the largest of this network of canyons, has a pretty big opening in it right sort of in the heart of this series of canyons. And inside of that opening you see a circle, and it looks like it was actually, like, drawn into this projection. It is a perfect circle. And she says,",
+232,41,The Director," We discovered this anomaly several weeks ago and we’ve been trying to figure out a way to breach it. We can’t tell what it’s protecting. It is a force field, and whatever is powering this force field, the power is starting to slightly wane. That’s how we were able to discover it. Avi has been researching a form of transportation that will be able to get the three of you through the field and contacted me during the Rites of Remembrance for Boyland to let me know that he’s had a breakthrough. Avi had to miss Boyland’s Rites of Remembrance to discover this."
+233,41,Merle, Aw!
+234,41,The Director, So I hope you’re— I hope you’re grateful for this.
+235,41,Taako, [Mumbling] I didn’t know that was an option.
+236,41,[Clint cackles],
+237,41,Griffin," She says,"
+238,41,The Director," I have no intel on what’s inside of this force field, save for some information on the bubble itself. It’s nearly a mile and half in diameter. It is impenetrable and opaque. We can’t get through it through any sort of common methods. It’s not just a dome, it’s perfectly spherical, it extends down into the ground as well. And it’s some sort of— I’ve referred to it as a force field; it’s actually some sort of time distortion. It doesn’t block force, it blocks time. So you can’t move through it for that reason. If you tried to punch your fist through it, your fist wouldn’t be stopped by a barrier, it would just… stop."
+239,41,Magnus," Now, hold on, are you sure? Because I’ve punched a lot of things."
+240,41,The Director, I’m pretty sure that it— that wouldn’t swing it.
+241,41,Magnus, [Skeptically] Okay. We’ll see.
+242,41,The Director," We can’t see through the barrier. Whatever’s in there, it could be large. It could be… I mean, it’s a mile and a half in diameter. It could be a fortress, it could be some sort of army encampment. It could be a whole city. We don’t know what’s waiting for you in there. All we know is that the Temporal Chalice is what is projecting that field, and it is almost certainly where you will find it."
+243,41,Magnus, So how—
+244,41,Taako, What’s the main thing the Temporal Chalice does?
+245,41,The Director," The Temporal Chalice simply has— for lack of a better term; its powers are broad and that’s what makes it such a frightening force— it has control over the flow of time. But it can also give the user a sort of broader dominion over time. It was able to essentially create a barrier composed of time, which is news to me. But it’s just the more reason why we need to get this out of the hands of whoever’s using it and we need to get it into our hands and then just destroy it."
+246,41,Magnus, So how exactly do you suggest we do that when it’s creating a barrier that we can’t move through or see through or get through?
+247,41,The Director," Avi has figured something out, so we’re going to send you down to the…"
+248,41,Griffin," What’s the name of this area? Dry… no, Dry Bones is the name of an enemy from Mario. That won’t do it."
+249,41,Travis, Gucci Gulch.
+250,41,Griffin," Gucci Gulch is pretty good. That’s something, though, right?"
+251,41,Travis, I think it’s the taint.
+252,41,Clint, We have to go down to the taint.
+253,41,Travis, We’re sending you to the devil’s taint.
+254,41,Clint, You got ravine. You got gulch.
+255,41,Griffin," Yeah, I’m looking. Um…"
+256,41,Justin, How about The Blasted Lands?
+257,41,Griffin, The Blasted Lands is from World of Warcraft.
+258,41,Justin," ‘Kay, how about The Not-Blasted Lands?"
+259,41,Travis, How about Flavor-Blasted Lands.
+260,41,Clint, The Grand Canyon. [Travis Mhm.] But you spell it with two D’s. The Grandd Canyon. The Taco Bell Grande Canyon.
+261,41,Justin," I was about to say The Arid Wastes, but that’s a map in Starcraft. Blizzard, can you get off my nuts for a second?"
+262,41,[Laughter],
+263,41,Travis, How about Tatooine?
+264,41,Griffin," No, I’ve got it."
+265,41,The Director," We’re going to send you down to The Woven Gulch to meet up with Avi and figure out a way of entry. Once you get in there, again, I don’t know what dangers await you, but once you’ve bested them, just… [Sighs] I’m sorry, I’m having kind of a hard day, and I don’t—"
+266,41,Taako," What’s going— hey, what’s going on with you?"
+267,41,The Director, It’s Boyland.
+268,41,Merle," [Exasperated] Oh, god."
+269,41,Taako," Oh, right, yeah."
+270,41,Magnus," Yeah, yeah, yeah."
+271,41,Merle," If I get control of this Chalice, I’m gonna go back in time and make everybody forget about forgetting Boyland."
+272,41,Director," No, see, this is explicitly what I’m talking about. That— oh, I thought you were going to say “save Boyland”."
+273,41,Merle," No. No, not gonna save Boyland."
+274,41,The Director," Listen, that’s what I’m talking about. You goof, ‘cause you’re a goofer."
+275,41,Merle, I am a goofer.
+276,41,The Director," But you can’t— this thing’s gonna come at you from all sides, and if you give in to it, you’ll lose control, and we’ll have to send in the regulators after you, and none of us want that."
+277,41,Merle, Let ‘em try.
+278,41,Taako, I kinda want that.
+279,41,Merle," We’ve beat them before, haven’t we?"
+280,41,The Director, Not at all.
+281,41,Magnus," So the goal is, get this Chalice and do not use it."
+282,41,The Director, Do not use it and get out.
+283,41,Merle, Is there a palace where they keep the Chalice?
+284,41,Magnus, Good question. What if we have to use it to stop it?
+285,41,The Director, That’s goofy talk.
+286,41,Magnus," Well, you’re not gonna be there, you don’t know."
+287,41,The Director," I’m sending you boys— to quote your imprisoned friend Pringles, “Once you pop, the time control don’t stop”."
+288,41,Taako," Okay, do we need to stop by and see Avi or are we just headed down planetside?"
+289,41,The Director," Ah, Avi’s already planetside."
+290,41,Merle, Is it hot down there? Is it really hot?
+291,41,The Director," It’s probably sticky? If you wanna wear shorts, this is—"
+292,41,Taako," Oh, wait a minute, we gotta get new looks. We gotta get summer looks!"
+293,41,Merle, [Clapping and cheering] Shorts! We need shorts.
+294,41,[“No Dogs on the Moon!” begins playing in the background],
+295,41,Travis," [Chanting] Shorts, shorts, shorts, shorts—"
+296,41,Justin," [Chanting] Fantasy shorts, fantasy shorts— [Travis joins in] Fantasy shorts, fantasy shorts—"
+297,41,The Director," Okay, this is— yes."
+298,41,Travis," Magnus definitely has cargo shorts, don’t try to tell me I do not. "
+299,41,The Director," I will set this up— I will set this up for you if you will get on— this will be sort of your signing bonus for this job, is I will secure for each of you some cool shorts."
+300,41,Magnus," Okay, but on one condition. I want a changing room for three, like, three different compartments. I want Killian and Carey and Noelle to be there, all kinda like shaking their head yes or no when we come out and display it. Does that sound good to you guys?"
+301,41,Merle, Say Yes to the Shorts! Say Yes to the Shorts.
+302,41,Justin," And— please don’t trip, I’m wearing a skirt. Don’t even bug on that, of course I’m wearing a skirt."
+303,41,Clint, A kilt!
+304,41,Griffin, Like a man-kilt?
+305,41,Justin, Not a kilt. Like a skirt.
+306,41,Clint, You don’t wanna go with the desert kilt?
+307,41,Travis," Merle would have a utilikilt, and that’s a fact."
+308,41,Justin," No, like a skirt, but like a magical one."
+309,41,Griffin," Oh, okay."
+310,41,Travis," Maybe jodhpurs, we’re going to the desert."
+311,41,Clint, Jodhpurs! Do they make jodhpur shorts?
+312,41,The Director, And away you goooooo!
+313,41,Clint, Whoa-oh-oh-oh-oh!
+314,41,Griffin," She’s, like, holding both of her hands extended and slowly walking towards you, pushing you away towards the door."
+315,41,The Director, Awa— off we go on another adventure.
+316,41,Travis," Griffin, can I just ask you a question real quick?"
+317,41,Griffin, Yeah.
+318,41,Travis," Completely out of curiosity, having nothing to do with what’s going on right now."
+319,41,Griffin, Please.
+320,41,Travis," What class is the Director? I mean, what kind of skill set does she have?"
+321,41,Griffin," I mean, she definitely is magical. She is a, you know, either a wizard or a sorcerer, or… something. She has magic."
+322,41,Travis," We have not seen her wield that power yet, right?"
+323,41,Griffin," So I mean, she has a couple times, she used— The only thing I can kinda think of is when you guys— god, this is a pull. When you guys first did the test of initiation, she like tapped her white oak staff on the ground and you guys went to sleep essentially and woke up in the testing chamber."
+324,41,Travis, So it’s safe to assume she’s pretty powerful?
+325,41,Griffin," Oh, yeah, yeah. I mean, she’s in charge here, she’s got some skills."
+326,41,Clint, Why don’t you ask me? I’m the one that just spent some quality time with her.
+327,41,Griffin, Getting to be best buds.
+328,41,Clint, We are kinda best buds now.
+329,41,Travis and Justin, [At the same time] Mud buds.
+330,41,Clint," When she’s covered with mud, she looks like Charlize Theron in those Huntsman movies."
+331,41,[Everyone talking over each other about the Huntsman movies],
+332,41,Griffin, Nobody’s actually seen those movies.
+333,41,Clint, They haven’t?
+334,41,Justin," No, give those fuckers to the Voidfish."
+335,41,Griffin," Where would shorts— I guess… not Fantasy Costco, I wanna say, like, maybe Leon—"
+336,41,Travis, Fantasy Old Navy? Ye Olde Navy?
+337,41,[Laughter],
+338,41,Justin," I guess it would be New Navy, right? [In Taako’s voice] Have you guys heard about the new store, it’s just called Navy. We think it’s gonna be around for a long time. "
+339,41,[Clint laughing],
+340,41,{29,04}
+341,41,{Clothing bit ends at 31,"58. CTRL+F to “Well, listeners”}"
+342,41,Griffin," You are in the clothing department of the Fantasy Costco and Garfield the Deals Warlock is helping you pick out shorts, because, like— it’s like that scene in The Matrix where a bunch of different shelves of guns come at you but it’s all just, like, shorts and utilikilts and skirts and, like, lightweight summer fashions."
+343,41,Taako, I want one like Jared Leto wore to the 2015 iHeartRadio Music Awards.
+344,41,Garfield, You’ve got it!
+345,41,Clint," You’re welcome for those awards, by the way."
+346,41,Justin," Thanks, Dad."
+347,41,Garfield," What color? I think a salmon would look good on you,  Taako."
+348,41,Taako," Well, his was black, but I think something light for the clime would be great, so… maybe kind of like a mauve? [mispronounced as “m-ow-ve”] A mauve? [mispronounced as moo-ahve]"
+349,41,Griffin," Yeah, he gets you the exact color that you’re picturing in your mind’s eye. How high or low-cut is this— what are we talking, like, at the knee?"
+350,41,Justin," I mean, flirty."
+351,41,Griffin, Okay.
+352,41,Travis, Fingertips?
+353,41,Griffin," Flirty length. And Dad and Travis, what kind of shorts do you want?"
+354,41,Travis, I would like some— ahem.
+355,41,Magnus," I would like some cargo shorts, but if they could be enchanted in some way that I don’t have to worry about sand getting up in there, you know what I mean?"
+356,41,Griffin," Oh, sure, sure, sure. Sure, that’s— Don’t worry about that."
+357,41,Magnus, And something that’ll keep the pockets from leaking.
+358,41,Griffin, I can’t believe how much time we’re spending on this.
+359,41,Travis, I’ve put a lot of thought into my magical cargo shorts.
+360,41,Griffin, Yes.
+361,41,Garfield," And Merle, for you?"
+362,41,Merle," Jodhpurs. I like the jodhpurs idea, and I want them right above the knee with garters."
+363,41,Travis," I love this because Merle’s, like, short."
+364,41,Garfield, Define that— define that word and use it in a sentence!
+365,41,Merle," Jodhpurs? Uh, give me those jodhpurs with the big flaps at the sides."
+366,41,Griffin," Okay, but those are in no way shorts, you understand? This is arguably the worst possible summer wear."
+367,41,Travis," No, but he will look like a 1950s director."
+368,41,Clint, Absolutely. Yes!
+369,41,Travis, With a second set of knees.
+370,41,Clint, Like Cecil B. DeMille.
+371,41,Griffin," Okay, he gets you some weird pants that are baggy at the butt and thigh area. These are the least flattering pants that I’ve literally ever seen."
+372,41,Travis," They’re not really baggy, I thought they had built-in angles."
+373,41,Griffin," No, not the jodhpurs I’m seeing."
+374,41,Clint," Think of, like, riding pants. Think equestrian pants. "
+375,41,Garfield," No, yeah, definitely. You want me to cut these off at the knee for you, just to give you sort of a—"
+376,41,Merle," Yeah, but I want, like, a belt around the bottom so I can affix them. So sand doesn’t blow up my hoo-hah."
+377,41,[Travis laughing quietly in the background],
+378,41,Griffin," He brings you some jodhpurs and he cuts them off at the knee to make you jort-purs, I guess? That’s a fun one."
+379,41,Clint, Jort-purs!
+380,41,Griffin," That’s a fun one. And then he takes out his wand and he goes,"
+381,41,Garfield, Don’t tell the Director about this!
+382,41,Griffin," And he waves it over your shorts and jort-purs and skirt so that they are protected completely from humidity and stickiness and grit. And says,"
+383,41,Garfield, That one’s on the freeski for my most loyal customers.
+384,41,Griffin, He winks.
+385,41,Taako," Thanks, Garfield. Can we leave now?"
+386,41,Garfield, I wish you would.
+387,41,{31,58}
+388,41,Justin," Well, listeners who are just joining us again, we’re assuming you fast-forwarded through that last segment— [Clint guffaws] welcome back to The Adventure Zone. We’re still here, still doing it, and we’re ready to get busy for you."
+389,41,Griffin," Important question, what color are the jorts and the jort-purs? "
+390,41,[“No Dogs on the Moon!” begins playing in the background],
+391,41,Travis, Camo. Mine are camo.
+392,41,Griffin, Jesus. Daddy?
+393,41,Clint, Plaid.
+394,41,Griffin, What color plaid? That’s nothing.
+395,41,Clint," Black, green, and red."
+396,41,Griffin," Okay, cool. God, I’m glad we settled all that."
+397,41,{32,36-3815 commercial break}
+398,41,Griffin," The three of you are in the hangar of the Bureau of Balance getting ready to launch to your destination. Avi’s not here, Avi is the hangar operator. So you’re not really sure who’s going to be blasting you out of this cannon until they reveal themselves… it’s a small boy who walks out from behind the cannon."
+399,41,Travis, Ango?
+400,41,Griffin, It’s Angus McDonald.
+401,41,Taako, Son of a bitch.
+402,41,[Clint laughs],
+403,41,Griffin," And he looks… he looks pretty nervous. He’s like,"
+404,41,Angus," [Shakily] Hello— uh, hello, sirs! Um, I’m honored—"
+405,41,Taako," Angus, how’s the magic going?"
+406,41,Angus," Oh, it’s going very good. Um, I— my favorite magic spell, if I knew how to use it today, would be to fire you guys off to your destination without killing you. But—"
+407,41,Magnus, Cool.
+408,41,Angus," I’m sorry, I’m just very nervous. It’s my first time manning the cannon, and, um, Avi showed me how to use it, but I’m just a little boy, and some of the machinery is very complicated. But I think I’ll be able to get you where you need to go all safe and sound and away from volcanoes and stuff."
+409,41,Magnus," Ango, if there was one person I trusted to do this well, you’re definitely on the short list of people that that might be."
+410,41,Merle, Short list! Hahaha!
+411,41,Travis," That wasn’t supposed to be a mean joke, Dad, but thank you."
+412,41,Griffin," He motions you up the stairs to the loading platform and into the glass ball. You guys didn’t have this launch protocol for your last adventure, yours was more floating-canoe-based, so it’s been a little bit since you’ve mounted up for a blast-off like this."
+413,41,Clint, You mean in the vomit comets?
+414,41,Griffin, Yeah. You hopping in?
+415,41,Justin," Hell, yes."
+416,41,Travis, Yes.
+417,41,Clint, Yeah!
+418,41,Griffin," Mmkay. Yeah, you hop in and shut the seal, the little circular door behind you, and the back of the cannon starts to lift you up into the cannon. The last thing you see, through the sliver of light between the cannon hatch and the cannon, is Angus’s face, and he looks like he’s about to break down into tears."
+419,41,Travis, I give him a thumbs-up.
+420,41,Griffin, Okay.
+421,41,Clint, I give him one finger.
+422,41,Griffin, ‘Kay.
+423,41,Travis," Well, we don’t have to be mean every time, Dad."
+424,41,Justin," Yeah, we’re homies now."
+425,41,Griffin," And, yeah, you’re sealed into the cannon, and you hear,"
+426,41,Angus," [Breathing heavily, speaking shakily] Three, two, one, mark?"
+427,41,Griffin," And you are launched out of the cannon, and, yeah, it’s been a while since you’ve done this."
+428,41,Travis, And he forgot to open the door.
+429,41,Griffin, And you die and that’s the end of The Adventure Zone.
+430,41,Justin," That’s been The Adventure Zone, guys. Wow, what a ride."
+431,41,Travis, I’m glad we ended on that shorts high note.
+432,41,Griffin," And you’re— no, you’re launched and you are sailing through the skies at several hundred miles an hour. You have a lot of actual horizontal velocity this time, so you’re getting a good look at the ground below you as you sort of sail above it all. And you watch yourselves go over the black circle of glass that used to be Phandalin. You go over Neverwinter, you fly over Goldcliff and the deserts surrounding it."
+433,41,Clint, [Laughing] So all of the sites of our greatest triumphs.
+434,41,Griffin," Yeah, uh, you fly over the deserts of Goldcliff—"
+435,41,Justin," Rather discreetly, while we’re doing the soaring, I cast Stone Skin on myself."
+436,41,Griffin, Really?
+437,41,Justin," Well, this motherfucker just said he could kill us in fiction that’s binding to reality, why would I not cast that on myself?"
+438,41,Griffin," Okay, and, uh, I guess—"
+439,41,Travis, I read the in-flight safety manual a couple times. Way too much. More than normal.
+440,41,Griffin," Okay, if you’re reading that, Dad, make a perception check, Dad."
+441,41,Clint, Of course. Certainly. Perception check. [Dice roll]
+442,41,Griffin, You have a bonus because you have those eyeglasses.
+443,41,Clint," Oh, yes, my glasses!"
+444,41,Griffin, And whatever your skills give you.
+445,41,Clint, Okay. 16.
+446,41,Griffin," Okay, yeah, so that’s enough. You see out of the corner of your eye Taako turn to— his skin turns to stone."
+447,41,Merle, You little shit!
+448,41,Taako," Well, it’s because this way, if anything happens to us, I can heal you. I wanted to— it’s for the team."
+449,41,Merle," Well, then why didn’t you cast it on me?"
+450,41,Taako," I only have so many slots, my man."
+451,41,Merle," [Inhales like he’s gonna yell, but doesn’t] Okay."
+452,41,Griffin," And you see yourself floating and starting to descend into the Woven Gulch, and it does look like just a big knot made out of these canyons. And these canyons look deep. A few of them that are sort of not attached to the larger weave have— it looks like there are some clouds in them, like they have their own little self-contained weather systems. Not, like, fog, like proper clouds in them. "
+453,41,"But the one you’re sinking into, the largest of all of these, is clear, and you’re falling down into it, and you’re getting very very close to the ground, and very very close to the ground now—",
+454,41,Travis," Oh, we pull the lever."
+455,41,Griffin," Okay, you pull the lever. This is a pretty rough stop, this is gonna be a rough landing. You feel— I forget if there’s— there’s not a parachute, it just kind of—"
+456,41,Justin, Brakes.
+457,41,Griffin, —the momentum of it starts to come to a stop. But you hit the ground pretty hard. It’s red clay—
+458,41,Travis," I pulled the lever, Griffin. I remembered that I was supposed to do it."
+459,41,Griffin," Yeah, but you pulled it— you did pull it pretty late."
+460,41,Travis," Yeah, but, like, you as the DM didn’t remind your stupid players that they had to pull a stupid lever."
+461,41,Griffin," Oh, I didn’t know this was a baby game for childreuhnnn."
+462,41,Clint, Ooh!
+463,41,Justin," Oh, dunk."
+464,41,Griffin," No, but you don’t take any damage or anything. And the ball is fine. But you do roll a couple times and you come to almost a perfect stop directly in front of Avi, who is just looking at you with this, like, grimace on his face, just preparing for death."
+465,41,Travis, During that whole time I curled my body to protect Steven the magic fish.
+466,41,Griffin, Okay. Been a while.
+467,41,Travis, In case anyone was worried— yeah. He’s fine. Still swimming around. Still being a fish in my pocket.
+468,41,Griffin, [High-pitched] How long do goldfish live? [Someone snorts]
+469,41,Travis," He’s magic, Griffin. Longer than, like, two months."
+470,41,Clint, [High-pitched] How long do goldfish live inside a pocket?
+471,41,Travis," He’s magic as shit, y’all."
+472,41,Griffin," Yeah. So you skid to a halt in front of Avi. You are now in front of this massive, massive— it is a sphere, but to you it just looks like a dome on the ground that is reaching high, high up into the sky. It looks weird— it looks weirdly, like silvery? But it looks like when you look into it you are seeing exactly what the other end of it would see, like, a natural— you know that camouflage, like that Metal Gear Solid shit where you have a camera on your back so when you look at the front you see what the camera on your back’s showing you? That’s kind of what it looks like. It looks like a distortion, so it kind of looks like you can see through it, but you’re actually just seeing past it, right?"
+473,41,Travis, Got it.
+474,41,Clint, Got it.
+475,41,Travis, You’ve explained it very well four different ways.
+476,41,Griffin," You see Avi. And you see a gigantic, way bigger than the one you just came out of, cannon, that Avi basically has pointed, not quite point-blank, but maybe about ten feet away from the dome pointed directly at it. And as the door opens, he says,"
+477,41,Avi," Wow, that was some pinpoint shootin’. That was good work, whoever did that up there did, uh— oh, it was Ango, right."
+478,41,Magnus, It was Ango!
+479,41,Avi," Yeah, I trained him. Yeah, boy, that was a hole in one!"
+480,41,Magnus, I pulled the lever.
+481,41,Griffin," He sees you, Taako, and he goes,"
+482,41,Avi," Taako, what happened to your whole skin situation?"
+483,41,Taako," You know, uh, spray tans went wrong. "
+484,41,[Clint wheezes],
+485,41,Avi," Oh man, if you have Stone Skin on, that should’ve thrown off the trajectory of the— oh, man, if you— if you hadn’t done that, you probably would’ve smashed right into the side of this thing."
+486,41,Merle, He’s a hero!
+487,41,Taako, I’m a hero!
+488,41,Griffin," He says,"
+489,41,Avi," Okay, boys, here’s the situation, here’s what I’ve figured out."
+490,41,Griffin," He pops out some little scanner that he’s got with him, a little tricorder-looking doo-dad, and points it at the barrier. You see sort of a sine wave appear on it, and the waves are sort of contracting and expanding, and he says,"
+491,41,Avi, Whatever energy this thing’s giving off—
+492,41,Griffin," This isn’t what Avi sounds like, it’s been a while since he’s talked. I think he had more of, like, a surfer bro voice, but I kind of lifted that for Carey. I’m sorry my voices are getting so out of whack, everybody. Doing my best. He says, uh,"
+493,41,Avi," Whatever energy this thing’s giving off, it fluctuates and it gets weaker and then it gets stronger. My hypothesis that I’ve tested out with, like, a couple rocks, and I did it with a skull, is that if you launch something with enough speed and momentum right when this thing’s at its weakest energy signature… guys, I’m like 94 percent sure. if I shoot you out of this big cannon, directly at this thing, right when the energy signature is at its weakest, you’re gonna pass right through. It’s gonna be totally great, totally great."
+494,41,Merle, What percent? Wh-what percent?
+495,41,Avi," 94. Like, 93 to 95."
+496,41,Magnus," That’s still an A, my bud, let’s do it!"
+497,41,Avi," That’s an A, yeah, sure."
+498,41,Griffin, What’s everybody’s passive perception like?
+499,41,Travis, My passive perception is 11.
+500,41,Justin," How would I know that, Griffin?"
+501,41,Griffin, I think it’s like eight plus whatever— or ten plus whatever your perception bonus is.
+502,41,Clint, Mine’s 15.
+503,41,Griffin," Merle, you notice out of your corner of your eye, coming from behind you in the direction you were shot down, you see something move and sort of disturb the clay earth about thirty feet behind you. It looks kind of like— you know that hilarious movie Caddyshack? And there’s that groundhog that causes all the folks just no end of trouble. Just so much trouble."
+504,41,Clint," Oh, that gopher."
+505,41,Griffin, Um… Is it a gopher?
+506,41,Clint, Yes.
+507,41,Griffin," Love that movie. Anyways, you notice something disturbing the earth and moving in your direction. And it’s coming pretty quick."
+508,41,Merle," Hey, guys, look!"
+509,41,Taako, What is it?
+510,41,Merle, [Laughing] It’s a gopher!
+511,41,Taako, Sweet.
+512,41,Magnus, Cool.
+513,41,Griffin," Okay, so, if you’re not gonna do anything about it, the shape moves towards you, and—"
+514,41,Merle," Fellas, we need to brace ourselves for impact. Something’s coming at us under the ground."
+515,41,Griffin," [Crosstalk] It branches into three of these little moving patches of clay earth, almost like it’s starting to encircle this group of people. And quickly emerging from the ground, you see three very large, very purple worms pop out of the ground, almost Tremors-style. They are— what is sticking out of the ground is about ten feet long, about a car tire in terms of thickness, with these three sharp yellow pincers at their mouth forming kind of a beak. They are screaming like they are in distress and they are upon you. Let’s roll initiative. "
+516,41,[Dice rolling],
+517,41,Justin, Course now there’s a 20.
+518,41,[Clint chuckles],
+519,41,Travis," Uh, I had a seven."
+520,41,Clint, I have a 15. Justin rolled a 20.
+521,41,Justin," Twenty, of course, there’s my 20."
+522,41,Travis, Does that mean he gets a special bonus attack? ‘Cause he rolled a crit?
+523,41,Griffin, Nope. 
+524,41,Travis, [Quietly] I think it does…
+525,41,Griffin," Okay, Taako is first in the order. You got these three worms, they’re all about— they’re sort of encircling you. They look pretty gnarly, and they sound like they’re in distress, and they are about 10 feet away from you."
+526,41,Justin," So are they literally surrounding us, or are they 10 feet apart like coming at us?"
+527,41,Griffin," They’re not literally surrounding you, but they are about 10 feet apart, 10 feet away, forming like a triangle."
+528,41,Justin," Okay, well, I am going to cast… Thunderwave. ‘Cause that seems like a good thing. Okay, so I can hit two of them on this. I’m gonna cast it as a level three spell."
+529,41,Griffin," Oh, wow, okay."
+530,41,Justin, I can do an additional 2d8 damage with it.
+531,41,Griffin," What do they have to do, some sort of saving throw?"
+532,41,Justin, They have to do a constitution saving throw.
+533,41,Griffin," Okay, I’ll do them one at a time. "
+534,41,Justin," Yeah, that’s fine."
+535,41,Griffin," [Dice rolling] First one fails. [Dice rolling] Uh, the second one got an 18, so that’s a success, I imagine."
+536,41,Justin, Yes.
+537,41,Griffin," Okay, so you hit one of them."
+538,41,Justin, So he takes two… six… 11… 13 damage.
+539,41,Griffin," Okay. This thing, like, squeals, and gives out kind of a pathetic cry as it— and you knock it back, right?"
+540,41,Justin, Unsecured objects that are completely within the area of effect. And since they’re still somewhat submerged—
+541,41,Griffin," I’m actually gonna say that you knock it out of the ground. Like, the force of this thing pulls the rest of its body out of the ground. There wasn’t a whole lot in there sort of tethering it, so you knock it out of its hole. This thing is fully exposed, and it’s just sort of wriggling around on the ground and kind of crying. "
+542,41,"Next in the order is the worms. The one you hit is going to— I’m gonna say it’s prone, so it’s gonna spend its turn righting itself, reaching— lifting the top part of its body and then smashing down into the ground and burrowing down. And then it’s going to use another move to kind of move over and burrow up and hide behind one of its unharmed fellow purple worms. ",
+543,41,"The other two are going— you see their mouths start to glow red, and the two of them are casting Scorching Ray. They’re both gonna aim at you, Taako, since you just hurt the boy. The other boy. [Justin", Okay.] That is a spell attack throw. The first one [dice rolling] is— what’s your AC?
+544,41,Justin," Uh, right now?"
+545,41,Griffin," Oh, you have Stone Skin."
+546,41,Justin, That doesn’t affect my AC. My AC is 13.
+547,41,Griffin, Okay.
+548,41,Travis," Wait, Stone Skin doesn’t affect your AC?"
+549,41,Justin," No, sir. It gives me resistances to certain types of damage. Interesting."
+550,41,Griffin, Is fire one of those types of damage? [Dice rolling]
+551,41,Justin," Uh… non-magical bludgeoning, piercing, slashing."
+552,41,Griffin," Okay, so no. The second one’s gonna be a hit."
+553,41,Justin, Okay.
+554,41,Travis," Hold on, this is an attack, right?"
+555,41,Griffin," Yeah, it is a ranged spell attack, it’s not a melee attack."
+556,41,Travis," As long as there’s an attack roll against him, instead of a save, I can do protection."
+557,41,Griffin," Oh, okay. Yeah. Okay. [Dice rolling] That’s a 19 versus AC, it’s still gonna hit."
+558,41,Travis," Okay. Sorry, I tried."
+559,41,Justin," Hey, well. C’est la vie!"
+560,41,Clint, Good job.
+561,41,Griffin, [Dice rolling] That is 21 points of fire damage—
+562,41,Justin, Hachi machi!
+563,41,Griffin," —as you get lit up by this one. And another one tries to blast you, but it curves around and it hits the barrier and just kind of diffuses. Doesn’t do anything. [Justin Okay.] Uh, next in the order is Dad."
+564,41,Clint," I’m gonna cast my new spell, Flame Strike, because we’ve got two of them right next to each other, right? Because one of them’s hiding behind the other one?"
+565,41,Griffin, Yes yes.
+566,41,Clint," So I cast this, it’s a vertical column of divine fire that roars down from the heavens—"
+567,41,Griffin, Jesus.
+568,41,Clint," —in a location you specify. Each creature in a 5-foot radius, 40-foot high cylinder centered on a point within range, has to make a dexterity saving throw."
+569,41,Griffin," Okay. [Dice rolling] That is an 11, not gonna do it. What is your…"
+570,41,Clint, Spell DC?
+571,41,Griffin, Yes.
+572,41,Clint, Sixteen.
+573,41,Griffin," Holy shit. Okay, they super don’t save."
+574,41,Clint," Okay, well. Each one of them takes 4d6 fire damage—"
+575,41,Griffin," Damn, son."
+576,41,Travis, Wow.
+577,41,Clint, —wait a minute. And 4d6 radiant damage.
+578,41,Griffin," Good lord, did you just burn your, like, nuke?"
+579,41,Travis, What level spell is that?
+580,41,Clint," Level five, nosy."
+581,41,Travis, Nice.
+582,41,Clint, [Dice rolling] Six. Eight. Four. I’m up to 18.
+583,41,Justin, Eighteen.
+584,41,Travis, Wait.
+585,41,Clint," One. That’s 19, right?"
+586,41,Justin," That’s the fire, right?"
+587,41,Travis, How did you get an eight on a d6?
+588,41,Clint, Oh. [Crosstalk]
+589,41,Griffin," That’s actually a super good question, Travis, and I think it’s something worth looking into. I think maybe— let’s take that one back to the judges."
+590,41,Justin, Let me do some investigation here on my end.
+591,41,Griffin," We’re doing a camera— we’re doing a judges’ review right now, and I think there may have been something a little bit fishy with those rolls."
+592,41,Clint," I’m trying again, I’m trying again."
+593,41,Justin," You see a seven on there? If not, you’re good."
+594,41,Clint," [Dice rolling] One. Five, so that’s six. Two, so that’s eight. Two, so that’s ten. So ten fire damage. Four… five, so that’s nine… another five, that’s 14… One. 15. So all in all, 25 damage."
+595,41,Griffin, Good lord. Okay.
+596,41,Clint, On each.
+597,41,Griffin," Uh, the one that was fresh takes that damage and looks— it squeals like a pig. Like it is very, very upset by that attack. And the one that was already damaged is, like, lying on the ground— not dead, but like, it’s just kind of twitching and the one that is still undamaged looks at it and it does another sort of soft wail. And next up is Travis."
+598,41,Travis, It’s actually kind of making me sad. So we’ve got one undamaged—
+599,41,Justin, That’s when we notice that they were rushing at us with brochures for how to best enjoy the Woven Gulch.
+600,41,[Clint laughs],
+601,41,Travis, “Welcome to Woven Gulch.”
+602,41,Justin, “Welcome to Woven Gulch. Here’s some coupons for the TCBY.”
+603,41,[More laughing from Clint],
+604,41,Travis, “Our band performs every Friday.”
+605,41,Justin, “We’d love if you guys could come out. Free beer for the ladies.”
+606,41,Clint, “Ice cream social on Sunday!”
+607,41,[Laughter and a snort],
+608,41,Travis," “Also, we’re giant worms. I know that’s off-putting, but if you just— oh, oh, oh, I see.”"
+609,41,Justin," “Oh, oh, oh, okay.”"
+610,41,Clint, “Thank you for not judging by appearance and not killing us.”
+611,41,Justin," “Oh, no.”"
+612,41,Travis, See and drink ‘ems.
+613,41,Griffin," Travis, what’re you doing?"
+614,41,Travis," So we have one completely untouched, one that’s in bad shape, and one that’s in super bad shape, right?"
+615,41,Griffin," Yeah. Yeah, yeah."
+616,41,Travis," So I’m gonna go after the one that’s undamaged, I guess. [Griffin ‘Kay.] So, I’m gonna run up to it and switch to two-handed axe."
+617,41,Griffin," ‘Kay. Yeah, you’ve got some options now, huh?"
+618,41,Travis, Yeah. And I’m gonna attack it.
+619,41,Griffin, ‘Kay.
+620,41,Travis," [Dice rolling] That’s a 12 plus eight— uh, plus nine, that’s a 21."
+621,41,Griffin, Okay. That’s a hit.
+622,41,Travis, And that’s…
+623,41,Griffin," Do you wanna— I assume you’re gonna attack it— let’s start doing this, ‘cause your turns, now that you’ve got all these different shits you can do, your turns are gonna start going long. I think if you’re gonna take multiple attacks on a thing, if you’re planning on taking bonus actions, why don’t you just roll a bunch of d20 and let’s just like, you know what I mean?"
+624,41,Travis, Okay. Yeah.
+625,41,Griffin," If you need to break it up for, like, strategic purposes, I totally am down with that, but if you think, “My move for this action is gonna be, I’m gonna hit this worm three times,” just then I would prefer you just do it."
+626,41,Travis," Okay. So I will remember that that one is going to be a goading attack, and then I’ll attack again. [Dice rolling] Eight plus nine, 17."
+627,41,Griffin, That is insufficient.
+628,41,Travis, Poopy.
+629,41,Griffin, But your goading attack hits.
+630,41,Travis," That is a nine plus five, so that’s 14 damage."
+631,41,Griffin, ‘Kay.
+632,41,Travis," And then plus six, so you need to beat a 20 saving throw to avoid the goading attack."
+633,41,Griffin, Of wisdom?
+634,41,Travis, Yeah.
+635,41,Griffin," Not this thing’s strong suit. [Dice rolling] That is 16, so no."
+636,41,Travis," Okay, yeah, so any attack not against me will have disadvantage. Now I’m gonna use Cunning Action to dash away!"
+637,41,Griffin, Okay.
+638,41,Clint," Dash away, dash away!"
+639,41,Griffin," We need to figure this out, because I’m pretty sure both Cunning Action— we need to talk about this after the show. Cunning Action and Bonus Attack both use a thing called the bonus action. In combat you have move action, action, bonus action, reaction, and I think Bonus Attack uses that bonus action, so you can’t do both that and Cunning Action in the same turn. But we will figure that out."
+640,41,Travis," But that, to me, would be an action surge. Because I just get two attacks. I don’t think that’s a bonus action."
+641,41,Griffin, Okay. Can you only action surge once per battle?
+642,41,Travis, Yes.
+643,41,Griffin," Okay, cool. We’ll say that’s what happened, cool. Alright you move away from this thing. Uh, Justin, back up to you, Taako."
+644,41,Travis," And Griffin, just so you know, because I think someone might point out— I think if I dash away, I get an attack of opportunity against me. If you disengage and move, you don’t get an attack of opportunity."
+645,41,Griffin," Oh, so I do get an attack of opportunity."
+646,41,Travis, Yes.
+647,41,Griffin," When you hit it, this worm starts to whine and squeal also, and it does not do its attack of opportunity against you. It just kind of rears back and almost cowers. Taako, it’s your turn."
+648,41,Travis," Well, we need to stop attacking these guys."
+649,41,Justin," Okay, but, like, they attacked me."
+650,41,Travis," Yeah, but like, what if we just— we’re beating the shit out of them right now. What if we just didn’t attack them this round and saw what they did?"
+651,41,Clint, Who are you?
+652,41,Justin, You know what? I’m—
+653,41,Taako, I’m into it!
+654,41,Merle, [Sighs]
+655,41,Taako, I’m gonna chill on this.
+656,41,Griffin, Okay.
+657,41,Clint, I raised you better than that!
+658,41,Travis," Just so it’s in fiction, this is like— I braced for an attack of opportunity and nothing came, so it’s kind of like, “Uh?”"
+659,41,Griffin," Okay, so Taako, you’re going to delay your turn, just see what happens?"
+660,41,Taako," Sure, yeah."
+661,41,Griffin," Okay, the worms are up next. The two sort-of injured ones, the ones that got hit by the flame pillar and the one that Magnus just attacked, they start to retreat, and I guess you could take an attack of opportunity against them. No, actually, you guys can use ranged attacks so you aren’t up against them. The two slightly-damaged ones sort of snake their way over to their injured third member and sort of coil around it and then all three burrow into the ground and retreat. And you hear them— these three little piggies just cry the whole way home. You hear just, like, crying. Doing a sad little purple worm cry. As they run away."
+662,41,Clint, So I’m the bad guy. I’m the bad guy here.
+663,41,Justin," Well, I mean, I’m a bad guy, I cast a spell on them before."
+664,41,Travis, I chopped them with my axe.
+665,41,Clint," Well, all right."
+666,41,Travis," We all three attacked, we just didn’t kill them. Which, can I just say, ooh, strong character growth from all three of us. [Sounds of agreement] We let something live!"
+667,41,Griffin," Avi pokes his head from behind the cannon where he was hiding, and he’s like,"
+668,41,Avi," [Timidly] Great… great job, guys. Real proud of you. Lots of cool moves."
+669,41,Merle," But we won, right? We won."
+670,41,Griffin," Yeah, you won."
+671,41,Clint, Yeah!
+672,41,Griffin," I mean, there’s a bit of moral ambiguity in there. He’s like,"
+673,41,Avi," Okay, we should I guess get going before more of those things show up. You guys ready to blast off?"
+674,41,Magnus," You’ve been here for a while, Avi. Have you seen something like that before?"
+675,41,Avi," I’ve heard some, like, some stuff under the ground? But like, whatever’s down there, I guess those purple worm guys? They never breached before."
+676,41,Merle, Let me give you some advice..
+677,41,Avi, Okay.
+678,41,Merle," Little bit of advice. If they come back, and they pop up out of the ground, just look at them and say, “I am the Kwisatz Haderach.” They’ll leave you alone. They’ll leave you alone."
+679,41,Griffin," So these weren’t Dune-sized sand worms. He says,"
+680,41,Clint, It still works!
+681,41,Avi," I’ve actually heard of purple worms before. They’re supposed to be, like, huge. They’re supposed to be, like, the size of a bunch of trains all bundled up together. Like, hundreds of feet long and, like, dozens of feet wide, like, big ol’—"
+682,41,Magnus, [Voice getting higher pitched as he speaks] Were those baby purple worms?
+683,41,Avi," Maybe, I dunno."
+684,41,Magnus," Oh, shit."
+685,41,Avi," Let’s get this train on the— let’s get this show on the road, huh?"
+686,41,Merle," Before we do that, can I cast Healing Word on Taako?"
+687,41,Griffin, Yeah.
+688,41,Travis, Do you need to take a second to figure out what to do when you actually heal someone?
+689,41,Clint," Look, wise guy…"
+690,41,Griffin, You could also just— Taako can also just use his hit dice to take a short rest and recover that way.
+691,41,Taako," Okay, that’s fine, yeah. I’ve never done that before."
+692,41,Griffin," Um, so just roll—"
+693,41,Merle, Trying to be part of the team!
+694,41,Taako," No, save your slots, my dude."
+695,41,Griffin," So you took how much damage, 21?"
+696,41,Justin, Twenty-one.
+697,41,Griffin," So, yeah, you just roll your hit dice, which I think is 1d6 and you can spend as many as you want to get back up to full health if you want."
+698,41,Clint, That’s the one with six and it stops.
+699,41,Justin, How many— let me see how many hit dice I have on my sheet.
+700,41,Griffin," It should be your player level, I think."
+701,41,Justin," Thirteen… 15… 21. Alright, I used five."
+702,41,Clint, Nicely done.
+703,41,Griffin," All right, so you’re back up to full health. Anyone else wanna do anything before you get in the cannon?"
+704,41,Travis, Nope! Let’s go.
+705,41,Justin, I’m ready.
+706,41,Griffin," Okay, so you get into the cannon. This ball is a bit bigger than the one you came down in, but its most defining feature is it’s almost entirely metal, as opposed to—"
+707,41,Clint, So one ball is bigger than the other one.
+708,41,Griffin," Gross. And, instead of being made out of glass, like the other ones that you usually ride in in the Bureau, there is a small, small circular porthole window that is the only source of light in this room, and as you sort of load into this new cannon ball, you notice something weird. Your momentum while you’re inside of it is off. It feels like you’re moving through jelly, almost? And he says,"
+709,41,Avi," There’s a charm in there that, like, is gonna help reduce the momentum, ‘cause you’re gonna go from zero to—"
+710,41,Griffin," And he refers to a little notepad, and he goes,"
+711,41,Avi," To, um, about 800 miles an hour? Very very quickly. Oh, you guys are gonna break the sound barrier, cool. Okay, anyway—"
+712,41,Magnus," Oh, awesome!"
+713,41,Avi," Yeah, the charm in there’s gonna make this trip survivable, but it’s still gonna be pretty bad, so just hold onto your butts."
+714,41,Merle," Our own, not each others’."
+715,41,Avi, Whatever it takes.
+716,41,Taako, Is there a name for this cannon? ‘Cause I got a sweet name for it.
+717,41,Avi, Yeah.
+718,41,Taako, You should call it the Yeager [pronounced like Jäger].
+719,41,Avi," Yeah, this is the Yeager, and—"
+720,41,Justin," Named after West Virginia’s own Chuck Yeager, the first person to break the sound barrier."
+721,41,Clint, That’s also a Jägerbomb.
+722,41,Griffin," Um, he—"
+723,41,Justin," The Yeager Bomb, that’s a great name!"
+724,41,Griffin," Yeah. He’s like,"
+725,41,Avi," All right, everybody load into the Yeager Bomb."
+726,41,Griffin, He takes out a Sharpie—
+727,41,Travis," Chuck Yeager, a really big fan of the show. Thanks for Tweeting about it, Chuck, we really appreciate it."
+728,41,Justin," Thanks for the donations, Chuck. Thanks for all of the item submissions, like, all of them."
+729,41,Griffin," Yeah. Uh, Avi takes out a Sharpie and writes that on the side of the cannon. He’s like,"
+730,41,Avi," Cool, cool, cool."
+731,41,Griffin," And then he takes out his little scanner and points it at the dome, almost like he’s pointing a gun at it with the cannon off to his side. And you hear him count down, he’s like,"
+732,41,Avi," Okay, I think I’ve got the timing. Now… now… now… now… I’m not gonna be able— now— to give you a countdown— now— on this one— now— so I’m just gonna— now— I’m just gonna launch it— now— you guys ready?— Now… Now… You guys ready?— Now."
+733,41,Taako, Yes.
+734,41,Avi, Okay. Mark!
+735,41,Griffin," And things just— you go very, very— oh boys, you go very fast. You go very, very fast. And if you were able to see outside while you were sort of spanning the distance from the end of the barrel of this cannon and into the side of the dome, you don’t see it. And all you hear is this, it sounds like a large wave rolling in. It’s really, really loud and your vision just goes white. In this white space— you’re no longer sitting in the ball, the cannonball’s just gone. "
+736,41,[Ominous background music begins] ,
+737,41,"You’re just in this white space and standing in this white space in front of you, where there was this dome and Avi and the gulch, standing in this white space is a very old woman. And she is holding a large, ornate silver cup. And she— ",
+738,41,Travis, We did it!
+739,41,Griffin," And she makes eye contact with each of you— and says “Here you go!” [Clint laughs] No, she makes eye contact with you and gasps. And she says,"
+740,41,Old Woman, It’s you.
+741,41,Griffin," And then she says,"
+742,41,Old Woman, Find me.
+743,41,[Ominous background music ends; theme song plays; Maximum Fun end card and ad for The Beef and Dairy Network Podcast; episode ends],
+744,41,[Next episode],

@@ -1,0 +1,914 @@
+,episode,speaker,lines
+0,36,The Adventure Zone,
+1,36,Dungeon Master & NPCs, Griffin McElroy
+2,36,Magnus Burnsides, Travis McElroy
+3,36,Merle Highchurch, Clint McElroy
+4,36,Taako Taaco, Justin McElroy
+5,36,Episode 36 - The Crystal Kingdom - Chapter Eight,
+6,36,(part of TAZscripts on Tumblr),
+7,36,Griffin," Previously, on the Adventure Zone..."
+8,36,Griffin," This robot -- there’s a window in the center of its central frame and you can see what appears to be a pretty large, glass, cylindrical fuse which illuminates whenever this thing talks."
+9,36,        Noelle, My name is Noelle!
+10,36,Griffin, The shards form almost a perfect dwarf shape as if they were all targeting Merle when they flew in the direction.
+11,36,Clint, Man… Well that’s just ridiculous why --
+12,36,Travis," These gemstones, they done hate Merle. "
+13,36,Griffin," Lucas says,"
+14,36,        Lucas," Gang, listen, we don’t have time for this. "
+15,36,Griffin," These purple volts of electricity surround you, emanating from that panel and paralyzing you. And as the doors shut behind him, he says,"
+16,36,Lucas," I am so, so sorry."
+17,36,Griffin," And those loose pieces of crystal shards start to self form. Merle, you see your arm, your poor, poor crystallized arm, sort of float into this mass and come together to form another crystal golem. "
+18,36,Announcer, Are you ready for the greatest adventure of all? By which I mean donating to MaxFunDrive? Make it rain on... The Adventure Zone!
+19,36,[THEME MUSIC," ""Déjà Vu"" by Mort Garson (full song on YouTube)]"
+20,36,{1,33}
+21,36,Griffin," Folks, you’ve been coming to our inn for a long time now, you’ve been gathering around the old fireplace, as us four bards spin you a yarn of treasure and excitement and adventure and danger and peril and… sexuality. And you just left the inn without -- You storied and dashed and the buck stops here, well, here. This is where the buck stops. It’s MaxFunDrive Time."
+22,36,Travis," Wait, the doubloon stops here. Is it a buck like a deer or is it a buck like a dollar? "
+23,36,Clint, Dollar.
+24,36,Travis," Are you sure? [Griffin Yeah.] Oh yeah, you were there when he said it. [Griffin laughs] Cuz you’re old, see?"
+25,36,Griffin," Justin, what is the MaxFunDrive? Tell me all about it, please."
+26,36,Justin," Maximum Fun is a podcast network full of great shows and great people. A lot of podcasts are utter garbage, but not ours. [Clint laughs] Mostly. And you can support us making more of them and continuing to make them and making the ones we make better by donating to the network. Anything you can donate helps. We have levels from five bucks a month all the way up to 200 bucks a month [crosstalk] although they would probably let you donate more if you wanted to--"
+27,36,Griffin," [crosstalk] Well, infinity, the top limit is infinity. If you wanna jump on that --"
+28,36,Justin," The top limit is you buy that shit out from underneath Jesse Thorn and you rename it the Maximum Dave Network and you just, like, do it. You just do the damn thing. And you cancel all the shows."
+29,36,Griffin," All the Dave you can handle. We’re gonna be talking all about that throughout this episode. Let’s -- I think we should get -- start doing Adventure, though. First, Justin, I just wanna ask you are you looonely? Cuz I got your Dad."
+30,36,Justin, Are you kidding me? This is the very first time that I have recorded the Adventure Zone without Dad in eyesight so it’s like --
+31,36,Griffin," Yeah, I stole your dad."
+32,36,Justin," So it’s like only the fourth or fifth time I’ve been able to record this show in the nude, in the buff."
+33,36,Travis, Is it also nice to do it without fear of Dad spilling drinks all over your setup? 
+34,36,Griffin," This motherfucker, he’s got a fucking full glass of Cheerwine right next to my brand new MIDI keyboard. [Clint laughs] That shit is, that shit is precarious. "
+35,36,Justin," He actually hired a, uh, itinerant man, young man, to sit in my chair across from me with a 64 ounce Coke Zero that he bought at the speedway."
+36,36,Griffin, Nice. 
+37,36,Travis," That’s what I like about dad, he’s a job creator."
+38,36,Griffin, Yeah.
+39,36,Justin," Dad’s a job creator. He’s being paid a very fair wage, he’s just kind of a journeyman who goes from podcast to podcast, uh -"
+40,36,Griffin, Ruining MIDI keyboards.
+41,36,Justin, Ruining keyboards and just dumping out shit on things.
+42,36,Griffin," We gotta be done, by the way, in the next hour and forty minutes because this is not a joke Dad and I are going to get a couple’s nose wax over at Finley’s barber shop at 2 PM local time."
+43,36,Clint, [Chuckling] Yeah.
+44,36,Justin, Ugh. Thanks for returning my dad to me in a much better state.
+45,36,Griffin," Uh, Daddy, I’ve got all my notes on my computer, so don’t look over here and cheat."
+46,36,Clint," Oh, I won’t."
+47,36,{4,32}
+48,36,Griffin," So when last we left you guys off you had been paralyzed by Lucas’s uh trap, set in your Null Suits. Merle, you are just legs paralyzed, the rest of your body’s good to go. Magnus, you have control of like your head, you can talk and do stuff, and you have control of your hands, but you can’t really  move - move your arms or legs. You’re supine. Taako, you are just totally down for the count. And it looks like Carey and Killian are as well. And the crystal golem, seeing you in this sad state has said"
+49,36,Crystal Golem, Well this is gonna be a lot easier than I thought.
+50,36,Griffin," Man, it’s gonna be weird doing these accents with you right in my grill. "
+51,36,Clint," Wait a minute, those voices have all been you?! Oh wow, I’m really looking past the kimono."
+52,36,Travis, Ew.
+53,36,Griffin, That’s not what we - you don’t look past the - you appreciate the kimono. You don’t ignore it.
+54,36,Clint," Well. Listen, it’s better than Justin sitting there in the nude. You look good in that."
+55,36,Griffin," So yes, that was where we left you last time. You’re lying [singing Torn by Natalie Imbruglia] naked on the floor. You’re not naked. You’re in null suits. And the crystal golem is, he hasn’t, like, just like outright attacked you since finding you in this vulnerable position. He, uh, he actually walks over to Carey and Killian and kind of eyes them over? And as he looks them over, he waves one of his long, crystalline spear-like arms and, uh, what looks like a book, a large tome made of light, appears in front of him."
+56,36,Travis," [As George McFly] Hey you - you leave them alone, you big stone bully."
+57,36,Griffin," He pays that- you no mind, to your shitty George McFly impression."
+58,36,Travis," Thank you. Thank you for catching that. You know, a lesser DM wouldn’t have gotten the reference."
+59,36,Griffin, And he - he is flipping through this tome.
+60,36,Travis, No Biff! You leave her alone! [chuckles]
+61,36,Griffin," And, uh - "
+62,36,Justin," Just keep workshopping it, we’ve got all the time in the world."
+63,36,Griffin," Yeah, we got. Um. Yeah. This is - this is a safe space, for you to - I mean god, like, god knows that I’ve spent the past two years just sort of mastering my shit. I don’t wanna bust out my George McFly cause now I’d just embarrass you, but - "
+64,36,Clint, You want me to bust out my Doc Brown?
+65,36,Griffin," Uh, actually yes I would like that very much."
+66,36,Justin," Yes, yes yes yes."
+67,36,Clint, [As Bernie Sanders] OK Marty!
+68,36,Griffin," Well do - yeah, make sure you-"
+69,36,Travis," No, that’s your Bernie Sanders. Do your Doc Brown."
+70,36,[Scream Laughing],
+71,36,Griffin, Gettin’ political.
+72,36,Justin," Can you do uh, can you do your Reverend Jim now, dad?"
+73,36,Clint," Uh, what does a yellow light mean?"
+74,36,Griffin, That one actually was a badass Bernie Sanders. If you had just like done him one to the left-
+75,36,Clint, Oh wow.
+76,36,Justin," Now can you do your Drew Blanc from Toonstruck, the FMV game?"
+77,36,Clint," Yep. ‘Boy, I sure like being in Toonstruck.’"
+78,36,Justin, [Laughing]
+79,36,Travis, Really good.
+80,36,Griffin, Give me the lead angel in Angels in the Outfield please.
+81,36,Clint," Uhhhh, little bit more to the left, ‘cause he pulls to right field."
+82,36,[yelled laughter],
+83,36,Travis, Is-is he getting younger as you go forward?
+84,36,Griffin," He is, yeah. Yeah, everyone knows that Christopher Lloyd has Benjamin Buttons, but it’s like, reaaaaaal slow. Oh boy. Going at a snail’s pace."
+85,36,Justin," I was gonna - I, just super quick aside, I was gonna Google more Christopher uh, uh, Walk- whoever that thug is. Lloyd."
+86,36,Clint, Christopher Lloyd.
+87,36,Griffin, Lloyd? I just said his name.
+88,36,Justin," Yeah. But when I typed “Chris,” my Google autocompleted to Chris Gaines, so that’s the kind of life I’m living. [Clint laughing]"
+89,36,Griffin," Alright, so, so- this crystal golem is looking through some sort of book made out of light, and it’s flipping through it and sort of looking at Carey and Killian as it goes, and then it slams the book shut, and it disappears just as quickly as it appeared, and he says, uh"
+90,36,Crystal Golem," Well it looks like you two aren’t on the naughty list, so it uh, looks like it’s just three of you, on a one way trip back to the astral plane."
+91,36,Magnus, What?
+92,36,Merle, What?
+93,36,Griffin, And it - this golem actually looks at Noelle the robot and goes
+94,36,Crystal Golem," Oh, hold on!"
+95,36,Griffin, And the book reappears and he flips through it and he goes
+96,36,Crystal Golem," Oh, make that, uh, make that the four of you. "
+97,36,Merle, Ohhhh?
+98,36,Magnus," Uh, Mr. - Mr. Cockney Golem? I feel like maybe you have us mistaken for somebody else. [Travis Wait, let me do my voice] Maybe you have us mistaken for s- we’re from this plane. Um..."
+99,36,Crystal Golem," Oh, oh, is that right? Have I got- have I got it twisted?"
+100,36,Magnus, Uh….yeah?
+101,36,Crystal Golem," This, I mean, this is the first time that one of my bounties has told me something like this so, uh, I-I-I trust you, I believe you, you guys are free to go. Don’t even worry about it."
+102,36,Magnus, I feel you’re being insincere.
+103,36,Crystal Golem," No! No, no, you- oh, if you say so I tr- I, there’s no way, uh, there’s no way you’d be fibbin’ about this."
+104,36,Magnus," Wait, you said bount- like, what’s the bounty? Who are you looking for?"
+105,36,Crystal Golem," Uh [laughs] I- in this particular laboratory, I am looking for a number of people. There’s a lot of action to be had here tonight."
+106,36,Magnus, Okay?
+107,36,Justin," Uh, hey Griffin? Am I probably unable to talk, or?"
+108,36,Griffin," Uh, you can talk, but it’s like strained and hilarious."
+109,36,Justin," Okay. Great. Oh, well, no presh though. I’ll just make it sound hilarious."
+110,36,Griffin," You can talk, just, you can talk- you can talk just don’t move your- your mouth or your face muscles or your tongue."
+111,36,Justin," Okay, sounds good. I don’t have anything to say, I’m just- if something came to me."
+112,36,Clint," So, now I’ve got- I know. [Falsetto] “I say we let them go.”"
+113,36,Griffin," Um, he says uh"
+114,36,Crystal Golem," Alright, we don’t have to drag this out, let’s not make this any worse than it needs to be. Let- let's roll initiative."
+115,36,Griffin, He says. [sound of dices rolling]
+116,36,Travis," Oh. Uh, I rolled a 10, Griffin."
+117,36,Griffin, What’s your initiative?
+118,36,Travis," No, that, my, I rolled an 8 with a plus 2 initiative."
+119,36,Griffin, Okay. Daddy?
+120,36,Clint, Hold on.
+121,36,Griffin, You have plus two and you can roll twice.
+122,36,Clint, Seventeen.
+123,36,Justin," Fourteen, but I can’t do shit."
+124,36,Griffin," First in the order is actually the golem, uh, who - thank you - uh, who, uh, reaches over with his left arm - he’s got these two long, crystalline, spear arms. He’s actually gonna reach over with his right arm, and he hits it against his left arm to break a little piece of it off. And then suddenly that piece is floating in the air sort of right next to him. So he has this little shard of himself floating next to himself. Um."
+125,36,Travis, He sharded!
+126,36,Clint, [Laughs] I’m gonna get sharded. [sniffles and keeps laughing]
+127,36,Travis, Gross.
+128,36,Griffin," Sometimes I would think that dad, like, fake-laughed at jokes like this, but now that we’re like face to face, I can really listen in to it."
+129,36,Travis," Listen, I know my audience, Griffin, I know what I’m doing. [Clint laughs again]"
+130,36,Griffin, I can’t believe you record like this- this is so intimate. I can’t believe you guys record like this every - every fortnight.
+131,36,Travis, With Dad sitting in your lap?
+132,36,Griffin, [Singing] Two mics. One heart.
+133,36,[Clint laughing],
+134,36,Griffin," Alright, uh. So he’s going to- after breaking a piece of himself off, he looks down and says"
+135,36,Crystal Golem," Oh, which one of you’s Merle? Oh, yeah, you, short one."
+136,36,Griffin," And he’s going to attack you with his spear arm. And he rolls a 5, uh, plus 7 is a 12. He- he misses."
+137,36,Crystal Golem," Oh man, that was - that’s embarrassing. You’re laying. You’re laying- you’re laying perfectly still. I should- I’m usually better than this. I apologize. I’ve got performance anxiety. You know how it is."
+138,36,Merle, [in Christopher Lloyd voice] Don’t worry about it. I’m sure you did the best you could.
+139,36,Griffin," Uhh, it is your turn, Merle. Um, you have- basically you have control of your top half of your body. Because your hand was not paralyzed you have- you didn’t drop any of your stuff, um, so you still have your, access to your warhammer, battlewrench, Lil’ Choppy and the Extreme Teen Bible."
+140,36,Clint," Does he, uh. Is he the one that has my arm attached to him?"
+141,36,Griffin," Uh, it’s like inside of him somewhere. It’s not- he’s not using your arm as his arm as because it would be like little, like a baby’s arm. Um, but yeah, it’s definitely in there somewhere. "
+142,36,Clint, Wonder if there’d be any chance I could still control it from where I am? Probably not. 
+143,36,Travis, Based on what?
+144,36,Griffin," No, I don’t - I really wanna make that work for you narratively speaking, but it is now just a big-- it’s a piece of crystal in the shape of your arm."
+145,36,Clint, Cause if we could make him give the finger with my arm… I dunno.
+146,36,Griffin, I mean we could retcon it and say you were giving the finger as your arm was being crystallized so it’s permanently… blastin- flip- giving you a cold one between the shoulder blades.
+147,36,Travis," Griffin we’re already halfway through the illustrations on that episode for our cartoon series. I dunno if it's- [Griffin Yeah, good point.] I think it’s too late to change it."
+148,36,Clint, I think I might cast dispel magic?
+149,36,Travis, Yes please.
+150,36,Griffin, Is that something you can cast?
+151,36,Clint," Yeah, I have dispel magic. Now is what is holding us in place magic?"
+152,36,Griffin," Yes! Yeah, it was a- it was a- it stemmed from magic, it was a magical, electrical trap set in the null suits."
+153,36,Clint," Well then, I might try to cast dispel magic on Taako."
+154,36,Griffin," Okay, yeah."
+155,36,Clint, To see if I can free him up.
+156,36,Griffin, Cause you can only target one- one magical effect in range. Or one magical creature. Or effect.
+157,36,Clint," Okay, um."
+158,36,Griffin, Roll it. And then we’ll say the DC is 13.
+159,36,Clint," Alright, that’s 7."
+160,36,Griffin, Plus your spellcasting modifier is 6.
+161,36,Clint, Is 13.
+162,36,Griffin," Is 13. Yeah. So, uh, yeah, okay; Taako, you are - you feel this paralysis, uh a bolt of purple energy sort of darts away from your body and shoots off-"
+163,36,Clint, Shouldn’t I- shouldn’t I yell something out?
+164,36,Griffin," Well, don’t yell something cause this is an audio medium, but if you wanna say something neat."
+165,36,Clint, Uh...SHABADOO. Shabadoo. That’s the one I go with.
+166,36,Griffin, ‘kay.
+167,36,Justin," Hey, can you- Griffin, I’m not there, can you glower at dad?"
+168,36,Griffin," Oh, I’m- oh, you know that’s exactly what I’m doing."
+169,36,Clint," Oh, he already did! Oh, genetics is such an incredible thing."
+170,36,Griffin," Okay. Everybody, fucking... Adam Sandler Highchurch everybody. [Clint laughs] Uh, but yeah, as you- Taako you feel yourself able to move once again as a purple streak of energy shoots off your bod and hits a wall and shoots some sparks off. Uh, and it is your turn. Um. You - you did drop your stuff as you fell down, because you - you had that full paralysis, but you notice actually while you were down your - your Umbra Staff - your umbrella was actually like moving with a mind of its own, like opening and closing in a way to like very subtly to scoot it back towards yourself."
+171,36,Justin, Great.
+172,36,Travis, Cool.
+173,36,Griffin, But it is your...
+174,36,Justin," Uh, so I don’t have my - I’m like empty handed right now?"
+175,36,Griffin," Uh, I mean, you’re - it’s now right next you, like all your stuff is - you can move again, so, um. You can sort of collect your belongings. You can’t move if you decide to stand up, because standing up is a move action, but."
+176,36,Justin, I don’t need to stand.
+177,36,Griffin, Okay.
+178,36,Justin, I’ll just- I’m good. I’ll just scoop my crap up.
+179,36,Griffin, Okay. You scoop your crap up.
+180,36,Justin, [Nerd-Ass Voice] I need the material components for all my spells.
+181,36,Travis, You’re out of time reversal cubes!
+182,36,[Laughter],
+183,36,Travis, Can you dispel my magic?
+184,36,Griffin," Wait, hold on. Is dad the fucking wind beneath your wings? Is he the magic that lets you know how to play DnD this whole time? Maybe we’ve just been using him as a point of comparison for you, and it makes you seem like you’re actually way better and more competent."
+185,36,Justin," I use dad- I use dad’s long lapses to like plan my own things so it appears… [Travis laughing] I don’t- I can’t seem as quick on the draw. You know what? I’m gonna- I’m gonna cast a spell at this guy. See how he deals with a little magic. Uh, I’m gonna cast Evard's Black Tentacles."
+186,36,Griffin, Fuck… what? [Clint laughing] I’m gonna ask you a dad question Is that a spell you can cast?
+187,36,Justin," For sure. Uh, and it’s conjuration, which is right in my wheelhouse."
+188,36,Griffin," Well, transmutation’s your wheelhouse."
+189,36,Justin," No, it’s like my other wheelhouse, behind the bigger wheelhouse."
+190,36,Travis," He’s got two, he’s a bicycle wheelhouse."
+191,36,Clint, It’s like the wheelshed.
+192,36,Griffin," It’s like I minored in sociology in college and like, why the fuck did I do that. That’s not something I’d use."
+193,36,Travis, Did you?
+194,36,Griffin, Yeah.
+195,36,Travis, Griffin.
+196,36,Justin, So he is- that’s what led him be so good at DMing.
+197,36,Justin, Uh...squirming bl- so I cast this spell and like black tentacles emerge in a 20 foot square all around this cat...what’s this fool’s name?
+198,36,Griffin, You don’t know.
+199,36,Clint, Golem.
+200,36,Taako," Hey thug, what’s your name? I’m about to tentacle your dick. "
+201,36,[Giggling],
+202,36,Taako," Hey, hey hey. I’m gonna get you into some tent porn. Let me get that name real quick so I know how to credit you in my tentacle porn I’m about to make with your body."
+203,36,Griffin," [Dying] Okay, you want--you want me to look up somebody’s name on Twitter to name this person after so you can wrap them in sex tentacles?"
+204,36,Taako," Hey, you heard me. I didn’t stutter. You froze me, bocephus. I hated it."
+205,36,Clint, Find somebody who likes hentai.
+206,36,Griffin," Oh god, Dad just said the word “hentai” out loud."
+207,36,Clint, How about “Crystal Gail”?
+208,36,Griffin," No, it’s gonna be, uh…w"
+209,36,Clint, Some lucky tweeter. [Laughs]
+210,36,Crystal Golem, My name’s Kravitz.
+211,36,Griffin," And that’s named after Mac Kravitz on Twitter. Thank you Mac, you’ve just [wheeze]- you just got tentacled."
+212,36,Travis, Mac Kravitz is a great golem name.
+213,36,Justin, Is it Matt or Max?
+214,36,Griffin, Mac. M-A-C.
+215,36,Justin, Mac Kravitz. Okay.
+216,36,Travis, “Son of Kravitz” is what that means.
+217,36,Justin," So, uh, I’ll let you know what is up when his turn begins, but for right now there’s just like black tentacles."
+218,36,Griffin," Jesus. Okay. Uh, next in the order is Magnus?"
+219,36,Travis, Yeah.
+220,36,Griffin," Um, yeah."
+221,36,Travis," I’m not sure what to do here, ‘cause I’m - my head can move, and my hands can move. Okay; let me ask you this, Griffin Is it the suit is locking me in place, or is there magic - like, could I fight against the suit’s, like, lockdown, or am I just frozen?"
+222,36,Griffin," Um, well, you did already fail sort of the contest, and that’s how you ended up paralyzed. "
+223,36,Travis, Yeah.
+224,36,Griffin," Um, if you wanted to spend your turn trying to like conjure up the willpower making a, uh, trying to do like a constitution save as your turn, I would allow that. But, um, otherwise you’re stuck as- stuck as hell."
+225,36,Travis," I wanna- yeah, uh, okay; I’m still wearing the necklace that lets me talk to Lucas, right?"
+226,36,Griffin, Uh huh.
+227,36,Clint, Don’t you have ranged weapons?
+228,36,Travis," Yeah, but I, like my hands- like my hands are the only thing that’s free. I can’t reach shit."
+229,36,Clint," Oh, I see what you mean."
+230,36,Travis," I’m playing- I’m playing in fiction, baby."
+231,36,Clint," I thought you meant the arms were free, I’m sorry."
+232,36,Travis," Nah, just my hands."
+233,36,Magnus," Lucas, you son of a bitch, if you can hear me, when this guy gets done with us, he’s coming for you. Do you really want that to happen? Dispel the damn magic and let me fight him."
+234,36,Clint, Wow.
+235,36,Griffin," There’s - there’s no response. Um, you - "
+236,36,Magnus," Lucas, you son of a bitch, if we get out of this, I’m coming for you too."
+237,36,Griffin," Uh, you actually hear, uh, the sound of, like, shattering glass. And then, nothing."
+238,36,Travis, What does that mean?
+239,36,Clint, He dropped a glass of Cheerwine on his console.
+240,36,Griffin, On his fucking MIDI keyboard.
+241,36,Magnus, LuCAAAAAS.
+242,36,Griffin," Yeah, he is- it sounded like he actually destroyed whatever instrument he was using to talk to you."
+243,36,Magnus," Noelle, are you locked down?"
+244,36,Noelle," No I’m- I’m doing just- I’m doing just fine. I’m a little worried. I’m- I’m actually kinda floating away from this guy, just ‘cause-"
+245,36,Magnus, Do you know how to undo whatever Lucas did to the suits?
+246,36,Noelle, I can try.
+247,36,Griffin," Um, she- she floats over to you and like with- with her, uh, her long hose arm - she’s being very delicate, and trying not to touch the crystallized floor. Uh, but she’s - she’s like touching, touching all around the suit. Um, uh she says"
+248,36,Noelle," I’m sorry. I can’t figure it out. I’m sorry. I can, like, point ya at what you wanna hit, but I don’t know wh- how much help I can be-"
+249,36,Magnus, Huh. Interesting. [Clint laughs] Yes please. Stand me up.
+250,36,Griffin," Okay, yeah she sort of wraps herself around your arms and then it’s like you’re wearing a jetpack. A Noelle-shaped jet pack. And she kinda floats you and stands you up."
+251,36,Magnus, Now swing me at him!
+252,36,Griffin," [amused] Okay, are we going to make a - okay, are we gonna make… [Travis laughs] alright. We’re taking a lot of liberties with what can be considered an action in Dungeons and Dragons 5th edition, but I’m very much into it. Um, yeah, let’s say this is a melee attack. Uh, here’s what we’ll do. I’ll roll for Noelle, you roll for Magnus- "
+253,36,Travis, Uh huh?
+254,36,Griffin, And we’ll take - we’ll take the lower result. So it’ll be like disadvantage except coming from two different attackers.
+255,36,Travis, Okay.
+256,36,Griffin, Does that make sense?
+257,36,Travis, Yeah.
+258,36,Griffin," We’ll put your same modifier on it though. Uh, I rolled a 14 plus whatever your modifier is."
+259,36,Travis," Okay, I rolled a 12 plus my modifier, which is plus 7, so 19?"
+260,36,Griffin," Okay, either of those is gonna be a hit. Okay. So- so like fuckin’ Weekend at Bernie’s, [Clint laughs] she just sort of flails your arm towards him as you hold on to Railsplitter."
+261,36,Magnus, Launch me!
+262,36,Travis," So then, I do that. Um, I can’t remember what I do, it’s been so long since I hit with an attack. Uh, okay, so we’re gonna say that that’s one handed. One… "
+263,36,Griffin," Well, yeah."
+264,36,Travis, Yeah. 
+265,36,Griffin," And one tube-arm, so. We’re not gonna call that two handed, but."
+266,36,Clint, Maybe she put a little spin on you when she let you go.
+267,36,Travis," I would not let her do that. Uh, that’s a 6 plus 6 so 12."
+268,36,Griffin," Okay, um– next in the order is the Golem - "
+269,36,Travis, Hold on!
+270,36,Griffin, Okay.
+271,36,Travis," Hold on. And I’m gonna use Goading Attack. When attack lands, um– superiority dice plus damage equals the wisdom saving throw. On fail, target has disadvantage on attack not against you."
+272,36,Griffin, Okay.
+273,36,Travis," So that’s, um. Five plus 12 - a 17."
+274,36,Griffin," Yeah, that’s a hit."
+275,36,Travis," No, you have to do a wisdom saving throw."
+276,36,Griffin," Oh, and I have to beat a 17?"
+277,36,Travis, Yep.
+278,36,Griffin," Uh, I rolled an 18, um, so before modifier I beat it."
+279,36,Travis," Well, tits. [Clint laughs]"
+280,36,Griffin," Yep. Uh, alright, it is the golem’s turn, is he about to get…?"
+281,36,Justin," He needs to make a dexterity saving throw, and you’re gonna need to beat 18 is the DC on this one."
+282,36,Griffin," ‘kay. Uh, 17."
+283,36,Justin, That’s not quite gonna do it. So he’s gonna take 3d6 bludgeoning damage.
+284,36,Travis, Ooooh.
+285,36,Griffin, From these tents?
+286,36,Justin, From the- from the tentacles.
+287,36,Griffin, Do you wanna roll that or should I?
+288,36,Justin, Yeah.
+289,36,Griffin," That’s a d4, do you see how it has 4 numbers on it? A d6 is like a dice-ass dice. That’s like some Monopoly shit."
+290,36,Justin," Yeah. Six, six..."
+291,36,Griffin, Oh god.
+292,36,Justin, ...five. So that’s gonna be 17.
+293,36,Griffin, Okay.
+294,36,Justin," Uh, and he’s also restrained. He can use his action to uh, to make a strength or dexterity check against my spell save DC. On a success, you free yourself."
+295,36,Griffin," Okay, Jesus. That is brutal. Okay."
+296,36,Justin, He’s restrained by beautiful ebony tentacles. [Griffin wheezes]
+297,36,Clint, They’re stroking the length of his body.
+298,36,Griffin," Oh, that’s somebody’s something, innit? That’s somebody’s baby."
+299,36,Justin, Everything is somebody’s something.
+300,36,Griffin," That is a big, that is a big big hit. You actually-- you actually-- as those tentacles just sorta like whap into him, some some chunks of him kinda fall off. Uh yeah, please, go ahead. Um, before he does anything, that crystal that he broke off of his body earlier starts to shimmy and shake and glow bright white, and then it explodes. And I need everybody to make a dexterity saving throw, and everybody who is still even a little bit paralyzed has disadvantage on the roll."
+301,36,Justin, What? He did this?
+302,36,Griffin, The crystal that he broke off his body his first turn.
+303,36,Travis, Not great!
+304,36,Justin," Wait, oh, oh okay. Ten."
+305,36,Travis, Eight.
+306,36,Griffin," Daddy, did you roll?"
+307,36,Clint, Yeah.
+308,36,Griffin, What’d you get?
+309,36,Justin," Wait, wait, wait. Sorry, what was the- what was the, it was dexterity you said?"
+310,36,Griffin, Yeah.
+311,36,Justin, Okay.
+312,36,Clint," Oh, dexterity? Uh, 4."
+313,36,Griffin, Okay.
+314,36,Justin," Then, a 14, actually."
+315,36,Griffin," Literally everybody failed. Uh, everybody is going to take a lot of damage from this crystal bomb. That’s 5. That's 13. That is 18. That is 21 points of damage, everybody."
+316,36,Travis, I take 21 points of damage for breakfast!
+317,36,Griffin," And, and you - it’s like noon now, so that was a lunchtime crystal damage."
+318,36,Travis," Well, and that’s the problem is I missed my lu- my breakfast damage, and that’s why I'm not doing so- it’s an important lesson, kids. Breakfast damage is the most important damage of the day."
+319,36,Griffin, How are you doing on damage? ‘Cause you got your- you have a screenshot of your whiteboard.
+320,36,Clint, I’m down to 10.
+321,36,Griffin," Okay, so everybody’s not doing great. Um, and then-"
+322,36,Travis, I mean I’m still at 46. I’ve got lots of hit points.
+323,36,Justin," And I’m at negative 8, so…"
+324,36,Travis, Whoa!
+325,36,Justin, We all are doing our best out here.
+326,36,Griffin," So he has to spend his turn trying to escape from you, right?"
+327,36,Justin, Yes.
+328,36,Griffin," And what are his options, strength or what?"
+329,36,Justin," Strength or– dex, I think."
+330,36,Griffin," Um, he’s very strong. We’ll do strength."
+331,36,Justin," Strength, okay, yeah."
+332,36,Griffin, That is a 21.
+333,36,Justin, Yep.
+334,36,Griffin," Okay, yeah, he breaks free from these tentacles. Are the tentacles gone now?"
+335,36,Justin," They are, yes, he’s free."
+336,36,Griffin," Okay, they, they, they fall off of him, giving him- giving him one last final soft graze. And he blushes…… and that’s his turn. [pause] Big M."
+337,36,Clint, Yeah.
+338,36,Griffin, Your turn.
+339,36,Clint," I’m um, casting Prayer of Healing."
+340,36,Griffin, Okay.
+341,36,Travis, That’s a good call.
+342,36,Clint, Up to six creatures of your choice that you can see within range each regain hit points equal to two d8 plus your spellcasting modifier.
+343,36,Griffin, Okay.
+344,36,Clint," So, the d8 is the one that fell on the floor."
+345,36,Griffin," No, it’s the one I have in my hand."
+346,36,Justin," I - should also - I should mention, Griffin, just to clarify."
+347,36,Griffin, Yes.
+348,36,Justin," He is no longer restrained by the tentacles, but the tentacles are still surrounding him. They’re in that area for a minute, so."
+349,36,Griffin," Okay, then he moves out of the way of them."
+350,36,Justin, Yes.
+351,36,Griffin," Okay, yes, he floats backwards a few feet."
+352,36,Clint," Alright, I rolled a 6 and a 7."
+353,36,Griffin, Mmkay.
+354,36,Clint," And my spellcast modifier is 6, yeah? So- "
+355,36,Griffin, Yeah.
+356,36,Clint, So 19. We get 19 points back each.
+357,36,Griffin," Yeah, and Killian and Carey get that too."
+358,36,Travis, Yeah!
+359,36,Clint," Yeah, I see them too."
+360,36,Griffin," Yeah, uh, okay. Uh, Taako, it is your turn."
+361,36,Justin, Um… Well...
+362,36,Travis, Do you have any magic dispelling stuff?
+363,36,Justin," I’m like, blacked out, right?"
+364,36,Griffin, What?
+365,36,Travis," No, he just healed you. "
+366,36,Justin," Oh, okay. For how many points?"
+367,36,Clint, 19.
+368,36,Griffin," Oh, were you below zero?"
+369,36,Justin, Yeah.
+370,36,Griffin," Oh shit, son."
+371,36,Justin, Yeah.
+372,36,Griffin," Yeah, with that heal, uh, Dad- Dad saved your goose. Have we done any death rolls before? I don’t think so."
+373,36,Justin," Nah… Uh, I don’t--We mighta, we, I feel like we might have done one at one point."
+374,36,Griffin," We did one, yeah, with you, when Black Spider/Magic Brian..."
+375,36,Clint," Yeah, we didn’t do it right though, probably."
+376,36,Griffin," Yeah, probably. Uh, okay, yeah; Taako, you’re back, you… it’s a good thing you didn’t stand up, ‘cause you would have fallen right back down when your health went below zero. But yep, you have regained consciousness; this is a very turbulent roller coaster of a fight for you. Your heals, by the way, Juice, they start from zero, so don’t include the negatives. You are at-- You should be at 19 right now. Does that make sense?"
+377,36,Justin, Ye-- I should be at what?
+378,36,Griffin," You should be at 19 right now, yeah you-- when you get healed, when you’re below zero, then you -- hey, you’re-- when you took that big hit from the big crystal bomb, you didn’t go to half your max health underneath it, right? Like if your max health is 40, you didn’t go to negative 20?"
+379,36,Justin, No. 
+380,36,Griffin," Okay good, cause that’s an instant death."
+381,36,Justin," No, yeah. No, I didn- that didn’t happen to me. I was at negative 11 and my max is 50. So I’m good on that front."
+382,36,Griffin, That’s probably closer than you should do in the future.
+383,36,Justin," Yeah, I mean, ideally, I won’t fall below zero."
+384,36,Travis," Yeah I don’t think he was planning on getting hit by 21 points of damage from a fucking crystal bomb, Griffin! "
+385,36,Justin," Yeah, next time we go on a fuckin’ undersea adventure, I’ll be sure to bring a cleric. "
+386,36,[laughter],
+387,36,Clint, You’re welcome!
+388,36,Griffin, What you going to do?
+389,36,Travis," Taako, do you have any dispelling magic?"
+390,36,Justin," No, I don’t actually. I don’t have that in my, uh, my old repertoire. "
+391,36,[laughter],
+392,36,Griffin," Just sex tentacle-based- Just sort of 50 Shades of Grey, like--"
+393,36,Travis," Do the thing you did with the motorcycle, but make him tiny!"
+394,36,Justin," Um… Hey, wait a minute! [pause] I do have a spell that could help Travis, who can’t move his legs!"
+395,36,Griffin, Okay.
+396,36,Justin," If Travis can’t move his legs, then I shall create his legs! [Griffin laughs] I raise my hand into the air and I summon Garyl!"
+397,36,Clint, Garyl!
+398,36,Justin, Phantom steed!
+399,36,[laughter],
+400,36,Clint, Yes!
+401,36,[horse whinny; music starts playing],
+402,36,Justin," Arising from below Travis, are four beautiful, magical, uh, purple legs that seem to shimmer with a rainbow, and out of nowhere, materializing in air, are two beautiful horns, and like the voice of God echoing through the room and sending trickles of urine down the leg of this crystal golem are the words "
+403,36,        Garyl," Yo, what’s up? What’s cool?"
+404,36,Clint, Go Garyl! Go Garyl!
+405,36,Griffin," Okay, uh, Noelle was kinda- yeah, Noelle was starting to give up the ghost a little bit, holding up your full weight, Magnus, so this comes as a relief to her. And she sort of releases you from her grasp and floats- floats off a little bit. You are now mounted in combat, full-blown Bran style. Uh..."
+406,36,Clint, This is going to make the cover of the paperback right here.
+407,36,Griffin," I must- I gotta, again, I do have to drive this point home you are slumped over this horse. He is– he can move you around but you are very much– uh, uh, uh, kind of dead weight on it. "
+408,36,Travis, I’ll take it.
+409,36,Griffin," Okay. You have a little--Okay. Is that all for your turn, Taako?"
+410,36,Justin, Yeah.
+411,36,[Music fades out],
+412,36,Griffin," Okay. Magnus, it is your turn."
+413,36,Travis, Okay. I see.
+414,36,Griffin, This attack is going to be possibly the funniest melee attack ever performed in a Dungeons and Dragons game. 
+415,36,        Magnus, Garyl!
+416,36,Garyl, What’s up?
+417,36,Magnus, I want you to leap over him!
+418,36,Garyl," Yeah, no problem, dog. Just leap over him?"
+419,36,Magnus, Yes.
+420,36,Garyl," You know I’m a– I’m just a regular-- I mean, I’m beautiful and powerful. I - I do have the qualities of a regular horse."
+421,36,Travis," How tall is the golem, Griffin?"
+422,36,Griffin, This golem is about eight feet tall. 
+423,36,        Garyl," Yeah, yeah, nah, nah, nah. "
+424,36,[Griffin laughing],
+425,36,        Magnus, You could do that!
+426,36,Clint, Yeah! Steeplechase that bastard!
+427,36,Garyl," Yeah, yeah, I see where you’re going with this and I love it but nah, nah, nah, nah; nah, I’m good. You want me to run you past him or whatever?"
+428,36,        Magnus," Yeah, do that! "
+429,36,Garyl," Should I just freak him out or something? Yeah, that’s no problem. Here we go."
+430,36,Griffin," Okay, if we’re doing this, and you’re going to be doing a moving attack past him, then I’m going to call that an opportunity attack that he gets on you if you’re moving past--"
+431,36,Travis," No, no, no. Here’s what I’m going to do in- in actuality. Since I’m on Garyl now, I’m going to delay my turn ‘til after- ‘til after Merle. Can I do that?"
+432,36,Clint, I - I - I know where you’re going. 
+433,36,Griffin," You’re going to delay your turn after..? I mean, the horse can’t move you if you’re delaying your turn cause I was counting his movement as your movement. "
+434,36,Travis," I mean, cool. I’m mounted and I can move around. "
+435,36,Griffin," Okay, you’re delaying your turn until after Merle?"
+436,36,Travis, Yes.
+437,36,Griffin," Okay, it is the golem’s turn then. The golem, uh, picks up-- he’s sort of standing on one leg-- he lifts his left leg into the air and he brings one of his arms down on that leg and two pieces of him come off this time that are sort of flanking him left and right, and they are both glowing white. And, for his attack, he is going to take another stab at Merle."
+438,36,Kravitz," Sorry about this, I know this probably seems a little bit unfair, but uh, you know, work’s work."
+439,36,Griffin," [die roll] Uh, that’s a crit. Yeah, you can scope that out if you want. "
+440,36,Clint, I see it. 
+441,36,Griffin," Merle, you take… Oh my god."
+442,36,Travis," Wait, hold on. Can I force to reroll with my protection shit?"
+443,36,Griffin, Uh– I– maybe.
+444,36,Travis, Yeah let me look. Hold on.
+445,36,Griffin, You guys are pretty close together and this is a melee attack.
+446,36,Travis," Yeah. “When a creature you can see attacks a target other than you, you can use your reaction to impose disadvantage on the attack roll--”"
+447,36,Griffin," Yeah, okay. Alright, we will say that you fucking, like, slump your dead left arm over and throw the Shield of Memories, uh, to like sort of block the first attack as the second one comes in… [dice roll] and is a fuckin’ two which is not going to hit, with modifier. So yes, his first attack looked incredibly powerful, but the shield as you sort of dropped it to the floor deflects it away and his second one misses heartily. And he goes,"
+448,36,        Kravitz," I don’t even know how that worked out, like with physics."
+449,36,Travis, Me neither!
+450,36,Kravitz, I’m like trying to figure out how that worked and I can’t seem to make sense of it.
+451,36,Travis, [crosstalk] Training!
+452,36,Griffin," Uh, but that was his turn...uh, Merle. "
+453,36,Clint," I can do Dispel Magic again, right?"
+454,36,Griffin," Yeah, sure. "
+455,36,Clint, I’m dispelling that magic on Magnus.
+456,36,Griffin," Okay, you still gotta roll to contest it to beat a 13. Oh, I got it in my hands. [rolls dice] Oh, that’s not good!"
+457,36,Clint," It’s a 2, Trav. With my- with my modifier though…"
+458,36,Griffin, With your modifier of eleven.
+459,36,Clint, It’s an eight.
+460,36,Griffin," No it’s not. It is an eight but it’s still not good enough. Yeah, Taak-- yeah, Magnus, you still want to take your turn now?"
+461,36,Clint," Maybe raise- he can raise it a little bit? Couldn’t just like, a couple of degrees? Maybe like one arm? One arm. Maybe he had one arm free. "
+462,36,Griffin," Um, you have wrist control now."
+463,36,Clint, Wrist! Wrist control!
+464,36,Travis, Um. Cool.
+465,36,Clint," It’s all in the wrist, Travis."
+466,36,Travis, I can be smarter about it. I have a skill called Commanding Strike. 
+467,36,Griffin," Oh, okay. "
+468,36,Travis," “Use one attack to command an ally to make a weapon attack. Add superiority die to damage.” So which one of you…? It’s probably Merle, right?"
+469,36,Griffin," Yeah, Merle’s got the battle wrench."
+470,36,        Magnus," Yeah, Merle. Attack!"
+471,36,Justin," Can we- This is just a request to people - who are Merle. Can we just like, fuck-- Maybe we should attack that crystal?"
+472,36,Clint, Yeah that’s what I was going to say. Should we-- There are two of ‘em now!
+473,36,Justin," Yeah, it seems like those-- um."
+474,36,Clint, Can I take one big swing at both crystals? [Crosstalk]
+475,36,Griffin," Ah, no, they’re flanking him--"
+476,36,Travis," Wait, holy shit. Hold on, hold on, how big are the crystals?"
+477,36,Griffin," They’re not that big, actually. They’re about uh, they’re about the size of like your fist, kinda jagged."
+478,36,Travis," Cool, cool, cool. Merle! "
+479,36,Merle, Yes!
+480,36,Travis," Wait, who’s next? Taako’s next?"
+481,36,Griffin, Yeah.
+482,36,        Magnus," Yeah, Taako, in my pouch, get the Glutton’s Fork!"
+483,36,        Taako," … [laughing] Okay? When I get a chance to, for sure."
+484,36,Travis," Okay, that’s my turn."
+485,36,Griffin," Okay. [wheeze] You’re just sitting on this horse who’s like--and I imagine at this point Garyl would be like, “So did you need me for something, or..?”"
+486,36,Travis," Okay, well, hold on. And then also, you know, Merle attack one of the crystals."
+487,36,Justin,
+488,36,Garyl," I was halfway through season two of Daredevil, guys, come on."
+489,36,Clint, Alright. So 17.
+490,36,Griffin," Yeah, that’s going to be a hit. On the left one or the right one?"
+491,36,Clint, Could I knock one into the other?
+492,36,Griffin," No, cause he’s standing in between ‘em."
+493,36,Clint," Shit, okay. I’ll use my plant side. So that will be the-"
+494,36,Griffin," Yes, yes, yes, yes, your dominant hand, your right hand. "
+495,36,Clint, I hit the one on the right with the battle wrench.
+496,36,Griffin," Okay. Go ahead and roll damage, plus your strength modifier. That’s, yeah--it’s not very much damage but it’s enough to shatter this thing and it falls harmlessly to the floor. "
+497,36,Clint, Okay. Whew.
+498,36,Griffin, Next in the order is Taako.
+499,36,Justin," Uh, how close am I to Travis’s bag?"
+500,36,Griffin," Uh, I mean you guys were literally standing right next to each other when you went down and you haven’t really moved much. Um, he is up in the air with, uh- he’s up on Garyl. But you can easily stand up and reach him."
+501,36,Justin, Okay. I’ll grab the fork out of the bag.
+502,36,Griffin, Okay. I don’t know what this thing is.
+503,36,Justin, I don’t remember either.
+504,36,Travis," So I bought it at the Fantasy Costco “Once a day, the fork will allow the user to eat any non-magical item they can fit in their mouth and gain 2d6 points of damage. Just tap the fork on the item and it will turn edible.”"
+505,36,Justin, But isn’t that magical?
+506,36,Travis," Well, poop."
+507,36,Justin," Grif-- I mean it’s a floating crystal, if that’s not magic, I don’t--"
+508,36,Clint, That we made up.
+509,36,Travis, I thought what he meant by non-magical item was like an enchanted sword or shield or something. 
+510,36,Griffin," Yeah, no, that’s- magical items are items that cannot--can’t traditionally be destroyed. Like a magic sword can’t be destroyed. But I’m- Yes, this--[stuttering] Yes, yes, yes, yes. Yes, to all of this. Now, Magnus, say what you just said but in character."
+511,36,        Magnus, Use the fork! Eat the crystal! You’ll feel better.
+512,36,Clint/Justin, [deep gruff voice] Luke! Use the fork! 
+513,36,[laughter] ,
+514,36,Clint, The fork will be with you. Always.
+515,36,Travis," No, I do want it back. It won’t be with-- I will want the fork back."
+516,36,Griffin," Okay, are you doing this, Taako? Are you doing this thing?"
+517,36,Justin, Hell - hell yes I am!
+518,36,Griffin," [cracks up] Okay, um, I, hmm. Yeah, I don’t think you’re gonna need--I was trying to think, is this a fork based attack? No, you just kind of plug that bad boy in. And you’re doing this into the crystal piece that’s floating, not the golem himself, right?"
+519,36,Justin, Yes. Yes.
+520,36,Griffin," Alright. Yeah, you plug it into this fist sized floating crystal in the air and as you do, it--your fork slides in as though you are piercing a bread roll.  As you do, actually, you realize this particular piece of crystal is actually part of Merle’s former arm. "
+521,36,Clint," Aw, crap!"
+522,36,Justin," Oh, grody."
+523,36,Griffin, As it - but it turns into like one of those fucking awesome Red Lobster cheddar rolls. 
+524,36,Justin," Okay, so I take a big bite and what’s it taste like?"
+525,36,Griffin, It tastes fucking incredible! It tastes--
+526,36,Justin, What--describe the taste of Merle.
+527,36,[Clint laughing],
+528,36,Griffin," Um, there is a - so there’s a light--"
+529,36,Travis, Would you say picante?
+530,36,Griffin," It’s super buttery, super buttery. Super, super soft. Super buttery, super flaky. It’s like there’s a sweetness to it? Like, there’s some sort of sweet element, like a brown sugar, maybe, in the butter? But it feels, it’s actually - it’s weird because, like, it wasn’t cooked, you magically transformed it into some sort of edible material-- It should just be like a meal ready to eat, but actually it’s soft, like it just came out of the oven? Uh, and..."
+531,36,Clint, Damn! I’m delicious!
+532,36,Griffin," It’s fucking incredible. It’s really, really tasty. And it goes down real smooth."
+533,36,Justin," Mhm. Okay, I pop the whole thing in my mouth."
+534,36,        Taako, I’m lovin’ it! [sings McDonalds’ jingle] Bada ba ba ba!
+535,36,[Clint laughing],
+536,36,        Taako," Hey, guys, it’s a good time for the great taste of Merle!"
+537,36, Clint, It’s a Happy Merle!
+538,36,[laughter],
+539,36,Travis," Dad, I like that a lot. Proud of you."
+540,36,Griffin, The golem takes a--
+541,36,Travis," Wait hold on, he gets 2d6. Health back. "
+542,36,Griffin, Huh?
+543,36,Travis," For the Glutton’s Fork, when you eat it you get two d6 points of health--"
+544,36,Griffin," [laughs] I thought you were saying Merle-- eating Merle in particular--Take this bread, it is his body! It has some sort of healing like transubstantiation quality to it. "
+545,36,Justin, 4 and 3 so that’s seven points of healing. 
+546,36,Griffin, Okay.
+547,36,Justin," Delicious, delicious Merle healed me for seven points. "
+548,36,[Clint giggles],
+549,36,Griffin," The golem, who looks pretty worse for wear after the last round of combat and now having sort of taken, breaken, broke, breaken? Having breaken broken parts of himself off, he’s actually looking really worse for wear. And he also takes like a step back from you, like kind of staggered. And he’s like,"
+550,36,Kravitz," What the fuck is wrong with the three of you?! You guys are fucked up! That’s some- That’s some sick shit! Oh god, I’ve got to re-group. You all--I promise you the next time we meet, you’re coming with me. I’m taking you in. "
+551,36,        Magnus, Why?
+552,36,Griffin," He says,"
+553,36,        Kravitz, You know why!
+554,36,        Magnus," I don’t, actually! I really don’t. "
+555,36,Griffin," The golem form falls apart, collapses on the floor, and you watch the white fire portion of him pass through a rift behind him and disappear. "
+556,36,Clint, We won!
+557,36,Travis," I think we actually just legitimately won a battle, you guys."
+558,36,Clint, I think we did!
+559,36,Griffin," Yeah, he was, uh, he definitely did an expedient retreat but he was, I mean between the parts of him that you- that he broke off and crystallized and that the tentacles ripped off, he was falling apart."
+560,36,Travis," So now, can Merle just dispel magic willy nilly?"
+561,36,Justin, He’s still gotta burn a slot.
+562,36,Griffin," Yeah, let’s- I mean, you guys can take a short rest to recover some--"
+563,36,Justin," Oh, hey, let’s get in the pocket spa. That sounds nice. "
+564,36,Travis, Yeah!
+565,36,Clint, Ohhh!
+566,36,Justin, That should help.
+567,36,Griffin," You drag the still paralyzed members of your party into the pocket spa and luxuriate and relax and recover some health in a, a post battle debriefing, and--"
+568,36,Clint, Are there monogrammed bathrobes?
+569,36,Griffin, This is important.
+570,36,Justin, In the pocket spa?
+571,36,Travis/Griffin, Yeah.
+572,36,Griffin," They’d all just- they’d all just say the letter “T”, right?"
+573,36,Justin," No, they’re more just like loincloths, really. They’re more like loincloths you just drape around your crotch."
+574,36,Clint, Can I- can I steal those like I stole the robe from the Sofitel in L.A. to get charged to Griffin’s room? [giggles]
+575,36,Justin/Travis, Yeah. Yes that's fine.
+576,36,Clint, I’m sorry you had to find out this way.
+577,36,Griffin," I’m sorry about a lot of things. But you know what I’m not sorry about, [in a nasally voice] is all that money we’re about to get."
+578,36,[Commercial break, 4242-5220]
+579,36,[music],
+580,36,Griffin," Alright, you guys are in the pocket spa, you’re all loinclothed out, you’re havin’ yourselves a good time. Despite the fact that it’s—"
+581,36,Clint, [sighing]
+582,36,Travis, It’s not weird at all.
+583,36,Griffin, It’s up to you guys whether or not…
+584,36,Clint, Are we naked? We’re not naked.
+585,36,Griffin, You’re loinclothed up.
+586,36,Clint, Okay.
+587,36,Griffin," But yeah, you have recovered from the paralysis. And, uh, are—you can take a short rest, by the way? If you wanna recover some hit points. I know we don’t usually do that, I know it’s kind of a…"
+588,36,Travis," Well, how much time do we have, Ditto? Are we on the clock for the crystallization of the thing still?"
+589,36,Griffin," Uh, you’ve got, about 30 minutes left. So, you do have some time still."
+590,36,Clint, I believe that the pocket spa is outside of the normal time-space continuum.
+591,36,Griffin," Yeah, no, you had forty minutes. And then when you pocket spa’d, I don’t actually remember how much time I said you had, but. Why don’t you take a short rest because you guys need some health."
+592,36,Travis & Clint, Okay.
+593,36,Clint, [cartoon snoring]
+594,36,Griffin," Alright, so you roll your hit dice. "
+595,36,Clint, Oh.
+596,36,Griffin, Are you lookin’ at your phone while we’re recording? What are you doing? 
+597,36,Clint, Yeah! This is what I’ve got my whiteboard on.
+598,36,Griffin, Okay.
+599,36,Clint, Mister fancy-pants.
+600,36,Justin," That’s horse—that’s horse apples. He does it to me all the time, he’s checking sports scores."
+601,36,Travis," I’m back up to full, baby."
+602,36,Clint," Alright, so which one is the d10?"
+603,36,Griffin," Uh, you roll d8s."
+604,36,Clint, Oh.
+605,36,Griffin," Uh, I mean you roll as many as you want as long as you have hit dice."
+606,36,Clint, I—a six and a five. Keep goin’?
+607,36,Griffin, Yeah.
+608,36,Justin," Yeah, roll a d6. A lot of people are wonderin’ how many times… I know you at home are wondering how many times. Well, here’s Griffin to explain it for you. I got 12. That sounds good, doesn’t it?"
+609,36,Clint, 12’s good!
+610,36,Justin," ‘Bout 12? 12 feels about right, doesn’t it?"
+611,36,Griffin," Alright, you have per your level, you can roll that many times."
+612,36,Justin, Eight?
+613,36,Griffin, Yes.
+614,36,Justin," Okay, wow, okay."
+615,36,Griffin," You can roll one of those per wizard—per, per level."
+616,36,Justin, Per wizard level.
+617,36,Griffin," So you can keep rollin’ too, dad."
+618,36,Clint, Oh.
+619,36,Griffin," You can roll up to eight, eight times. ‘Cause you guys haven’t taken a short rest this chunk."
+620,36,Justin," Great, I’m back up to 45 hit points."
+621,36,Clint," So I roll two more times, right?"
+622,36,Griffin," Mm-hmm. Okay, yeah, you guys take—take your rests. Uh, you are havin’ a good chill-out time. And uh.."
+623,36,Travis," I assume like, Carey and Killian are, like, also recovered from the paralysis? That’s what I'm trying to establish…"
+624,36,Griffin," [crosstalk] Yeah, yeah, yeah, everybody’s good to go. Everybody’s like—everybody’s rockin’ in the free world. And you step out of the pocket spa back into the main elevator lobby. And as you approach the central elevator that Lucas went down after paralyzing all of you, you hear Carey gasp and she points at Killian’s helmet and on the back of Killian’s helmet you see a small crack that started forming after she fell to the ground from the paralysis. And she says, "
+625,36,Travis, Oh no!
+626,36,Griffin," She says, she says, uh,"
+627,36,Carey," Oh, Killian, no no! Killian, no, you can’t go on like that! You could—you could get some crystal in there, that’s super dangerous!"
+628,36,Griffin," And Killian feels the back of her helmet and says,"
+629,36,Killian, Oh my god. This is—I’m—I—oh my god. This is the most frustrating thing that’s ever happened. All I’ve wanted in life up to this point is to find Lucas and destroy him. And I don’t think it’s safe for me to go on much further with this—with this here crack in my helmet.
+630,36,Magnus, Do you wanna swap helmets?
+631,36,Killian," Well, that seems like—I, your sweet head can’t get crystallized either! Dumb-dumb! "
+632,36,Magnus, It’s already pretty thick.
+633,36,Clint," I cast duct tape of Dormammu, and seal up her helmet."
+634,36,Griffin," Uh, that doesn’t exist yet."
+635,36,Clint, Oh.
+636,36,Griffin," She says, "
+637,36,Killian," That’s a really sweet offer, Magnus, but—and it is technically your fault because, like, we were just about to bust this perp when you…"
+638,36,Magnus, Oh yeeaaaaah.
+639,36,Killian," … when you started kibitzing. Um, but I… I gotta be honest with you guys, I don’t think it’s that smart for me to get close to the relic to begin with."
+640,36,Magnus," Oh, that’s not your job, right? That’s like our job."
+641,36,Killian," Yeah, I mean it’s up to you guys to recover that stuff and I, um… I haven’t really told you guys this, but you remember when we met and we- we recovered that gauntlet together?"
+642,36,Taako, Yeah? 
+643,36,Magnus, Yeah?
+644,36,Merle, Yeah.
+645,36,Killian, I really wanted to grab it and take it and put it on? And get fire p- fire powers. Like I really…
+646,36,Magnus, I gotcha.
+647,36,Taako, Let’s—
+648,36,Killian," I don’t know how to describe this. I was like, when you guys ran up and grabbed that thing, I was like, ooh, I kinda wanted to like, kill you? And have it? For me?"
+649,36,Taako, Yeah.
+650,36,Killian, Does that make sense?
+651,36,Taako," No, we all—"
+652,36,Magnus, Totally.
+653,36,Taako," We all wanted that. We just didn’t. We rose above and that’s the important thing, you’ve proven yourself…"
+654,36,Killian," No, but I was about to definitely not rise above. Does that make sense? [crosstalk] Like, I was like… I was like, I have…"
+655,36,Taako, [crosstalk] You just ran out of time? You got distracted or somethin’? I’ve been there.
+656,36,Clint, [snorting]
+657,36,Killian," Yeah. So, I really… I don’t think it’s that good of a call for me to get in there and grab it."
+658,36,Magnus, How about this? How about a new job for you.
+659,36,Killian, Yeah?
+660,36,Magnus, You and Noelle get the bugbears outta here to safety.
+661,36,Griffin," Uh, jeez, okay. Noelle,"
+662,36,Noelle," If it’s okay—I’d—I’d kinda like to... I’d kinda like to see this through. I can tell you how to get ‘em out, though, we should be able to, um, figure out a path through the lab to extract you that’s not crystallized. But I need to… there’s somethin’ I need to figure out, um. So I—"
+663,36,Magnus, Is it math?
+664,36,Noelle," No, I know all math, I'm a robot, so…"
+665,36,Magnus," Oh, okay."
+666,36,Noelle," I can just like, punch that into my Windows, sort of my MS-DOS calculator brain. But um, yeah I’d like to stick with you guys if that’s alright."
+667,36,Magnus, Okay!
+668,36,Griffin," Okay, Noelle floats over to Killian and prints out, like, Conky’s secret word of the day… "
+669,36,Clint, [printer noises]
+670,36,Griffin," … a little map of the lab and then she pops out a little highlighter attachment from her frame and doodles on it for a bit and Killian takes it and says,"
+671,36,Killian," Okay, I'm gonna—I guess I'm gonna head out. Carey, be careful. Just get these guys to the—to the finish line, don’t you know, don’t be a hero. And I’ll see you guys back—"
+672,36,Taako," Hey, Carey, if you wanna be a hero, I mean—we could use at least one. Right?"
+673,36,Magnus, Wouldn’t say no.
+674,36,Clint," [singing] Carey, don’t be a hero!"
+675,36,Griffin," Killian walks back out through the door back, back towards the bugbear encampment and is gone. And, uh, Carey walks over and presses the button to summon the elevator back in the middle of the room. And she says,"
+676,36,Carey," Ugh, I feel, um, I feel considerably less good about our chances now, if I'm being completely honest. But, uh, let’s do our best out there, guys, huh?"
+677,36,Magnus," I mean, we didn’t ask, but thanks, Debbie Downer. "
+678,36,Griffin," When the elevator that Lucas went down shows up and the doors part, there is a metal grate, a heavy metal grate, now covering the door as it opens. And it—there doesn’t seem to be any sort of discernable clasp on it, there doesn’t seem to be any discernible, like, handle? To open it up? There’s just this heavy metal grate now covering the elevator down to the lower levels."
+679,36,Travis, I open it.
+680,36,Griffin," Oh, and you do. And wow, shit. Damn, I should’ve thought of that. No, it doesn’t seem to—it doesn’t even, like, rattle or move."
+681,36,Travis, I rolled a 17 for opening.
+682,36,Griffin," Okay, it’s not. You needed a DC seventy-thousand in order to open this metal grate. It’s, like, solid, it’s like, not…"
+683,36,Justin, Could I try? 
+684,36,Griffin," Yeah, yeah, yeah."
+685,36,Justin," Nah, I didn’t get it."
+686,36,Clint, I heal both of their hernias.
+687,36,Griffin," ‘Kay. Yeah, it doesn’t seem to be going anywhere. Carey says,"
+688,36,Carey," Well, I guess we should just turn back and go home, mission failed, right guys?"
+689,36,Magnus, No!
+690,36,Carey," Hey, we did our best!"
+691,36,Taako, Hey!
+692,36,Carey," Hey, we did our best, no harm in that! All you can do is your best!"
+693,36,Taako/Justin, I think somebody’s been listening to too much Adventure Zone.
+694,36,Clint, [laughing]
+695,36,Taako/Justin, You don’t wanna—you don’t wanna be like those guys.
+696,36,Griffin," You hear a sound come from the elevator, though. From above you, actually. And then you hear—and you see the elevator sort of shake violently as you hear what I can only describe as a smashing sound come from above. And then there’s- a quiet passes after this smashing sound, comes from on top of this elevator."
+697,36,Merle," Carey, go check that out."
+698,36,Griffin," And there’s a second smash, and then a third smash, and--"
+699,36,Travis, I take this opportunity to get my Glutton’s Fork back from Taako.
+700,36,Griffin, Okay.
+701,36,Justin, [laughing]
+702,36,Clint, Priorities!
+703,36,Griffin," Yeah, this—this—this elevator’s gettin’, like, destroyed. This elevator car, I should say, is gettin’ destroyed, the one with the heavy metal grate over it is gettin’ destroyed. And that’s—as more smashes happen, you see that the source of this violent elevator car assault is coming from a bright yellow—what looks like another elevator car. And it is smashing it down and crushing it like a tin can and pretty soon, this locked-off elevator car just falls and replacing it, you see, now appearing in front of you, a bright yellow elevator car with a big, bright red nose, and two big white eyes…"
+704,36,Clint, [gasps]
+705,36,Griffin," … on either doors, and he says "
+706,36,Upsy," Hey, kids! Did somebody need to go down?"
+707,36,[music playing],
+708,36,Travis, It’s Mister Bucket or whatever his name was.
+709,36,Upsy," It’s me, Mister Upsy, your lifting friend!"
+710,36,Clint, [laughing]
+711,36,Travis, Oh yeah!
+712,36,Upsy, I heard a rumor that you kids needed to go to a different floor than the one you’re on now!
+713,36,Magnus, You- you heard correct.
+714,36,Upsy," Well, climb on inside my tum-tum, you goose!"
+715,36,Justin, People would ask us for guest stars for so long and who would’ve thought we would get long-dead Fred Gwynne here to play a role…
+716,36,[Clint laughing],
+717,36,Upsy," I don’t know who that is, I'm just an elevator! Come on in my belly!"
+718,36,Justin, ...for dad. Yeah.
+719,36,Upsy, Press my buttons from inside of me!
+720,36,Travis, I get in him.
+721,36,Upsy, Mm! [happy chewing noises]
+722,36,Clint, [hesitantly] I… get in him…
+723,36,Magnus, Why is it so wet in here?
+724,36,Upsy," Mmm, why indeed!"
+725,36,Justin, [laughing]
+726,36,Upsy," I might be metal on the outside, but inside I'm a real living boy! I’m Upsy your lifting friend!"
+727,36,Magnus, Upsetting my lifting friend. 
+728,36,Upsy, That’s a good joke!
+729,36,Justin, [wheezing]
+730,36,Clint, [laughing]
+731,36,Upsy," Which way are we going, kids? "
+732,36,Magnus, D… Down! Let’s go down!
+733,36,Justin, Down!
+734,36,Clint, Up? Down.
+735,36,Upsy," Aw, down’s my least favorite!"
+736,36,Justin, [laughing]
+737,36,[music stops playing],
+738,36,Griffin," You find a—in lieu of a proper elevator panel, there’s just sort of a fleshy series of nodes next to this door. "
+739,36,Justin," Ugh, the worst."
+740,36,Griffin," And you press the one underneath and he goes,"
+741,36,Upsy, Ahoo-hoo-hoo! That tickles! [Justin shudders]
+742,36,Griffin, And you begin to descend.
+743,36,Upsy, How’s your day goin’?
+744,36,Justin, He was an invention! Why would someone invent him to be this?
+745,36,Travis, He’s a genetically engineered elevator.
+746,36,Clint, And who’da thought we’d ever miss The Girl from Ipanema playin’ on the sound system?
+747,36,Upsy, I could do that for you if you want it to! Happen!
+748,36,Magnus, Yeah!
+749,36,Clint, [singing] Tall and tan and young and lovely…
+750,36,Travis," No, no, no, make Griffin do it. "
+751,36,Upsy," [scream singing] The girl from Ipanema’s coming to take your stuff inside your house, here she comes! [normally, which isn’t saying much] I haven’t heard this song before!"
+752,36,Travis/Magnus, You’re doin’ great.
+753,36,Justin, [wheezes]
+754,36,Griffin," Taa—Magnus, are you still riding, uh, Garyl at this point?"
+755,36,Travis, Yes. [laughing]
+756,36,Clint, [laughing]
+757,36,Travis," As far as anyone’s concerned, I hadn’t forgotten I was doing that."
+758,36,Upsy, I’ve never had a horse before!
+759,36,Garyl," You still don’t, my little man. I'm just riding inside of you, possession does not figure into it. Yo, are we there? [Justin wheezes] I don’t know where we’re goin’, but like, I would like to be of use at some point."
+760,36,Magnus, You’re doin’ great. [pause] I'm very proud of you.
+761,36,Garyl," Yeah, my favorite part was that hour we spent in that spa."
+762,36,Clint, [laughing]
+763,36,Justin," Oh wait a minute, uh, how long was it? An hour did I say?"
+764,36,Griffin, No.
+765,36,Justin," How long was it, actually?"
+766,36,Griffin, It wasn’t that long. It was not an hour.
+767,36,Justin, Okay.
+768,36,Griffin," He says,"
+769,36,Upsy, So what are you goin’ downstairs for?
+770,36,Magnus, Just general downstairs-y stuff.
+771,36,Taako," Yeah, just stuff not up here."
+772,36,Merle, It’s stuff down there. Just goin’ down there. 
+773,36,Upsy, Are you gonna need a return trip anytime soon? ‘Cause I got my soaps to catch up on!
+774,36,Clint, [chuckling]
+775,36,Magnus," Um, we’ll call you."
+776,36,Upsy," Okay. Not—not between the hours of 4 and 530, though."
+777,36,Magnus, ‘Cause of your afternoon soaps? 
+778,36,Upsy," Yeah, my elevator stories!"
+779,36,Clint, [laughing]
+780,36,Magnus," Are they any good? Wait, are they any good?"
+781,36,Clint," Uh, they have their ups and downs, go on, say it."
+782,36,Travis," Thank you dad! Thank you, dad."
+783,36,Upsy, I don’t understand!
+784,36,Justin, So what—so I—I guess what Griffin’s trying to say is we killed that crystal thing a lot faster than he thought we could.
+785,36,Clint, [cackling]
+786,36,Griffin," Uh, his—his fleshy interior doors open up and you are led out as he—he makes a barfing sound as you leave his tummy? And he goes,"
+787,36,Upsy," That’s another joke I do! Anyway, bye, I love you!"
+788,36,Clint, [laughing]
+789,36,Griffin," And this... the doors shut and he disappears. Um, you have exited out into another sort of lobby area, although this one is a lot smaller than the one that you were just in. The lab, you noticed when you were outside of it, has kind of a conical shape to it so it’s bigger on top than it is down below, kind of a Cloud City, Bespin thing going on? So there’s not as much sort of area down here. but you are now in a much smaller, darker lobby. And as far as you can tell, there’s only two doors in this lobby. This room, by the way, is not crystallized. There is a—what are you lookin’ for, dad?"
+790,36,Clint," I don’t know, just lookin’."
+791,36,Griffin," Oh, pay attention, don’t read. "
+792,36,Clint, I'm listening!
+793,36,Griffin," Okay. There is a very large, heavy looking, like, vault door that is all sealed up and it has one of those hand scanners on it that is lit up bright red. And then there is a—an even bigger sort of industrial door, sort of like you would find in a warehouse that trucks would drive into? And this one is actually sealed up with one of those hand scanners that is green."
+794,36,Travis, Okay.
+795,36,Griffin," There doesn’t seem to be any kind of labeling going on. Noelle says,"
+796,36,Noelle," Okay, so, if Lucas is anywhere, he’s gonna be in the main experiment chamber and that’s through that circular vault door. If y’all wanna get a move on and…"
+797,36,Magnus, What’s the big door?
+798,36,Noelle, Well that leads to the robotics manufacturing center. 
+799,36,Magnus," That one, please."
+800,36,Noelle," All of the—oh, are you sure? All of the rooms on this floor are sorta networked by this robot delivery system, so robots, as Lucas and anybody in the lab needs ‘em, those robots are gonna be put together in the manufacturing center, and then we have like a conveyor networking system that delivers those bespoke ‘bots to wherever you need ‘em."
+801,36,Magnus, That sounds like a fun room.
+802,36,Noelle," Yeah, I mean it’s pretty cool. It’s like my—for me it was like my nursery, you know?"
+803,36,Magnus," What do you think, Garyl?"
+804,36,Garyl," I’ll be honest, I don’t know what you’re tryin’ to achieve. I mean the robot room sounds– cool, to me, but the other thing, who’s the—Lucas? Do you hate him and wanna kill him, what’s the story there? I legitimately don’t know what you’re trying to achieve. "
+805,36,Magnus," Uh, you know, it’d take too long to explain it. ‘Cause I don’t remember."
+806,36,Garyl," About seven episodes too long, my dude."
+807,36,Magnus," What do you think, Taako?"
+808,36,Clint," If the conveyors connect everything, then we could go in the robot room and it would probably take us to Lucas’s room. Do you think?"
+809,36,Justin," But it’s—it’s right there, she’s saying. She’s saying it’s through the "
+810,36,"circular door, right? ",
+811,36,Griffin, Mm-hmm.
+812,36,Justin, Which is where she’s saying Lucas probably is.
+813,36,Griffin, Yes.
+814,36,Magnus," Alright, open Lucas’s room."
+815,36,Justin," Are we tryi—can I—I need—so we’re still trying to catch Lucas, right? "
+816,36,Travis, Yeah.
+817,36,Griffin, Yep.
+818,36,Clint," Okay, so—"
+819,36,Justin, That’s our M.O.
+820,36,Clint, The hand scanner to Lucas’s room. What color is it?
+821,36,Griffin, It’s red.
+822,36,Clint, And the hand scanner to the robot room is..
+823,36,Griffin, Is green.
+824,36,Clint," Is green. Seemed to me like we can’t get through the one with the red handprint, we might be able to get through the one with the green handprint."
+825,36,Justin, Are they close enough together that I can get both hands on them at the same time?
+826,36,Griffin, Yes.
+827,36,Justin," Okay, I do that."
+828,36,Griffin, You look really cool.
+829,36,Clint, [laughing]
+830,36,Travis, Like Flight of the Navigator cool. 
+831,36,Justin," Nice, and then I'm like,"
+832,36,Taako," Hey guys, look! Taako stepped into the quantum leap accelerator and vanished! "
+833,36,Clint & Griffin, [laughing]
+834,36,Taako, Remember? From the intro! Guys!
+835,36,Justin, I cast Gust of Wind to make my hair blow up like [drown out]
+836,36,Griffin & Clint, [laughing]
+837,36,Taako," Does this help? Guys, remember? "
+838,36,Magnus," Oh, yeah!"
+839,36,Taako, Yeah! 
+840,36,Merle," Oh, boy."
+841,36,Taako," Quantum Leap, oh boy indeed."
+842,36,Griffin, Noelle takes a stab at the red hand scanner and can’t seem to do anything with it. 
+843,36,Magnus, Now do the robot room!
+844,36,Noelle," Okay, okay, okay!"
+845,36,Griffin," She puts her—she puts one of her appendages on the green hand scanner and cracks it and that large, large, large door slides open and a gust of smoke and fog pours out of this cavernous robotics workshop. It is a humongous room with a number of really just gigantic pieces of fabrication machinery all around it and it’s all feeding onto this assembly line that connects all these different pieces of machinery onto a central conveyor belt that is running into a tunnel at the end of the room. And there are tons of these scrapped robots lying all over the place. This room is like—"
+846,36,Travis, Magnus goes crazy! Just pulling arms left and right!
+847,36,Clint, Pops an arm boner!
+848,36,Griffin," Yeah, this would be a good place for you to do that ‘cause there’s hundreds and hundreds of robots. But they’re just, like, laying all hither and yon. This place is as messy—it’s as messy as Lucas’s private quarters. Yeah, so there’s a bunch of these scrapped robots all over, just all piled up. What you notice about some of the robots, some of the more sophisticated looking ones, is they have little windows in their torsos. And inside those little windows you can see what looks like a big, glass fuse kinda similar to the  one that Noelle has in the middle of her chassis behind another window. And Noelle’s just kinda, like, lookin’ at these robots with these fuses in their chests and is kinda like, movin’ em around with her arm and just kinda looking ‘em over."
+849,36,Clint, [stage whispering] They’re her brothers and sisters!
+850,36,Magnus," Noelle, any umm thoughts you’d like to share with us in this moment?"
+851,36,Noelle," No, I haven’t… I haven’t actually been in here in a while, I don’t. I don’t know what most of these are— I don’t know what’s goin’ on with most of these."
+852,36,Magnus, Uh-huh.
+853,36,Noelle," But we should—we should—let’s get a move on, let’s go through—that tunnel is the robot delivery system so we can go through there and that should be able to get us into the main experiment chamber."
+854,36,Travis, [crosstalk] She sounds sad.
+855,36,Justin, [crosstalk] I'm gonna run a Perc— I'm gonna roll a Perception check to see if any of these robots stick out to me in particular.
+856,36,Travis, And I'm gonna roll an Insights check on Noelle.
+857,36,Griffin, Okay.
+858,36,Justin, Sixteen for me.
+859,36,Travis, I did not do great.
+860,36,Griffin," Yeah, the only thing you can kinda put together, Taako, is that not all of these robots have these little fuses built into them and the ones that do have more sort of vaguely humanoid appearances? To sort of compare them, the ones that you see all laying around with the fuses, as compared to Noelle, like, Noelle, like I said earlier’s kinda like rough-shod, she’s kinda put together of all these different component parts, constituent parts. A lot of these robots are kind of approaching a sort of human look to them. And you can kinda put together that, like, if anything, Noelle was sort of a prototype to whatever these are."
+861,36,Justin, Hmm.
+862,36,Travis, I rolled a 2.
+863,36,Griffin," Okay, you—Noelle is a robot."
+864,36,Travis, Got it. 
+865,36,Griffin, Can—
+866,36,Justin, [laughing]
+867,36,Clint, Can—maybe—can we maybe take some of those fuses?
+868,36,Griffin," They’re actually like, embedded in the torsos of most of these things so you’d have to take, like, the whole thing and it would be. It would be pretty, um, cumbersome."
+869,36,Taako," Hey—hey, Noelle, I noticed that you have a sort of fuse-looking thing, similar to some of these other robots."
+870,36,Noelle, Yeah.
+871,36,Taako, What’s—what’s that all about?
+872,36,Noelle," I mean, it’s just one of my power units. I don’t really—I don’t actually—I don’t actually know that much about my own sorta, y’know, my own sorta machinery, but, um, yeah. Lucas has always just told me that it’s just another power source inside of me, so. Um, we should, guys, we should really get a move on—"
+873,36,Merle," No, wait, wait."
+874,36,Noelle, —we don’t have that long.
+875,36,I ,
+876,36,Merle," Noelle? Noelle? Look at me. Look at me, Noelle."
+877,36,Noelle, Yeah? I'm lookin’.
+878,36,Merle, You’re better than any of these damn junky robots.
+879,36,Noelle," Well, I'm the only one floatin’, I guess. Yeah, alright."
+880,36,Merle, That’s right! So don’t be lookin’ at them and gettin’ sad!
+881,36,Noelle," Okay, well—"
+882,36,Merle, You are my special angel.
+883,36,Noelle," Well, thanks."
+884,36,Travis, Magnus goes through the door on Garyl.
+885,36,Magnus," Garyl, onward!"
+886,36,Griffin," Okay, yeah, you move into the tunnel. It’s actually dark as fuck in here, there’s, like, no lighting whatsoever. And this conveyor belt is not running, there’s, like, nothing running in this room, it’s—it’s— quiet. As you go through, Noelle actually powers on a little flashlight in her body and is helping you all look around."
+887,36,Clint, What color is it?
+888,36,Griffin, Uhh. Lavender. You really caught me off-guard with that.
+889,36,Clint, I know. But you recovered nicely.
+890,36,Griffin," And yeah, she’s walking you through this tunnel. And it’s still quiet, although you hear what sounds like sort of a low-pitched wind coming from in front of you as you move down this tunnel. "
+891,36,[wind blowing] ,
+892,36,Griffin," She says,"
+893,36,Noelle," Alright, I should be able to get us there, there’s a few twists and turns we need to make, but, um. Shouldn’t be too complicated. "
+894,36,Griffin," And—almost as soon as she says that, you see a light in front of you. "
+895,36,[ominous electric machinery noises],
+896,36,Griffin," What looks like a floating ball of light in front of you that appears from around a corner. And then you see a second, and then a third ball of light. You see three floating balls of light and they fly at you fast. But they don’t collide with you, they just kinda pass over and around you and as they do, you hear what sounds like, this sound of like, men, like, moaning sadly as they—as they fly by you. And move through the tunnel back into the robot factory. "
+897,36,Travis," Oh, snap! I might’ve just figured out what those fuses are for."
+898,36,Griffin," From behind you, where the lights went, you see three shapes appear in the tunnel behind you. And they are three humanoid robots. One is sort of massive, massively built, kind of gorilla-like. Another is much more slender with a, what looks like a cannon for an arm. And another one is very short and has what appears to be, like, a bunch of wires sticking out of it. And they all run at you and once they get within sort of spitting distance, they stop and you hear all three kind of laugh. And one of them goes,"
+899,36,Maarvy," Oh my god, I can’t believe it’s you guys! Oh my god, I can’t believe I get a second stab at this!"
+900,36,Griffin," Uh,"
+901,36,Travis, Huh? 
+902,36,Griffin," That’s the one, the big gorilla-lookin’ one says that. And the one with the cannon for an arm goes"
+903,36,Magic Brian," Oh, yes! This is going to be a lovely little rematch, isn’t it? "
+904,36,Travis," Oh snap, Magic Brian!"
+905,36,Griffin," And the short one with the wires sticking out of it says, uh "
+906,36,Jenkins," That’s right, motherfuckers. It’s time for round 2."
+907,36,Travis, I said I'd smell you later.
+908,36,Justin, Consider yourselves
+909,36,Clint & Justin, Smelled! [laughing]
+910,36,{music plays[a] until 1,"1716, commercial break until the end}"
+911,36,[Next episode],
+912,36,[a]hey uh what is this one? can't find it on the soundcloud OST,

@@ -1,0 +1,651 @@
+,episode,speaker,lines
+0,52,The Adventure Zone,
+1,52,Dungeon Master & NPCs, Griffin McElroy
+2,52,Magnus Burnsides, Travis McElroy
+3,52,Merle Highchurch, Clint McElroy
+4,52,Taako Taaco, Justin McElroy
+5,52,Episode 52 - The Suffering Game - Chapter Two,
+6,52,(part of TAZscripts on Tumblr),
+7,52,Griffin," Previously, on the Adventure Zone…"
+8,52,[theme music begins playing in the background],
+9,52,Griffin," And she pulls out a flier and it’s really gaudy. It is advertising in big, colorful block letters a place called Wonderland."
+10,52,The Director," On this flier is an image, and it is in fact a grand relic. As the flier says, it’s the Animus Bell. My journey through Wonderland was hell. I wagered 20 years of my life in a game of chess in Wonderland, and I lost."
+11,52,Griffin," And then an arrow comes in and hits that goat head and with that the chimera just instantly falls to the ground dead. You see a few people. You see, a, uh, half-elf man who is kind of gruff. With him you see a wood elf, you see a kind of scrawny human man who is no older than like 20 years old, probably. He is Lord Artemis Sterling, the ruler of Neverwinter, and the most powerful man in the world."
+12,52,[intro music],
+13,52,Announcer," What will our boys find in Wonderland? Well, this arc’s called “The Suffering Game”, so...nothing great! It’s the Adventure Zone!"
+14,52,[THEME MUSIC," ""Déjà Vu"" by Mort Garson (full song on YouTube)]"
+15,52,{1,42}
+16,52,Griffin, Are you guys good? Are you guys- are you guys ready to be whisked away?
+17,52,Clint, Uh—
+18,52,Travis," Whisk, whisk, whisk."
+19,52,Clint, I have—I have a little concern. 
+20,52,Griffin, Okay.
+21,52,Clint, What—why is this arc called “The Suffering Game”?
+22,52,Griffin," Oh, don’t worry about that, Dad. "
+23,52,Clint," Why? Why, Griffin?"
+24,52,Griffin," Aw, Daddy, don’t worry about it. I—I would never—  "
+25,52,Clint, What’s in the box? What’s in the boooxx?
+26,52,[laughing],
+27,52,Travis," No, Dad, it’s like when you call like a big guy “Tiny”, or you know what I mean?"
+28,52,Griffin, Yeah.
+29,52,Travis," Or like, a little guy “Biggie”?"
+30,52,Clint," Okay, so it’s really the “The Celebrating Game.”"
+31,52,Griffin," That’s exactly right, Dad."
+32,52,Clint," Heh, okay, I feel a little better now. I’ve been concerned."
+33,52,Griffin," No, you have nothing to worry about. So, um, at the end of the last episode you encountered these three people. You, uh, see a half-elf guy with a big old long-bow dressed in pelts, with a short, shaggy, uh, beard and dark red hair. There’s an elven woman with, uh, dark purple hair and she’s got a gnarled wooden staff and the same sort of pelt armor. And you see Lord Artemis Sterling, the Lord of Highwin—of Neverwinter, um, and he’s holding a shortbow, and um, he’s kind of standing behind the two elves, and, he’s, he’s dressed in this finery, and he looks at the three of you, and he says, uh. I need a voice for this boy. He says, uh..."
+34,52,Clint," Oh, use the king from uh, Hamilton. That’ll be good."
+35,52,Lord Artemis Sterling, [obnoxious voice] Who are you? Have you been following us?
+36,52,Travis," Nah, I’m not gonna deal with this for the whole arc, Griffin."
+37,52,[Clint laughing],
+38,52,Lord Artemis Sterling, [same voice but a little more nerd] What’s wrong? It’s me. Lord Artemis Sterling.
+39,52,Travis," Nah, nah, nah."
+40,52,Lord Artemis Sterling," Have you been following us? Have you been following us, the whole time?"
+41,52,Travis," I’m not gonna deal with Berries and Cream for this whole episode, Griffin."
+42,52,Griffin," That’s what you got. When you got berries and cream, you make berries and cream-onade."
+43,52,Justin," Okay, that’s not how any of that works."
+44,52,Griffin," Uh, he’s asking you a question, and these two elves, which you kind of surmise just because they’re standing between you and him, are probably his bodyguards. Uh, the half-elf guy has his long-bow drawn on the three of you."
+45,52,Lord Artemis Sterling, Have you been following us this whole time? Answer me.
+46,52,Magnus, No?
+47,52,Taako, No.
+48,52,Lord Artemis Sterling, What brings you to the Felicity Wilds?
+49,52,Magnus, Wh—
+50,52,Merle, Big—big bubble.
+51,52,Magnus, We had a—
+52,52,Taako," It was a, yeah, a big bubble brought us."
+53,52,Magnus," Okay, wait, this, oh good, okay, this is a common misconception. Are you asking what conveyed us here, like through what method did we arrive, or for what purpose?"
+54,52,Lord Artemis Sterling, [huff] What is your goal for being here? Why are you here?
+55,52,Magnus," Ah, see, that’s the confusion, guys. You thought that—"
+56,52,Merle, Not to follow you. Hehe.
+57,52,Magnus," No, we’re here ‘cause the—the Wonderland...thing, and we’re gonna—"
+58,52,Griffin," When you say that, he sort of stands up with a start, and walks over and whispers into the half-elf’s ear, and he says, Sterling says, uh,"
+59,52,Lord Artemis Sterling, Turn around and leave these woods. Don’t try to follow us any further or my mercenaries will kill you.
+60,52,Magnus, Secrets– secrets are no fun.
+61,52,Griffin," When he says that the elves kind of like roll their eyes, um, and the half-elf man says, "
+62,52,Man," Hey, are you guys, uh, are you guys mercs?"
+63,52,Taako, Sort of.
+64,52,Magnus, Yeah.
+65,52,Taako," That’s as useful as—you know what, yeah."
+66,52,Merle," Potato, po-tah-to..."
+67,52,Taako," Yeah, let’s go with mercs."
+68,52,Magnus," I mean, I’m a level ten fighter, level two rogue, so I think merc fits that pretty good."
+69,52,Taako," Aw, sure, yeah."
+70,52,Man," Nice, I’m a level 14 ranger."
+71,52,Magnus, Nice. High five.
+72,52,[Griffin laughs],
+73,52,Merle, I’m a level 20 LIAR.
+74,52,Magnus," No, you’re not."
+75,52,[Justin laughs.],
+76,52,Griffin," As you’re like talking to this half-elf who has sort of like a friendly demeanor, Lord Artemis Sterling seems like he’s kind of frustrated. Uh, and you also notice that he has and it’s weird, he has like, a beam of light? Coming out of him? That is like pointing him towards the woods? Like deeper into the woods? Uh—"
+77,52,Travis," Is Artemis- Griffin, is Artemis armed?"
+78,52,Griffin," Uh, yeah, he’s got a short bow on him. Um, and the elven woman turns to Sterling and is like,"
+79,52,Woman," Listen, there’s no need for us to fight about anything, they’re just going to Wonderland, too. We can all go together and the next time a chimera comes around it’ll make the trip a little bit easier."
+80,52,Griffin," And, um, Sterling is kind of protesting. He does not want to roll with the three of y’all."
+81,52,Merle," Hey, look, Short Pants, let the adults take care of this, okay?"
+82,52,Lord Artemis Sterling," How dare you, sir? Do you have any idea who I am?"
+83,52,Magnus," [crosstalking] Um, Merle?"
+84,52,Merle," No, actually, of the three of us, I’m the only one with a really bad perception roll, so, I have no idea."
+85,52,Travis," Oh yeah, that did happen!"
+86,52,Clint, I don’t know who he is!
+87,52,Lord Artemis Sterling," I am Lord Artemis Sterling, the ruler of Highwinter. I keep saying Highwinter. Sometimes I call it- I’m trying to change the name of Neverwinter to Highwinter because I think it sounds funnier. Um, like a- like a weed joke. Anyway I don’t wanna—[whispering] I don’t wanna go with these guys, we don’t know them. They might just be following us, they might be trying to, they might be using us to get to Wonderland and then they’ll try and kill us! I don’t wanna go with these—"
+88,52,Taako," Hey, listen, let’s get one thing straight We are gonna use you to get to Wonderland. But - we’re not gonna try to kill you once we’re there. So, that’s 50-50 I guess. That’s a win-win."
+89,52,Magnus," And you know what, you can use us, too. We’ll use each other. That’s what friendship is."
+90,52,[Clint laughing],
+91,52,Griffin," The ranger smiles and he lowers his bow, he’s like, "
+92,52,Man," I like these guys. Let’s just go with them. Sterling, you gotta trust me on—you hired us to get you through these woods, and that means using all the resources at your disposal, and these boys look like good resources. Hey, do you guys want some jerky?"
+93,52,[“The Felicity Wilds” starts playing],
+94,52,Griffin, And he pulls some jerky out of—yeah.
+95,52,        Magnus," I do! What’s your name, friend?"
+96,52,Griffin, And he hands you—
+97,52,Man," Uh, my name is...let me try and look it up."
+98,52,Magnus, Okay?
+99,52,Rowan," Oh my name’s—my name’s Rowan! Yeah, I live here in these woods, and just tryna help get the boy-king here into Wonderland."
+100,52,Magnus," Rowan, you and I are gonna be BFFs. Should we come up with some kinda like secret handshake, or something?"
+101,52,Rowan," I think we shouldn’t come up with it, I think let’s just put our hands together right now and see what happens."
+102,52,Magnus, Alright. Let’s do it.
+103,52,Griffin, You just do it.
+104,52,Travis," Is it amazing, Griffin?"
+105,52,[Clint singing vaguely],
+106,52,Griffin," It’s am—it’s a 14-step secret handshake and it’s really, really great. Um, the druid woman walks over to you, Merle, and like, without saying a word, just kind of grabs your Soulwood arm and like, starts like, inspecting it. She’s like,"
+107,52,Woman, Are you—are you like a—are you part dryad? Are you- are you a tree folk? What is this? This is awesome!
+108,52,Merle, You’ve heard of having a green thumb?
+109,52,Woman, Yeah?
+110,52,Merle," Eh, this, this was just like a green thumb thing gone totally wrong. Nah. No, Pan gave me this. My god, Pan. Ah, well, he allowed it to happen."
+111,52,Woman," Aw, I like Pan."
+112,52,Griffin," She smiles, and lets go of your arm. She’s like—"
+113,52,Travis," Dad, have you been sick? Because your voice is evolving into like a really cool level. I’m really digging it."
+114,52,Griffin," Yeah, it’s really neat."
+115,52,Clint," I am really sick, thank you for asking."
+116,52,Travis," Yeah, you sound super cool."
+117,52,Griffin," She releases your arm, and she looks a little bit disappointed, she’s like,"
+118,52,Woman," Oh, that’s- I mean, it’s cool, I was—I was hoping it was sort of a dryad situation. But, uh—"
+119,52,Taako," Yeah, it’s, uh—"
+120,52,Merle," It is! It is! I’ve got like a third cousin that’s, uh, 60% dryad."
+121,52,Griffin," Okay, that’s—"
+122,52,Taako, He’s like a tree-borg.
+123,52,Clint," Tree-borg! Ooh, I’m stealing that. Tree-borg."
+124,52,Justin, I’ve been sitting here for three minutes trying to come up with something better than “tree-borg”.
+125,52,[Clint laughing],
+126,52,Justin," “Tree” doesn’t rhyme with “cy”, it’s a stupid pun, it’s like not even a pun."
+127,52,Travis, Dryborg. Dryborg.
+128,52,Griffin, Dryborg’s pretty good.
+129,52,Justin, Dryborg. [disappointed] Dryborg’s not bad. That’s better.
+130,52,Griffin," Um, so, I think while you guys are sort of getting to know these two—"
+131,52,Travis, Big Bad Treetleborgs.
+132,52,[Griffin laughs],
+133,52,Justin, Okay. [disgruntled]
+134,52,Clint, Sycamore-borg!
+135,52,Griffin, Alright we’re done.
+136,52,Justin, Now we’re just saying things.
+137,52,Griffin," While uh, while you three are getting to know these elves, I think Sterling just kinda starts to walk off into the woods, uh, and as he goes the two elves kind of chase after him. And the six of you make your way through the Felicity Wilds. And it’s a quiet trip, there’s no more three-headed monstrosities to fight on your trek to Wonderland—"
+138,52,Justin," Hey, on the way, can I ask Sterling—"
+139,52,Griffin, Yeah.
+140,52,Justin, —what’s up with the beam of light?
+141,52,Griffin," Uh, he says,"
+142,52,Lord Artemis Sterling," It’s—it’s none of your business, okay. It’s my way of finding Wonderland, alright?"
+143,52,Taako," Oh, so just follow the weird Care Bear Stare you got kickin’ there, and it’ll get us safely there, right?"
+144,52,Griffin," He sighs and he’s like,"
+145,52,Lord Artemis Sterling," Yeah, that’s the idea."
+146,52,Griffin, And he keeps walking.
+147,52,Travis," During this, Rowan and Magnus are just trading jerky stories."
+148,52,Griffin, Yeah.
+149,52,Travis," Different places where they’ve had jerky, different kinds of jerky they’ve had."
+150,52,Griffin, Yeah.
+151,52,Clint, Rephrase that a little.
+152,52,Travis, I will not.
+153,52,Griffin," No, he will not rephrase that."
+154,52,Travis, I said what I said and I am standing by it.
+155,52,Griffin," So yeah your trip is, uh, aside from Sterling who’s kind of a heel, you get to know these other two elves Rowan and Antonia and you all kind of have a lot in common. They are mercenaries, uh, hired to get him through the forest and they’re pretty friendly. Um, Merle, you and Antonia spend of a lot of time just talkin’ tree, and you share some jerky with Rowan, and you all have a fairly good time, and after about a half day’s journey, you reach a clearing. And it’s a huge clearing, actually, it’s carved out of the forest in a perfect circle. And in the middle of that circle is Wonderland."
+156,52,"And it’s a squat, wide, cylindrical building with these large floodlights positioned all around it, shining on its surface. And the building, the exterior of the building is painted in these vertical white and black stripes, um, but it’s not-- you realize it’s not paint because that pattern is actually moving? It’s like, spinning in a circle, like rotating around the exterior of this cylinder, and it almost looks like a giant roulette wheel. And… you notice that Artemis’s beam is leading you down a dirt path towards Wonderland, and as you look around this clearing you realize it’s one of maybe a dozen dirt paths all leading from different parts of the woods directly towards Wonderland.",
+157,52,"And you actually see on a couple of the paths, you see a couple other beams of light, apparently leading other people in from the woods as if this thing is like, attracting folks from all over. Uh, and the dirt path that you are sort of directed down is lined with billboards. Big, tall billboards. And they are kind of- the design of them is just as gaudy and loud as the flyer invitation that the Director showed you, and it’s showcasing the prizes awaiting within. And you see your names—Taako, Merle, Magnus—on a big billboard, and you see the Animus Bell on your billboard and it looks exactly like it did on the Director’s invitation. But there’s three other billboards also, uh. ",
+158,52,"You see one with Sterling’s name on it. And on Sterling’s billboard there’s a big, intricately sort of crafted glass vial of silvery liquid, and the billboard calls this vial “Miracle Milk.” And he kind of gasps when he sees it and motions to the mercs. And they have their own billboards, too. Antonia has a billboard with an anatomically correct heart made out of gnarled wood? And it’s called the “Heart of the Forest.” And she kind of, when she sees this, she goes,",
+159,52,Antonia, Huh. I didn’t think I would have one.
+160,52,Griffin," Uh, and then there’s a billboard for Rowan, too, and it has just a plain leather band on it and it’s labeled “Carmine’s Collar.” And he just kind of, when he sees it he just goes like,"
+161,52,Rowan, Huh. Interesting.
+162,52,Griffin," Um, and so, that is the approach into Wonderland, and the other three people in your party start walking in towards—"
+163,52,Travis," Wait, hold on, hold on."
+164,52,Justin," And as I peer out into the darkness, I see there’s one for Merle. And it’s a—a prosthetic penis. It’s so strange, it’s like, “Replace what you have lost and perhaps never had.”"
+165,52,Griffin, Like his weiner got taken away?
+166,52,Justin, “Prosthetic Penis Today.” Yeah.
+167,52,Clint, When did that happen?
+168,52,Griffin, I don’t remember his weiner getting…
+169,52,Justin, I’m just reading the billboard. I’m just looking at the billboard.
+170,52,Travis, Don’t you remember—it’s in one of those bonus episodes we’ve recorded that hasn’t aired yet. You’ll hear it. You’ll hear it.
+171,52,Clint, Ohhhh.
+172,52,Griffin," When the weiner-grabber came and he took, he took your weiner away to the Weiner Dimension."
+173,52,Justin," [in a horrible voice] “Hi, everybody, I got another weiner!”"
+174,52,Griffin, That sounds like Mickey Mouse. Now it’s like a Kingdom Hearts thing.
+175,52,Justin, [in a creepily accurate Mickey Mouse impression] “Hey! I got your weiner!”
+176,52,Travis," People keep wondering when the two shows will cross over and here it is, right here."
+177,52,Justin, “Here it is! I’m gonna give this weiner to my buddy Toodles! He’s gonna take it away forever!”
+178,52,Magnus," Uh, now, everybody, hold on just one moment. Uh, this seems a little simple, doesn’t it?"
+179,52,Rowan," Yeah, I mean, you guys get that this is a big trap, right? Like."
+180,52,Taako, Oh yeah.
+181,52,Rowan," Like, it’s a hugely, deadly trap."
+182,52,Magnus," Yeah, but like, but like, this whole walkway is lined with like, “Yeah, everything’s gonna be like—here’s your prizes, just walk on through!”"
+183,52,Taako," Yeah, but it’s like a trap. Like, we have been, Rowan, referring to this little adventure of ours as “The Suffering Game.” It’s a nickname we came up with. We don’t even know why we’re calling it that, we just kinda feel like it’s gonna go bad."
+184,52,Rowan," Um, yeah, I mean it’s not great, but the money is really good for this job? And now that I know that that collar’s in there, I kinda can’t not go in?"
+185,52,Magnus, I understand. Wait right here for just one second.
+186,52,Travis, And Magnus pulls out his shield and just sprints down the path.
+187,52,Griffin, Okay. Doing what?
+188,52,Travis, Just kind of like—
+189,52,Clint, Being stupid?
+190,52,Travis," No, you know, bobbing and weaving, serpentine. Lots of unnecessary rolls."
+191,52,Griffin," [amused] Alright, you do some fucking Paul Blart Mall Cop-style antics as you roll and bob and weave your way down the path. And there’s no land mines. There’s no trip wires. You just make it to the building and the other five people are just like looking at you, I guess."
+192,52,Magnus, [calling out] Everything’s cool! I thought there might- I thought there might be traps! But everything’s fine!
+193,52,Griffin, Yep.
+194,52,Taako, So you thought the trap would be in the road to the trap?
+195,52,Magnus," I just—I thought it seemed pretty simple? ‘Cause it was just like a pathway? And we started with like a fight in the thing, so I thought maybe there’d be more things? You know what, in retrospect, I realize how that looked."
+196,52,Taako," So cool, is your answer, it looked so cool."
+197,52,Griffin," So, do you, I’m guessing the rest of you follow down the approach now that there’s no—confirmed no—"
+198,52,Justin, At regular speed. Like regular adult speed.
+199,52,Clint, No cartwheels.
+200,52,Justin, No flip-flops.
+201,52,Clint, No rolls.
+202,52,Justin, No stunts.
+203,52,Griffin," You, uh, okay. You make it to the building and the pattern, this black and white roulette wheel pattern, stops spinning. And it, uh, you see a black segment has stopped sort of in your direction, and…"
+204,52,Justin, Did it stop spinning for us? Like does it seem to have stopped because we approached it?
+205,52,Griffin, Yeah. Yeah.
+206,52,Justin," Okay, is it all leading to a central—are all these different roads leading to like a central entrance?"
+207,52,Griffin," Yeah, that’s leading to this huge, cylindrical building. And as the wheel stops on this black segment, um, a portion of the wall just sort of slides away? And all of a sudden there is an entrance into the building and through that—"
+208,52,Travis," So, what you’ve been describing Griffin, just so I know I can picture it correctly, is kind of like a kinetoscope? Where like it’s segmented and if you’re looking it’s spinning past going white-black-white-black-white-black, right?"
+209,52,Griffin," Yeah, kind of, kind of."
+210,52,Travis, Okay. And it stopped on a specific segment when we walked up?
+211,52,Griffin," Uh-huh. And this door, this doorway opens in the wall, and three  names appear above it. And the names are Antonia, Rowan, and Lord Artemis Sterling. And Sterling doesn’t say anything, he doesn’t wish you guys goodbye, he doesn’t even address you, he’s sort of continuing his streak of being a dick that he’s carried on throughout your journey through the woods, and he just walks in, and Rowan sighs, and he says,"
+212,52,        Rowan," Well, guys, I guess I’ll see you on the other side. Oh!"
+213,52,Griffin," He reaches into his bag and he pulls out a small container of extra jerky and he hands it to you, Magnus, and he says,"
+214,52,        Rowan, In case you guys get hungry in there.
+215,52,Travis," And I reach into my bag and I pull out a small, carved wooden duck."
+216,52,Griffin," And he says, uh,"
+217,52,        Rowan," Wow, this is great! Antonia, did you see this?"
+218,52,        Magnus," I made that just for you, buddy. While we were walking."
+219,52,Griffin, She’s uh—
+220,52,        Magnus, I carved it while I was rolling down the pathway.
+221,52,Griffin," And Rowan walks into the door, and sort of disappears into that black space."
+222,52,Justin," Does there seem to be any interaction between the light and the roulette wheel, or was that really just guiding him to the wheel?"
+223,52,Griffin," It was just sort of guiding him in like it was, it was—"
+224,52,Justin, It didn’t seem like a key or anything? It just seemed to--
+225,52,Griffin," No, it’s almost like a siren song. Like you follow the light to… to Wonderland. "
+226,52,Clint, Can we see the other people going in the other entrances from the other paths?
+227,52,Griffin," No, there’s nobody else making their approach in this clearing right now. They’re just like, on their way, you kind of assume."
+228,52,Clint, [crosstalk] Okay.
+229,52,Griffin," Um, and Antonia says,"
+230,52,Antonia," Well, good luck, boys. Uh, sorry about Lord Sterling. He’s kinda… kind of a ding dong."
+231,52,Taako, Eh. We’re used to it.
+232,52,Antonia, I hope we’ll see you guys again. Good luck in there.
+233,52,Taako, Best of luck.
+234,52,Merle, Smell ya later.
+235,52,Magnus, Peace.
+236,52,Griffin," She walks into the roulette wheel and the door closes, and the names disappear, and they’re gone. And then the wheel spins some more, and it ends after a few rotations on a white space, and another door appears, and this one has your guys’ names on it. And there’s nothing beyond it except just inky blackness."
+237,52,Clint," So, it’s a white door with inky blackness?"
+238,52,Griffin," Yeah. Like, it’s not like—it’s not just dark inside, it is black. Like it’s like you’re—yeah. It’s kind of less like a doorway and more like a portal."
+239,52,Travis, Magnus is already inside.
+240,52,Griffin," Oh. Shit, okay."
+241,52,Clint," Merle turns and says,"
+242,52,Merle," Hey, Magnus, do you uh—what the hell? "
+243,52,Taako," Yeah, I’m not sure about this one, fellas. I mean, I’m trying to be true to Taako, aaaaand this seems wack as all hell."
+244,52,Travis," Griffin, can I step back out real quick?        "
+245,52,Griffin," Uh, yeah."
+246,52,Travis, I grab Taako and run inside.
+247,52,Taako, Son of a bitch!
+248,52,Griffin," Uh, okay. Merle, you followin’ suit?"
+249,52,Clint," [sighs, pause] Yeah, I waddle on in."
+250,52,Griffin," Okay. As soon as you’re through the passageway, uh, you look behind you, and it’s like, it wasn’t even like a door shut menacingly behind you, the d—it’s just not there. You are—you are in a chamber that is so dark you can barely see. Even those of you with Dark Vision, I think, uh everybody but Magnus has special eyes that they can see in the dark. You can’t really see much of anything, um, you can just kind of make out the shapes of things. You can tell it’s a huge, huge chamber, bigger even than it appeared on the outside, but after a few moments everything is illuminated. "
+251,52,Griffin," There’s a row of spotlights on the ceiling that click on, and these two big rotating floodlights on the ground that activate and shine upwards, and they cross on the center of the chamber and you see two figures standing on a long, elevated platform. Uh, they are beautiful elves, one female, one male, uh, and they are dressed in these tight-fitting, high-fashion garments of gold and green and violet. He’s wearing a golden half-cape, with fur trim, and she’s wearing these huge, insane, golden shoulder pads. And you realize the long platform they’re standing on is a runway. And the—the female elf sticks a slender, gloved arm into the air and snaps."
+252,52,[Storm Top Dog by Zackery Wilson plays],
+253,52,Griffin," And all of a sudden the ceiling and walls and floors of this room transform into a thousand multicolored neon panels that shift and flash in time with the loud pulsating music that floods the chamber. And every time like, every time that the beat hits on this song, the spotlights flash in time, and every time they do they catch this duo as they just fuckin’ vogue and pose their way down the runway, just like, working it. Just like hitting the beat so fucking hard and just voguing their brains out. Um…"
+254,52,Justin, This should go without saying at this point. Taako is delighted.
+255,52,[laughter],
+256,52,Justin," Like fucking, finally, we go someplace cool. It’s been so long, and finally we are someplace that is worth visiting."
+257,52,Griffin," Um, and they reach the end of the runway, which is just this large, circular platform, and as they do the rest of this runway descends down into the ground to be about floor-level. And this circle platform spins around a few times as they continue to pose to the music. And finally, they address you. And I’m gonna need two voices here—"
+258,52,Taako, [applauding] Fucking amazing!
+259,52,Griffin," Um, they say… I might just do like Jessie James… Jessie and James from Pokémon."
+260,52,Travis," Yes, please."
+261,52,Justin, Yes.
+262,52,Griffin," Um, but Jessie kind of sounds like Taako already. Well—okay, I’m not worried about it. The male elf says, uh,"
+263,52,Male Elf, You made it. Welcome to Wonderland.
+264,52,Griffin," And the woman says uh,"
+265,52,Female Elf," Hopefully, you didn’t have too much trouble navigating the Wilds."
+266,52,Travis, Meowth!
+267,52,[laughter],
+268,52,Justin, I like Meowth there.
+269,52,Griffin," Uh, and suddenly the male elf is behind you Taako, and he’s got his hand on your shoulder, although weirdly, you can’t like, feel it. He’s like, weightless. And he says,"
+270,52,Male Elf," Are you excited for your quest’s end? Whatever you seek, you will find it in Wonderland."
+271,52,Taako," I wasn’t before, but I’m getting pretty jived now!"
+272,52,[Clint laughs],
+273,52,Griffin," And, uh, the woman is behind you now Magnus, with her hand on your shoulder. And she says uh—"
+274,52,Female Elf, It’s not gonna come—
+275,52,Magnus, [surprised] AHH!
+276,52,[laughter],
+277,52,Female Elf," It’s not gonna come easy, though, dear, are you prepared for that?"
+278,52,Magnus, What? Was that an innuendo?
+279,52,Griffin, She winks—
+280,52,Magnus, I’m not— I'm very uncomfortable.
+281,52,Griffin, She winks.
+282,52,Female Elf, Maybe.
+283,52,Magnus, Ehhw...
+284,52,Griffin, And all of a sudden they’re both back on top of the platform. Um...
+285,52,Justin," Hey, are they casting shadows, Griffin?"
+286,52,Griffin," Uh, no, they’re not."
+287,52,Justin, [quietly] Didn’t think so.
+288,52,Griffin," He says,"
+289,52,Male Elf, The rules are simple. You will be evaluated through a ser—
+290,52,Magnus, Are you guys holograms?
+291,52,Male Elf, What’s that?
+292,52,Magnus, Are you holo—are you hologra—Are you illusions?
+293,52,Clint, Are you Jem?
+294,52,Griffin," She says,"
+295,52,Female Elf," When we look this good, does it really matter?"
+296,52,Griffin, And she vogues one more time.
+297,52,Taako, No!
+298,52,Magnus," No, I mean, no, he’s right, no."
+299,52,Taako, Shut the fuck up!
+300,52,Magnus, Okay.
+301,52,Male Elf, The rules are simple. You will be evaluated through a series of tests and games in order to determine the extent to which you truly want your prize. 
+302,52,Griffin," And she says uh,"
+303,52,Female Elf," The tests will be rough, but they’re important. In Wonderland you can only find the things you truly desire by losing the things that hold you back. You follow the rules of the tests, you push through the pain, and you will leave here happy."
+304,52,Griffin," And he says uh,"
+305,52,Male Elf," You break the rules, you try to find shortcuts, and you won’t leave here… happy. Ready to get started?"
+306,52,Taako, I have one question.
+307,52,Male Elf, Shoot.
+308,52,Taako," Are you guys taking applications, or like what’s the story vis a vis employment? I have skills, whatever."
+309,52,Griffin, Um…
+310,52,Taako, Several references; these dunces. Others that are dead.
+311,52,Griffin," She laughs, and he kind of looks at her seriously, like, he’s thinkin’ about it a little bit."
+312,52,Taako, Yessss!
+313,52,Griffin," Um, and he says uh,"
+314,52,Male Elf," Let’s see if you can make it through Wonderland. If that’s what you truly desire, maybe it will be waiting for you at the end of your… trials."
+315,52,Taako, Hell yeah.
+316,52,Griffin," And they lift their arms up in the air and snap. And just like that, they disappear. And that circular panel that they were standing on lowers to about waist height, and you realize that this spinning platform they were standing on actually is a giant wheel, like a roulette wheel that is cut into various multi-colored sections, each with a different symbol on it. And the two floodlights on the ground rotate to shine on a large, stone door at the opposite end of the room, and above that door are three dim, red, circular panels. And the symbols on this wheel, really quick, are there’s an eye, there’s one that looks just like a body, there’s a skull, there’s one that looks like a brain, there’s one that looks like a backpack, one that looks like a hand, one that looks like two crossed swords,"
+317,52,Travis," [far from the microphone] Slow down, slow down."
+318,52,Griffin," No, you don’t have to— you don’t have to write these down."
+319,52,Travis, Okay. I was trying to like Myst slash Riven this shit.
+320,52,Griffin," No, no, no, no."
+321,52,Travis, But apparently it doesn’t matter.
+322,52,Griffin," No, nothing like that. Two crossed swords, there’s one of a clock, and then there’s a question mark. Uh, and you hear a voice say,"
+323,52,Male Elf," This is the Wheel of Sacrifice. You spin it, and you give up whatever it lands on. You are, of course, free to refuse if you land on something you value too much to lose, but there will be a penalty for your reluctance."
+324,52,Travis," Man, I hope it doesn’t land on the skull."
+325,52,Female Elf," After completing enough sacrifices, the door will open. "
+326,52,Griffin," And the voices are gone, and all of the lights, all of the spotlights in the chamber pivot to shine directly on this wheel in the center of the room. And, give me a second…"
+327,52,Clint," I gotta tell you, the production values in Wonderland are stunnin’. They are absolutely beautiful."
+328,52,Griffin," So this wheel is before you, and in order to open the large stone door at the other end of the chamber, uh, you will need to sacrifice three things."
+329,52,Travis," Now is this the kind of thing where we each do it once, or everytime we click it all three of us have to sacrifice whatever comes up?"
+330,52,Griffin," You hear the voice explain to you that,"
+331,52,Male Elf," Each of you will take one turn at a time. And, uh, you spin the wheel and whoever spun the wheel is the one who will have to do the sacrificing."
+332,52,Travis, Cool. I will go first.
+333,52,Griffin, Okay.
+334,52,Travis, As is my wont.
+335,52,Griffin," So I dropped a link into Skype for you to a website called Wheel Decide, thank you Wheel Decide, sponsor of the show this week, for uh, this good good internet software. So click that wheel and it should spin and you tell me what it lands on."
+336,52,Travis, Hand.
+337,52,Griffin," Hand. Okay. Uh, you hear those voices again. And you hear, um...hm, what do I want to do? [pause]"
+338,52,Male Elf," Hand, hand, hand. How gnarly do I want to be to start out?"
+339,52,Griffin," And you hear the woman’s voice say,"
+340,52,Female Elf," Oh not too gnarly, they’re just getting-we don’t want to discourage them right from the beginning. "
+341,52,Griffin," And you hear the man’s voice say,"
+342,52,Male Elf," Okay, okay. How about this? One finger. You get to pick it. I won’t, I won’t choose it for you. You get to pick the finger. You won’t even have to like, cut it off, we’re not gonna have another Crystal Kingdom debacle on our hands. You just pick it and then boop!"
+343,52,Merle," If you do wanna cut it off, though, I’ll help him out."
+344,52,[wheezing laughter],
+345,52,Male Elf," This is not that bad. It’s just—you’ve got ten of them, don’t be- you’re being greedy, actually. "
+346,52,Travis," Actually, we’ve never discussed this but Magnus was actually born with eleven fingers. So this is a very--"
+347,52,Griffin, No.
+348,52,Travis, No? Okay. Um…
+349,52,Clint," So it has to be the person who spun the wheel that makes the sacrifice, or any of the three of us could make the sacrifice?"
+350,52,Justin, Whoever spun the wheel...
+351,52,Griffin," No, the one who spun the wheel is the one that does it."
+352,52,Male Elf," And honestly, if it is too much, if you are going to be selfish about this, you don’t have to do it. But there will be a small penalty."
+353,52,[Clint and Justin chuckling],
+354,52,Travis," Okay, so, just so I understand the parameters, if I don’t do it, I’m not disqualified from moving forward, there’s just—"
+355,52,Male Elf," Oh, no, God no, I want you to move forward."
+356,52,Travis," Hmmm. This is tricky, see because I’m sitting here thinking both as like a carpenter and a wood-carver, and a fighter, and a rogue, losing a finger, even like a pinky, could be detrimental."
+357,52,Justin," Yeah but if you think about all those professions, statistically speaking, you should have lost a couple already."
+358,52,Travis, That’s an excellent point.
+359,52,Justin," So you’re kind of ahead of the game, really."
+360,52,Travis," Oof, this is just such a big… Alright, yeah. Take, uh—oh, fuck me, none of my gloves will fit."
+361,52,Justin, Not the thumb!
+362,52,Clint," [sarcastically] Oh, wah."
+363,52,Travis, I’m not losing the thumb! I’m not losing the thumb.
+364,52,Clint," [sarcastically] This is so sad, I feel so bad for you. [Griffin laughing]"
+365,52,Justin, A whole finger.
+366,52,Clint, Losing a whole finger!
+367,52,Travis, I chopped off your hand—
+368,52,Clint, Boo-da-hoo-dee-fucking-HOO!
+369,52,Travis, I chopped off your hand to save your life! I’m chopping off a finger to win a game.
+370,52,        Male Elf, A very good game.
+371,52,Magnus," Uh, fuck. Any chance you tell us what the penalty is?"
+372,52,        Male Elf, Absolutely—not.
+373,52,        Magnus," Okay. Yeah, uh, take my left pinky. Goddamn."
+374,52,Griffin," Just as soon as you say that, Magnus, it’s just gone. And there’s no—it hurts a bit, but it doesn’t—"
+375,52,Clint," Aw, shit, come on!"
+376,52,Griffin," It doesn’t sting that bad. There was no like blade that popped out, it’s just your finger—"
+377,52,Clint, God.
+378,52,Griffin," Your pinky, where it once was, is—"
+379,52,Clint, I hate this game.
+380,52,Griffin," Now gone. And what—what are you wearing? You were… let’s say it was on your non-dominant hand, right?"
+381,52,Travis," Yeah, I think that’s the Fletcher’s Mitt. Or is that my phantom fist…"
+382,52,Griffin," Yeah so just the pinky on your Fletcher’s Mitt is now just like, empty, and it’s just kinda hangin’ down, but, yeah. Your left pinky is gone. And as soon as it disappears, you hear a bing! And one of those three red, circular panels above that stone door at the other end of the room turns bright green. Magnus, while you were kind of grousing, about, uh, the shittiness of losing a finger, like while you were doing that, make a perception check for me."
+383,52,Travis," Sixteen, plus uh...one. Seventeen."
+384,52,Griffin," It kinda—you know how like when it’s cold, you can see your breath when you talk?"
+385,52,Travis, Uh-huh.
+386,52,Griffin," It was kinda like that. For a second. With a 17, that’s what you kind of see."
+387,52,Justin, Hmm.
+388,52,Travis," Like, breathing out fog?"
+389,52,Griffin," Yeah, something like that."
+390,52,[Storm Top Dog by Zackery Wilson plays],
+391,52,Travis, Next.
+392,52,Justin, That wasn’t that bad. Let’s go.
+393,52,Clint," Yeah, that was nice. I kind of enjoyed it."
+394,52,[background music continues],
+395,52,{34,09-4155 commercial break}
+396,52,Griffin, Who’s going?
+397,52,Clint," I guess I will. Spinning, spinning. Holy crap! Ah, I’ll let Taako tell you."
+398,52,Justin, He got eye.
+399,52,Griffin, Eye. Okay.
+400,52,Clint, Ay-ay-ay.
+401,52,Griffin," Uh, you hear the woman say,"
+402,52,Female Elf," Aw, this is a real shame, you have such beautiful, beautiful dwarven eyes. I’ve always preferred dwarven eyes."
+403,52,Clint, Hazel.
+404,52,Female Elf," Hazel. Beautiful, hazel dwarven eyes... This sacrifice — we’re not gonna take an eye from you, don’t worry about that. "
+405,52,Clint, Whoo! Close!
+406,52,Female Elf," Just some of your, let’s say, keen dwarven vision."
+407,52,Griffin, So for this sacrifice you will lose dark vision. You will not be able to see in the dark—
+408,52,Travis," What the fuck, I lost a pinky, he loses dark vision?"
+409,52,Griffin," I should also mention you didn’t lose any like, tangible skills for your pinky loss."
+410,52,Travis," Mm, mm-hm. That’s fair."
+411,52,Justin, I think he should have to subtract one.
+412,52,Travis, From what?
+413,52,Justin, From rolls.
+414,52,Griffin, Everything.
+415,52,Travis, Every roll? No.
+416,52,Griffin, Everything involving his left hand. What do you say?
+417,52,Female Elf," What do you say, Merle? This is a breeze."
+418,52,Merle, Could I… give up an eye?
+419,52,Female Elf," Not yet. [whispers, almost inaudible] Yet."
+420,52,Merle," Okay. Yeah, go ahead. Take it."
+421,52,Female Elf, What’s wr- You sound dissatisfied by this.
+422,52,Merle," No, uh-uh. No, listen. I’m completely used to it. I mean, I can’t drive at night, I have shitty vision already. Take the dark...ness vision crap."
+423,52,Griffin," Um, okay. As soon as you say that your vision kind of changes, it’s kind of like when you’re taking a vision test and they’re trying on the different lenses to find out your prescription, and they switch you to a lens that is just like not good. You can still see just fine, but like this room, the parts of it that aren’t illuminated by spotlight are kind of dim, and so like all of a sudden you realize you can’t see those parts of the room as well. And Taako and Magnus, you notice that the color in his beautiful hazel eyes kind of drains away leaving him with just like dark grey irises. And with that a second panel above that door at the end of the room flashes green and you hear another ding."
+424,52,Travis, Cool… 
+425,52,Taako," Fine. Fine, I’ll go."
+426,52,Female Elf," Taako, it seems like you’re not enjoying the game very much."
+427,52,Taako," No, it’s been pretty good so far. I mean, so far. Yeah, I got “skull”."
+428,52,Griffin, Hmmm…
+429,52,[Clint laughs],
+430,52,Female Elf," Skull’s a nasty one. Skull is… sort of like delayed gratification. Well, not for you. For… me. Um, all skull means is at some point in the future, you will face some pretty bad luck. I’m not gonna tell you what that means necessarily but I will be honest. It won’t be great. What do you say, Taako?"
+431,52,Taako, ...Nah.
+432,52,[Clint laughs],
+433,52,Female Elf, You’re turning this one down?
+434,52,Taako, [thinking sounds]
+435,52,Magnus," Now hold on, hold on, Taako. Before you do, take a look at the other things on that wheel. There’s not like a good one. "
+436,52,Taako," Yeah, but my rationale is that I probably- there’s a chance I won’t have to suffer the penalty alone, right? It may be something that impacts all three of us."
+437,52,Travis," Yeah, but I’m not spinning again. So, like--"
+438,52,Female Elf," I do wanna point out it will only affect you, Taako. It’s your burden to bear."
+439,52,Taako, [sighs]
+440,52,Merle," Hey, bud, I’ll spin again if you want me to."
+441,52,Taako," No, I mean, it’s a skull. That’s what I got. ...Yeah, fine, I’ll take the bad luck."
+442,52,Griffin," Uh, okay. You say that and you don’t experience any change. And a green light above the door in front of you flashes on, and very slowly the wheel descends into the ground, and the stone door slides open. And—"
+443,52,Travis," Now Griffin, now Griffin I wanna ask, while Taako is kind of hemming and hawing there, did I notice anything? Was there any kind of—could we see his breath, too?"
+444,52,Griffin," Uh, no, you didn’t notice anything. You know, him and Merle were kind of being a little, uh, what’s the word I’m looking for...hesitant? But no you didn’t notice anything really comin’ from them."
+445,52,Travis, Gotcha. Okay.
+446,52,Griffin," Okay, the door in front of you is now open, and you see another chamber that is just kind of like pitch black. That you cannot, sort of, you can’t really see through."
+447,52,Taako," Well, that was—that just went great. You know what, I’m gonna get in the next one first, because if it’s anywhere near as cool as this one, I wanna be the first to see it. So, out of the way. Taako’s rushing in!"
+448,52,Travis," What! Okay, Magnus follows him."
+449,52,Clint, ...Merle’s good out here.
+450,52,Griffin," What’s going on? Um, okay, so not all three of you—boy, I don’t like it when you guys don’t go through doors at the same time."
+451,52,Clint," Ah, yes. Merle goes in."
+452,52,Griffin," Okay, you enter into the next chamber and um, you… let me find where I’m at. As you step into this like, void, you realize that you’re walking on some sort of floor, you don’t just sort of fall out into space. And again as soon as the three of you walk through that doorway, it vanishes. It is just gone. And in this pitch black room, you see a single point of light about 30 feet ahead of you, and as you approach it you realize that this light is coming from a small pedestal that is about chest-high and it’s got two buttons on it. On top of it. And going around the exterior of this cylindrical pedestal is a screen that wraps all the way around the span of the pedestal, and on this cylindrical screen are pixelated illustrations of your guys’ faces. And you hear the woman’s voice say,"
+453,52,Female Elf, Only one of you will play this particular game. Let’s find out who it’s going to be.
+454,52,Griffin, And all of a sudden the faces start spinning around the podium.
+455,52,[rolls dice],
+456,52,Griffin, And it stops on Merle.
+457,52,[Justin laughing],
+458,52,Travis," Ooh, yeah. Whew!"
+459,52,Griffin, You hear the man say—
+460,52,Magnus," High five, Taako."
+461,52,Griffin," The male elf say uh,"
+462,52,Male Elf," Merle, approach the podium."
+463,52,Merle, Okay.
+464,52,Griffin," You walk towards the podium and the buttons illuminate and they have words on them. And one of the buttons reads “Trust” and the other one reads “Forsake.” And you hear a voice say, uh,"
+465,52,Male Elf," The rules of this game are simple. You all probably know this already, but you’re not the only ones currently making your way through Wonderland right now. This section of the game will be something of a… a competitive mode. Right now there’s another group in another chamber identical to the one you’re standing in now. Now the next room you’ll face will feature a deadly, deadly challenge. But based on your decision in this room, you can change your fate in the next."
+466,52,Griffin," Um, and the woman says,"
+467,52,Female Elf, I’m not going to sugarcoat it– very few survive our challenges. They’re designed to push you to your breaking point which is not a place that many folks are capable of returning from. An advantage such as the one that you can secure in this chamber will be invaluable if you want to reach the end of Wonderland in—
+468,52,Taako, PRESS FORSAKE!
+469,52,Female Elf, Um. You—
+470,52,Taako," HEY, PRESS FORSAKE!"
+471,52,Female Elf," Quiet, please."
+472,52,[Clint laughs],
+473,52,Taako," Go ahead and press forsake, now!"
+474,52,Female Elf," You, Merle, and a rep—"
+475,52,Taako," It might be a speed thing, press forsake!"
+476,52,Female Elf," You, Merle—"
+477,52,Magnus, Go with trust!
+478,52,Taako, It might be timed!
+479,52,Magnus, Trust!
+480,52,Taako," It’s probably timed, go ahead and press forsake, I’ll do it, I have magic, let me get Bigby’s Hand up in here!"
+481,52,Female Elf, You—
+482,52,Magnus," Merle, you gotta truuust."
+483,52,Female Elf," Merle, you and a representative for that other group will decide what fates await your parties. Now, if both of you select trust, you’ll both face the challenge as it was normally designed. And as I mentioned before, that means you’ll face a trial that you may not walk away from. But, you don’t have to face that trial. That’s what the “forsake” button is for. Now, if you both get greedy and choose forsake, that’s bad news. You’ll both face a more difficult version of the trial, and these more challenging trials will probably kill you."
+484,52,Griffin," And the man says, uh,"
+485,52,Male Elf," But if you choose forsake and your opponent chooses trust, then that’s great news for you! You don’t have to face the trial at all. Your opponent’s team, however, will face a nearly impossible version of the challenge."
+486,52,Griffin," And the room illuminates with these bright multicolored rings that originate from the base of that pedestal and slowly sort of work their way around the room like encompassing it as this tense, like, Who Wants to be a Millionaire-style music starts playing."
+487,52,Taako, Where’s the other group?
+488,52,Female Elf," You don’t get to know who the other group, or who the representative for that group, is going to be."
+489,52,Magnus, Okay—
+490,52,Taako," But where are they, I mean, are they here?"
+491,52,Female Elf," They’re in Wonderland, absolutely."
+492,52,Taako, How far away?
+493,52,Female Elf," Space is kind of a weird, abstract concept in here. I wouldn’t worry about it."
+494,52,Magnus," Listen, Merle, I’ve thought about this, you got a one-in-three chance of it being bad, and a two-in-three chance of it being better. So if you hit trust and they hit trust it’s great. But if you both hit forsake, then… then it’s bad. It’s worse than before."
+495,52,Merle," Alright, Taako? Make your case."
+496,52,Taako," Yeah, forsake, my dude. They’re gonna forsake us. They’re vagabonds. I’ll tell you who the other group is—"
+497,52,Magnus," But—but Taako, but if he hits forsake, and they hit forsake…"
+498,52,Taako," So, I will say this. To your credit, the only thing I will say is, as near as I can figure, there’s a two out of three chance that the person on the other side is going to press trust."
+499,52,Magnus, Mm-hm.
+500,52,Taako, Because two of the three that we encountered were not total dillweeds.
+501,52,Magnus, Yup.
+502,52,Taako," So there’s a two out of three chance that they’re going to trust. Now, if it’s, uh, Stinkpants, or Archie of… of Bakedville—"
+503,52,Clint, [laughing] Riverdale?
+504,52,Taako," —or whatever he was trying to name his town, um, he is going to forsake and that would be the pits, for sure. But, it’s our podcast, so we’re not gonna die. So let’s say trust."
+505,52,Griffin, Uh—
+506,52,Clint, I—
+507,52,Griffin," The final decision’s up to Merle, and I’m going to count it that once you tell me what it is, you press the button and there will be no more—no more deliberating after that."
+508,52,Merle," Okay. ...The, uh, the dryad lady kind of had a thing for me, I could tell, just looking at her, so TRUST!!!"
+509,52,Griffin," Okay, you put your hand on the trust button and push it down and as soon as you do, the music comes to a stop. And, um, there’s no fanfare or anything like that. The room’s walls all just illuminate white and the far wall opposite to the one that you all came in through, you see words start to appear and it says, YOUR DECISION, and then, in big green letters, TRUST appears. And then you see—"
+510,52,[Griffin rolls dice],
+511,52,Griffin," THEIR DECISION. And in bright red letters, the word FORSAKE appears."
+512,52,Merle, Son of a bitch.
+513,52,Taako," I fuckin’—told you. But you know what? It doesn’t matter. If we had both forsaken, that would have been even worse."
+514,52,Male Elf," I do wanna be clear, this is the worst possible outcome for you guys."
+515,52,Griffin," Those words disappear and the door opens on that wall where the screen was, leading into the next chamber."
+516,52,Travis, So we don’t get to find out who pressed the button?
+517,52,Griffin, Nope.
+518,52,Travis, Okay.
+519,52,Taako, I got a theory.
+520,52,Merle, I don’t wanna gooo.
+521,52,Magnus, It’s gonna be fine. Don’t worry about it.
+522,52,Merle, [crying] Somethin’ bad’s gonna happen to Taakoooooo...
+523,52,Justin," Wait, are we all going, I thought he had to face it on his own?"
+524,52,Clint, What?!
+525,52,Griffin," No, you all go on to the next challenge."
+526,52,[Justin sighs],
+527,52,Clint, You suck!
+528,52,Taako, Let’s go.
+529,52,Griffin," Uh, as you said that, Merle, Magnus, now that you kinda know to look for it, you see that same fog kind of come out of Merle’s mouth. Um, and kind of just sort of float up into the ceiling."
+530,52,Travis, I see.
+531,52,Magnus," Hey, uh, Taako?"
+532,52,Taako, Yeah.
+533,52,Clint, Are you vaping?
+534,52,Magnus," No, in there, when I was like “I don’t wanna cut off my pinky,” and now in here, when Merle was all like, “I don’t wanna go in there bad—guy”, this like fog stuff came out of our mouths. What’s that?"
+535,52,Justin," Uh, I’m gonna roll an arcana check."
+536,52,Griffin, Mm-kay.
+537,52,Justin, See if I have any clue.
+538,52,Clint, [gasps] Crit 20.
+539,52,Justin," Oh, oh, that’s a-flashing Nat 20."
+540,52,Griffin," Oh, really?"
+541,52,Taako," Actually, I know exactly what the fuck that is."
+542,52,[Travis laughs],
+543,52,Taako," No probs. Let me open my mouth, and my voice might sound different, but I’m about to say something very smart about it. Here I go."
+544,52,Griffin," So here’s what I’ll tell you because that roll is too good for me to not tell you something. You noticed it too, you noticed this, it’s like a dark fog that came out of their mouths, and whenever Magnus, you know, kind of groused about getting his pinky chopped off, and when Merle was talking about how much this sucks, you saw this dark fog come out of their mouths. And whenever they said it, you don’t know like what’s causing it, but it is some sort of necrotic energy. That is leaving them and sort of being spirited away somewhere here in Wonderland."
+545,52,Clint, Taako didn’t even wanna come in!
+546,52,Taako," Mm-hmm. So, here’s my best guess, boys. My best guess is that this place—"
+547,52,Magnus," Wait, hold on, hold on. Pocket spa. Step in here with me real quick."
+548,52,Taako, ...Okay.
+549,52,Magnus, Or pocket workshop.
+550,52,Taako," Yeah, let’s go to the spa, please. I need a break. "
+551,52,[Justin makes a spa-opening sound effect- “fah-Vmm!”],
+552,52,Justin," Alright, so, the pocket spa’s open, and we can walk into the pocket spa."
+553,52,Taako," So, before we move on, uh, so here’s my…"
+554,52,[Simultaneous whistling wind SFX from Clint],
+555,52,Griffin, What is that noise? It’s not in a canyon.
+556,52,Justin, It’s a spa.
+557,52,Clint," No, that’s, that’s 528 hertz. In case you don’t know, that’s the miracle tone that is supposed to enable you to relax."
+558,52,Justin, Um. So this is very soothing.
+559,52,Taako, So here’s my best guess This place isn’t trying to kill us…
+560,52,Magnus, Uh-huh.
+561,52,Taako, It just wants to make us miserable…
+562,52,Magnus, Uh-huh.
+563,52,Taako," And it seems like it’s feeding off of that. That’s my best guess. This is a place designed to make us miserable and it’s—every time that we vocalize that, it knows that it is succeeding and it’s feeding off of that energy. That’s my best guess."
+564,52,Magnus, I like that. So do you think it’s better to give it what it wants? Or to stay super positive?
+565,52,Taako," What am I, a fuckin’ necrotic energy whisperer? I have no idea. "
+566,52,[Clint laughs],
+567,52,Magnus," Listen, this is—we very rarely talk through this kind of shit, I’m very much enjoying it, just trying to get a vibe on where you’re at."
+568,52,Merle, I’m really uncomfortable with it. Let’s get out of here. 
+569,52,Taako," I mean, I will say this. I don’t see any reason to feed it if we don’t have to. I mean it’s very much not in our nature to not grouse about but maybe we should try to stay posi about this whole experience."
+570,52,Magnus," Yeah, let’s swing towards the positive side of things. Alright, let’s do this."
+571,52,Griffin," Okay. You make your way back out of the pocket spa and into the decision room again, and are you moving onto the next chamber?"
+572,52,Travis," Yes, of course we are!"
+573,52,Griffin, Okay.
+574,52,Taako, Here we go!
+575,52,Clint, Wheeeee!
+576,52,Griffin," Uh, you move through the door and you are in another circular room."
+577,52,Travis," Yay, awesome!"
+578,52,Clint, Yahoo!
+579,52,Griffin," It’s also very like, neon-bright. And above you the whole ceiling is nothing but machinery that is attached to the ceiling. And it’s this huge, heavy manufacturing like, assembly line machinery."
+580,52,Clint, Awesome.
+581,52,Griffin," And it all connects sort of in a spiral, and in the center of the ceiling is a large, circular hatch. And as you enter into the room, the doorway disappears behind you, and with three, loud clunks, three, large boxes fall from the ceiling and land on the ground."
+582,52,Travis, Super cool!
+583,52,Griffin," And each box has a—these boxes are perfect cubes, and each box has a word etched on a side, and the words are things like “fiery” and “quick” and some other adjectives and nouns. And you hear a voice say,"
+584,52,Male Elf," Welcome...to the Monster Factory! [Justin laughs] This is so exciting. Each of you will roll these dice in front of you and you will build a bespoke foe to square off against. It could be something new altogether, nobody knows!"
+585,52,Clint, Whoo.
+586,52,Travis, Sounds fun!
+587,52,Male Elf," Now, based on the consequences of the Decision Game, there will be some… difficulties imposed on you during this challenge, but let’s not worry about that. Let’s roll those bones."
+588,52,Travis, Sounds good.
+589,52,Griffin," Let’s do this one at a time. You’re gonna roll a D6, tell me who wants to go first, and then, pop it in the, Skype and I’ll, paste something in there for you."
+590,52,Merle, I’ll go first.
+591,52,Griffin, Alright.
+592,52,Clint," That’s Merle, for those listeners who can’t tell the difference between our voices."
+593,52,Griffin," Alright, your dice, Merle, the one that you go pick up, has the name of some monsters on it, so go ahead and roll that."
+594,52,[die rolls],
+595,52,Clint, Two.
+596,52,Griffin," Uh, that is—you roll the big, big box, and it lands on the word “slime.” And that box turns green and disappears."
+597,52,Magnus, I will go.
+598,52,Griffin," Okay, here are your words. You pick up a dice just covered in these different adjectives."
+599,52,Travis, I rolled a three.
+600,52,Griffin," Uh, “poisonous.” So, “poisonous” and “slime” are the words so far. And, Taako? Here are your words."
+601,52,Justin, Five.
+602,52,Griffin," “Regenerating.” Uh, so you get “regenerating, poisonous slime.”"
+603,52,Travis, Cool!
+604,52,Taako, Great!
+605,52,Travis, Awesome.
+606,52,Merle, Yayyyy!
+607,52,Magnus," Yeah, fun!"
+608,52,Taako, That could have gone so much worse.
+609,52,Travis," Yeah, there’s “dragon” and “dire bear” and stuff on there."
+610,52,Griffin," And you hear a voice… The machinery above you on the right side of the room kicks into gear, and you hear pistons firing, and you hear steam being blown—"
+611,52,"[Travis makes sounds of INDUSTRY, as heard in “Murder on the Rockport Limited, Chapter Two”]",
+612,52,Griffin," Yeah, you hear the sounds of industry. [Clint laughs] Um, but you hear the woman say,"
+613,52,Female Elf," Aw, that’s so disappointing. I’ve seen a regenerating poisonous slime before."
+614,52,Griffin," And you hear the man say,"
+615,52,Male Elf," Oh, well that’s nothing to worry about. They didn’t win the decision game. So they’re gonna do it again."
+616,52,Griffin, And three more dice fall down from the ceiling.
+617,52,Taako, Son of a—
+618,52,Magnus," No, what fun!"
+619,52,Merle, [under breath] Dammit. [normal voice] Yay!
+620,52,Magnus, A second chance at a first impression!
+621,52,Griffin," Taako, like a little bit, just like a little bit of that dark fog came out of your mouth."
+622,52,Taako, Dammit.
+623,52,Griffin, ...and floated up into the ceiling. And a little bit more went up.
+624,52,[Clint laughs],
+625,52,Taako, Fuck!
+626,52,[Clint laughs harder],
+627,52,Griffin," No joke, every time you do that just like a little bit more goes up into the ceiling."
+628,52,Taako," Alright, yeah. Yeah, I’ll just be Zen about it."
+629,52,Magnus," Okay, I’ll roll first this time."
+630,52,Griffin, Okay.
+631,52,Travis, Four.
+632,52,Griffin, “Dire bear.”
+633,52,Travis, What fun!
+634,52,Griffin, Who’s rollin’ the second dice—
+635,52,Justin, Two.
+636,52,Griffin," “Electrified”, holy shit. Uh, Merle?"
+637,52,Clint, Two.
+638,52,Griffin," “Flying,” HOLY SHIT! A flying, electrified dire bear, now we’re talkin’! Hold on, sorry, that’s in character."
+639,52,Male Elf," Fuck yeah! A flying, electrified dire bear! Wonderful! That would be what you would have to face if you both chose “betray”, but unfortunately you all are getting the sharp end of the stick, so to speak. So, one more dice."
+640,52,Griffin," And another dice falls down from the ceiling, um, I’m not actually gonna show you what’s on this dice? Why don’t-- uh, who wants to roll it?"
+641,52,Magnus," Uh, Taako?"
+642,52,Taako, Sure.
+643,52,Justin, Five.
+644,52,Griffin," Uh… [laughs]. Okay, uh, the word pops up, and it applies to both of the creations that you’ve created so far. And as soon as it lands, I think you all look at it in horror and you hear the elves kind of squee in delight. Because—and I think you hear the man say uh,"
+645,52,Male Elf," Oh, this is delicious! Not only are you facing off against a regenerating, poisonous slime and a flying, electrified dire bear, you’re going to face off against… multiplying regenerating, poisonous slimes and multiplying flying, electrified dire bears. This is gonna get zany!"
+646,52,Griffin," —he says, and after a few more seconds of the machinery above you processing things, sure enough, falling down through that hatch is a cube of slime that is giving off a horrible, horrible stench that is about fifteen feet tall that slorps down to the ground, and then right behind it with a pair of beautiful, beautiful, angelic wings is a humongous dire bear with bolts of crackling electricity sort of wrapping around its body, and they roar at you. Let’s roll initiative."
+647,52,[theme music plays the episode out],
+648,52,[Maximum Fun promos," MaxFunCon 2017 tickets ad, PopRocket ad]"
+649,52,[Next episode],

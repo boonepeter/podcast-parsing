@@ -1,0 +1,1112 @@
+﻿The Adventure Zone  
+Dungeon Master & NPCs: Griffin McElroy
+Magnus Burnsides: Travis McElroy
+Merle Highchurch: Clint McElroy
+Taako Taaco: Justin McElroy
+
+
+Tacoma Live Show
+(part of TAZscripts on Tumblr) 
+
+
+Griffin: Hey everybody, this is Griffin. Real quick, before we get into this episode, I wanted to give you a heads up that the audio is not amazing. This is our live show from Tacoma, and the levels were a little bit too hot, and it’s a little bit blown out because of that. It’s still totally listenable, but it’s not really up to snuff, and I’m very sorry about that. I hope you enjoy it regardless. We still really wanted to put it out, because this is our Candlenights episode, and it was a lot of fun to record, and we wanted you to hear it anyway. But I wanted to give you a heads up, that, yeah, the levels aren’t super super great. But, yeah, we’ll be back next week, though! 
+
+
+If you haven’t heard, we’re going to be trying to go weekly, starting in January, with the rest of the experimental arcs, and I’m going to be running the next one, and i’m really excited for you to hear it. So the next one, the next episode you hear is going to be our Setup episode for my next arc, and that is going to go up on Thursday, January 4th. So go ahead and listen to our Candlenights Adventure, and I’ll be back with the commercial break here in a bit!
+
+
+{1:00}
+
+
+[Intro music]
+
+
+{1:30}
+
+
+Griffin: Alright, so I’ve got a poem I wrote to walk us into the adventure tonight. Uh, and if you could go ahead and play the… Poem Background Music? [sleigh bells jingle and continue under Griffin’s poem] There we go. [audience laughs] 
+“‘Twas the night before Candlenights, 
+and all through the land–” 
+Griffin: Oh, that’s a little loud. [laughs]
+Clint: [loudly] What?
+Griffin:
+ “And all through the land, 
+danger clawed upward 
+with a dark frozen hand. 
+In the depths of a dungeon 
+at the edge of the world 
+a conflict was brewing, 
+an adventure unfurled–” 
+Griffin: If you could just bring the music down even more. [Clint laughs] Just like, half that, oh there we go.
+“In the hold known as Icekeep, 
+a voice within wails 
+and echoes off mountains, 
+through valleys and trails 
+and into New Phandalin, 
+a town you’ll recall, 
+whose mayor became troubled 
+by this sad caterwaul. 
+So she called out for heroes
+ in a media blitz 
+for a mission: well paying, 
+with good benefits. 
+So did heroes emerge 
+and embark on the quest, 
+and all ended in failure 
+and their dark, endless rest. 
+Save for one team of heroes– 
+and you might know their names– 
+Merle, Magnus and Taako 
+of Adventure Zone fame! 
+[audience cheers] 
+They saved the world once 
+and were financially stable, 
+but when trouble arises 
+they’re still willing and able 
+to battle for glory 
+in a worthwhile melee 
+or find treasure for Taako 
+to squirrel away. 
+And so stand Tres Horny Boys 
+before the Icekeep
+to hunt down the crier
+ and put it to sleep. 
+If only they knew 
+of the traps and the fights 
+that awaited them all
+on this cold Candlenights.”
+{0:03:33} [Poem Background Music ends]
+Travis: Griffin, I didn’t have a pen, could you repeat that?
+Griffin: So the three of you are standing before the entrance to Icekeep, a frozen, subterranean dungeon past the hills surrounding New Phandalin. The call-to-arms put out by the village’s mayor attracted countless parties who sought to silence the voice in this dungeon-- a voice the three of you hear loud and clear calling from the depths. But none of those parties ever returned.
+Travis: [goofy voice] Come on into my dungeon. [audience laughs] Is that what it sounds like?
+Justin: No.
+Griffin: No it sounds like–
+Justin: I like to party with my peeps, cruise ‘n creep, playing Three-Card Monty in these crazy streets. [audience laughs]
+Travis: Way too many of you are like “I get it!”
+Clint: Yeah, how do you know what that is?
+Justin: You’re monsters.
+Griffin: Justin has made us watch the intro to The Pest, the horrible movie, like 70 times today. In your trademark hubris the three of you assume that you might have better luck at silencing this voice. And it’s like a crying voice, like a deep like [Griffin sobs in a deep voice] but it’s super loud and maybe scary. The entrance is built into the side of a massive glacier a hundred yards or so ahead of you, but you can barely see it through the massive snowstorm that’s been covering the land for weeks now. However, there are other shapes in the snow that stand before you and the entrance, shapes that you can not quite make out through the storm. Everybody roll a perception check for me.
+Justin: My die is flashing. [audience cheers] That means– hey folks, if you cheer for every 20 I roll tonight, that will probably be the last one. I can see everything, Griffin. I can see individual snowflake shapes!
+Griffin: Uh, Taako, you can clearly see–
+Travis: [interrupting] I got a 16.
+Griffin: Taako sees it the best. 
+Clint: I got a 2. [audience cheers]
+Griffin: There’s very cold, weird rain falling from the sky. Um, Taako, you can clearly– and Magnus, but Taako the best– you can clearly make out what these shapes in the snow are. You see razor-sharp icicles jutting out of the ground, stabbing 10 feet upward into the sky, turning the snowfield in front of you between you and the entrance to Icekeep into something of a grisly scene because impaled on a number of these icicles are skeletons, nearly frozen in the storm, their rotted adventuring gear still hing off their lifeless forms.
+Travis: Here’s what I want you to picture: we all see that, and I just sloooowly reach to my belt and turn it to “ice”.
+Griffin: Yeah. [beat as the audience laughs] Shit. I didn’t even think about…
+Clint: And so do I.
+Griffin: You don’t have a magic immunity belt. Uh, OK, Magnus will take half damage on ice attacks. Fuck. Uh, so that is the situation. There is a field of sharp icicles jutting out 10 feet into the sky between you and the entrance to this glacier that you really still can’t quite see.
+Magnus: Let’s go!
+Griffin: What do you do?
+Travis: Magnus rushes in. [audience cheers] I mean I– Can I tell you at this point, I, a more mature, adult Travis don’t want to rush in, but I’ve painted myself into a corner, fictionally speaking.
+Griffin: [crosstalk] Yeah, sure, sure, sure. Roll a dexterity saving throw for me.
+Travis: [groans] That’s an 11… Plus two, though! So 13– Wait, saving throw? Yeah, that’s plus two, so that’s a 13.
+Griffin: Yeah, an icicle, as you take your first step into this snowfield, shoots out of the snow and jabs you right through the shoulder and you take… 22, or 11, points of ice damage.
+Travis: I don’t have a pen, so I’ll just remember–
+Griffin: No. Do we have a pen backstage Sam, or– [at this point, someone in the audience throws a pen onto the stage] oh, OK! 
+Clint: Oh god! 
+Griffin: Nobody else! OK, I wanna say, I wanna say, I wanna say– This is an important PSA: never throw things at people while they’re performing on a stage. But that was the best fucking pen throw, it landed perfectly on the table.
+Travis: You did crit that– Stand up, who threw that? 
+Clint: Security! Security!
+Justin: [crosstalk] I feel bad.
+Travis: [crosstalk] I’m impressed!
+Griffin: Get them out of here, they threw something at performers on a stage! 
+Travis: OK. 
+Griffin: Alright.
+Justin: Nah, they’re cool. It’s fine.
+Griffin: They’re cool, it’s fine. That was a joke. 
+Justin: But was it? No more throwing things.
+Griffin: Oh and hey, security, where were you all on that one? I kind of expected a sort of–
+Travis: I mean, it turned out fine, but–
+Griffin: A clear and present danger.
+Justin: Yeah, I want to see bodies flying and [slow-motion deep voice] “Noooooo”
+Griffin: OK, Magnus, you are impaled.
+Magnus: Owwww.
+Justin: By a pen! 
+[Griffin laughing]
+Magnus:  Alright, everybody, this– Apparently there’s icicles and they’re mad.
+Clint: Now is he stuck there?
+Griffin: Uh, I mean you could probably break it off.
+Justin: So when he hit it, icicles fell down?
+Griffin: Came up from the snow.
+Justin: Oh cool, it’s like a trap!
+Griffin: Yeah.
+Justin: Yeah. Cool.
+Travis: Wait, so the only thing we have to do to avoid this trap is turn around and leave.
+Griffin: Would be a short show. These people waited a long time.
+Travis: I’m waiting for one of the other two of you to do something.
+Justin: Yeah, I’m just gonna, uh, use a little item I call the Hole Thrower and throw a hole into it.
+Griffin: Into what?
+Justin: The ice. There’s like a– you can’t get past, right? The way you described it–
+Griffin: Nononono. Let me– I’ve failed.
+Justin: Weave your tapestry again, sorcerer.
+Griffin: There is a large field of snow, and there’s icicles coming up out of it. It’s not forming a barrier or anything, you can get past. It’s just, Magnus took one step into it and an icicle-
+Justin: Oh, sh–
+Travis: And when it impaled my shoulder, am I lifted off the ground? Am I kind of dangling?
+Griffin: No, you’re burly enough that it doesn’t quite, uh, raise you up. 
+Travis: OK so I’m still on my feet and it’s through the back and Taako’s like “So what’s going on? What happens?”
+Justin: Um, OK, I’m gonna cast– How far is it? Is there an entrance?
+Griffin: About 100 yards. Yeah, you can see, there’s a door, you can barely make it out in the side of this glacier 100 yards ahead of you.
+Justin: I am going to... cast... a spell…
+Clint: Called...?
+Justin: Called… Continual Flame. I’m gonna cast Continual Flame on the tip of the Umbra Staff.
+Griffin: Shit.
+Justin: And I’m going– So that will make it into a flame except it creates no heat and doesn’t use oxygen. [audience laughs] OK, so I do that, I make a thing that looks like a fire, and then I– and then I’m like “This gives me an idea!” Stupid. I cast Investiture of Flame.
+Griffin: Invest in some flame.
+Justin: Flames surround me in a 30-foot radius for the spell’s duration. That’s really powerful to traverse a dumb trap, isn’t it?
+{0:11:04}
+Griffin: No, I like it. ‘Cause we’ve been on it for about 30 minutes now.
+Justin: OK, so I cast Investiture of Flame, there’s a 30-foot radius– um I–
+Griffin: How’re your boys doin’? Are your boys–?
+Justin: No, they’re in my bubble!
+Griffin: OK.
+Justin: And, um–
+Griffin: I think Magnus, roll a dexterity saving throw to get in his bubble because I think–
+Justin: No, I have spell shaping, so I would shape it around him.
+Travis: I got a 15.
+Griffin: OK, you’re fine. [exasperated] You don’t have spell shaping anymore, I don’t know how many times I have to tell you–
+Justin: I do have spell shaping.
+Griffin: When you– God, OK, when you specced as a transmutation wizard, you don’t have spell shaping, that’s an evocation wizard thing. Come on! Alright, so anyway–
+Travis: Who can say for sure when this story takes place?
+Griffin: A whir– Do you guys wanna be level 1? [Travis: No…] A whirlwind of flames surrounds Taako and the other two and reveals some dead grass below your feet as the snow melts away and it catches some of the–
+Justin: Any loose change?
+Griffin: Uh, yeah, there’s probably some che that’s fallen out of–
+Justin: How much exactly in gold?
+Griffin: Not much, like 7 gold.
+Justin: Count ‘em.
+Travis: Nice. That’ll get you a sandwich and a hot cocoa.
+Griffin: But as soon as it touches these icicles they also melt away, so you are protected from any more icicles. You’ve solved my icicle puzzle. 
+Travis: Thank you. I can’t finish if you don’t say it. Finish the puzzle. You monsters. OK, so we sprint towards the entrance.
+Griffin: As you approach the entrance, the snowstorm picks up, and I’m assuming the spell has died down by now, and you’re not just going to be surrounded by flame for the whole episode. The snowstorm picks up and it’s biting at your face with these chilling winds
+Travis: Brrrr.
+Griffin: And you’re standing before the doors leading into this glacier and they are massive 20 foot high double doors carved from oak. And they’re surrounded by this enormous 1 foot deep metal archway covered in runes and emblems resembling snowflakes that just wraps around the whole double door. Everybody make a perception check again.
+Travis: I got an 18.
+J2ustin: Got a 5 on that one.
+Travis: 19 total. 
+Clint: TWO! [audience laughs] I swear to god, it’s a 2. 
+Travis: Why would you lie about that?
+Clint: I don’t know.
+Justin: If it’s a 1?
+Clint: To lean into the mythology a little bit. 
+Griffin: Magnus, you can’t quite make it out exactly, but you can see faintly, just barely, through the storm, a figure on top of this metal archway surrounding the door, like 20 feet up, and it seems like they’re tinkering with something up there, and thanks to the snow they haven’t– despite the fact that you just wreathed yourself in flame– they haven’t seen you yet.
+Magnus: Hey!
+Griffin: You yell “hey” and you hear a loud click from the top of the archway.
+Magnus: What are you doing?
+Griffin: And–
+Magnus: Are you picking a lock?
+Griffin: And then–
+Magnus: Because we want to go in, too! We can hear a voice, can you hear a voice?
+Merle: Are you an elf?
+Travis: You can’t see THEM, too!
+Clint: I can’t? Oh yeah, right.
+        Merle: Who are you talking to?
+        Magnus: Shut up, Merle!
+Justin: OK, that’s what neither of your characters sound like. These people paid a lot of money to see– to come see us, so if you could.
+        Magnus: [in a deep Magnus Voice] Hey!
+Clint: Oh, god, we’re on that again.
+Griffin: Uh–
+Justin: Not again, still on it.
+Griffin: Magnus, as you yell “hey”, as you yell that, you hear a startled yelp come from up there and suddenly the figure falls backwards off the arch.
+Travis: Oh, no, that was a 2, did not catch him.
+Griffin: Tumbling down and down, and it’s stopped in midair by three icicles that shoot upward, impaling and killing them instantly. And you can see this figure now: it’s a man, a very large man.
+Travis: [high-pitched groaning]
+Griffin: A very large man with a bushy white beard and a tummy like a bowl full of jelly. He’s wearing a red suit and hat and–
+Clint: [laughing, obviously slightly distressed] You killed Santa!
+Travis: Now hold on, fuck you, is this The Santa Clause?
+Griffin: And he’s carrying a large bag made of canvas and moments after he’s impaled, that suit and hat and bag is all that’s left of him as his body disappears.
+Travis: Fuck you, Griffin. [audience cheers as Griffin, Clint, and Justin start laughing] My brother, the monster.
+Griffin: His body just disappears leaving the clothes and bag crumpled in a heap at your feet, and on top of this pile, a golden scroll materializes out of the air with the words Read Me scrawled on the side in intricate letters.
+Travis: I turn to Merle.
+Griffin: Uh, the letter opens up, actually, and a voice reads out loud:
+Dead Santa: If you’re reading this, it means that I have died.
+Travis: [in deep Santa voice] Completely by accident and nobody’s fault.
+Dead Santa: If you’re reading this, it means I have died. Hopefully not by your hands, because that would be very, very naughty. Ho, ho, ho. A little joke!
+Travis: [in deep Santa voice] But I am dead, so like, bummer.
+My name is Santa Claus, and if you’re reading this, then I’ve got news for you, pal: now your name is Santa Claus. This mantle that I have upheld for decades has been passed down to you, just as it was passed down to me. It’s a very important mantle, my new friend. Santa Claus is responsible for spreading the spirit of Candlenights throughout the land by delivering toys and gifts to all the young people of the world. 
+Clint: How big is this fucking scroll?
+Griffin: It’s pretty big.
+Travis:  [in deep Santa voice] “Turn over”.
+Dead Santa: During my time as Santa, I have delivered millions of presents to those innocent souls deserving of them. I might have even delivered some of you– some to you, friend, in your youth. But seeing as how I am now dead as disco, I think it’s time to confess something. For several years now, I have neglected that sacred charge for one child in particular, and I have done so because that child dwells in the Icekeep, a place I am very, very afraid of! Ho, ho ho! When reports reached me about the crying from Icekeep, I knew that my dereliction of duty was the cause, and so I have decided to set right my terrible oversight and deliver a present to this sad and lonely child. But if you’re reading this, I guess I didn’t do a very good job. Ho, ho. I hope my death was quick and painless. 
+It falls to you now, friend, to succeed where I have failed. Don my suit and my holiday Bag of Holding and venture within Icekeep to deliver this fateful Candlenights present. Now, I don’t know what kind of youngster waits for you down there, nor do I have any idea what kind of gift that youngster will desire. The holiday Bag of Holding can produce any gift that its owner desires, so I am hoping you’ll be wise enough to figure it out once you get in there. It’s imperative you don’t abuse this power though. That kinda goes against the reason for the season. Well, that’s it, I guess! Time to get busy living or get busy dying. Looks like I’m stuck doing the latter. Ho, ho, ho.
+Griffin: S.C.
+Taako: You know, that was a weirdly specific letter.
+Magnus: Wasn’t it? Yeah.
+Taako: Is he– Does this mean Santa Claus, every time he leaves the house, is recording a new death note? Like–
+Magnus: “I was just getting some milk.”
+Taako: “Heading to Piggly Wiggly now, hope I don’t die! Anyway…”
+Magnus: “About to eat a big plate of chicken wings, hope I don’t choke to death!”
+Clint: Merle casts Raise Dead. [audience cheers]
+Griffin: Ah ah ah ah ah, ah ah. There’s no body. I KNEW you were gonna do that, I made the body disappear! [audience cheers louder]
+Travis: You can fuck off, old man!
+Clint: Shit!
+Griffin: Always trying to destroy my plots. Also, that spell takes a day to cast. OK–
+Magnus: What else are we doing?
+Griffin: There’s a Santa suit, there’s–
+Magnus: I’m not putting it on. I’m not the Santa type, I think that goes to Merle.
+Merle: [begrudgingly] I’ll put it on.
+Magnus: Well hold on. Taako do you want to–?
+Clint: Is Tim Allen here? 
+Travis: God, I hope not.
+Griffin: [at the same time as Travis] Thankfully no.
+Justin: Probably not.
+Magnus: Taako, do you want to be Santa?
+Taako: I’m not a bear.
+Justin: [as the audience starts cheering] Ah, thank you.
+Magnus: Alright, Merle.
+Merle: Yeah, I’ll do it.
+Griffin: As you put on the Santa suit, Merle, a glowing enchantment surrounds you and this light glows around you brightly, and as it fades you realize that the suit has been tailored to fit you perfectly, and you also notice that your beard is sort of [stammers] a grey, scraggly beard, with probably some twigs and leaves and other–
+Travis: And like, 7.
+Griffin: And shit. It’s actually now this huge, bushy white beard that-
+Clint and Travis: A big bushy beard!
+Griffin: And it’s a real beard, it’s not just stuck on.
+Travis: I pull it.
+Griffin: That light–
+Travis: I pull it.
+Griffin: It hurts.
+Merle: OW! I-I’m sorry [Merle voice] OW!
+Griffin: Thank you. And then that light–
+Travis: I pull it harder.
+Merle: Owww, OWW, SHIT!
+Magnus: It’s real!
+Justin: Let him weave his tapestry.
+Griffin: Uh, yes, and then that light that’s surrounding you, Merle Santa, uh, it shoots out of your body and it surrounds your two friends and when it fades from them, you see their wardrobe has ched too. They’re now wearing these green, kind of silly outfits [Clint starts laughing] with jester’s hats and jingle bells and boots that curl up at the toes. [Clint is absolutely losing his shit]
+Clint: Oh, god, I love these liveshows.
+Griffin: And with that, the mechanism that Santa was activating– I didn’t think about this, but Santa? Master thief. Uh, was activating-
+Travis: He does sneak into houses.
+Griffin: That’s true. That he was working on at the top of the arch stops whirring, and as it does the double doors into the Icekeep sweep outward, granting you access to a hallway of rough cobblestones leading downward. And after travelling down this hall for several hundred feet, the corridor ends at a sheet of thick ice, which as you approach it, slides upward.
+Travis: Wait, I assume there’s tiny bells on our shoes?
+Griffin: Oh absolutely. [Travis starts making little ting noises] So stealth checks are just out of the question.
+Travis: OK.
+Justin: Uh, OK, we’ve been going for about 20, 25 minutes now, in case anyone was stuck in traffic, let me catch you up: We killed Santa, and now my dad is Santa, and we’re elves, and we’re trying to find a little kid in an ice cave to give him a present. That’s pretty much everything.
+Griffin: Thank you, Justin.
+Justin: And I cast a 6th-level spell, so if I- If you’re keeping track of that.
+Griffin: And as you enter the chamber just beyond this sliding ice door, it slides back down cutting off your exit. Bringing us to the second section of the adventure that, I’ll be honest, I thought we were gonna get to just- way faster. You take a moment to survey this new chamber. It’s a cavernous, circular room, the exterior wall of which is made of smooth, thick ice. The floor is made of stone, but you can barely see it through the thick carpet of snow that covers this room up to your ankles. Flanking the central diameter of this room are two snow banks that extend 10 feet and raise all the way up to your waist. 
+As you enter the room, you see something just off to your left: another one of those sliding ice doors is in the process of closing, and for a moment you see three people behind it. Three aarakocra, to be precise, which is a race of humanoid bird-people. One is burly and carrying an axe with plate armor, one is more slight with two daggers and ragged leather armor, and one is shorter, carrying a staff and wearing a set of black robes. And you see them just for a moment as the door slides shut, you hear th–
+Magnus: Hi!
+Griffin: You hear their muffled conversation as they move deeper into the Icekeep. You hear one voice say
+Aarakocra 1: Awww, man. Looks like we’ve got company.
+And another voice says
+Aarakocra 2: We’d better hurry, we can’t let them get credit for this job.
+And a third voice says
+Aarakocra 3: Don’t sweat it, Ray. If they catch up to us, we’ll just kill them, too.
+And on the other half of the room that you’re in–
+Travis: I wanted bird friends, but they sound mean.
+Justin: Yeah, they just sound mean.
+Griffin: On the other half of this circular room that you’re in, you see something, uh, else kind of strange. You see the snow start to whip up off the floor, and as it does, they unearth the bones and belongings of fallen adventurers below. And those bones start to rattle and reform themselves into two full, standing skeletons. And then the snow surrounds those skeletons, forming these thick, round bodies around them. The loot from those adventurers then lifts up off the ground and suddenly one of these snowmen is wearing a tophat and has a crude face made of gold coins, while the other–
+Travis: Oh no, they killed Uncle Pennybags.
+Griffin: While the other has a leather helmet and a carrot for a nose. And after forming, these two snowmen pull spears of ice up out of the ground and emit a chilling roar. Roll for initiative. [audience cheers]
+Travis: I got 21.
+Griffin: Damn.
+Justin: 18
+Griffin: Wow.
+Justin: Plus...
+Clint: Wait, we get plusses?
+Justin: 3. 
+Griffin: That’s two 21s.
+Clint: OK, I rolled a 14 plus…
+Travis: Plus 2. That’s a 16.
+Clint: Plus 16.
+Justin: I’ve been sitting on the edge of my seat this entire time. I paid for the whole seat, but I only needed the edge.
+Travis: My leather girdle doesn’t let me sit back. 
+Griffin: First up is actually the gold-faced snowman.
+Travis: [shocked, a little indignant] I rolled– I got 21.
+Griffin: I know, two of you did. The gold-faced snowman takes their ice spear and raises it up and throws it at Taako. Taako… that is a 18 versus AC.
+Travis: Try again. Disadvantage. Protection fighter.
+Griffin: OK. That’s a sssseven.
+Justin: ...No.
+[audience and boys laugh]
+Griffin: This ice spear- the, the, the gold-face snowman throws it and it comes within an inch of you. It, it– [Travis hits Justin in the head with a prop shield as he tries to mime protecting him] You didn't have to hit him in the head with it as a, yeah.
+Travis: I just wanted him to know…
+Griffin: This ice spear travels the length of the room and comes just thiiiis close to hitting you, but it doesn’t. Next in the order is–
+Justin: Do I bend, like the Matrix, or–
+Griffin: Yeah, it was totally sick.
+Travis: [indignantly] I did it!
+Griffin: Taako, you’re actually up next.
+Justin: Oh, cool. Uh, I’m gonna melt ‘em, ‘cause fuck ‘em. Right? Uh, I’m gonna cast Wall of Fire. In a– on the two snowmen in a kind of line that would hit both of them.
+Griffin: Here’s what happens.
+Justin: Uh oh.
+Griffin: You conjure this wall of fire and as it starts to leave your hands, it seems like it hits the center of the room and it just stops and it activates almost like a force field, cutting a line across the center of the room, dividing you three and these two snowmen. And the spell just disappears as it hits this force field.
+Justin: Hmm, OK. Hold on, this is a force field that is…
+Griffin: Imagine a circle. Imagine the diameter of that circle.
+Travis: Now what if you could take that circle…
+Griffin: Yeah, there’s just a line across the center of this circle and uh-
+Clint: And the spear went through it?
+Griffin: Yeah.
+Travis: I r– OK, is it my turn?
+Griffin: Uh, yeah, actually.
+Travis: Alright.
+Griffin: Unless, you know what? I’ll bump Taako back in the order, I’ll say because of your failed attack, you do get to go again so that you don’t get cheated out of your turn. 
+Travis: OK, because I think it actually was my turn.
+Justin: OK, I’m going to cast… a different spell that I like very much… Ice Knife? As a third level spell?
+Griffin: Alright.
+Justin: On… Are we fighting the birds too?
+Griffin: BIRDS?
+Justin: The bird-men, obviously.
+Travis: [crosstalk] No. 
+Griffin: [crosstalk] No[a][b][c][d], the birds left.
+Travis: [crosstalk] The [fighter birds?] are gone.
+Justin: OK, I’m gonna throw a 3rd level Ice Knife at one of the heads of the snowmen.
+Griffin: There’s gold-face snowman and carrot-face snowman.
+Justin: I’m gonna go for carrot top.
+Griffin: OK. Yeah, roll it. I assume you roll an attack on that one?
+Justin: That’s a… 4. It misses quite badly.
+Clint: It misses so badly it hits the other one.
+Griffin: No, it does miss, but it does pass through that barrier.
+Justin: OK.
+Griffin: Magnus, you’re up next.
+Travis: I’m gonna throw Chance Lance.
+Griffin: OK.
+Travis: At gold face. My favorite Dick Tracy villain.
+Griffin: Alright.
+Travis: That’s an 18– oh, 16.
+Griffin: Alright, you throw it and it hits that barrier in the center of the room and bounces off.
+Travis: Alright, I’m gonna try something else with my second attack.
+Griffin: Think about what Taako just learned.
+Travis: I know, shut up.
+Griffin: And really put it together.
+Travis: Alright, Chance Lance comes back.
+Griffin: Follow the clues. You had all the clues you could have saved them. It’s literally a snowman reference.
+Travis: What if I coat it in the snow? Like, dip it in the sn– like pack snow around it and throw it?
+Griffin: I want you to stop.
+Travis: Maybe I just–
+Griffin: No.
+Travis: Maybe I just stick it in the snow for a while and it gets real cold.
+Justin: No, but really, stop.
+Griffin: Stop it. Now really think about what you just said.
+Travis: I throw a snowball at Goldface.
+Griffin: OK.
+Travis: That is a 12 plus my… 
+Griffin: Whatever your regular attack modifier is.
+Travis: Plus 8. So it’s a 20.
+Griffin: Yeah, that’s a good hit on Goldface. Roll a d10 plus your attack modifier.
+Travis: [laughing] How does that work? “I kept it in the freezer all summer”. Uh, 9 plus my attack modifier, is plus 4, so 13. 
+Griffin: Yeah, you hit him good. Uh, it knocks Goldface’s hat right off and takes a chunk of head out, too. And Goldface yells real loud at that.
+Travis: I’m gonna dual wield with another snowball.
+Griffin: OK, how does that work?
+Travis: I have, I think, 8 attacks at a time I can do. And we’re trying to move this show along quickly. 
+Griffin: Yeah, sure.
+Clint: If you want to go out and use the toilet, this would be a good time to do it.
+Travis: That’s another 12 plus 8, 20.
+Griffin: Yeah. That’s a hit. But you have to roll twice, right? On a dual wield. 
+Travis: Uh– no, this is just the second attack. So 6 plus 4, 10.
+Griffin: Yeah. They are just barely hanging on to life. That one got their middle ball and now you can see some exposed skeleton bones. Ewww. Gross. 
+Travis: Grody.
+Griffin: You got any more attacks or are you out of attacks?
+Travis: I mean, I could.
+Griffin: The next in the order is Merle.
+Clint: Point of order: if you knock Frosty’s hat off, he stops dancing around. So shouldn’t he be dead? [Audience Cheers] I could sing the song for you. “Frosty the Snowman–”
+Justin: Stop, stop, no. Can’t.
+Travis: Right now, Griffin is looking at his watch to determine whether or not this fight has already taken long enough.
+Griffin: No. Incorrect. But the gold-face snowman is like, almost down.
+Clint: OK, I cast Sacred Flame at the–
+Griffin: Oh my–
+Justin: [crosstalk] OK, but you didn’t–
+Travis: [crosstalk] Throw snow.
+Justin: No, stop, no, stop.
+Merle: I cast Ice Shard.
+Justin: You don’t have to say that in character voice. Go ahead.
+Travis: Unless you are in character, announcing that out loud.
+Justin: [laughs] OK, go ahead.
+Clint: Merle casts Ice Shard.
+Justin: Thank you, thank you.
+Griffin: What’s that look like?
+Clint: A big shard of ice, and it does 40 damage.
+Griffin: OK, I just looked up Ice Shard in the book, but there’s no spell called Ice Shard.
+Travis: You don’t even have a fucking card called Ice Shard!
+Clint: I know that, Travis!
+Travis: Are you cheating our brother at D&D?!
+Clint: Frost Bolt! I cast Frost Bolt at him. 
+Griffin: That’s a fucking World of Warcraft spell! 
+Clint: I throw a freaking snowball.
+Griffin: Awesome.
+Clint: Jeez. Alright, boom, there it goes. And it’s a freaking 6!
+Justin: [quietly underneath Clint] Clerics have a 4th-level spell called Ice Storm.
+Griffin: Ice Storm? That sounds really cool.
+Justin: Ice Storm, doesn’t it sound cool?
+Clint: But I get to roll–
+Griffin: WHAT DOES ICE STORM DO, JUSTIN?
+Justin: It wouldn’t help in this situation, Griffin, it only creates a hail of rock-hard ice pounding to the ground in a 20-foot radius, 40-foot high cylinder at a point within range.
+Travis: Now let’s assume–
+Clint: That’s what I said!
+Travis: Let’s assume that in a different multiverse, our capable dad, Dad Two, cast that.
+Justin: Played by Tommy Lee Jones.
+Travis: The DC version of our Marvel dad cast that. 
+Clint: Yeah. So I roll a d20 now?
+Griffin: Uh, no–
+Clint: I cast Ice Storm on both of them.
+Griffin: OK, let’s all take a beat. They have to make dexterity saving throws. Gold-faced one rolled a 6, that is not going to do it. Carrot-faced one rolls a… 14, which is not gonna beat your spell save throw modifier. So roll 2d8 bludgeoning damage and 4d6 cold damage. OR I’ll just do that for you.
+Clint: Wait, I got it. 4… 1… 3...
+Griffin: [doing math as Clint rolls] So that’s 5… I’m gonna say the gold-faced snowman goes down as they are bludgeoned by this snow. The carrot-faced snowman is also missing some chunks at this point.
+Magnus: That was very impressive, Merle. You’re very capable. 
+Taako: And you reacted so quickly. There was literally just a split second in between the action before and your action.
+Magnus: You truly are the most capable member of the team.
+Griffin: Carrot s–
+Clint: Ho, ho, ho!
+Justin: OK.
+Griffin: Carrot snowman throws their ice lance at Merle, trying to fight back against this hit. That’s a 22 versus AC.
+Travis: No it’s not. Protection fighter.
+Griffin: Uh, that is a 19 versus AC. Merle.
+Clint: I thought he was protecting me.
+Travis: It’s a tie.
+Griffin: It’s a tie.
+Clint: It’s a tie!
+Griffin: I always forget, does that hit? [several audience members respond in unison: “It hits”] Yeah, it’s a hit.
+Clint: [exasperated that this audience has betrayed him] Oh, thank you. Thank you.
+Travis: Ya hit him. A palpable hit.
+Justin: Oh my god, if you guys know the rules to D&D that well, this must be very frustrating for you. I’m just now realizing–
+Griffin: [keeps getting interrupted/crosstalk with his brothers] That is- That is-
+Travis: Did you guys just get really excited when we asked? Like “Thank you, it’s a hit. [exhales heavily] Oh god, I’ve just been sitting here–”
+Griffin: That’s 20 points of ice damage as you are pierced by this ice lance. And as it hits you, the snowman pounds his hand down and another ice lance appears in his hand.
+Taako: Hey, be careful, if you kill him, you’re Santa.
+[audience and Griffin laughing]
+Griffin: Taako, you’re up next.
+Justin: Ah, good, so who do we have up still?
+Griffin: Uh, the carrot-faced snowman.
+Justin: In the interest of moving things along, I’m going to throw a snowball.
+Griffin: OK.
+Justin: At the carrot-faced snowman.
+Griffin: Roll really good.
+Justin: K, that is a 15.
+Griffin: Yeah, that’s a hit.
+Justin: OK, good.
+Griffin: Roll a d10 plus your, uh... I guess your attack modifi- I don’t know what that is. Just do your spellcasting modifier. [crosstalk] It’s a magically delicious snowball.
+Justin: [crosstalk] I’m pretending it’s- yeah- That is a... 5 plus my spellcasting modifier of 5. So that’s a 10.
+Griffin: That’s enough to take down the carrot-faced snowman.
+Justin: Hell yes.
+[audience cheers]
+{0:35:08}
+Clint: Nice job, buddy.
+Griffin: As the last skeleton falls, the ice–
+Justin: [crosstalk] Who- who was that? Who said that to me?
+Clint: That was-that was me.
+Justin: [crosstalk] Did I hear that voice–
+Clint: [crosstalk] You’re my buddy! 
+Travis: [crosstalk] That was Dad, talking to you, Justin. 
+Justin: Ok, thank you. 
+Clint: Nice job, buddy!
+Justin: Thank you, Dad, human dad, my dad, Justin McElroy’s dad, Clinton. 
+Griffin: As the last skeleton falls, the ice door you watched the three aarakocra pass through earlier slides open, granting you access deeper into the Icekeep.
+Travis: We do that.
+Griffin: You proceed down another frozen cobblestone tunnel, and as you go further, you hear another noise on top of the constant low crying that’s coming from the depths of the Icekeep. You actually hear another voice, only this one’s panicked and screaming–
+Travis: [singing] I like to [starts laughing]
+[Clint laughing]
+Griffin: [laughing] What? It’s screaming like it’s in pain, like I am, me, Griffin, right now. [audience laughter] And it’s screaming from the chamber just ahead of you. What do you do? 
+Travis: I rush in! 
+Griffin: Yup. Uh, you rush into the chamber at the end of the hall so fast that Justin’s hat falls off. And you find yourself–
+Clint: Whose hat? 
+Justin: It’s hard because if I put it on well enough, the people in the balcony don’t get what they paid for.
+Griffin: It’s true. We’ll go hat– we’ll go hat-free for act two.
+[audience cheering]
+Clint: Wait, before you rush in, could I cast–
+Travis: That’s not how rush in works! 
+Clint: [somewhat dubiously/passive-aggressively] Oookay! 
+Griffin: What did you want to cast? 
+Travis: Were you going to cast something helpful?
+Clint: I cast Mass Healing Word on me and Taako. 
+Griffin: Ok. You all are–
+Travis: Taako has not been hurt. 
+Justin: No, but thank you, that puts a spring in my step and some vim in my vigor, being healed at maximum hit points. [Clint laughing] Mmm! Like drinking a frosty Coca-Cola, your healing spell washes over me and gives me the spring in my step!
+Griffin: You rush into the chamber at the end of the hall and you find yourself in a small stone carved room lit by braziers in each corner. Scattered around the floor are toys of enormous proportion, they are huge toys, and almost all of them have been smashed to pieces. You see the remnants of several clockwork soldiers that have been reduced to scraps by some vicious melee attacks. You see several large stuffed animals that have just been eviscerated, their cotton stuffing pouring out onto the floor. And you also see what looks like a, like a jack-in-the-box. It’s smaller than the other toys, it’s about one foot tall with a spring mounted figurine, uh, and that figurine actually looks like a woman wearing fencing gear. She’s holding a cutlass, and she’s bouncing frantically up and down because the box that she’s mounted in is aflame. And she seems distressed. 
+Travis: I put it out. 
+{37:45}
+Griffin: Hooooooow? 
+Travis: With my… 
+Griffin: Breath? Hands? 
+Travis: Um… what do I have? 
+Justin: Just fuckin’ empty your f– You got a canteen you bring on your adventures.
+Travis: [crosstalk] Yeah, is it so much I can’t pour a canteen on?
+Griffin: [high pitched, incredulous] No, it’s a small toy that’s on fire!
+Travis: I put a– put a canteen on there!
+Clint: You’re surrounded by snow! 
+Griffin: You dump your canteen out on this toy–
+Justin: Now he’s a problem solver! 
+Griffin: [laughs] You dump your canteen out on this toy, and she breathes a sigh of relief, kind of–
+Magnus: Are you ok? 
+Griffin: She assesses the damage, uh, done to her, and she says, uh… what does she sound like? Uh…
+Travis: [laughs] That’s a good question, Griffin, I think she’s sounds a little something like this!
+Clint: Does she say [affected voice] “Nobody wants a Charlie-in-the-Box!” [audience cheers]
+Justin: You’ll do a character voice for that! 
+{38:36}
+Clint: [crosstalk] I’m done. 
+Griffin: [crosstalk] She says, um, she says,
+Jack-in-the-Box: [using a Southern accent] Thanks! I’m Bertha. Well, I’m a Bladed Bertha, that’s what my toy line’s called, [Magnus: Yeah.] but I just go by Bertha for sheort– for short. What– sorry I said that so weird, I’m real nervous. What’s y’all’s handles? 
+Magnus: We don’t have handles, we’re human. 
+Taako: You can call me Taako, or Taak for shuuuuurt. 
+Magnus: They call me Big Dog!
+Merle: [in a drawn out, hearty accent] And I’m Santa Claus! 
+Bertha: Hey, I’ve heard of you! 
+Griffin: She says, 
+Bertha: Well, welcome to the chamber of misfit toys. Folks brought us– folks brought us from all around the world to try to appease the young master here, but it doesn’t look like he took to us, does it? 
+Magnus: Nah, ‘cause you’re misfit toys– maybe they brought good toys! [audience groans] I mean, listen, I’m not being a jerk, I’m just saying!  
+Griffin: She actually sinks back down into the box and the lid slams shut. 
+Magnus: Listen, Bertha– can I call you Bertha? 
+Bertha: [muffled] No. 
+Magnus: Bertha, I– I’m an idiot, and I–
+Merle: [in his Santa voice] Yes, he is! 
+Magnus: Merle, could you not? 
+Merle: [in his Santa voice] Who’s Merle? 
+Magnus: Jesus Christ. 
+Merle: Who’s Je– oh, I know him. [Griffin laughing] 
+{39:55}
+Travis: [crosstalk] You do?
+Justin: [crosstalk] Bitter– your, your–
+Merle: [crosstalk] Happy birthday! 
+Griffin: Expanding the Santa lore pretty significantly right now!
+Justin: Your bitter enemy, Jesus! 
+Magnus: Listen, I– Bertha. Bertha, please come back. 
+Griffin: She– the lid opens up, and she kind of reluctantly pops up. She says,
+Bertha: That’s fine. Y’all are kinda mean. Are you here with those super mean ducks that came through here earlier? 
+Magnus: No, fuck a duck. 
+Bertha: They broke most of us, and set me on fire. I hope they get what’s coming to them!
+Magnus: Why would they do that?
+Taako: I have a feeling they will. 
+Griffin: Uh, she says, 
+Bertha: Hey, y’all want–
+Griffin: She starts bouncing up and down on her spring excitedly now,
+Bertha: Hey, y’all wanna duel real quick? 
+Griffin: And then she, uh, [crosstalk] her–
+Magnus: [crosstalk] Nooo. 
+Griffin: This light surrounds her and suddenly Taako, you’re holding a cutlass that matches the one that she has. It’s made of sturdy metal, but you can tell that the blade is pretty dull. After all, it’s a child’s toy. And as it appears in your hand, Bertha’s just bouncing around, flailing her cutlass, saying, 
+Bertha: En guarde, you bastard, have at you! 
+Justin: So wait, it’s a child’s toy? 
+Griffin: Yeah, it’s like a fun dueling toy. 
+Justin: “Hey, fuck-o, c’mon!” Uh, ok, I make a melee attack, my first ever. 5. Is that good or bad for melee attacks? 
+Griffin: She knocks your attack out of the way and jabs you [crosstalk] in the tummy. 
+Justin: [crosstalk] Fair enough. 
+Travis: [crosstalk] And you’re dead! 
+Griffin: Uh, no, it doesn’t do any damage, it’s a very blunt blade. She kinda laughs and sheathes her blade, and as she does yours disappears, and she says, 
+Bertha: So what brings y’all to Icekeep? If you’re here to kill the master, then unfortunately I gotta fight you.
+Magnus: No! We wanna make the master happy! Right now master is sad.
+Bertha: How’re you gonna do that? 
+Magnus: I don’t know. He’s Santa, he’s got toys or some shit. 
+Griffin: She says, uh, Bertha says, 
+Bertha: So, uh, you’re gonna give a present to the master? Whew! I’m glad I’m not in your shoes, he’s a tough–
+Magnus: [crosstalk] Do you wanna come with us? 
+Bertha: He’s a tough nut to crack. 
+Griffin: He says– she says, uh, 
+Bertha: I’ll tell you what, yeah, why don’t you take me with you? I can maybe help you out. My master is a frost ogre, and his name’s Jimmy. 
+Magnus: What is it? 
+Bertha: Jimmy. 
+Magnus: Jimmy? 
+Bertha: Jimmy. 
+Magnus: Like, J-I-M-M-Y?
+Bertha: That’s his Christian name, yeah. [crosstalk] Honestly–
+Justin: [crosstalk] He’s a Christi–
+Merle: [crosstalk] [Santa voice] Ah, we’re back to Christ again!
+Magnus: Just to double check, it’s a frost ogre? Jimmy the frost ogre? 
+Bertha: Honestly, he’s really not that bad, he just– he doesn’t seem to care for toys, though, so keep that in mind if you’re trying to think of the right present. Though, if– if– so if I were you, I’d think, uh, re-think giving a ball and cup or a hula hoop or something. Anyway, you take me with you, maybe I can help keep Jimmy calm while you’re trying to figure out the perfect present. What do you say? 
+Merle: And you’re a toy, right? 
+Bertha: I’m a very good toy. 
+Magnus: Once again, uh, how about, uh, I’ll tell you what. We’ll– I’ll trade you your blunt cutlass for this rapier so you can actually help us in a fight.
+Bertha: Unfortunately this is the only one I can use.
+Griffin: She says–
+Magnus: [crosstalk] You have two hands–
+Clint: [crosstalk] And it’s probably soldered into her hand, too. 
+Bertha: [crosstalk] Yeah, unfortunately in this–
+Magnus: [crosstalk] You have two hands, don’t you? 
+Bertha: Yeah, but it doesn’t open, I’m a toy. [Griffin laughing] I’m not gonna– I’m not fuckin’ Sephiroth over here, I’m a toy, dude! 
+Magnus: All, right, well, come on, you come with me, and I–
+Travis: How big is it? 
+Griffin: Uh, like, just one foot tall, you can kind of–
+Travis: I pick up the box–
+Magnus: Yeah, come on. 
+Griffin: Ok. Uh, so another ice door in front of you slides open, revealing a staircase leading upward to Jimmy’s chambers. And as you–
+Travis: Jimbers!
+Griffin: The Jimbers. And as you ascend, that shrieking cry you’ve heard this whole time is almost unbearably loud and it’s rattling the walls with each wail. 
+Travis: [crosstalk] To be fair, the screaming from, from the room ahead of us–
+Griffin: It’s not really screaming, [crosstalk] it’s like crying–
+Travis: [crosstalk] No, no, but you said there was a screaming–
+Griffin: It was her on fire. 
+Travis: It was her on fire. Oh. 
+Griffin: Yeah, she was upset about that. Um, the air is getting colder as you approach Jimmy’s chambers, blowing at you in squalls with each cry. And as you enter, you realise this chamber, Jimmy’s main hang zone, is a huge space–
+Travis: Chill zone, please, Griffin, chill zone. 
+Griffin: His chill zone, uh, is magically eroded in the center of this glacier. Deep within the frozen walls of this room, you see enormous blue lights just swirling around in the ice, casting refractions of their light into the room. It’s a big empty space, about 200 feet long and 90 feet wide, and at the opposite end of the room you see Jimmy. 
+He’s a massive blue ogre. He’s 25 feet tall at least, but despite his size, there’s something undeniably child-like about him. He’s wearing these bright green shorts and a red t-shirt that doesn’t entirely cover his belly, and that shirt is emblazoned with a Candlenights tree. And he’s just uncontrollably crying, and these big fat tears are dripping slowly off his face and each time one hits the floor, a ripple of light spreads out across the room, polishing the floor which you can recognise is just perfectly smooth, a shiny sheet of ice. And Jimmy doesn’t notice you entered, nor does he notice the other people in the room – the three aarakocra who are walking menacingly towards Jimmy, until they hear you enter, at which point they turn towards you. And the big armored one says, 
+Armored Aarakocra: Heh, looks like they caught up with us after all. 
+And the robed magic user one says, 
+Magic Aarakocra: Oh, what are we gonna do? We’re so close!
+And the roguish looking one says, 
+Rogue Aarakocra: What did I tell you, Ray? We’re gonna ice these clowns.
+Travis: I’ll tell you what-
+Justin: Can we use fire stuff yet or...? [Griffin: Yeah] OK, thank you.
+Travis: I also– what I want to do.
+Griffin: Just say it. Just say something. Just say any–
+Travis: I want to take some of my metal thieves’ tools…
+Griffin: [slightly wary of the situation] Okay…
+Travis: And using some various bits of rope, strap them to the bottoms of my shoes. Make some ice skatessssssss. [audience cheers]
+Justin: OK, so the bad guys look at us, right? And then we’re like “Guys, quick! Something, we gotta think of it!” And Magnus, like, “Hold on.”
+Travis: Gotta lace up!
+Justin: Gotta lace up my magic skates.
+Travis: Quack.
+Griffin: As you do–
+Travis: QUACK. QUACK.
+Griffin: As you do that… 
+Justin: They kill you.
+[Griffin and Clint laugh]
+Griffin: Bladed Bertha begins to glow as she sees what you’re doing, Magnus, and you f- you see her start to glow again. And Taako and Merle, around your boots, something’s happening. You realize that two cutlasses have appeared on the bottoms of your shoes, also giving you skates. For ice. And the three of you stand up, and before, when you walked into this room you were losing your footing, but now you’re- you’re graceful as swans. And you see the three aarakocra, you can now see their legs as they’re sort of moving towards you, and they have these webbed duck feet as they are coming closer and closer towards you, but they see that now you’re standing, that you’ve cancelled out their evolutionary advantage, standing on your iced skates. And the big aarakocra, still charging at you, says
+Armored Aarakocra: What is this witchcraft?
+Travis: And I point at him and say
+Magnus: I’m gonna duck you up.
+Griffin: Yeah, that’s good enough. We’re going to take intermission right there. We’ll be right back [audience cheers and the jingling sleigh bells from the Poem Background Music play as we transition into the ad block]
+{Ad block: 0:47:12-0:51:12}
+Griffin: Alright, I’m going to use your initiative rolls from the last battle. Which means Taako, you’re going first. Just to set the stage: you all are in literally a big hockey rink or ice skating rink. Essentially, depending on whether you want to go more of a Mighty Ducks or a Yuri!!! on Ice route with this fight. [audience cheers loudly] I will support–
+Travis: I love that– Listen, can I tell you why I love this crowd? Mighty Ducks? Silenceeee. Yuri!!! on Ice? YEAAAAAAAAH! I’ve never seen a clearer separation of “no, not that, YES THAT!”.
+Griffin: So Taako, you’re going first. You are all on ice skates and the three aarakocra are on ice skates. One of them is big and armored, one of them’s sort of roguish with two daggers, and one of them is a smaller spellcaster. And they are fighting you. In a fight.
+Justin: Hehe. Um, OK, uh–
+Travis: Wait, where’d that hair come from?
+Justin: I took off my hat, this is the hair that’s underneath it.
+Griffin: That’s just what Justin looks like.
+Clint: Just- just le it back a little bit, because you do your acting with your eyes. Son.
+Griffin: That’s a good point. [audience cheers] Fucking, Justin’s on some Harry Styles shit.
+Justin: Um– okay-
+Clint: Who?
+Justin: Just ‘cause I’ll never get another opportunity to do anything this amazing again, uh,
+Taako: [not in character voice, but probably in character] Hey, Bertha.
+Bertha: Uh, yeah?
+Taako: Can you make four more blades? [audience loses their minds]
+Bertha: I can– I can make as many blades as ya need.
+Taako: That’s the right answer. 
+Justin: I cast Phantom Steed.
+Travis: [laughingly] Wait, so you guys know about this?
+Griffin: Your- you extend your staff and Garyl springs forward–
+Travis: Wait, you’re assuming, maybe it’s a different steed.
+Justin: Nonono, there’s my steed. It’s Garyl.
+Griffin: Garyl springs forth from your staff, and for a moment he lands on the ice and his legs just go all over. And he’s just like,
+Garyl: Yo, why did you bring me here?
+Griffin: And then Bertha glows and suddenly… Garyl’s wearing four ice skates, and is still a little bit- still a horse. So still a little bit like,
+Garyl: Not much better
+Justin: [cross talk] Wait, technically
+Travis: Wait, I know how to fix this.
+Magnus: Garyl, I think you’re cute.
+Travis: Rudolph the Red-Nosed Reindeer. Thinks they’re cute, then they can fly.
+Justin: And he’s a binicorn. I mean, I don’t want to– he’s not a horse, he’s a binicorn.
+Griffin: Actually, the light forms around Merle’s Santa suit again, and it actually hits Garyl, and now suddenly, Garyl’s fur is this dark brown. His long tail extends to sort of a bushy ball, and his two horns are now glowing bright red.
+Clint: And I say,
+Merle: Garyl with your horns so bright, won’t you bite this fight tonight?
+Justin: OK. When I-
+Travis: Now, to be fair, he did say “bite this fight”.
+Justin: When I cast- when I cast it, I cast it in the direction of them and hopped on, so I was hoping to just kind of tumble–
+Griffin: Charge them? Yeah, sure.
+Justin: Sort of tumble into ‘em.
+Griffin: Sure, roll a d20 plus your spellcasting.
+Justin: That’s a 19.
+Griffin: Uh, yeah, that’s definitely going to hit, not the armored one- actually that might hit any of them. Who do you want to hit with Charging Garyl?
+Justin: Uh…
+Griffin: The armored one, the rogue, or the spellcaster?
+Justin: The spellcaster.
+[Clint and Travis agree]
+Griffin: OK, yeah. Uh, yeah, that is a hit, go ahead and roll, eeeeh, we’ll say 2d10. Plus your spellcasting modifier. Oh, he found his dice. Finally. [Justin: Thank you] They were on the drink cart.
+Justin: Yeah, I do. Uh, that’s a 7, plus 3, so 10.
+Griffin: 10 plus your spellcasting modifier.
+Justin: 15.
+Griffin: You’re 15? OK, you uh, pierce into Ray, the magic-wielding duck. And he gets knocked up into the air–
+Travis: He gets knocked up? [Griffin laughing]
+Clint: That’s a potent spell!
+Justin: Finally, my Tumblr fanfiction is coming to fruition.
+Travis: And then Taako said “Hey, duck. What’s up duck?”
+Griffin: Uh, gets knocked up into the air. And as it gets knocked up into the air, two beams shoot out of Garyl’s horns and blast it also in the air for another 9 points of damage [Justin: Whoa] as these two heat rays shoot out of Garyl’s bright red horns.
+Justin: And Garyl says,
+Garyl: “Ho ho ho, now I have two horns”
+Justin: Because Die Hard?
+Griffin: Everyone gets one of those, yes. OK, n–
+Justin: Still not a Christmas movie, but it’s fun.
+Griffin: Oh, we can’t fucking do this on a stage in front of–
+Clint: It is a Christmas movie!
+Travis: [crosstalk] Hey, fuck you. It’s not a Christmas movie... Is Batman Returns a Christmas movie? 
+Griffin: [sings about how they can’t do this on stage]
+Justin: [crosstalk] Griffin please, just 30 seconds, just 30 seconds, OK? It’s- OK. It’s, OK, it’s–
+Clint: Go ahead.
+Justin: If you’re not timing it, then it’s [stutters] it’s not a Christmas movie. It’s set at Christmas, but it’s not a Christmas– Like, lots of movies– [someone in the audience yells ”It’s a Christmas movie!”] No, it’s not. It’s not thematically related to Christmas, it’s just set at Christmas-
+Travis: It could happen on Arbor Day–
+Justin: And Christmas is not thematically related… OK, good.
+Griffin: Time. Time. End of discussion. Next in the order–
+Clint: Is Nightmare Before Christmas a Christmas movie?
+Travis: Yes!
+Justin: Yeah.
+Griffin: Fucking… come on. Magnus you’re up-
+Travis: And it’s also a Halloween movie.
+Clint: OK. Wow.
+Griffin: [with an infinite amount of patience] That was the last diversion.
+Travis: I’m gonna charge the cake-eater.
+Griffin: There’s a curse.
+Travis: I’mma charge. The cake-eater.
+Griffin: I don’t know what that means.
+Travis: The cake-eater, it’s the big beefy one. You told me I could make Mighty Ducks references. [audience cheers] 
+Justin: OK, then you would say “I’m gonna charge the bash brother”, because he is the one–
+Travis: Nonononono.
+Justin: Cake-eater was the handsome boy. He was the Matchbox–
+Travis: No, no, no–
+Griffin: I literally said that was the last divergence. And that–
+Clint: But that doesn’t make it true!
+Justin: Cake-eater was the Matchbox 20 lookin’ motherfucker. It wasn’t the big burly one.
+Travis: He was NINE, who’d he look like? Was there a nine year old in Matchbox 20?
+Justin: It was Joshua Jackson who looks like Rob Thomas.
+Travis: No, Joshua Jackson was the main one who was the leader of the–
+Griffin: A black fog- A black fog spreads throughout the ice rink, and it’s a curse! And the curse is this: “the next time you aaaaaall get off-topic while playing Dungeons and Dragons, your character will befall a terrible fate. I’m- [audience laughs] I’m not joking.”
+Travis: OK, with an unarmed charge– no, no, no, Phantom Fist charge, Phantom Fist charge– [someone in the audience says something indistinguishable] Hell yes, [Clint: Hell yeah!] audience member. I rolled a 15 plus uh, 8.
+Griffin: Yes, that’s a hit on the armored duck.
+Travis: OK, that’s 1d4–
+Griffin: You’re just punching him?
+Travis: Yeah, well, with a push.
+Griffin: OK, so you’re checking them, to use–
+Travis: Well it’s only 1, so that’s 5 points of damage.
+Griffin: Great.
+Travis: Ho ho ho, I have two attacks.
+Griffin: OK, so that’s Travis’.
+Travis: Thank you. Then I’m gonna throw Chance Lance at them as they stumble back.
+Griffin: OK.
+Travis: That’s a 16 plus 8, 24.
+Griffin: That’s definitely a hit.
+Travis: Oh, excuse me, [Griffin: It’s a hit] it’s a 25
+Griffin: Oh, that’s a Super Hit.
+Clint: So it’s a [Street Fighter voice] HIIIIIIT. {0:58:58}
+Griffin: Yeah.
+Travis: And that’s 1d10… That’s a one. PLUS, plus 5. Six.
+Griffin: OK. 
+Travis: So that’s 11 and then–
+Griffin: Both Ray and the armored duck are looking kinda not great.
+Travis: And I’m going to use my Action Surge to attack again.
+Griffin: With what?
+Travis: Uh, the Raging Flaming Poisoning Sword of Doom.
+Clint: You want to tell your story now?
+Travis: I do. So, I have a really, really incredibly beautiful hand-ma–
+Clint: We don’t have it yet.
+Travis: No, here’s the thing…
+Griffin: Please do not expect Travis just to lift it up from under the table.
+Travis: No. A shipping company who shall remain nameless failed to get– I said [mumbles] it’ll remain nameless.
+Justin: But it’s not Fed-Ex and it’s not America.
+Travis: But it’s not Fed-Ex and it’s not the United States Postal Service– fucked up real bad so it’s not here. BUT I wa–
+Justin: If you live in Kentucky, know that the Flaming Raging Poisoning Sword of Doom is nearby!
+Travis: [crosstalk]
+Griffin: It’s treasure, hidden in a UPS dungeon–
+Travis: But I knew I– YOU SAID THE NAME.
+Clint: “Shall remain!”
+Griffin: They fucking know who it is.
+Travis: No, that’s short for Upsy. I want to give a big shout-out to Lauren and Grant, who fucking worked their asses off to try to get it here, including flying from LA to Seattle to try to physically go to the place and bring it, only to find out it wasn’t there.
+Justin: Grant of Mythbusters fame, also of “being a super solid dude” fame.
+Travis: Yeah, Grant Imahara? Apparently, the best.
+Justin: The best.
+Griffin: Thank you to both of you.
+Travis: But also Lauren, Lauren who made the sword is the best. And then I’m going to attack with the Raging Flaming Poisoning Sword of Doom. Well that’s a 5, BUT, plus a nine.
+Griffin: That’s a hit. I’ve decided.
+Travis: Hey, thanks.
+Griffin: On the armored duck?
+Travis: Yeah.
+Griffin: Are you sure? [out of the side of his mouth] Oooh, ya sure that’s who it’s attacking? Because that might not hit the armored duck.
+Travis: I’m gonna hit the rogue one.
+Griffin: Eyyy, it’s a hit!
+Travis: And I believe that’s this plus a bunch? I don’t have that one. That’s a 6, plus 5, 11, plus like what, 42?
+Audience Member: 20!
+Griffin: It’s plus 20.
+Clint: Thank you, commissioner.
+Travis: So that’ll be 31.
+Griffin: OK. So the armored duck– er, the rogue duck is now looking very bad.
+Travis: And I’m going to, because I have an extra attack, I’ll use my other attack– 
+Clint: Good god.
+Travis: I only get to do this!
+Clint: Yeah, but you do it over and over and over.
+Travis: I don’t do anything. I rolled a 1. That was a 1. I think about attacking, but then I remember a time someone made fun of me when I was a child.
+Griffin: Is there any flavor to your attacks, or are you just sort of on ice skates, flailing a big sword around?
+Travis: Griffin–
+Griffin: I want that flavor.
+Travis: I am skating like a– I don’t know, what’s a really good skating animal?
+Griffin: Alright, we’re moving on.
+Travis: A penguin! Like a penguin! Like a Snoopy. I’m skating like a– That’s the thing, you look at me and go “oh, he’s a great– Oh, he sliced that guy”. But you don’t see the attack coming, because surprisingly–
+Griffin: So lovely.
+Travis: Magnus is fucking graceful on the ice.
+Griffin: Yeah, sure. Uh, next–
+Travis: LIKE… [quietly] no.
+Griffin: Next in the order is Ray, the magic duck who’s not looking very good.
+Travis: What a weird sentence.
+Griffin: Ray the magic duck– uh, uh, they-
+Clint: Beloved Christmas character.
+Griffin: Lifts their staff into the air and casts Haste on the rogue. Until the spell ends, the target’s speed is doubled, it gains a +2 to AC, and it has advantage on dexterity saving throw, and it gains an additional action on each of its turns. So you see this light surround the leather armor-clad duck with the two knives, and suddenly they are skating like a bullet. Aaaall around the rink, doing laps and beautiful jumps, pirouettes, axels… [Griffin runs out of ice skating words to throw in here as he trips over an “l” sound a few times] 
+Clint: Stuff.
+Travis: No no no, let him keep going.
+Griffin: A toe loop. [audience cheers]
+Clint: You’re not leaving anything else for the rest of us.
+Griffin: Yeah, uh, and they are actually up next. And they are going to come after… Let’s see, who attacked the rogue duck? It was Magnus. Yeah. OK, they are going to come at you and they are going to take two attacks with these big, gnarly knives. One is a [high pitched] critical hit. 
+Travis: Oh?
+Griffin: And one is a 17 versus AC?
+Travis: Wait, what is it?
+Griffin: Seventeen.
+Travis: Yeah, that was a miss. [one audience member yells “Yeah”] Yeaaaaah.
+Griffin: Critical hits going to be–
+Travis: I know, I was checking– Hold on, I was checking my list of things I could do. I’m not just like, on Twitter. “Hey guys, so, playing D&D. What are you guys doing?”
+Griffin: The crit is 36 points of damage.
+Travis: Wait, it critted on me?
+Griffin: Yes. Uh, next in the order iiiiiis… Merle. Santa.
+Clint: Ahhhh. Alright.
+Justin: Are there any truths that they possess [Griffin laughs] that we need to extract from them?
+Clint: Merle does a Hamill Camel. 
+Griffin: What’s that? 
+Clint: That’s something Dorothy Hamill used to do. I-I don’t know, she spun around and carried water on her back. I don’t know exactly what it was.
+Griffin: [laughing] Sure.
+Clint: And, stay with me, give me a second, give me–
+Griffin: [crosstalk] Oh fuck.
+Travis: [crosstalk] God damn That’s the most ominous like, scary thing.
+Griffin: That’s very ominous. Careful of the black fog.
+Clint: He casts Planar Ally. And summons– wait, wait– and summons Gundren with the Phoenix Fire Gauntlet. [A cacophony from the audience, some people cheering, some people shouting incredulously]
+Travis: Right now, people at home, the silence you hear is me, Justin, and Griffin wondering if it’s either a “fuck you” or a “that’s the most competent thing our father… has ever done… in his whole life”.
+Justin: OK.
+Griffin: Alright, here’s what I-
+Clint: [crosstalk] Cause I obviously failed as a parent.
+Griffin: No, no-
+Travis: Well, yeah.
+Griffin: Yikes.
+Travis: Your sons play D&D for a living, get your shit together, dad.
+Justin: Alright, it’s definitely-
+Griffin: [crosstalk] Here’s what we do-
+Justin: It’s definitely the first one because he’s dead [crosstalk] and we took the gauntlet from him...
+Griffin: [crosstalk] No no no no no, here’s what I’ll do with this.
+Justin: Ok
+Griffin: But I’ll need a- I’ll need a roll, and now we’re just playing fucking Calvinball folks.
+Travis: [crosstalk] Because we’re on a time limit.
+Griffin: [crosstalk] Not yet, not yet, not yet! ‘Cause I wanna explain what it is, what I’m envisioning for this scene.
+Travis: Ok.
+Griffin: [laughing] Interior: day.
+Travis: Smash cut!
+Griffin: I think you cast this spell and you specifically pull him from the moment of Old Phandalin’s destruction for, for, like, a tenth of a second. For like a tenth of a second, you just see this flash and suddenly in front of you, the smooth ice that you’re on turns to that smooth black glass of Phandalin. And it’s just like, it’s just like [snaps] that quick, but there is fire fucking everywhere in that second, and you catch the three birds in the flame. But I wanna- like, the strength of the projection is going to be based on your D20 roll plus spellcasting modifier and if it’s shitty… we’ll figure it out. [audience laughs]
+Clint: Well, if it’s shitty, I’ll just lie.
+Travis: No, you won’t.
+Clint: By the way, folks, this scene is a, can be seen in the forthcoming graphic novel [crosstalk] from First Second.
+Griffin: [crosstalk] Spoiler alert. Yeah, go to theadventurezonecomic.com and get our graphic novel, it’s-
+Travis: Theadventurezonecomic.com, roll that shit!
+Clint: Here we go.
+Travis: Not bad, not bad. Fourteen?
+Griffin: [exasperated] What did he say, four?
+Travis: Fourteen.
+Clint: [crosstalk] Teen, teen! Plus my… spellcasting modifier.
+Travis: Well, plus 5.
+Justin: Mine is 5, you can borrow it.
+Travis: 19.
+Clint: 19!
+Griffin: Uhhhh yeah. That’s a number. And now-
+Clint: No, wait a minute-
+Travis: It’s actually plus 8.
+Clint: Plus 8. So, it’s 22. [audience cheers]
+Travis: So fuck off!
+Clints: Ducks!
+Griffin: Ok, with a 22 you-
+Travis: Wait, hold on, hold on...
+Clint: Oh I don’t like that.
+Travis: No, say it, say it, say it. [someone in audience calls ‘say it’ as well]
+Clint: Now I have 22 attacks, ho ho ho.
+Griffin: Ok, now everyone’s used them up and we’re done!
+Clint: What was that, by the way, what was that from?
+Justin: It’s from Die Hard.
+Griffin: [crosstalk] From fucking Die Hard! Uh oh, the black fog, be careful. Ok so- [Justin laughs] the rogue duck with the haste speeds dodges out of the way of the column of fire, but the armored duck and magic duck are both caught up in it. With that, the magic duck is incinerated [Justin: Oh shit!] in a flash and is gone.
+Clint: Crispy Duck!
+Griffin: [laughs but continues] The armored duck is looking-
+Travis: Hold on-
+Griffin: [crosstalk] No, it was good, it was good.
+Clint: [crosstalk] Wait a minute, crispy duck! 
+Travis: That was really good. [audience cheers]
+Griffin: The armored duck is looking like a stiff wind could probably knock them over and the rogue duck, who is still kinda bad off, got out of the way so it’s just the two of them. [someone blows into a their mic] And then, just as quickly as that, they’re gone. And another teardrop falls out of the ogre’s eye and as it hits the ground, the ice that was sort of melted by the fire is zambonied back into shape. Taa-ko...
+Justin: Um, ok, I-
+Griffin: You’re still on Garyl, your beautiful steed.
+Justin: I’m on Garyl my beautiful steed and I race towards them, and I raise the Umbrastaff and I say
+Taako: Bad news, idiots! I know how the podcast ends and we can’t die.
+Justin:  And I cast-
+Griffin: Just to set it up, the poem did establish that this takes place after everything else that’s happened in the podcast.
+Travis: Oh really? It takes place after- spoiler alert-
+Justin: No, wait, don’t do it ‘cause-
+Griffin: [laughs loudly] Ok, no, Travis- Justin’s right, ok, I take it back.
+Justin: I cast Delayed Blast Fireball.
+Griffin: [total confusion] What?
+Justin: We alls fucked now. [everyone laughs] A beam of yellow light flashes from my hand and I-
+Travis: I’m glad you said hand.
+Justin: Yeah. The bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 20 foot radius sphere centered on the explosion of flame must make a dexterity saving throw. If you don’t save, it goes bad. And you’re gonna- we’ll see, we’ll just do the dexterity saving throw now.
+Griffin: Ok. So, the hastened rogue duck has advantage on dexterity saving throws.
+Justin: I just wanna confirm though that we’re far enough away from Jimmy that this is not going to-
+Griffin: No, Jimmy is still very, very far away.
+Justin: Thank you.
+Griffin: The magic duck rolled a five… Oh, the magic duck’s dead, the armored duck rolled a five. And the rogue duck, critical miss, and a 21 versus AC, or whatever the-
+Justin: It’s a dexterity saving throw, so-
+Griffin: It’s against your spellcasting save.
+Justin: Which is 18. You guys should roll, too.
+Travis: It’s a 4.
+Griffin: Merle, roll that d20. You are saving the-
+Justin: I need to start rolling my d6 now ‘cause if I don’t start now I won’t be done.
+Griffin: Here, we’ll do this, we’ll just roll the d6 once and multiply by the number of dice.
+Justin: Well, that’s not how numbers work.
+Griffin: [exasperated] Ok, then start rolling it.
+Justin: Don’t you have a computer program that can roll?
+Griffin: Yeah, sure.
+Justin: Ok, it’s 12d6. [audience freaks out]
+Travis: I… I’m gonna use parry. [Justin dies laughing]
+Clint: Which one of the ducks is that?
+Travis: I think since we’re so good on our skates we should get advantage on that roll, Griffin.
+Griffin: Ok, no! Uh, Merle, what-
+Travis: You did say ok first.
+Griffin: Merle, what did you get?
+Clint: I rolled a 19.
+Justin: Hell yeah, dude!
+Griffin: Ok, Merle saves. Uh, you see Merle leaping gracefully from the explosion as both of the armored folks are caught up and hit for 36 points of fire damage.
+Travis: Oh, no, I’m fine. 
+Griffin: Ok. That is enough to also incinerate the armored duck, leaving just the rogue duck.
+Travis: I’m down to 41, I’m doing fine. 41, that’s still better than most of you have.
+Griffin: Yeah!
+Justin: Oh wait, hold on, I should roll mine. Yeah, it’s fine.
+Travis: You don’t hit yourself.
+Justin: I don’t think I’d hit myself, would I? No, probably not. Doesn’t make sense.
+Griffin: No, I mean you’re aiming it- yeah, yeah, I’ll give it to you.
+Justin: Aiming it exactly 21 feet away? For sure. For sure, for sure, for sure.
+Clint: And you’ve got that spell shaping thing too, right?
+Justin: Absolutely, thank you, Clinton. Yes, spell shaping, so important.
+Griffin: Next up is the- rogue-
+Travis: [crosstalk] Is me.
+Griffin: [in dread] ...It is. Uh oh. You’re gonna hurt ‘em. {{1:12:48}}
+Travis: I’m going to aim Chance Lance at the rogue.
+Griffin: [crosstalk] They’re going very fast. Ok.
+Travis: And then I’m going to aim about two feet in front of them.
+Griffin: Alright. Take advantage on that because you’re leading your target.
+Travis: Yeah, ok. That was a 23.
+Griffin: Yup, that’ll do it.
+Travis: Duck Hunt, baby.
+Griffin: Roll your damage.
+Travis: It’s an 8 plus 5. 13.
+Griffin: Here’s the scene: that rogue duck jumps out of the way of Taako’s explosion and then turns on its heels and does that cool thing where the ice shoots up, and then just started using its haste to sprint towards Jimmy. And as it was going, you calculated using, let me see, the fucking [Travis: No, I guessed] arithmetic fall and spread out of Magnus’ brain and you throw the lance and- oh wait, now we have another great line. {{1:13:31}}
+Magnus: Take a gander at that!
+Griffin: [chuckling] Okay.
+[audience cheers]
+Clint: We’re even, right?
+Griffin: Yeah, you’re even. The duck was very, very far away as you threw Chance Lance at it.
+Travis: And I mumbled that line. [mutters under his breath]
+Griffin: And you just kind of see it far away, its tiny form just kind of [plop sound effect] fall over dead. And you have solved my duck puzzle.
+Travis: Yeah! [audience cheers]
+Griffin: And with that, as the last of the aarakocra go down, finally Jimmy in the back of the room sees all the combat from afar, and he seems really upset that there’s all this fighting happening in his bedroom, essentially, and tears are just streaming off his face, sending these constant ripples across the surface of the ice. And the wailing is so loud now that the room is shaking and above you, you hear the ice start to crack in these deep booms. 
+Travis: It’s gonna be ok.
+Griffin: You don’t have long to- please don’t fucking disarm the drama and tension of the situation. Jimmy sees the three of you skate towards him with Bertha bouncing as Magnus, I guess, has it strapped to your back, fucking-
+Travis: It’s on my shoulder like a parrot.
+Griffin: Yoda style.
+Travis: [affronted] No.
+Griffin: And Jimmy looks down and looks at the three of you and Jimmy says,
+Jimmy: [deep, sad voice] Santa? Is that-
+Travis: My pebbles! [audience laughs]
+Jimmy: Is that really you?
+Merle: [deep Santa voice] Hello, Jimmy.
+Jimmy: Santa, why haven’t you-
+Justin: [impersonating Clint’s Santa voice] I’m Johnny Cash! 
+{1:15:22}
+Clint: [Johnny Cash voice] Hello, Jimmy.
+Griffin: He says-
+Clint: [sings] Love is a burning thing. [audience cheers]
+Travis: That was really good.
+Clint: Thank you.
+Griffin: Jimmy says
+Jimmy: Why haven’t you visited me? I’ve been a really good boy.
+[audience aws]
+Clint: Santa casts Zone of Truth. [audience cheers]
+Justin: Have you been a good boy? Let’s find out.
+Griffin: That’s a 12. Everybody else roll too, we’re doing this fucking thing.
+Clint: That’s a 3. Ok.
+Merle: Yes Jimmy, I am Santa Claus.
+Travis: That wasn’t the question. [Griffin laughs loudly] The question-
+Clint: Yes, it was!
+Travis: No, the question is “why didn’t you bring me anything?” You’re just like “yeah, I’m Santa.”
+Jimmy: [crosstalk] Why didn’t you bring me any presents, Santa?
+Merle: Well Jimmy, I tried to get in, but your fucking door was locked [Griffin laughs, audience cheers] and you don’t have a chimney.
+Jimmy: It’s true, I live in an iceberg. I thought that was it. 
+Merle: No, Jimmy, Santa has always loved you. Now-
+Travis: Wait, hold on, you’re in Zone of Truth. Santa did say in his list that he was afraid of this place.
+Clint: [still using Santa voice] But you can love things and be afraid of them, son. [audience cheers]
+Griffin: What does that even mean?
+Justin: I know what it means. [Griffin laughs]
+Griffin: Jimmy says,
+Jimmy: Well, did you bring me a present?
+Merle: Well Jimmy, I can give you a present, but I need to know what would make you happier than anything in the whole-
+Jimmy: I’m a little kid, I don’t know. I’m just-
+Travis: Fuck off
+Jimmy: I don’t know what- I don’t know. I haven’t been happy in awhile, I’m just so lonely down here.
+Justin: [realization] Oh.
+Merle: Jimmy, maybe true happiness lies within. Maybe- go with me here, go with me. Jimmy, maybe true happiness is not something you find wrapped up in a gift.
+Travis: Fuck that, come here.
+Clint: Ok.
+Jimmy: [cries] Why’re you taking so long?
+Merle: I can give you anything. How would you like… a friend?
+Jimmy: A real friend?
+Merle: A real friend. A little boy, just like you.
+Clint: And I open the bag [Griffin laughs loudly] and a little hand reaches out with a magnifying glass in it. [audience cheers] And he says, “Happy Hanukkah, sirs!” [more audience cheering]
+Griffin: Angus McDonald appears from the bag, I guess, and immediately starts slipping on the ice, immediately starts shivering, extremely cold. He’s in his pajamas-
+Travis: Hold on, hold on, hold on.
+Griffin: And he says
+Angus: [distressed and confused] What’s going on? Where am I? I’m so cold, everything's cold.
+Travis: I give him the feathered cuirass and say
+Magnus: Suck it up. Get your shit together, kid.
+Griffin: And Jimmy looks at Angus and says
+Jimmy: Hello. Do you want to be my friend?
+Griffin: And Angus looks around the room at the fact that he’s in the middle of a glacier, in the middle of a dungeon, and sees you three with battle wounds, and three dead ducks on the floor, and the 25 foot ogre standing in front of him. And we see the arithmetic form around Angus’s brain as he says, 
+Angus: [hesitant] Yes.
+Travis: If I may, can Magnus lean in and whisper to Angus?
+Griffin: I guess.
+Magnus: [whispered] Pen pals. Pen pals!
+Angus: Excuse me, new friend, do you own a pen?
+Griffin: And Jimmy says
+Jimmy: No, I don’t.
+Magnus: There’s plenty of feathers and quills around.
+Griffin: And sure enough, Jimmy reaches down and plucks one of the feathers off of the dead duck in front of him.
+Justin: He dips it in their blood. [Clint laughs]
+Griffin: And you see Jimmy and Angus talking, and Jimmy realizes-
+Travis: What’s your AOL, AIM?
+Griffin: They trade screen — uh, usernames, and with this, Jimmy stops crying and he cheers. And as he cheers, the iceberg around you just explodes and the ice goes flying outwards, and suddenly all of you are standing out in the snow fields in the hills beyond Phandalin again. And as you are standing there, you realize that the raging snow storm has finally eased up. The clouds above have thinned, letting strands of bright moonlight pierce through, illuminating the slow, fluffy flakes floating lazily through the air [Clint starts to gently sing “Welcome Christmas”] with soft and lovely light. Over the hills, you can hear cheering as folks celebrate the quieting of the cry from the Icekeep and then, in the quiet of this gentle snow, you can hear those cheering voices start singing carols as they realize.
+Clint: We don’t rehearse this stuff, folks!
+Travis: No, we just all happen to share the same brain.
+Justin: Yeah.
+Travis: We have one quarter of it each.
+Justin: Believe it or not, we don’t rehearse. As hard as that must be for you to believe in this exact moment.
+Griffin: The people of Phandalin are singing carols as they realize in unison that Candlenights is saved.
+Travis: And it didn’t come in boxes...
+Griffin: I actually have a poem to walk us out.
+Justin: Wait, before we read the poem should we say thank you to everybody?
+Griffin: We can do it after the poem, too.
+Justin: It’s up to you, it’s your rodeo.
+Travis: [crosstalk] Nah, let’s do it now.
+Griffin: Thank you, everybody, for coming-
+Justin: Yes, thank you Tacoma and Seattle, by extension ‘cause I know a lot of you came up.
+Travis: No, you know what? Fuck Seattle.
+Griffin: No, stop, we’re gonna be there all weekend- we will be there all weekend, Travis does not mean-
+Justin: [crosstalk] Fuck Seattle!
+Travis: [crosstalk] This is just for Tacoma!
+Griffin: Thank you to the Pantages, this place is absolutely beautiful-
+Travis: No, you know what?
+Griffin: [laughing] No! Stop.
+Clint: [laughing] Fuck this place.
+Griffin: Thank you to Sam for helping us out, thanks to CAA for helping us get this show together and-
+Travis: Thank you to Somerset Sews for building ⅔ of the costumes.
+Justin: And the Cut/Sew for my costume.
+Travis: Thank you to Lauren and Grant. The sword didn’t make it, but Lauren is posting pictures of the sword to their Twitter.
+Griffin: Oh! Come to Podcon if you want tomorrow, if you don’t have tickets-
+Travis: Podcon.com, you can get in-person tickets still or do remote attendance if you can’t make it down. Podcon.com.
+Griffin: Yeah, they’re streaming it.
+Justin: They’re literally here. 
+Travis: Yeah, but they’re 45 minutes away. I don’t wanna drive 45 minutes.
+Justin: [crosstalk] Fair enough.
+Griffin: We’re gonna be doing a The The Adventure Zone Zone where we’re gonna be talking about stuff, and a live MBMBaM and some other panels we’re all on.
+Justin: And sincerely, thank you so much.  You guys are so fun.
+Griffin: This is always the most fun shit ever.
+Justin: Y’all are grand.
+Griffin: But I do have a poooooem.
+Justin: Ok, read your poem.
+Clint: Poooooem.
+Griffin:
+“And so did the wailing from down in Icekeep
+ give way to sweet silence, not even a peep
+from the ogre, sweet Jimmy, enormous and blue,
+whose visit from Santa left his spirits renewed.
+And so our dear heroes, with a job so well done,
+did abscond to New Phandalin for some holiday fun
+and told townsfolks their story of a Candlenights saved
+while back in the bathroom, dear Merle did shave.
+It just wasn’t his style, a beard bushy and white.
+Oh! And happy Candlenights to all
+and to all a good night.” 
+Griffin: Thank you, everybody.
+Travis: Thank you!
+[theme music plays as audience cheers]
+
+
+[a]Then there's some more words, someone please help me out with this one {27:20)
+[b]whoa that ones REALLY hard.
+[c]Woof! Yeah, I just can't hear the one word Travis says here. It sounds like he says "fighters" or something close.
+[d]"fried obergs are gone"??? honestly no idea what's meant

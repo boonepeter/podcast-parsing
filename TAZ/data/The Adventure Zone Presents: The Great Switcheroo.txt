@@ -1,0 +1,5669 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Stuart Wellington
+Jeremy "Scales" Fangbattle: Elliott Kalan
+Tanzer Silverview: Zhubin Parang
+Lucian Buttwatcher: Dan McCoy
+
+
+The Adventure Zone Presents:
+The Great Switcheroo
+(part of TAZscripts on Tumblr)
+Griffin: Previously, on The Adventure Zone...
+Gundren is suddenly completely engulfed in flames, and he’s growing, and, uh, bouts of flame are sort of ripping off of his body and cutting entire buildings in half. The three of you dive into the well, and then, all of a sudden, all you see is flame above you.
+
+
+Travis: Well, tits.
+
+
+Griffin: Just a giant burst of flame. The entire town, where it used to be, you look around, and...for about a half mile in diameter, all that you can see is black glass, a circle of black glass on the ground.
+
+
+Travis: Well, this all sucks.
+
+
+Announcer: From the ashes of Phandalin, three new heroes arise. Let’s see if the Flop House gang can survive one night in...The Adventure Zone!
+
+
+[theme music]
+
+
+{1:21}
+
+
+Stuart: Hey there. Welcome to The Adventure Zone. My name is Stuart Wellington, formerly of The Flop House podcast.
+
+
+Dan: Formerly?
+
+
+Elliott: Did you quit?
+
+
+Stuart: No, I’m just joking. I’m a host of The Flop House podcast regularly, but I’m stepping in to be your dungeon master today. If you’re a follower of the MaxFun line of podcasts--which I’m sure you are, and if you’re not, why not?--you know that as part of the most recent MaxFun drive, we decided to do a switcheroo where the hosts of various programs are going to be taking over other programs. So the McElroys, all four of them, are going to be doing an episode of our show, The Flop House movie podcast, which is about bad movies. They’re gonna watch some terrible movie for you. Um, and we are going to be taking over The Adventure--the duties of The Adventure Zone today, investigating a different dungeon and some other dragons than the ones that you are used to on what is a semi-weekly basis. As I mentioned, I’m Stuart. I’m, I guess, the most experienced with Dungeons & Dragons and games like that. Been playing these sort of things since I was in high school, so I guess it was natural that I would take over the role of dungeon master. To my right is…
+
+
+Elliott: My name is Elliott Kalan, I’m another co-host of The Flop House. I have minimal, limited experience with Dungeons & Dragons. I played it a few times in high school, and since then, Stuart had--years later, Stuart pulled me back in with some amazing adventures. I’m still--I’m very forgetful about rules often, so I’m glad that Stuart’s runnin’ the show, and I’m looking forward to once again journeying into the fantasy worlds.
+
+
+Dan: I’m Dan McCoy. My experience with Dungeons & Dragons is mostly that my brothers were into it, and I’m much younger than them, so I never played it with them, but I enjoyed reading the Monster Manual ‘cause I just like lookin’ at pictures of monsters. But I really don’t have any experience at all.
+
+
+Zhubin: And I’m Zhubin Parang, occasional guest on The Flop House podcast, here brought in to help out because I have no experience with Dungeons & Dragons, but I’ve--I’ve--
+
+
+Stuart: You like games.
+
+
+Zhubin: I do. I’ve played board games, so I feel like it’s the same.
+
+
+Elliott: In fact, often I hear you say on the phone to I don’t know who, [imitating Saw] “Would you like to play a game?”
+
+
+Zhubin: And they always say absolutely, and we have a great hour or two playing games over the phone.
+
+
+[laughter]
+
+
+Elliott: Phone games.
+
+
+Stuart: So, yeah, okay. So--
+
+
+Elliott: That’s from your movie, Phony Games.
+
+
+Stuart: So what we’re gonna do now, guys, before we meet these--the new adventurers that are gonna find a--worm their way into the place of our listeners’ hearts, uh, I’m gonna set the stage a little bit. So, the three of you have been traveling together for some time. It’s up to you how long. Maybe a year, maybe five years, who knows?
+
+
+Elliott: But we know each other.
+
+
+Stuart: You know each other. Uh, you were attempting to travel to the town of Phandalin, only to find that it is a blighted ruin, has been turned into a plain of black glass, and all the inhabitants murdered. And the people who weren’t murdered, uh, which I guess were living outside the town or were trying to go there to sell stuff…
+
+
+Elliott: In the Phandalin suburbs.
+
+
+Stuart: Yeah, in the Phandalin suburbs--have been streaming away from the town in--from the ruins in droves.
+
+
+Zhubin: The public transportation into Phandalin just cuts off right at the town border now.
+
+
+Stuart: Cuts off right at the town border. So you had to arrange travel away from there.
+
+
+Elliott: There was one of those signs that we saw that says, “You’re now entering Phandalin” where someone’s painted on it, like, “only death” or, like, you know, like, “game over.” You know, like in the movies.
+
+
+Zhubin: Or, like, uh, “days since mass death event,” like, zero, like scratched--
+
+
+Dan: Who goes around and paints these things? ‘Cause everyone’s dead, I don’t know, is there a guy who just roams from town to town?
+
+
+Stuart: Yeah, the guy who runs the paint shop is like, “Oh, great, the town died. I’m gonna be sellin’ all my paints.” So you guys, uh, you guys left that. Whatever job prospect you had there clearly has dried up. And you find yourselves in the s--uh, small town of Hogsbottom.
+
+
+[laughing]
+
+
+Stuart: A town famous, I mean locally--
+
+
+Elliott: Not a big tourist industry in Hogsbottom.
+
+
+Stuart: Their primary industry being tanneries and butcher shops.
+
+
+Elliott: Sure.
+
+
+Dan: Makes sense.
+
+
+Elliott: Anus--
+
+
+Stuart: The Famous Anus.
+
+
+Dan: Famous Anus cookies.
+
+
+Elliott: Famous Anus pork products.
+
+
+Stuart: Magical hot dogs.
+
+
+Dan: “You gotta go to Famous Anus’s.” “I don’t think I do!”
+
+
+Zhubin: They have a website?
+
+
+Stuart: So Hogsbottom is currently filled to bursting with refugees of Phandalin. Uh, they’ve set up little tent towns, and you can also, as you enter the town, you see that they’re also reinforcing all the defenses. The sheriff of the town, a stout, gruff-looking dwarf by the name of Bartok Rocksplitter--
+
+[laughing]
+
+
+Dan: Why wouldn’t he be.
+
+
+Stuart: --is overseeing the labors to reinforce the defenses because, as you heard along the road, there have been marauding tribes of goblins plaguing the townsfolk.
+
+
+Elliott: Ugh, just what they need.
+
+
+Stuart: Of course, after taking--
+
+
+Zhubin: Is Hogsbottom, uh, ever considered an invasion threat from anybody? Would anybody ever want to invade Hogsbottom?
+
+
+Stuart: I mean, you know, maybe the goblins want all the, uh, these famous hot dogs we were talking about.
+
+
+Zhubin: Yeah, I guess that’s--yeah.
+
+
+Elliott: I could see--there’s a lot of refugees there now who might be carrying all their worldly valuables with them, so a place that was once not valuable is now a source for raiding.
+
+
+Stuart: Exactly.
+
+
+Zhubin: Good call.
+
+
+Stuart: In fine leather goods.
+
+
+Zhubin: Leather goods.
+
+
+Stuart: Goblins love leather goods.
+
+
+Elliott: They do.
+
+
+Zhubin: And of course all the anuses that are ripe for eating and/or viewing.
+
+
+Elliott: And the thing is, this year’s anus crop was a bumper one. There was a huge--if anything, there were great anuses, a great quality, and they’re worried that the price’ll actually go down because the quantity was so good.
+
+
+Zhubin: Oh, no, the government’s gonna have to buy it up and keep them in anus warehouses just to keep the prices--
+
+
+Elliott: They had to build more anus storehouses.
+
+
+Zhubin: Yeah.
+
+
+Elliott: They’re actually--the government’s paying farmers to burn anuses.
+
+
+Zhubin: To burn anuses?
+
+
+Elliott: Yeah.
+
+
+Zhubin: Such waste.
+
+
+Stuart: You find yourselves in the local tavern, the Laughing Maid. It is filled with gruff and--
+
+
+Dan: Laughing maids?
+
+
+Stuart: Sadly, yeah, it’s clearly a misnomer, for there are no laughing maids to be found, as it is mainly filled with laborers and merchants who are kind of a little shit outta luck right now because their job prospects have dried up. Why don’t we hear a little bit about you guys? Elliott, why don’t you describe your dude?
+
+
+Elliott: Okay, uh, my character, if I could introduce him, is Jeremy “Scales” Fangbattle. I’m a dragonborn bard--
+
+
+Stuart: Is Jeremy a family name?
+
+
+Elliott: Jeremy is a family name, and I don’t prefer to be called by it. If you guys have been journeying with me, know that I hate the name Jeremy, and I prefer to be called by my self-given nickname of Scales, because it means both dragons and music. And that’s what I am, I’m a dragonborn, uh, descended from blue dragons--
+
+
+Stuart: So does that mean you’re blue? Right?
+
+
+Elliott: I’m blue, [singing] dabadee dabadaa, dabadee dabadaa.
+
+
+Stuart: I didn’t even mean for that to happen.
+
+
+Elliott: [singing] I live in a blue house, drive a blue car, blue in this stuff, blue’s clues. So that’s how that song goes, right?
+
+
+Zhubin: This friendship must be constantly strained, every second of every day.
+
+
+Elliott: Well, I’m an outlander, and I was outcast from my people mainly because of my singing. Uh, it’s--among my family--they’re a family of warriors--they don’t approve of me being a bard, and so I’m trying to win them back. Uh, so call me Scales. And they haven’t invented sunglasses yet, but if they existed, I’d be wearing them.
+
+
+Zhubin: I hope this quest finds you inventing sunglasses. I hope that’s the resolution of this quest.
+
+
+Elliott: I mean, there’s all that glass over Phandalin.
+
+
+Stuart: That sounds like an honest quest to have, yeah.
+
+
+Zhubin: It is, yeah.
+
+
+Stuart: Dan, okay, what’s your dude all about?
+
+
+Dan: My dude’s name is Lucien Buttwatcher.
+
+
+[laughing]
+
+
+Zhubin: Buttwatcher is also a family name.
+
+
+Dan: Yeah, I don’t understand what’s so funny about that. I’m a high elf druid, hermit, and, uh, I’m searching for spiritual enlightenment, although what I’m searching for could destroy the world. So I’m not quite sure why--
+
+
+Elliott: The world’s most beautiful butt.
+
+
+Dan: [laughing] I’m not sure why I’m searching for it other than maybe out of curiosity? Or to protect people from it.
+
+
+Stuart: What do you look like? What’s Lucien Buttwatcher all about?
+
+
+Dan: I have piercing, pale green eyes.
+
+
+Stuart: Okay, that’s handsome.
+
+
+Dan: As most elves, I am very old, but I look beautifully young.
+
+
+Stuart: Yeah.
+
+
+Elliott: Now, is that a spell, or do you just age well?
+
+
+Zhubin: Like a Tom Cruise…
+
+
+Dan: Yeah, I got long silvery hair, even though I’m quite young-looking. And, uh, as most elves do, I believe that elves are the best thing in the world, and we’re super great, and everyone else is not great.
+
+
+Stuart: Okay, so you guys sound--already it sounds like you guys get along really well. Okay, so we got--we got our first two heroes. Zhubin, what are you all about?
+
+
+Zhubin: I am Tanzer Silverview of the noble family the Silverviews. Uh, Silverview is come from the legend whereby our ancestors could see silver wherever they went and thus got their riches because they were of a better class than other people. That’s a legend, that’s also the fact. It’s where our family got its money, and there’s no need to discuss it further. I have a truly scandalous secret that could ruin the family, on an unrelated note. And I am--
+
+
+Elliott: Seems like an interesting thing to offer up.
+
+
+Zhubin: It’s completely unrelated to what I said earlier. I am...I believe inherently that I am better than others because of my higher class, but I’m also very--I feel very burdened by my family name, and I want people to know that I’m independent of it. But also part of it, because I get a lot of prestige that way. And again, Silverviews--
+
+
+Stuart: Sure.
+
+
+Zhubin: Come from viewing silver. Legendary and fact.
+
+
+Stuart: So, yeah, what are you guys doing all together? What are you guys adventuring together for?
+
+
+Elliott: Uh, well, I--
+
+
+Stuart: What brings you together?
+
+
+Elliott: Now, I relate to Mr. Silverview’s issues with his family.
+
+
+Stuart: Sure.
+
+
+Zhubin: Lord Silverview.
+
+
+Elliott: Lord Silver--and I also see the lord as a possible patron, perhaps. Of mine music. Uh, Buttwatcher, I’m not sure exactly what you’re doing with us.
+
+
+Dan: Uh, though I’m a hermit, in my meditation, I received what I believe to be a vision that tells me that if I really want to seek this spiritual enlightenment and this cosmic truth, I need to leave my hermitage and go along with these adventurers.
+
+
+Stuart: Yeah, possibly it’s tied in with this, uh, Silverview and, uh, Scales, was it?
+
+
+Elliott: Scales!
+
+
+Stuart: Scales.
+
+
+Elliott: Now, despite my cool name, which might sway you, I’m actually kind of a grimace type. I think--
+
+
+Dan: Wait, but I thought he was purple.
+
+
+Elliott: Uh, he was--I’m blue, but, uh, I--dabadee dabadaa, dabadee dabadaa--
+
+
+Dan: We can edit this out, right?
+
+
+Elliott: --that--I believe Scales Fangbattle might get us into a bit of trouble once in a while.
+
+
+Stuart: Sure.
+
+
+Elliott: Do not edit out my blue song.
+
+
+Stuart: [laughing] Okay.
+
+
+Zhubin: I’m between my fifth and sixth year in Silverview University. I’m having my sort of just out and about year, I’m young, I’m handsome, I’m rich, and I’m just out and about, having a good time and also hoping that maybe I can make a name for myself.
+
+
+Stuart: Yeah, like I did in between my years at Silverview University.
+
+
+Zhubin: Yeah, yeah.
+
+
+Stuart: Gonna nail some broads. Maids.
+
+
+Dan: Yeah, I assume that’s the code that he’s using.
+
+
+Zhubin: That’s a hundred percent what I was using. And what I’ll be pursuing throughout this quest.
+
+
+Stuart: Okay. So speaking of a quest, you guys are in the Laughing Maid, and you guys are getting a lot of stares. In addition to being kind--outlandish-looking, you also have the look of adventurers about you. You’re not the drab, dour commoners that surround you.
+
+
+Elliott: No, come on! I’m not drab, I’m blue! Dabadee dabadaa, dabadee dabadaa--
+
+
+Tanzer: I suggest we go to a different bar. This is kind of drab, it’s weird, it’s sad, there’s probably some sort of cocktail lounge somewhere? Someplace we can really kind of stretch out. What do you guys say?
+
+
+Stuart: For the more perceptive members of the crew, you realized that there were no other bars in Hogsbottom.
+
+
+Elliott: I’ll say, uh--
+
+
+Tanzer: I’m pretty sure I saw one two blocks down. Let’s just go back out and we’ll walk around.
+
+
+Scales: Come on, guys. This place is fine. I don’t mind being--I don’t mind getting attention. In fact, it’s [singing] preferable!
+
+
+[groans]
+
+
+Scales: [singing] That maybe they look, and they see...at us...where’s my lute? Hold on. I gotta--I misplaced my pack. I gotta get it.
+ 
+Dan: As an elf, I listen to the music of the spirits, and your song disturbs and annoys me.
+
+
+Stuart: So as you guys are arguing about this, a young, kind of doughy, pasty-faced man with thinning hair and a doublet bearing a symbol of a barrel with an apple on it--the symbol of a local ciderworks, the Tapwell Ciderworks--approaches you with his hands up, and he says,
+Man: I hope you’re not planning on leaving, adventurers.
+
+
+Scales: Well--why, of course no! Nooo! Come on, join us! Yeah! What’s your name?
+
+
+Man: My name is Augustus Tapwell. Perhaps you’ve heard of my family’s cider fortune.
+
+
+Tanzer: I have heard of the cider fortune. The Tapwells, yeeeees, and I’m clearly stumbling, to say--just trying to pretend that I know what he’s talking about, I...we all know. I’m Silverview, so we obviously know each other. We’re both rich men of esteem. Where’s a cocktail lounge that we can come to?
+
+
+Augustus: I...I don’t know what a cocktail lounge is, but you can get a pint of ale here, m’lord.
+
+
+Tanzer: Ugh. All right. I’ll get a pint of ale here. There’s no other way around this.
+
+
+Augustus: Wait, let me buy that for you. But first, my--my father has a proposition for you three adventurers.
+
+
+Scales: All right...
+
+
+Tanzer: All right?
+
+
+Scales: I’m hoping some kind of Broadway show? Perhaps starring us?
+
+
+Stuart: He puts his arms around you and kind of bundles you over to a table in the corner, past the onlookers that are crowding around the other tables.
+
+
+Elliott: Hmm.
+
+
+Stuart: This corner table, though able to accommodate multiple people sitting at it, only has two people, two places set currently. One is a very old man, and the other is a nearly identical doughy young man to the one that is currently pushing you over to the table.
+
+
+Elliott: Mhm.
+
+
+Stuart: The old man--both of those men are wearing almost identical doublets with the Tapwell logo, and they are digging into a supper in front of them. You are ushered to grab a seat while he orders three tankards of ale from a passing barmaid.
+
+
+Zhubin: Is she laughing?
+
+
+Stuart: She is not laughing. She is way too--she’s in the weeds right now.
+
+
+Zhubin: Oh, that’s terrible.
+
+
+Stuart: She has nothing to laugh about.
+
+
+Elliott: You think perhaps a song would cheer her up, or should we focus on the--you know, let’s focus on what we’re doing right now.
+
+
+Zhubin: I start eating.
+
+
+[Stuart laughs]
+
+
+Zhubin: I start just going right away and eating.
+
+
+Elliott: Just eating from their plates?
+
+
+Zhubin: From their plates. I have no concern about it.
+
+
+Stuart: The old man says,
+Old Man: I like a man with--clearly a large appetite. The three of you have the look of seasoned adventurers.
+
+
+Tanzer: You have a good eye. You’re--we are. We’ve explored the Mountains of Destruction not six weeks prior.
+
+
+Old Man: I haven’t heard of it. Perhaps the three of you can have a seat. My old man ears can’t hear you so well.
+
+
+Scales: Yeah, sure.
+
+
+Elliott: Were we not sitting already? You were just eating standing up from his plate?
+
+
+Zhubin: Standing up.
+
+
+Lucien: You’re an inferior race. I’m over one hundred years old, yet my ears are as strong as ever.
+
+
+Scales: Guys, we are being very insulting right now. Perhaps there’s an adventure in this? With, perhaps, money? And I--per--I’ve talked to you guys about this in the long nights on the road, but I have a huge desire to provide children for my clan through the doing of women. We’ve gotta find them.
+
+
+Stuart: Sadly, there’s no women at this table. It’s just you and two, uh, middle-aged men, and one very old man.
+
+
+Elliott: But he’s got these two sons, I assume, so, like, let’s--there’s got--I mean, we know--so maybe he’s got daughters elsewhere, too.
+
+
+Stuart: He’s probably got a wife that created those sons. Let’s find out.
+
+
+Zhubin: You can do her.
+
+
+Elliott: Yeah, I mean, she’s probably beyond child-bearing age, but I’ll figure it out. 
+
+
+Zhubin: A small chance is better than no chance. I sit down.
+
+
+Old Man: My name is Ambrose Tapwell. Perhaps you’ve heard of my cider fortune.
+
+
+Lucien: Yes, we’ve been through this.
+
+
+Tapwell: As of late, not two nights past, my mansion house, orchard, and ciderworks were attacked by a marauding band of goblins.
+
+
+Scales: Mm. Goblins.
+
+
+Lucien: The worst.
+
+
+Tanzer: Stupid goblins.
+
+
+Tapwell: Luckily, my retainers sprang into action and hustled me and my family to safety, however allowing my home to be overrun by these creatures.
+
+
+Scales: Mm, it’s a real {toe to hall? 17:55} type situation. 
+
+
+Elliott: He said, referencing a book that didn’t exist in this universe.
+
+
+Tapwell: Now, in the--
+
+
+Tanzer: Seems to me we need to hear the goblins’ side of the story, but go on.
+
+
+Tapwell: They have no side! They’re goblins, and I hate them. Now, in the hustle and bustle, I was not able to take all of my possessions, and I was hoping that I could find some strong and, well, learned types, experienced types in the ways of adventuring, such as yourselves.
+
+
+Scales: Mm-hmm.
+
+
+Tapwell: To break into my home and retrieve an item for me. I would be willing to pay you, although I think the knowledge that you’ve done a good deed should be payment itself.
+
+
+Lucien: This home, what’s it like? Is it a typical shack that seems like it would be easy to break into, or are we talking more of a fortress sort of thing?
+
+
+Scales: He referred to it as a mansion house.
+
+
+Lucien: Oh, okay.
+
+
+Tapwell: It’s a simple manor house. It would be easy to get into. In fact, the--I would assume the goblins may have already gotten bored and left. Otherwise, you’ll have to sneak past or murder them.
+
+
+Scales: Oh, sounds like a pretty easy job. I mean, it would work great as verse 277 of the epic song I’ve been writing about our adventures. I embroider a little bit, but, you know, I’ll probably double the number of goblins.
+
+
+Tanzer: As long as you’re not singing the first 276 verses as we’re going through, I think we could easily get through this.
+
+
+Scales: In fact, I can do that just for you! [singing] Oh, hear a story of three friends true, one of them blue, dabadee dabadaa, dabadee dabadaa...
+
+
+Zhubin: Three and a half hours later,
+Tanzer: Wow, that was a gripping story. Mr. Ambrose, I--
+
+
+Tapwell: It was amazing.
+
+
+Lucien: It was mostly of the color of the dragonborn.
+
+
+Scales: I mentioned some of the stuff we fought.
+
+
+Tapwell: It has a melody that I find catchy and yet incredibly irritating.
+
+
+Scales: Oh, yeah, it’ll stick with you for days. Now, about this house and the job therein, uh, you mentio--I love doing things for the good of them, but you did mention that you would hire us for, I assume, a fee of some kind.
+
+
+Tapwell: Well, yon lizard man, you drive a hard bargain.
+
+
+Scales: And I will ignore the racism of that remark.
+
+
+Tapwell: I’m willing to offer you--a pittance to lordly folks such as you, but how about 75 gold pieces each?
+
+
+Dan: We try and contain our excitement.
+Lucien: Yes, a pittance.
+
+
+Scales: It’s very little, but you know, we’re not doing it for the money. It’s, yeah...
+
+
+Tanzer: It would cover another year at Silverview...
+
+
+Stuart: That is totally a pittance to you. You wipe your ass with 75 gold pieces.
+
+
+Elliott: You’re super rich!
+Scales: You guys, I only got 10 gold pieces on me. That’s, uh, that’s--
+
+
+Tapwell: Now, I’d hate to--I’d hate to insult you, so I’d be willing to give you 25 each up front.
+
+
+Scales: Oh, yeah, it’s, uh...should we...
+
+
+Tanzer: Guys, I could--
+
+
+Scales: Should we haggle for some more? What should we do? The whole thing up front?
+
+
+Tanzer: I could just give each of us...
+
+
+Tapwell: So, we have an accord? Do we need to fill out paperwork, or is a gentleman’s agreement appropriate?
+
+
+Tanzer: Well, our families obviously are of the same class. I see no reason for paperwork.
+
+
+Stuart: He is nowhere near your class.
+
+
+Tanzer: I’m amazed you feel that way.
+
+
+Stuart: He’s a fuckin’ cider merchant.
+
+
+Zhubin: I do not--I’m very ignorant as to noble--
+
+
+Tapwell: Are you making fun of me?
+
+
+Scales: No, no, he’s very stupid.
+
+
+Tanzer: I assume people, when they say they’re of a high class, are, and so I believe our families should--should agree to a gentleman’s agreement.
+
+
+Dan: Um, so I’ve added, by the way, 25 gold pieces to my stash. I’m already on board.
+
+
+Stuart: He says, Now, to give you a bit of information, my home is about a day’s travel from Hogsbottom. The item in question is located inside a chest buried in the Northeast corner of my cellar. 
+
+
+Zhubin: Northeast corner of the cellar.
+
+
+Tapwell: It’s not a particularly heavy chest. One of you strapping adventurers could carry it without much trouble. 
+
+
+Scales: It’s what--it’s--so it’s not that big.
+
+
+Tapwell: Uh, no.
+
+
+Scales: And what’s in it?
+
+
+Tapwell: If you must know, there’s, uh, important documents.
+
+
+Tanzer: Do you want the chest too, or just the documents?
+
+
+Tapwell: Uh, the chest, please. It also has personal effects.
+
+
+Scales: Okay. Probably an heirloom or something.
+
+
+Lucien: This does not seem suspicious, and I take it at face value.
+
+
+Tapwell: Now, if you--I could give you directions, or if you insist, you could take one of my two sons with you. I care not which, but you must leave me one, for I need to have an heir.
+
+
+Scales: Don’t worry. We don’t want to bring both of those guys with us. Both of the Pillsbury dough twins.
+
+
+Stuart: They both look at you kind of nervously, fearing goblins.
+
+
+Scales: Hmm. Should we bring either of these two guys? They--it would help us find the way faster.
+
+
+Lucien: And if we get attacked, we can push one of them...
+
+
+Tanzer: That’s true.
+
+
+Scales: That’s a very good point.
+
+
+Tanzer: Cannon fodder.
+
+
+Scales: It looks like they could absorb a lot of goblin darts.
+
+
+Tanzer: All right. We’ll take...we’ll take whichever one of your sons you care for the least. You choose.
+
+
+Stuart: You’re having trouble remembering which one talked to you in the first place.
+
+
+Elliott: I’m sure it was...that guy…? Ugh, why did they both have to sit down?
+
+
+Stuart: He says,
+Tapwell: Uh, whichever one of you finishes your dinner first doesn’t have to go. 
+
+
+Stuart: And the two of them dig in with a, uh, abandon that is almost frightening.
+
+
+Elliott: Do I take out my lute and play some dinner-eatin’ music? You know I do! [guitar noises]
+
+
+Dan: And this was the invention of the eating contest.
+
+
+Stuart: You guys are seeing all of history today. Uh, of course, so it turns out that Archie Tapwell is going to be accompanying you. He looks very disappointed. Luckily for you, despite the fact that this town is full and it sounds like the--that the hotel is full as well, the inn that you’re in, the inn of the Laughing Maid, I think I mentioned that. Tapwell actually makes sure there’s a room set aside for the three of you to sleep in. So I’m assuming you...go right to bed immediately, or do you go about drinking and whoring away that 25 gold pieces you just got?
+
+
+Elliott: Hmm, I do have 25 new gold pieces.
+
+
+Zhubin: I tipped 25 gold pieces to the bartender, so I already lost the money. I care for it that little.
+
+
+Elliott: Should we just go to bed and get on with this adventure?
+
+
+Stuart: You are treated very well. At first, he thinks you’re punking him, and he looks around for a video camera. He realizes you’re not, and then he decides that he’s going to close the bar the next day forever and go away.
+
+
+Zhubin: Oh god, I shut down…
+
+
+Stuart: You’ve destroyed the economy.
+
+
+Dan: Well, I don’t need sleep. I only need to meditate for four hours. But sure, why not?
+
+
+Elliott: Okay.
+
+
+Stuart: Do you sit over them, watching them?
+
+
+Dan: Yeah.
+
+
+Elliott: Creepy, but it’s never not been creepy. We’ve been together for a long time.
+
+
+Zhubin: I take the prettiest girl there to bed with me and spend the night.
+
+
+Stuart: Oh, they are disappointing.
+
+
+Zhubin: I do it all the same.
+
+
+Stuart: Hogsbottom is not famous for the girls, after all.
+
+
+Elliott: It was that easy? We can just say it?
+
+
+Stuart: Uh, well, I mean, there…
+
+
+Zhubin: I go up to them, and I say, “I’m Silverview…”
+
+
+Dan: A charisma check?
+
+
+Stuart: Yeah, let’s do a charisma check on this one. I’m assuming we’re gonna use persuasion?
+
+
+Zhubin: Persuasion…
+
+
+Stuart: And you know what, because you are clearly nobility, I’m gonna give you advantage on this die roll.
+
+
+Zhubin: Fantastic.
+
+
+Stuart: So you’re gonna roll two dice and pick the highest.
+
+
+Zhubin: Okay. So what I do is I walk up to a girl, and I say,
+Tanzer: Excuse me, I’m Tanzer Silverview, of the Silverviews. Here’s my room key. [dice rolling] I get a 20?
+
+
+Stuart: Oh, man! So you take the--so you just rolled a 20. Now, 20’s the best thing you could possibly roll. This woman goes to the bedroom that you share with your two friends.
+
+
+Scales: Well, two can play at this game, says--
+
+
+Dan: I creepily watch while meditating.
+
+
+Elliott: --says Scales.
+Scales: Two can play at this game, and I need to provide children for my tribe. Time to impregnate one of these dull barmaids.
+
+
+Elliott: So I go up to the one that’s left--I assume there’s probably not more than two--
+
+
+Stuart: Now, sadly, there’s only two left, and this one is, uh, this one is a little grumpier. You’re gonna have disadvantage on this die roll.
+
+
+Elliott: Oh boy, that sounds so great.
+
+
+Stuart: So you roll two dice and take the lowest.
+
+
+Elliott: Okay. [dice rolling] I rolled a 20. Oh, no, lowest, which is an 8. But I have a +3 to charisma, does that help?
+
+
+Stuart: That’s true, and do you have persuasion, I think would be the appropriate skill?
+
+
+Elliott: I do not have that as a skill.
+
+
+Stuart: Hmm, so you’re not as charming as you assume you are.
+
+
+Elliott: I do have performance, though. Could I perhaps sing her a song, I’m the piano dragon. Except it’s a lute. She rebuffs me, but then I pull out my lute…
+
+
+Stuart: Okay, she rebuffs you, you pull out your lute, and she continues rebuffing you. And unfortunately, it doesn’t look like you’re gonna get lucky tonight.
+
+
+Elliott: Aw, too bad. Okay.
+
+
+Stuart: You’ll have to wait ‘til the next day when you roll again.
+
+
+Elliott: So I’ll just go up to our room and watch my friend Tanzer have sex. Or try to sleep while he’s, I assume, sharing a bed with me.
+
+
+Stuart: Yeah, it’s just one giant bed. That’s how they did it in D&D.
+
+
+Zhubin: I rolled a 20, so the sex goes on for hours. Hours and hours, all night.
+
+
+Stuart: You’re gonna have to roll a separate roll, but we’ll do that when we’re not recording. Um, well, that’s been great. Let’s just keep rolling to see if we seduce ladies for the rest of the day.
+
+
+Elliott: Okay, fine, I stop off to bed.
+
+
+Stuart: We’re still in the tavern, guys. We’re getting off to a roaring start at this situation.
+
+
+Elliott: Let’s skip to--is there some way we can go to sleep and skip to tomorrow?
+
+
+Stuart: Sure. So the next morning, you wake up to the crowing cock.
+
+
+Elliott: Of Tanzer.
+
+
+Stuart: Uhh, ye adventurers three, and Archie Tapwell--
+
+
+Zhubin: Probably because he’s picked up an STD of some kind.
+
+
+Stuart: Uh, you set off for the Tapwell--
+
+
+Elliott: Archie wasn’t in the room with us, was he?
+
+
+Stuart: No, he was--he was sharing a bed with his dad and his brother.
+
+
+Zhubin: Everyone heard. Everyone in the tavern heard. I gotta go to a pharmacy. I am burning.
+
+
+Elliott: An apothecary.
+
+
+Stuart: Yeah, I think the apothecary in D&D. So you guys, uh, you guys set off. I’m assuming you’re traveling by road, unless you wanna travel over land, uh, following the river.
+
+
+Zhubin: Is one way quicker than the other?
+
+
+Stuart: Uhh...does any, uh, any of you guys wanna make a survival--do you guys have high survival? [pause] It’s a wisdom…
+
+
+Elliott: I mean, I have--survival’s one of my talent’s that I’m proficient in, I guess.
+
+
+Dan: I have wisdom, but I do not have survival.
+
+
+Stuart: You can’t take care of yourself.
+
+
+Dan: No.
+
+
+Elliott: Uh, should I--
+
+
+Dan: I have book smarts.
+
+
+Stuart: You can try and lead them over land if you’d like, but there’s a chance it would slow you down as you lead them astray.
+
+
+Elliott: And you know what? I don’t know the way anyway, ‘cause Archie’s the guy who’s leading us, so why don’t we stick to the road?
+
+
+Stuart: So you travel by road.
+
+
+Zhubin: Until we get to the house, there’s probably no need to start hiding, right?
+
+
+Stuart: Yeah, you probably don’t need to hide. Unless you’re fearing an ambush?
+
+
+Zhubin: Which I’m not.
+
+
+Stuart: You’re not fearing an ambush.
+
+
+Elliott: You don’t fear anything.
+
+
+Zhubin: No.
+
+
+Elliott: Anyone who has fear in their lives would not have had sex with that barmaid.
+
+
+Zhubin: I have the whitest, gaudiest horse in all--
+
+
+Stuart: You have no horse.
+
+
+Zhubin: I have no horse?
+
+
+Stuart: You have no horse at all. You traded your family horse for, I’m guessing, your, I don’t know, uh...you gave your horse away as a tip, I would imagine. Assuming you’ll get another one.
+
+
+Zhubin: I bring it up a lot, though, that I used to have a very fancy horse.
+
+
+Elliott: Beautiful horse.
+
+
+Stuart: What was the name of your beautiful horse?
+
+
+[crosstalk]
+
+
+Elliott: Yeah, what was the name of your horse?
+
+
+Zhubin: Uh, it, uh, it was, uhh...it was, um, Clops-a-Lot.
+
+
+Stuart: Okay.
+
+
+Zhubin: Uh, and it w--
+
+
+Elliott: Named as a child.
+
+
+Zhubin: Named as a child. 400-year-old horse. Been through generations of the family.
+
+
+Stuart: His defining characteristic’s right there in the name. That’s convenient.
+
+
+Zhubin: Yeah.
+
+
+Stuart: So you guys travel for most of the day. I’m--you probably take a brief break to eat some trail rations?
+
+
+Elliott: Sure, sure. I gotta practice my lute.
+
+
+Stuart: And you, I guess, enjoy the scenery, as it is late--it’s late autumn. You can tell that Tapwell’s annoyed that his--uh, his son Archie explains that part of the reason they’re so frustrated is that these goblins scared off whatever workers were going to be picking the apples to prepare for this year’s cider crop, which is what their fortune is based on. [clears throat] After traveling for most of the day, the sun is starting to set when you are able, uh, when Tapwell manor comes into view. Tapwell manor is a plot of land that’s divided in the middle with a, uh, creek, a stream. On one side is a two-story manor house done in a somewhat modern fashion. Sitting next to the manor house is a stable. Opposite the creek is the large orchard that you can tell is what the ciderworks comes from.
+
+
+Elliott: Source of the Tapwell billions.
+
+
+Stuart: Yep, the zillions.
+
+
+Zhubin: I’m slowly starting to realize the family’s not as rich as I imagined.
+
+
+Stuart: There, uh, there’s also--on the side of the orchard, there’s also a two-story building with a water wheel that you’re assuming is where the cider is made.
+
+
+Elliott: Mm, the ciderworks.
+
+
+Stuart: There’s a low, stooped ceiling building that you can only imagine is where the lo--the workers have to sleep when they’re working. You know, working at the orchard. Uh--
+
+
+Scales: That’s where they would follow the cider house rules.
+
+
+Stuart: There is a-- [laughs] I was waiting how long it was gonna be before you made a joke about that. Not long.
+
+
+Zhubin: Did your character make that joke?
+
+
+Elliott: Uh, yeah, he did. But nobody understands it. I assume that--
+
+
+Dan: That’s the second time you’ve done something like that. You must have some sort of future perception.
+
+
+Elliott: I live in a rich fantasy world that happens to bear an amazing resemblance to the world that we live in as real people.
+
+
+Stuart: So the entire--the entire estate is protected by a simple, like, double log fence. And the grounds, the woods’ve been cleared away from the grounds itself. The woods kind of inch up all the way up to the fence. So it isn’t--wouldn’t be that hard for you to sneak up to the fence.
+
+
+Elliott: Is there a gate?
+
+
+Stuart: There is an open gate--there’s no gate, there’s just an arch.
+
+
+Elliott: Oh, okay. 
+
+
+Stuart: Sitting in front of that arch, you can see quickly collecting flies is the corpse of a horse lying in the middle of the road. Uh, which, when Archie sees that, he stiffens. And hanging above that--
+
+
+Elliott: Wait, like, in fear, not in, like...arousal.
+
+
+Stuart: He is not aroused at all. He is not into that.
+
+
+Elliott: I don’t know what they do out here in Hogsbottom.
+
+
+Stuart: He likes living horses.
+
+
+Elliott: So he’s into living horses.
+
+
+Stuart: So, and hanging above that horse from the, uh, the arch that says “Tapwell Farms” on it is, uh, looks like a pair of human-shaped bodies swinging in the wind with arrows sticking out of them with bags on their heads.
+
+
+Elliott: Oooh.
+
+
+Stuart: Now, the, uh, to further describe the thing you’re seeing, uh, you can also see a single stream of smoke gently flowing out of the chimney of the manor house.
+
+
+Elliott: Oh! Cozy.
+
+
+Stuart: You, and, uh, you also see some shadows out in the orchard that you can only assume are goblins, as well as three figures digging over by, uh, just behind the manor house. They’re digging right by a tree that overhangs the property. There’s three of them, they’re digging with shovels, and there’s--from the mounds of earth, it looks like they’ve been digging for quite some time.
+   
+Elliott: Hmm.
+
+
+Stuart: And you can see a single, lone figure dressed in rusted and tattered armor carrying a spear patrolling the--slowly going in a circuit, patrolling the fence, standing next to--walking next to a mastiff hound.
+
+
+Zhubin: Is he alone?
+
+
+Stuart: He’s--yep. Well, except for the mastiff hound.
+
+
+Elliott: Do any of us have any idea what that sphere might be?
+
+
+[pause]
+
+
+Stuart: Sphere?
+
+
+Elliott: Yeah.
+
+
+Stuart: What sphere?
+
+
+Elliott: That the guy had.
+
+
+Stuart: Spear. Spear.
+
+
+Elliott: Oh, spear. I thought you said sphere. So it’s not a magic thing.
+
+
+Stuart: He’s carrying a magic sphere!
+
+
+Elliott: I thought--I don’t know, it’s Dungeons & Dragons!
+
+
+Stuart: I probably meant--I probably said sphere when I meant spear.
+
+
+Elliott: Okay, spear.
+
+
+Stuart: I’m getting so excited that you’ve just gotten to the goblins.
+
+
+Scales: So does anyone have any idea what that spear might be? Is that a magic spear?
+
+
+Tanzer: I think it’s probably a spear of some sort. A pointy stick.
+
+
+Dan: Can I ask something as, uh, as a human? Newbie?
+
+
+Stuart: Yeah, yeah, yeah. Let’s take a pause, Dan. What’s goin’ on?
+
+
+Elliott: A hubie.
+
+
+Dan: Now, to do, like, a perception check, like, what does that do that just, like, seeing something doesn’t do?
+
+
+Stuart: Yeah, so basically you would be saying, “I wanna be--I wanna examine something in a little more detail,” and we would either say--perception is kind of more of a passive thing. Investigation is probably a little better.
+
+
+Dan: Right.
+
+
+Stuart: But, uh...it--perception is something that I would have you check, uh, that I would kind of determine you would roll. So it would be in case you might miss a detail.
+
+
+Zhubin: Can one of us look at that hole that they seem to be digging and see what’s…
+
+
+Elliott: Seems like it’s on the far end of the property.
+
+
+Stuart: From your angle, you’d have to get a little bit closer.
+
+
+Zhubin: Hmmmm…
+
+
+Elliott: I’m guessing...should we send Archie to go look at that horse and see if it’s a trap?
+
+
+Stuart: You can also see tied up next to the--you can see tied up next to the building with the water wheel, there’s a flat barge that they clearly use to transport kegs of cider all the way back to Hogsbottom. Downriver.
+
+Elliott: So that’s a good escape thing, maybe.
+
+
+Zhubin: And that’s just sitting there idle?
+
+
+Stuart: Yeah, it’s tied up.
+
+
+Zhubin: The goblins haven’t--
+
+
+Stuart: The goblins haven’t--
+
+
+Zhubin: --corrupted the business.
+
+
+Stuart: Yeah, haven’t turned it into a party barge yet.
+
+
+Elliott: Into the beast, just drivin’ around. Sellin’ people drinks while they blast music.
+
+
+Stuart: Jerks.
+
+
+Zhubin: Make more profit than apples ever did. I don’t know why we don’t just let the goblins have it.
+
+
+Scales: I say we...maybe we should send Archie to investigate the horse? Draw the attention away from the--
+
+
+Tanzer: And then we sneak in the other direction.
+
+
+Scales: We gotta get to the basement of the house, that’s where the stuff is.
+
+
+Tanzer: We gotta get rid of that guard first, right? So I wonder if he draws the attention of the guard, we then can kill the guard.
+
+
+Scales: What if we sent him to go talk to the guard? And see if we can find a way in.
+
+
+Tanzer: I would like to sacrifice Archie for a more valuable purpose later on. Like, right now, all three of us can take the guard. He’s--
+
+
+Zhubin: --by the way, I’m whispering this loudly enough for Archie to hear.
+
+
+Stuart: He’s getting increasingly more nervous. Although he still kind of zones out every once in a while and starts looking at stuff around.
+
+
+Tanzer: We can easily kill the guard. I say we kill the guard, have Archie walk ahead of us, set off any traps…
+
+
+Lucien: We’d have to kill him fast enough that it would not raise an alarm.
+
+
+Scales: And quietly, and there’s a dog with him. Now, I could--I don’t--now, my lightning breath is not powerful enough to kill both of them in one blast. If only it was.
+
+
+Lucien: I have something called Fog Cloud, which creates a 20-foot-radius sphere of fog centered on a point within range, which maybe we could use to sneak in.
+
+
+Scales: And who would suspect a moving cloud of fog?
+
+
+Stuart: Well, it doesn’t move. It stays in one place.
+
+
+Elliott: Oh, I see.
+
+
+Stuart: But that would be great.
+
+
+Tanzer: So should we sneak around the guard?
+
+
+Stuart: But it’s starting to get darker. It’s--you know--
+
+
+Elliott: So, yeah...
+
+
+Zhubin: So should we sneak around the guard and just walk up to the fence?
+
+
+Dan: We could try.
+
+
+Elliott: Yeah, I--yeah, let’s try it, why not.
+
+
+Zhubin: All right.
+
+
+Elliott: We’ll do a stealth--
+
+
+Stuart: Okay, so you wait for the guard to kind of walk past, and then you…
+
+
+Zhubin: Yes.
+
+
+Stuart: The--okay. Now, are you guys, uh, are you guys gonna try and sneak up toward the gate? Like the front, or are you gonna try--are you gonna try a direct--
+
+
+Elliott: How far is the gate from the house? Like, is the house--
+
+
+Stuart: It’s about 60 feet.
+
+
+Elliott: Okay. ‘Cause if, like, is there a point in the fence that’s closer to the house? Could we try to, like, climb over part of it and get to the house? We could have less distance to cover?
+
+
+Stuart: There’s not a part of the--the closest spot is the--is the gate.
+
+
+Elliott: The gate? Okay.
+
+
+Stuart: And also, uh, you can also possibly wait for the guard to be obscured by the stables. Or the house.
+
+
+Zhubin: And at the angle we approached, the--the goblins are--they’re digging, will not see us?
+
+
+Stuart: You could approach at an angle where the goblins wouldn’t see you. Those goblins.
+
+
+Scales: Do we wanna inve--yeah, there’s goblins probably everywhere.
+
+
+Tanzer: That’s a good point.
+
+
+Stuart: Lousy with goblins, probably.
+
+
+Scales: Goblins all around. Uh, so would, uh, do we wanna investigate that hole? I mean, we got--let’s just go to the basement and get that stuff. We’re not being--look, I’m all about the good stuff and doing good things for people, but we’re not being paid to--to save his house from goblins.
+
+
+Stuart: No.
+
+
+Scales: He wants that chest full of documents.
+
+
+Dan: Now, my character would risk too much to uncover lost knowledge. I don’t know whether what’s in that hole counts. I mean, I don’t think it’s, like, an ancient artifact or some snatch of scroll or something, but I wonder whether I’m extra curious about it.
+
+
+Stuart: I mean, it sounds--there’s three goblins are entranced with this digging of a hole.
+
+
+Scales: Keep in mind, my fl--my flaw is that violence is my reaction to every challenge, so I’m also kind of itching to fight a bunch of goblins. Uh, but I’m j--I wanna keep my eyes on the prize here, and the prize is that chest in the basement.
+
+
+Stuart: Archie seems to support this, you guys kill the goblins, but he also doesn’t wanna be ri--he doesn’t wanna risk himself.
+
+
+Elliott: Mhm. So he would supervise the killing of the goblins?
+
+
+Stuart: He would appreciate it, yeah.
+
+
+Tanzer: Well, if those three goblins are alone, then, yeah, let’s walk up and try to see if we can kill those three goblins and see what’s in that sweet hole. I think at the very least--
+
+
+Elliott: We’ve already been so quickly distracted from our--
+
+
+Stuart: Wait, you said something about a hole.
+
+
+Tanzer: We gotta go--we gotta go fill that hole back up, right? Is that our mission?
+
+
+Scales: Or should we go--or should we just go st--try to--
+
+
+Stuart: Yeah, you got a lot of goblins are digging holes all over the--
+
+
+Scales: What if we wait for the guard to go around where he can’t see us, we go at an angle where the goblins digging the hole can’t see us, and we try to make a break for the gate and get to the house.
+
+
+Dan: All right.
+
+
+Scales: We can run for it.
+
+
+Lucien: We’ll deal with that hole later on. That hole’s getting looked at at some point.
+
+
+Scales: Oh no.
+
+
+Tanzer: We’re definitely checking out that hole.
+
+
+Elliott: I think, uh...was it Lucien?
+
+
+Dan: Yeah.
+
+
+Scales: Lucien Buttwatcher has an interest in holes, so what we’re gonna do...we’re gonna see it…
+
+
+Tanzer: All right, so we’ll do that.
+
+
+Lucien: I don’t get your jokes.
+
+
+Stuart: Uh, okay, so you guys are gonna wait for him to pass, and then you are gonna creep up stealthily? On the house?
+
+
+Elliott: Yes.
+
+
+Stuart: Okay, so that’s--now, what we’re gonna do is we’re gonna do a group check to see how stealthy you are. Are you going to bring Archie with you? Or are you going to leave him in the woods?
+
+
+Dan: He seems like the sort of guy who would just stumble over his own feet.
+
+
+Elliott: Yeah. Is there a way we can send him over to the hole? And ask him to take a look and see if, uh, although, I guess, again, it’s--we don’t wanna sacrifice him for nothing. Do we--can we leave him somewhere as a lookout? I don’t know how useful that would be. Seems...he tends to go into fugues where he just stops paying attention.
+
+
+Stuart: You can do whatever you want, you just gotta tell him what to do.
+
+
+Zhubin: I wonder if it’d be worth--
+
+
+Stuart: He seems pretty amicable to you guys, being that he’s talking to a dragon man, an elf, and a guy who’s above him stations-wise.
+
+
+Elliott: So he’ll do pretty much whatever we tell him.
+
+
+Stuart: Yeah.
+
+
+Zhubin: But he knows the woods presumably better than we do, so I’m wondering if we can…
+
+
+Stuart: He knows the--I mean, he also knows the house that he lives in better than you do.
+
+
+Zhubin: Yeah, so I feel like--so he probably is more benefit with us in the woods than--
+
+
+Elliott: Okay, let’s take him with us.
+
+
+Stuart: Okay! Big mistake, you guys lost the adventure.
+
+
+Elliott: Nooooo!!
+
+
+Stuart: Nah, I’m just joking, the game’s still going. So what we’re gonna do now is we’re gonna do a group check. To do a group check, everybody rolls a stealth check, and we need--I need the majority of you guys to successfully pass the--against the target number. So to roll a stealth ta--check, you are gonna roll, I believe that is a...dadadadada...is a dexterity?
+
+
+Zhubin: Yes.
+
+
+Stuart: Okay, and if you’re proficient in stealth, add +2 to whatever your dexterity and die roll is.
+
+
+Elliott: Now, I have a +2 to dexterity, but I am not proficient in stealth.
+
+
+Stuart: That’s fine, just roll your--you just get your dexterity bonus.
+
+
+Dan: Oh, no.
+
+
+Elliott: Okay.
+
+
+Zhubin: 16, 19.
+
+
+Elliott: Oof...that was bad. I’m gonna reroll ‘cause mine hit the microphone.
+
+
+Stuart: That doesn’t count--it still counts.
+
+
+Elliott: Oh, boy.
+
+
+Stuart: So what’s your total, guys?
+
+
+Elliott: Uh, 5. Ugh.
+
+
+Dan: I got a 5 plus 2, so 7.
+
+
+Stuart: 7?
+
+
+Elliott: I got a 3 plus 2, so 5.
+
+
+Zhubin: I’m 19.
+
+
+Stuart: You are amazing. You are 19.
+
+
+Zhubin: I carefully walk into the woods while you guys are felling trees behind me.
+
+
+Stuart: Uh, so what happens is, as you guys--
+
+
+Elliott: I stumble over my lute strings.
+
+
+Stuart: As you guys are creeping--
+
+
+Elliott: [string plucking noises]
+
+
+Lucien: This has never happened to me before. I am a master of the woods and nature.
+
+
+Stuart: Uh, as you guys are creep-- [laughs] as you guys are creeping up, you’re passing the corpse of the horse when the blanket of flies that is covering the horse erupts in a cloud, and Archie goes,
+
+
+Archie: Aaaahhhhh!!
+
+
+Scales: Oh, thanks, Archie.
+
+
+Tanzer: Archie!
+
+
+Scales: They’re just flies.
+
+
+Stuart: Now in that moment of terror, because there--you realize that you may have, uh, attracted the--the goblins, I want all of you guys to make a perception check. [dice rolling] The sound of dice rolling.
+
+
+Elliott: 12. Is that with the wisdom?
+
+
+Stuart: Yep, it’s plus your wisdom bonus.
+
+
+Elliott: Okay, so I have 16 plus 1, 17.
+
+
+Dan: 13 plus, I’ve got 4, uh…
+
+
+Stuart: Okay, so 17.
+
+
+Elliott: 17.
+
+
+Zhubin: 12.
+
+
+Dan: I don’t know how to do math.
+
+
+Stuart: Okay--
+
+
+Dan: Simple arithmetic.
+
+
+Elliott: Literally the simplest.
+
+
+Stuart: Okay, so who was in the lead?
+
+
+Elliott: [quietly] You’re doing great.
+
+
+Stuart: Who was in the lead of your little group?
+
+
+Zhubin: I assume I was, ‘cause I was the only one not tripping over everything as I was walking past.
+
+
+Stuart: So which of you guys was then in the--in the marching order?
+
+
+Elliott: Uh, I think I was next.
+
+
+Stuart: Okay. So you notice--you’re totally oblivious to this.
+
+
+Zhubin: Okay.
+
+
+Stuart: You notice, uh, you notice the curtains shift in the second floor of the house.
+
+
+Elliott: Ohh.
+
+
+Stuart: Somebody has taken notice.
+
+
+Elliott: Somebody’s up there and sees us.
+
+
+Stuart: And Dan, you notice, as you guys are passing under the arch, that those bodies of people that have been shot with arrows look a little bit weird. And as you investigate, you realize that they’re just, uh, dummies stuffed with straw.
+
+
+Elliott: Aww.
+
+
+Dan: Hmm.
+
+
+Elliott: These might be nicer goblins…? Than we thought…?
+
+
+Stuart: And the blood is smeared cherries all over their chests.
+
+
+Scales: Wait a minute, did we stumble into a haunted house?
+
+
+Tanzer: What are you guys talking about? Let’s keep going.
+
+
+Scales: Hey, there’s somebody in the second f--I’m whispering-- [whispering] There’s somebody in the second floor of the house that looked at us through a curtain. Did you notice anything, Buttwatcher? Some butts or something?
+
+
+Lucien: I noticed that those corpses are an even lower form of life than not elves.
+
+
+Scales: In that--
+
+
+Lucien: They’re just straw people.
+
+
+Scales: Okay, so something seems amiss about this.
+
+
+Tanzer: So, uh, we turn on Archie, right? Archie’s gotta know what the fuck’s going on.
+
+
+Elliott: I mean, there’s still--we see that--
+
+
+Stuart: [overlapping] He’s like,
+Archie: Whooooa, what?
+
+
+Dan: That’s true.
+
+
+Elliott: He’s just got scared by a cloud of flies, and there’s a ton of goblins.
+
+
+Dan: Archie, look at these damn scarecrows.
+
+
+Archie: Uh-h-h-h, I don’t--I don’t know, the goblins must’ve put ‘em here.
+
+
+Scales: Maybe we should get--find cover somewhere since I think we’re just standing at the--at the arch right now?
+
+
+Stuart: Yeah?
+
+
+Scales: Yeah, do you wanna, like…
+
+
+Tanzer: Let’s run to the cover of the woods?
+
+
+Scales: Duck inside the gate, or…?
+
+
+Stuart: Or run away, I like these suggestions.
+
+
+Scales: Gotta get outta here!
+
+
+Tanzer: Guys, I’ve got so much money. I’ll give you 25 coins not to--
+
+
+Scales: So, what?
+
+
+Lucien: Why are you even adventuring with us?
+
+
+Scales: When people ask us why the brave adventurers ran away from the goblin house, we tell them we saw two scarecrows? Are you a crow, man?
+
+
+Tanzer: They were hanging! They were hanging from an arch!
+
+
+Scales: They had cherry blood on them, Lucien told me. Tanzier, that’s your name, right?
+
+
+Tanzer: Tanzer.
+
+
+Scales: Tanzer.
+
+
+Tanzer: Of the Silverviews. Because we can see silver.
+
+
+Scales: I know you’re--yes. Tell you what. Why don’t we keep--why don’t we try to rush to the house?
+
+
+Tanzer: Just make a break for it?
+
+
+Lucien: I agree with Jeremy.
+
+
+Scales: Uh, Scales, please.
+
+
+Lucien: I don’t understand your puns.
+
+
+Scales: I--scales for music--
+
+
+Tanzer: It’s not even a pun.
+
+
+Scales: --and scales like dragon scales.
+
+
+Lucien: Still doesn’t make--
+
+
+Scales: It’s perfect!
+
+
+Lucien: I don’t understand. It doesn’t--it’s not sinking in.
+
+
+Scales: Just pretend it’s a nonsense word that you just call me by. Scales.
+
+
+Lucien: Mmm, but your given name is Jeremy.
+
+
+Scales: Aww, g--all right, let’s run to the house. We’ll talk about this later.
+
+
+Lucien: Okay.
+
+
+Tanzer: Let’s run--let’s run up there, Archie leading the way to get us to open the door.
+
+
+Scales: [overlapping] I hate Jeremy. Okay.
+
+
+Tanzer: Archie should open the door.
+
+
+Scales: Yeah.
+
+
+Stuart: So you push him to the front?
+
+
+Zhubin: Yeah.
+
+
+Stuart: And he’s like,
+Archie: Uhhh, tryin’ to--
+
+
+Zhubin: Well, there’s no stealth anymore. We might as well just make a--
+
+
+Stuart: As you guys are running--
+
+
+Elliott: Just prodding him with your rapier.
+
+
+Stuart: As you guys are running up, you clearly haven’t attracting the attention of the patrolling goblin.
+
+
+Elliott: Oh, thank goodness.
+
+
+Stuart: Or the ones digging. But as you’re running up, you’re about 30 feet away when the door bursts open, and three short figures dressed in goblin armor with, uh, like, with pale, greasy little faces come storming out.
+
+
+Elliott: Seems like a bit much.
+
+
+Stuart: Okay, I’m sorry, I shouldn’t be so mean to goblins.
+
+
+Zhubin: I’m disgusted.
+
+
+Stuart: They come storming out and down the short steps from the doorway. Two of them are brandishing small crossbows, and one of them is carrying a rusted, uh, like a cleaver weapon, and they come running out, and they go,
+
+
+Goblins: waawwakj;ksdljglkajsklghab,
+
+
+Stuart: and they’re, like, shaking their weapons, and two of them are pointing their weapons at you.
+
+
+Dan: I understand Goblin, so I should know what they’re saying.
+
+
+Stuart: Okay.
+
+
+Elliott: Turns out they’re saying, “wasdfawjfw; lvhean;v”
+
+
+Stuart: The thing is, they’re speaking gibberish. They are definitely not speaking Goblin.
+
+
+Scales: Okay. Something seems amiss. I don’t think these are goblins, dudes.
+
+
+Tanzer: They’re--they’re dressed up, right? They’re definitely--
+
+
+Scales: They’re wearing goblin armor. Does that--so Lucien, you’re saying that’s not Goblin they’re speaking?
+
+
+Lucien: That’s not Goblin.
+
+
+Scales: Yell something at them in Goblin. Say, like...
+
+
+Dan: Give me--oh, yeah, yeah. I yell something at them in Goblin.
+
+
+Lucien: Um, We mean you no harm.
+
+
+Zhubin: Don’t…
+
+
+Goblins?: wawdksj;lgkdjdskjgbk
+
+
+Scales: Okay, these are not goblins, dudes.
+
+
+Tanzer: Okay, let me say something. I’m Tanzer Silverview of the Silverviews.
+
+
+Scales: That’s not helpful.
+
+
+Dan: What language are you speaking?
+
+
+Zhubin: Uh, Common.
+
+
+Stuart: They… [laughs] Uh, they pause for a second.
+
+
+Tanzer: [deliberately] The Silverviews?
+
+
+Stuart: One of them fires a crossbow bolt into the ground near you guys.
+
+
+Zhubin: Well, all right.
+
+
+Stuart: Kicking up--kicking up dust. What do you want to do?
+
+
+Elliott: Okay. First, I’m gonna turn to Archie, and I’m gonna say,
+Scales: What is going on, Archie?
+
+
+Stuart: Why don’t we all--uh, it sounds like you guys are suspicious of what’s going on.
+
+
+Elliott: I think so.
+
+
+Stuart: How about you all get to make--uh, not you, Lord Silverview. You two guys get to make investigation checks.
+
+
+Elliott: Okay.
+
+
+Dan: Sure.
+
+
+Elliott: Investigation--oh, and then--oh, good that’s a ski--proficiency of mine. But I didn’t roll too great. So I have--overall, I have a 14.
+
+
+Stuart: And you speak--you speak Goblin, Lucien. You get to roll an extra die ‘cause I’ll say you have advantage in this situation.
+
+
+Elliott: I never get to roll extra die.
+
+
+Dan: Well, I got… [dice rolling] Jeez. Both of them are terrible.
+
+
+Elliott: How does speaking Goblin help him in a situation where they’re clearly not goblins?
+
+
+Dan: I got a 5 and a 4, so…
+
+
+Stuart: You, uh, they seem to be goblins to you! What’d you roll?
+
+
+Elliott: I--I--
+
+
+Stuart: Nothing’s amiss!
+
+
+Elliott: I have a 14.
+
+
+Stuart: Okay, you can tell, uh, you actually can tell that underneath that armor and all--and all the grease paint, that these goblins are actually halflings.
+
+
+Elliott: Ohh! Hey, I speak Halfling!
+
+
+Stuart: They were not speaking Halfling. They were saying, “glasdkjgfadshkgk;adb.”
+
+
+Elliott: Well, no, but I can talk to them.
+
+
+Stuart: You could, yeah, theoretically.
+
+
+Elliott: Yeah. Do I want to?
+
+
+Zhubin: Yeah! Say something!
+
+
+Stuart: It’s up to you.
+
+
+Elliott: Like,
+Scales: Hey, guys, I can see you’re not goblins. What’s going on?
+
+
+Elliott: In Halfling.
+
+
+Stuart: They stop their, uh, angry gesticulating...look at each other, and then you hear one of them say,
+Halfling 1: Wait a minute. They speak Halfling. I think the ruse is up! 
+
+
+Stuart: The other one says,
+
+
+Halfling 2: Okay. I’ll go get Jacob. 
+
+
+Stuart: And one guy goes running into the house.
+
+
+Scales: Okay. Uh, guys, they’re gonna go get Jacob.
+
+
+Stuart: Archie’s--Archie says,
+Archie: Wh--what are you--what are you guys doing? Kill those guys!
+
+
+Elliott: What--should we--I’m gonna be like,
+Scales: Archie.
+
+
+Zhubin: Well, should we--
+
+
+Stuart: He’s hiding behind you.
+
+
+Zhubin: All right, that’s fair. That’s fair.
+
+
+Lucien: Archie, were you actually here when this attack happened, this supposed attack? Or did you just hear about it from your dad?
+
+
+Archie: Uh, I was--I was here, it was just--with the fire and the screaming, I just--we ran out of there as fast as we could.
+
+
+Scales: Archie, was this--was the tapworks insured? Ahead of time?
+
+
+Lucien: Archie, are you stupid?
+
+
+Scales: Look, we don’t have to ask him. We know the answer to that.
+
+
+Tanzer: Is this quest gonna end in insurance fraud?
+
+
+Scales: That’s what I’m starting to think!
+
+
+Lucien: What an adventure!
+
+
+Scales: I’m starting to think I might not write a verse about this for our epic song, which begins [singing] here the story of travelers three...uh...wait, that’s not how the song goes. Let me--wait, let me--come up with something that rhymes with blue--
+
+
+Stuart: While you’re arguing about your song, a--
+
+
+Elliott: Hold on-- [laughing]
+
+
+Stuart: You guys see an--an older, more, let’s say more stately goblin halfling comes down the step wi--he has big, bushy, gray sideburns that are sticking out from underneath his, uh, his goblin helmet that has, uh, a--a pair of, like, ram’s horns on it to make it look more intimidating.
+
+
+Elliott: Very impressive.
+
+
+Stuart: And he comes down, and he’s followed by, uh, some--somebody that you assume is his brother, just--they share a passing resemblance. But he has dark, bushy, black eyebrows and is scowling at you guys, and he is carrying a, uh, a big club. Uh, well, the older one--
+
+
+Elliott: Dan, you take that guy if we have to--I mean Lucien.
+
+
+Stuart: The older one, who is clearly this Jacob they talked about, he comes walking out, and he says--in Common, he says,
+Jacob: It appears that our ruse has been, uhHH, seen through.
+
+
+Stuart: He comes striding towards you guys.
+
+
+Scales: Yeah. Exactly. Yes. That is exactly what’s happened. So if you could explain the situation to us.
+
+
+Jacob: It appears that we’ve found ourselves at an impasse.
+
+
+Scales: Uh...
+
+
+Lucien: We have?
+
+
+Scales: [laughing] How so? I mean, we came here...uh, well, you tell us, actually. What’s going on?
+
+
+Lucien: Archie, why don’t you explain what’s going on?
+
+
+Scales: Yeah, the person least equipped to explain anything.
+
+
+Stuart: Archie says,
+Archie: I don’t know what’s going on!
+And, uh, the halfling says,
+Halfling: They brought a Tapwell with them! They’re working for the Tapwells!
+
+
+Elliott: We should’ve left Archie in the woods.
+
+
+Scales: No, no! Let me be clear about one thing. Yes, we were hired by the Tapwells, but we want to know what’s going on, ‘cause, hey, y’know, y’know what? Maybe you guys are on the side of right on this one.
+
+
+Lucien: We were hired under false pretenses.
+
+
+Scales: Yeah.
+
+
+Lucien: They said that you were goblins who killed everybody. And I can see that these men are made of straw. The lowest form of men.
+
+
+Jacob: Well, if they said we killed anybody, they are liars.
+
+
+Elliott: They killed a horse.
+
+
+Jacob: The only casualty was poor...uh, Buttercup, I believe her name was.
+
+
+Scales: Ohh, the most beautiful of all horse names!
+
+
+Tanzer: I once had a horse, myself. Clops-a-Lot, I called him. I gave him away as a tip for-- [laughing] --at a restaurant once when I was drunk, and I’ll never forget it.
+
+
+Scales: If I could take a moment to sing a madrigal about this, uh, about… [singing] ohh, let me tell you a song of Buttercup… [keeps singing]
+
+
+Stuart: There’s not a dry eye when you finish your madrigal, which is now. It’s finished. Everyone is--by the end of your song, everyone is arm in arm, swaying side to side, singing this song.
+
+
+Scales: Oh, thank you, thank you! Scales Fangbattle, that’s the name to remember. Scales.
+
+
+Stuart: Scales Fangbanger.
+
+
+Elliott: Uh, Fangbattle.
+
+
+Stuart: Just joking, we don’t make fun of names here. This is a safe place.
+
+
+Elliott: Thank you.
+
+
+Stuart: So, uh--
+
+
+Tanzer: Now that we’ve all become friends… [laughter] we would just ask that we allow--you allow us to enter the house, retrieve an object, and then we’ll be on our way, and you can run this Tapwell manor as--for all we care.
+
+
+Scales: Look, pretend to be goblins to your heart’s content.
+
+
+Tanzer: There’s no judgment here.
+
+
+Jacob: Of course, friend. It’s interesting that you mention that you’re looking for an object, for we are looking for the same thing. Come, let’s go eat and share some meat and mead.
+
+
+Elliott: Umm…
+
+
+Tanzer: Sure!
+
+
+[theme music]
+
+
+Griffin: Hey everyone, it’s me, Griffin, your old pal and your old dungeon master. Look at you, cheatin’ on me with some other people’s adventures. Nah, that’s fine. We invited them into this house, and we hope that you have enjoyed it. I know I certainly have. I listened to it on a plane ride, uh, just front to back, and I got a lot of chuckles out of it. I think they did a great job, and I pray to God that they never open up their own Dungeons & Dragons podcast, or we are out of business. If you miss hearing my voice and the voices of the rest of my dumb family, uh, you can hear us on The Flop House this week. The episode’s gonna be up this Saturday. We were honored to be invited to take part in the most, uh, exalted of holidays, which is Shocktober, and, god, we watched the worst movie I’ve seen in a very long time, and, uh, I still have not recovered from the bad vibes that it gave me. So that’ll be up Saturday, and make sure you--you look it up! We’ll make sure to retweet it and do all that stuff.
+
+
+[ads, etc.]
+
+
+[theme music]
+
+
+{59:19}
+
+
+Stuart: You guys go--
+
+
+[laughing]
+
+
+Stuart: You’re bustled into the, uh--you’re bustled into the dining room.
+
+
+Elliott: We keep getting bustled into meals.
+
+
+Stuart: It’s much easier than waiting for you guys to do it. Like, wait for you guys to agree to it. So, uh, roughly a dozen of these halfling goblins kind of push you into the dining room. You can tell--as you pass through the various rooms of the mansion, you realize--
+
+
+Elliott: Can we just not call them halfling goblins? They’re halflings in goblin-face.
+
+
+Stuart: We’ll call them halflings.
+
+
+Elliott: It’s offensive.
+
+
+Stuart: The halflings push, uh, they--it’s clear that they actually  haven’t been, uh, they haven’t been destroying the house. The, uh, the kitchen is in ex--is in excessive use, I would say. There’s an older female halfling who is cookin’ up a storm, and it smells delicious.
+
+
+Elliott: Ohh! I’ll remember her for later.
+
+
+Stuart: As you’re walking toward the dining room, you do pass a study, uh, that has been ransacked. You can see papers lying around the floor, the desk has been overturned, and you can--you can only assume that more of this is going on upstairs. You can hear, uh, you can hear halflings rifling through cupboards. 
+
+
+Elliott: And don’t think--we haven’t forgotten about that hole they were digging.
+
+
+Dan: Always at the back of my mind is that hole. Every time we pass a window, I’m looking out to try to see the hole.
+
+
+Elliott: Someday.
+
+
+Zhubin: Dan is just--has his face pressed up against the window.
+
+
+Dan: I see a hole I wanna get into.
+
+
+Stuart: The--as, uh, as you--as you share guest rites and drink of the, uh, drink of the cider of the house and a delicious apple-based meal that is, I’m guessing, some kind of pork with apples? That’s good with apples, right?
+
+
+Elliott: That sounds fine, yeah.
+
+
+Stuart: Uh, I’m assuming an apple cobbler.
+
+
+Elliott: You know there’s a pie or a cobbler or some--
+
+
+Zhubin: No, absolutely.
+
+
+Elliott: Apple computers.
+
+
+Stuart: Yep, that’s the only kind of computers that they do their books on. It’s very expensive, though. They’re expensive computers.
+
+
+Elliott: Oh, yeah.
+
+
+Stuart: Um, so, uh, Jacob, Jacob Redcheek, as he introduces himself, tells you a sad story about how his great-grandfather, Zachariah Redcheek, once owned this land, and he was approached by a young, uh, a young up-and-coming cider merchant by the name of Tapwell, who offered to buy this farm. Unfortunately, well, yeah, unfortunately, Zachariah turned down that offer, and Tapwell returned a few days later with armed mercenaries who slew most of the family and burned his more to the ground.
+
+
+Elliott: Horrifying.
+
+
+Stuart: Tapw--uh, Redcheek and his brothers were, uh, bustled away?
+
+
+[laughing]
+
+
+Elliott: Hey! Bustling.
+
+
+Stuart: Everybody’s bustling.
+
+
+Elliott: The bustling town of Hogsbottom.
+
+
+Dan: When we hear this, we all turn at Archie and stare at him very accusing.
+
+
+Zhubin: Right.
+
+
+Stuart: He is enjoying his cobbler.
+
+
+Dan: Okay.
+
+
+Zhubin: He really zones out.
+
+
+[laughter]
+
+
+Stuart: He at first tried to go up to his bedroom. The halflings were not letting him do it. He tried to argue,
+Archie: But all my stuff’s up there!
+
+
+Elliott: But night-night!
+
+
+Zhubin: [unintelligible] I got school in the morning!
+
+
+Archie: Can I have some warm milk?
+
+
+Stuart: Apple milk. Uh...so, uh, so Jacob Redcheek, his brother Darius, who you’re--who you realize is the older, grou--the other grouchy halfling with the black--
+
+
+Elliott: Black.
+
+
+Stuart: --bushy eyebrows, who scowls every time, uh, people say th--every time his brother tells a new, uh, new terrible thing about the Tapwells. Uh, you find out that this family has been traveling about, trying to, uh, trying to stay one step ahead from these Tapwell murderers, um, and living off the land until, uh, years and years later. Now, fully grown adults with children of their own, Jacob and Darius Redcheek came upon a little plan when they found a failed ambush with many dead goblins lying by the side of the road on the way to Phandalin.
+
+
+Elliott: Ahh.
+
+
+Stuart: Clearly murdered by three very powerful adventurers.
+
+
+Elliott: Yeah. Some kind of adventurer...in a zone.
+
+
+Stuart: Maybe. So they use this goblin armor that they found and a bunch of other goblin armor they found to set up a little, uh, like a little bit of play-acting, I guess, to try and scare the Tapwells off their land. And they’re hoping that if they, uh, search the manor house, they can find the original deed of ownership to the land that proves that the Redcheek halflings are the owners of this orchard.
+
+
+Scales: Guys, I think that’s in that box in the basement.
+
+
+Dan: Hmmm.
+
+
+Jacob: So what was it that you were looking for?
+
+
+Scales: Should we tell ‘em what we’re looking for, or…?
+
+
+Tanzer: Why’s...I feel like we’re just giving away our only card, right? We should probably...
+
+
+Scales: Well, hold on, how do we know that nobody got hurt in your raid on this house?
+
+
+Stuart: Uh, y--Jacob Redcheek says,
+Jacob: Well, of course nobody was hurt! Did they tell you anybody who was actually killed?
+
+
+Scales: I mean, they didn’t give us any names...
+
+
+Lucien: I sort of don’t remember.
+
+
+Scales: In your search for knowledge, you’ve forgotten what happened the day before.
+
+
+Lucien: I wasn’t paying much attention.
+
+
+Scales: The vision of Tarzen [sic] having sex with a barmaid has erased all your memories.
+
+
+Stuart: If any of you guys doubt him, you’re allowed to make a...insight check.
+
+
+Elliott: [crosstalk] What was your name?
+
+
+Zhubin: [crosstalk] Tanzer.
+
+
+Elliott: [crosstalk] Tanzer.
+
+
+Stuart: Insight check to see if he’s telling the truth.
+
+
+Dan: [crosstalk] I do doubt him.
+
+
+Elliott: All right. I wanna do that too.
+
+
+Dan: I got, uh, proficiency in that.
+
+
+Elliott: I don’t.
+
+
+[dice rolling]
+
+
+Elliott: I...I got a 16.
+
+
+Dan: I got a 9 plus 4, I got 13.
+
+
+Stuart: Uh, he doesn’t need to roll ‘cause he’s telling the truth, it appears.
+
+
+Elliott: Ohh, like Daredevil, we listened to his heartbeat.
+
+
+Stuart: [laughing] Yeah. That’s what he does?
+
+
+Elliott: Yeah, yeah.
+
+
+Stuart: Okay.
+
+
+Elliott: Hears the pulse.
+
+
+Stuart: Well, you’ve already gotten 25 gold pieces each from…
+
+
+Scales: Why don’t we call it a day, but we could help these people prove that it’s their land.
+
+
+Tanzer: Even better, we could charge them more gold pieces to give them the information about where the deed is.
+
+
+Scales: Eh, that’s not...
+
+
+Stuart: A little bit of double dippin’.
+
+
+Tanzer: I’m trying to help you guys out.
+
+
+Scales: This seems not very heroic.
+
+
+Lucien: That’s how rich people get rich, is by swindling poor halflings.
+
+
+Tanzer: Yeah, this is a problem.
+
+
+Scales: Yeah, well…
+
+
+Tanzer: Yeah, you guys don’t see angles in this whole thing.
+
+
+Scales: Mister...uh, what was your name? Garlic face?
+
+
+Stuart: We’ll help you if we can get a look at that hole.
+
+
+Lucien: Just let us dip our beaks in it, and that’s what we mean--and we pee in the hole.
+
+
+Scales: I have two questions. Two questions. What was your name again? Jacob...Redcheek?
+
+
+Jacob: My name is Jacob Redcheek.
+
+
+Scales: Redcheek. I should’ve remembered ‘cause your cheeks are so rosy.
+
+
+Jacob: Mhm.
+
+
+Scales: Two questions. One--
+
+
+Stuart: And they’re getting rosier as he drinks more of this delicious Tapwell cider.
+
+
+Scales: Uh, if we were in a position to help you with some information--we’re not asking to sell it, that would not be heroic, but might there be, perhaps, some reward or show of your gratitude? And secondly, what’s in that hole outside.
+
+
+Stuart: Uh, the whole room gets quiet, and then Darius Redcheek turns to Jacob and says,
+Darius: Of course! I knew they were mercenaries!
+
+
+Scales: Mercenaries is a harsh word. We’re adventurers! We never prom--we never...disguised ourselves as anything else, we said that the Tapwells hired us for a job, and we now think it was under  false pretenses. Look, sisters are doing it for themselves.
+
+
+Stuart: Jacob Redcheek says,
+Jacob: Darius, let us hear them out. What do you...you say...do you know where the deed is?
+
+
+Scales: We...
+
+
+Tanzer: No one said that.
+
+
+Scales: We--no one said that, but we may have a clue.
+
+
+Jacob: Is that a legally binding thing you said?
+
+
+Scales: I’m not a lawyer, I wouldn’t know. I’m an artist. And as an artist, I like to play things as they go and not worry about the rules. Although, you th--the funny thing about the art is, you really need to know the rules of the piece very well before you can play around with them. Allow me to explain through the use of song. Now, if I’m just playing this song normally-- [hums McDonald’s jingle] --I’ve had to go--
+
+
+Zhubin: As, uh, uh, Scales starts playing--
+
+
+Elliott: Thank you.
+
+
+Zhubin: --I’m gonna try and slowly sneak out and see if I can find an entrance to the basement.
+
+
+Stuart: So you’re trying to distract them.
+
+
+Elliott: I’m not trying to, I’m just explaining how--
+Scales: What I was going to explain was how ragging a song, adding little, uh, extra skips and beats and things like that changes it, right?
+
+
+Dan: I find him very distracting.
+
+
+Scales: This is knowledge, you should be so happy about this! I’m dropping real knowledge on these fools! Not fools. Good guys.
+
+
+Stuart: You--I’m gonna say that he’s helping you, so you get to do a--a...assisted, uh, you get advantage on this stealth roll.
+
+
+Zhubin: Okay.
+
+
+Dan: Can I have another one of these?
+
+
+Stuart: Yep, you ma--Tanzer gets to roll stealth.
+
+
+[dice rolling]
+
+
+Zhubin: Uh, 6, 7, 2?
+
+
+Stuart: Oooh, not amazing.
+
+
+Elliott: You knock a pie pan over.
+
+
+Dan: These are loaded dice.
+
+
+Zhubin: A container of apple juice just, like--
+
+
+Elliott: You bump into the old woman who’s cooking and knock her into a stove.
+
+
+Zhubin: Into the fire.
+
+
+Woman: Ahhh! My biscuits are burning!
+
+
+Stuart: Uh, so, of course everybody stops. Uh, record scratch.
+
+
+Scales: I was talking!
+
+
+Jacob: Going somewhere?
+
+
+Tanzer: Uh, n-nooo, I--I--I--wh--where’s your bathroom? Where’s the restroom?
+
+
+Jacob: Oh, uh...Zach, take him over to the bathroom.
+
+
+Stuart: So one of the halflings hops up and takes you by the hand. [laughter] It’s kind of like a weird child man is taking you into the bathroom. Like, normally, the roles are reversed, but it’s cool.
+
+
+Zhubin: I’m protesting along the way, like, I can go myself. I don’t need this. I’m fine.
+
+
+Lucien: Look, Jeremy, while that idiot’s out of--
+
+
+Scales: Scales!
+
+
+Lucien: Well--Jeremy.
+
+
+Scales: Scales.
+
+
+Lucien: While that idiot’s out of here--I did a perception check. It seems like he’s telling the truth. I feel like we should just help them find this...document.
+
+
+Scales: Okay. UhHHH, I mean, there--some things are more important than money. That’s true. I was trying to help us out, but you’re right. You’re right, I think.
+
+
+Jacob: We do have a meager amount of mo--no, Darius, we can offer this. [with Tapwell’s voice] We do have a meager amount of money that--
+
+
+Stuart: This is the wrong guy. Different person. All of a sudden, Ambrose Tapwell appeared.
+
+
+Jacob: I could offer a small amount of money for information, but I...I couldn’t give it to you until, of course, we have the deed in hand.
+
+
+Scales: I feel weird making decisions like this without Silverview, even though he’s a moron.
+
+
+Stuart: Okay, Silverview, we split up the party. That’s always a bad idea in D&D ‘cause you might not be able to take on the thing that you have to battle. I’m guessing something in the toilet. What are you doing?
+
+
+Zhubin: I’m in the--I’m in the bathroom with the--I assume the guy outside.
+
+
+Stuart: Yeah, it’s like a chamber. Uh, one of those, you know, like a bathroom.
+
+
+Zhubin: Do I have my own room, or am I in the stall and he’s outside the stall?
+
+
+Stuart: No, you have your own room.
+
+
+Zhubin: Okay, I’m looking around, trying to see if there’s a secret entrance to the basement from the bathroom.
+
+
+Elliott: You’re just sticking your hand in the toilet?
+
+
+Zhubin: Yeah, I’m sticking my hand in the toilet, I’m, like, waving it under the sink, I’m doing--I’m, like, unscrewing the pipes.
+
+
+Stuart: There’s no sink, there’s a basin of water and a hole that you shit in.
+
+
+Elliott: Keep in mind, you have nothing at all to lead you on to believe there’s a secret entrance to the basement in the bathroom.
+
+
+Zhubin: No, no, but at this point--it’s the only option now. Is there a window?
+
+
+Stuart: In your family manor, I’m assuming, in Silverview manor, there’s a secret entrance.
+
+
+Zhubin: Every room has a secret passage to the basement in Silverview manor. Is there a window in the bathroom?
+
+
+Stuart: Uh, there’s a small window to allow smells to escape.
+
+
+Zhubin: Can I go through the window?
+
+
+Stuart: Uh, it is, uh, too small, and there’s bars to prevent a bird from landing on your head while you’re using the bathroom.
+
+
+Elliott: That’s a good thing to have.
+
+
+Zhubin: I, um…
+
+
+Stuart: Sounds like this, uh, line of, uh, stealth is comin’ up with nothing. They have confounded your attempts.
+
+
+Elliott: The adventure of the barred bathroom.--
+
+
+Stuart: Very much mission impossible.
+
+
+Elliott: --may have to come to a close.
+
+
+Zhubin: I walk back into the kitchen with--my arm all the way up to my elbow is, like, soaked in toilet water.
+
+
+Stuart: There’s no water, it’s just a hole!
+
+
+Elliott: And ironically, now you have to use the bathroom. You spent so long in there.
+
+
+Zhubin: I’m trying to hold it in now, yeah.
+
+
+Dan: ‘Cause it’d be weird. You don’t want people to think that you have, like, a bladder infection that you picked up from some woman in Hogsbottom.
+
+
+Stuart: Okay, so…
+
+
+Scales: Silverview--
+
+
+Stuart: Back to the negotiation table.
+
+
+Scales: Seems like these guys are telling the truth. Uh, Buttwatcher has suggested that we just help out the Redcheeks.
+
+
+Tanzer: Without any money, without any advantage on our--?
+
+
+Scales: They said they have a little bit they can possibly give us, but there are more important things than money. Look, wouldn’t you rather inspire people with your noble deeds? As described in song!
+
+
+Tanzer: I’m--you g--I need my own wealth. I need to become my own man. So I need a cash reserve that I can--like, that can allow me to not just live off the--sponging off my father’s who found his money by seeing silver.
+
+
+Scales: Lord Silvervew, 
+
+
+Elliott: he says as he touches Silverview’s hand and then immediately draws back ‘cause his hand is covered in whatever,
+
+
+Scales: You can--there’s more than one way to become a man. Wealth isn’t everything. Perhaps respect? Is what you’re looking for?
+
+
+Tanzer: All right, you know what, fine. I will--but I want the majority of money we take. From them. 
+
+
+Scales: As long as you promise not to give it away as a tip!
+
+
+Lucien: Since I only value knowledge, I’m fine with that.
+
+
+Tanzer: Fine. Good.
+
+
+Scales: I would prefer that this--people in the future look at me as having done this just for the good of things. Maybe that’ll help me get some ladies so I can make children for my--
+
+
+Lucien: Oh, don’t act all noble.
+
+
+Stuart: That’ll be another great verse in this epic tale.
+
+
+Elliott: Oh, yes.
+
+
+Tanzer: Then it’s settled. So we’re splitting it 60-20-20.
+
+
+Lucien: Sure.
+
+
+Tanzer: Good. Then yes! Yes, sir, uh, uh, Sir Jacob? We have--
+
+
+Scales: Sir?
+
+
+Tanzer: We have some information--well, I assume you’re a noble man. I see here you have a manor house.
+
+
+Lucien: You’re dressed in goblin stuff.
+
+
+Jacob: Uh, well,
+
+
+Stuart: he says,
+
+
+Jacob: so...what information do you have?
+
+
+Scales: We may know the location of a chest that could possibly have the deed in it. I believe you didn’t answer the second question, which was what’s with that hole?
+
+
+Jacob: Oh, that hole. No, see, after Tapwell murdered my great-grandfather and a few of our kin, they simply tossed the bodies in a mass grave, and we’re trying to unbury them, uncover the bones so we can rebury them.
+
+
+Scales: That’s so much less fun than I was hoping it would be. Hoping it would be, like, gold or a dragon’s egg or something.
+
+
+Lucien: That’s the worst hole I’ve ever heard of.
+
+
+Tanzer: All right, let’s go get the deed then, fine, fine.
+
+
+Scales: Yeah, and I apologize for--
+
+
+Elliott: Uh, and, uh, and it still seems like he’s telling the truth? Should we do a perception check on that?
+
+
+Zhubin: Yeah, let’s do a perception check on that.
+
+
+Elliott: Insensitive.
+
+
+[crosstalk]
+
+
+Zhubin: I don’t wanna be a mass grave denier on this. I feel like maybe we should--
+
+
+Stuart: Go up and stare him in the eyes. Check his pulse.
+
+
+Dan: I don’t think he’d make that up.
+
+
+Elliott: All right.
+
+
+Dan: Too depressing a lie.
+
+
+Scales: Let’s go...uh, look. To quote a m--some musical heroes of Scales Fangbattle, the Ramones, I don’t wanna go to the basement. Down in the basement. But let’s go.
+
+
+Dan: Man, he has a rich fantasy world.
+
+
+Zhubin: It’s wonderful.
+
+
+Elliott: Yeah. It’s a whole--
+
+
+Stuart: These Ramones, I guess?
+
+
+Elliott: They’re not really brothers, but they dress like they are!
+
+
+Stuart: ‘Cause all brothers dress alike.
+
+
+Elliott: Look at the fuckin’ Tapwells! Pardon my language! The Redcheeks, they’re dressed exactly the same except with different horn helmets!
+
+
+Dan: So I assume that we’re now bustled down to the basement.
+
+
+Stuart: You are bustled down into the cellar. Now, the cellar is--is a labyrinth of, uh, foodstuffs and, uh, wine racks and cider casks, uh, and you--to the northeast corner--
+
+
+Dan: I grab one for a little refreshment as we--
+
+
+Stuart: Uh, what, the cider?
+
+
+Dan: Yeah.
+
+
+Elliott: Or a food sack.
+
+
+Dan: A little cider.
+
+
+Elliott: I mean, we’ve just been drinking and eating apple products.
+
+
+Dan: No, it’s fine, but I…
+
+
+Stuart: They don’t keep a lot of apple products down here. They don’t need to. Like, a giant wheel of cheese? Imagine Bilbo Baggins, like--it’s basically like that.
+
+
+Elliott: With dwarves singing songs and throwing crockery around.
+
+
+Stuart: Yeah, ‘cause there’s no songs being sung right now.
+
+
+Elliott: Reminds me of a song!
+
+
+Stuart: So you guys make it to the northeast corner. Clearly it’s a dirt floor cellar, and there’s a--underneath a--uh, there’s a barrel sitting there, a barrel that is easily pushed aside.
+
+
+Scales: Oh, who wants to do the honors of pushing that barrel aside?
+
+
+Tanzer: I’ll push this barrel aside. I do have a question. Why didn’t they--they’ve been ransacking the whole house, they haven’t touched this part of the house?
+
+
+Elliott: It’s weird that they didn’t go to the basement.
+
+
+Stuart: I mean, they’ve clearly been down here ‘cause they’ve been--
+
+
+Elliott: Eating the food.
+
+
+Stuart: Ransacking all the food, but they haven’t gotten--they haven’t started just digging up the floor in the cellar.
+
+
+Elliott: I guess that’s a pretty extreme--when you’re looking for a piece of paper, that’s a pretty extreme way to go.
+
+
+Stuart: Archie is not happy, but he doesn’t really have much say in it, and he is currently being guarded by the halflings.
+
+
+Lucien: Here, Archie, nibble on this cheese.
+
+
+Elliott: He would probably like that a lot.
+
+
+Stuart: He likes cheese, but it doesn’t sit well with him, so they might have to guard him in the bathroom for a while later.
+
+
+Zhubin: I push the barrel aside and start, uh, digging to the chest.
+
+
+Stuart: With your hands? Or do you ask for a shovel?
+
+
+Elliott: Do you whip it aside like a real hero?
+
+
+Stuart: Do you make somebody else dig? What do you--
+
+
+Zhubin: Well, I push the barrel as--is there a shovel around?
+
+
+Stuart: Uh, you can fetch one.
+
+
+Elliott: It’s usually--right now, it’s in mass grave removal duty, but we can take one.
+
+
+Tanzer: Yeah, we need to take some time off from searching for the bones of your murdered ancestors to find this, uh...
+
+
+Stuart: Yeah, after a few tense moments, a halfling gives you a shovel.
+
+
+Zhubin: Great.
+
+
+Stuart: It’s a small shovel, so you have to stoop down, and you look a little silly, but there’s no babes around.
+
+
+Zhubin: All right.
+
+
+Stuart: I mean, there’s a young halfling woman, but...well, that--
+
+
+Elliott: Well! Does that change what you wanna do?
+
+
+Stuart: She’s covered in grease paint and goblin--she smells like she’s wearing goblin armor.
+
+
+Elliott: He’s into roleplaying, so it kind of turns him on even more.
+
+
+Dan: All right, I grab the shovel from him and start digging.
+
+
+Stuart: Oh, man, what hidden knowledge awaits you? Well, you learn that digging is not a lot of fun. Uh, after you dig--you dig for--it takes maybe about 15, 20 minutes of digging before you--your shovel strikes wood as you find a...oak, iron-bound, uh, treasure chest.
+
+
+Elliott: Ooooh!
+
+
+Stuart: With a lock on it.
+
+
+Elliott: Oh…
+
+
+Zhubin: Hmmmm…
+
+
+Dan: Is there any way that we can try and pick that lock?
+
+
+Stuart: UhhHH…
+
+
+Zhubin: Can we whip the lock?
+
+
+Elliott: Smash it open? Is it--how strong is it?
+
+
+Stuart: We...I’m going to assume--we could make dice rolls, but I’m going to assume that, given enough energy and effort, and you’re not trying to be secretive, you’re able to crack that lock off that--off that chest. And creeeaaak. The chest opens, and there’s a demon in there, and you all die.
+
+
+[all yell]
+
+
+Stuart: Just joking.
+
+
+Elliott: What’s that Archie doing? What’s amazing is when you said, “de,” I thought you meant “deed.”
+
+
+Stuart: So it’s actually--it’s a small chest, it’s filled with a number of personal effects, there’s a lock of hair that is now straw-thin. There’s a locket with a silhouette in it, a cameo. And then there’s--
+
+
+Elliott: Archie’s prom photos?
+
+
+Stuart: Uh, there’s a couple signet rings, you--there’s, uh, uh, some kind of a wedding ring that you’re assuming was Ar--Archie’s mom’s wedding ring.
+
+
+Elliott: So we may have--we may have just found, like, a box of keepsakes from, uh, Mr. Tapwell’s life.
+
+
+Stuart: You also find multiple scroll cases.
+
+
+Elliott: Oh.
+
+
+Stuart: That after searching through, you find, uh, you--you--you are able to find the deed, uh, that is made out to, uh, the z--uh, Zevulon Redcheek of the Redcheek halflings, made out by the local baron, uh, uhh, Baron von Bogenhofen. 
+
+
+Zhubin: Mmm, yes, family friend.
+
+
+Stuart: Do you have knowledge--yeah, he is a family friend, actually. Do 
+you have knowledge arcana?
+
+
+Dan: Knowledge arcana. No…
+
+
+Stuart: Under knowledge? Do you--or intelligence.
+
+
+Dan: Under intelligence.
+
+
+Stuart: Do you have arcana?
+
+
+Dan: No.
+
+
+Stuart: Okay, but you can make an intelligence check anyway. Roll it, Dan. I mean Lucien.
+
+
+Dan: A 12.
+
+
+Stuart: Okay, you can, uh, you can detect that there’s a--you can tell there’s something magical about this, uh, some kind of minor enchantment just to prove that it’s, like, legal.
+
+
+Elliott: That legal magic.
+
+
+[crosstalk]
+
+
+Zhubin: Yeah.
+
+
+Stuart: Yeah, all magic stuff’s legal to--seems magic to the uninitiated.
+
+
+Elliott: That’s true, yeah. Arthur C. Clarke said that.
+
+
+Stuart: Okay, so you have a deed.
+
+
+Elliott: Okay.
+
+
+Stuart: The halflings are celebrating! Cracking open bottles!
+
+
+Scales: Now, guys...
+
+
+Lucien: I guess that’s another successful adventure, guys.
+
+
+Tanzer: Hooray, we’ve done it.
+
+
+Scales: We did it, we did it!
+
+
+Tanzer: Now, about the fee...
+
+
+Scales: Uh, fee is the wrong word. Uh, there was talk of s--a gratuity?
+
+
+Lucien: Uh…
+
+
+Scales: That actually sounds--yeah, it’s just, like, a little token? A little--
+
+
+Tanzer: Now, about our ransomed man?
+
+
+Elliott: No, no, no. Now, do--are we holding the deed? Or are they holding the deed?
+
+
+Stuart: He’s holding the deed.
+
+
+Elliott: Okay. Wait, who is? Lucien?
+
+
+Stuart: Lucien, yeah.
+
+
+Elliott: Okay.
+
+
+Stuart: So Jacob says,
+Jacob: So, about the fee...I...we--I mentioned money, or we could offer perhaps a value much more than that in the form of goods. Could take the barge? You could take as much of this cider as you can carry? Its value far exceeds what I’d be wil--what kind of coinage we can pay, but unfortunately...just having the deed is not enough, heroes.
+
+
+Scales: I think we gotta talk to the baron, probably, right?
+
+
+Jacob: Because, unless he is brought to justice, Tapwell will keep sending tough adventuring dudes like you guys--
+
+
+Scales: Thank you!
+
+
+Jacob: --to try and wrest the manor from--the land from us.
+
+
+Scales: Uh, so how would we go about stopping Tapwell?
+
+
+Tanzer: What’s your solution here? Kill Tapwell?
+
+
+Stuart: Archie goes,
+
+
+Archie: Ooh, that’s my dad!
+
+
+Stuart: And then he realizes. I’d be the Tapwell now, dogs!
+
+
+Lucien: He just said brought to justice, he didn’t say we had to murder him.
+
+
+Tanzer: Well, is there a court system here? This is an anus-fueled economy town, I don’t understand where the--what the system of justice is here.
+
+
+Scales: Yeah, this is Deadwood, basically.
+
+
+Stuart: I mean, you d--there are options. You could either--you could go to the local sheriff--
+
+
+Elliott: Okay. Oh, that burly dwarf that we saw!
+
+
+Stuart: Or you could go all the way--you could make the longer trip down to Wolfsburg to seek an audience with Baron Emil von Bogenhofen.
+
+
+Elliott: Well, I know what sounds more fun to me.
+
+
+Zhubin: He’s also a family friend, so he’ll just do--he’ll--surely he’ll do what I ask. Our families are--go back a long way.
+
+
+Dan: Can we get to Wolfhaven or whatever on the barge?
+
+
+Stuart: Yeah, you can take--it’s downriver.
+
+
+Elliott: Now, is there--I don’t want Tapwell to get away, like, if he catches wind of what’s going on. Clearly, Archie has to stay here, but he doesn’t care, he’s eatin’ cheese and apples like nobody’s business.
+
+
+Zhubin: He’ll be spending his days in the cellar eating and his nights on the toilet, so I think he’ll be taken care of for a while.
+
+
+Elliott: Yeah, I think, let’s take the barge down to, what was it called, to Wolfhaven?
+
+
+Stuart: Wolfsburg.
+
+
+Elliott: Wolfsburg. Oh, yeah, like, it’s where they’re all wolves.
+
+
+Dan: Like in DuckTales.
+
+
+Stuart: It’s uh- It’s- It’s Wolf Mountain.
+
+
+Elliott: Okay.
+
+
+
+
+Dan: It’s like Duckburg, there’s a bunch of anthropomorphic wolves that live there, I assume.
+
+
+Stuart: Yep, that’s gonna be super fun!
+
+
+Dan: It’s a wolf blur.
+
+
+Elliott: Uhh…
+
+
+Zhubin: Well, we have the deed, though, right?
+
+
+Elliott: We’re gonna have to take it with us.
+
+
+Stuart: Yes.
+
+
+Zhubin: We have to take it with us.
+
+
+Stuart: And you also will have to take one of the Redcheek halflings with you.
+
+
+Zhubin: Gah, it’s always some…
+
+
+Stuart: To verify. You can’t--it’s not like you can take the deed and be like, “See? This guy told us.”
+
+
+Elliott: Now, can we take the daughter with us? Or...should we take…
+
+
+Dan: Oh, no.
+
+
+Stuart: There’s only one--they only brought one daughter with them. You could take one of the young boys.
+
+
+Elliott: Eh…
+
+
+Zhubin: Can we take the one who’s not dumb? Is there one--can we get a smart one?
+
+
+Stuart: Yes, of course there’s ones that are not dumb.
+
+
+Elliott: No, it’s only the Tapwells are dumb.
+
+
+Zhubin: Archie was the--we messed up with Archie. We got the dumb kid.
+
+
+Elliott: I assumed both of them were dumb.
+
+
+Zhubin: That’s true, that’s probably true.
+
+
+Elliott: Maybe the other Tapwell twin was brilliant. Maybe he got all the smarts in the womb of Mrs. Tapwell.
+
+
+Zhubin: It just seems like Tapwell is--well, no, he actually--he based his decision on an eating contest, so he didn’t really care which of his sons went, now that I think about it, so…
+
+
+Elliott: Let’s take the whole trunk with us because, as much as I believe Tapwell should be brought to justice, my artist’s heart is touched by his devotion to his fair departed wife, and I would hate to see these artifacts, as unjust as his treatment of your ancestors’ bones has been, I would hate to see them tossed to the winds or defiled in some way.
+
+
+Zhubin: And I think we could probably sell them in a pawn shop for some sweet cash, so let’s...let’s take them.
+
+
+Elliott: Let’s take the whole trunk.
+
+
+Stuart: Sweet cash. You can give that cameo to a woman that you just met.
+
+
+Zhubin: Hell yeah! Thanks for the silhouette of somebody else?
+
+
+Stuart: Do you--I mean, do you--they’re not that discerning about silhouettes.
+
+
+Elliott: I guess so. So, yeah, let’s take one of the, uh, one of the Redcheek boys.
+
+
+Stuart: Okay, let’s say you take, uh, Me--no, Pasha Redcheek.
+
+
+Elliott: Pasha?
+
+
+Zhubin: Pasha Redcheek?
+
+
+Elliott: Okay.
+
+
+Zhubin: All right.
+
+
+Stuart: It’s short for Alexander.
+
+
+
+
+Elliott: But he doesn’t have to--oh, he’s Russian, I see.
+
+
+Stuart: Sure.
+
+
+Elliott: But he doesn’t have to be dressed up like a fake goblin anymore, right?
+
+
+Stuart: No, of course not. He puts on the finery befitting a halfling commoner.
+
+
+Elliott: [laughing] Okay. So let’s get on that boat, boys!
+
+
+Stuart: He also brings his, uh, his grandfather’s...signet ring of the Redcheek family.
+
+
+Elliott: It has a--it has a--
+
+
+Stuart: To prove that he’s a Redcheek halfling.
+
+
+Elliott: Small symbol of it, the Redcheeks.
+
+
+Stuart: It also helps that he has very red cheeks.
+
+
+Elliott: Now, how--
+
+
+Zhubin: I need a signet ring.
+
+
+Elliott: What time is it? Should we just make haste and go overnight in the barge, ‘cause it’s nighttime, right? Or should we--
+
+
+Stuart: You should probably rest overnight, otherwise--
+
+
+Elliott: Okay. We’ve used none of our spells. Uh.
+
+
+Dan: And none of our hit points.
+
+
+Elliott: Let’s rest, though. Yeah.
+
+
+Zhubin: I wanna go to the, uh, halfling daughter and, uh, chat her up.
+
+
+Stuart: This does not go well.
+
+
+Zhubin: 5.
+
+
+Stuart: What do you say to her?
+
+
+Tanzer: Uh, I don’t know if you heard back there, but I’m Tanzer Silverview? So here’s the...key to--to Archie’s room where I’ll be staying.
+
+
+Zhubin: Halfway through, I realize that my hotel key--it doesn’t--doesn’t apply here, so I just kind of mumble out that, uh,
+
+
+Tanzer: Archie’s [clears throat] key to his--or the hole, if you want, you know, like, uh, there…
+
+
+Elliott: Have sex with you in the grave of her ancestors.
+
+
+Stuart: She slaps you.
+
+
+Zhubin: All right, that’s fair.
+
+
+Elliott: Now it’s Scales’s turn to shine, like scales in the sun. I say,
+
+
+Scales: Watch this, Tanzer.
+
+
+Elliott: Uh, and I make a play.
+
+
+Stuart: Okay.
+
+
+Elliott: And I--
+
+
+Stuart: Roll your die.
+
+
+Elliott: Okay. Can I say what my--my, uh, my line is?
+
+
+Stuart: Yeah.
+
+
+Elliott: I invite her to come with me to the woods and hear some songs in the moonlight.
+
+
+Stuart: Oh, wow, that’s pretty good.
+
+
+Zhubin: Yeah.
+
+
+[dice rolling]
+
+
+Elliott: 14 plus my charisma?
+
+
+Stuart: Yep.
+
+
+Elliott: 17.
+
+
+Stuart: Oh, she’s up for it. She comes with you and listens to songs in the moonlight, but she’s saving herself for marriage.
+
+
+Elliott: Ohh, no, I wasted my songs!
+
+
+Zhubin: Even when you win, you lose, Scales!
+
+
+Elliott: How far do I get? To, like, second base? What’s the--
+
+
+Stuart: Uh, no, you get to f--wait, what’s second base?
+
+
+Elliott: I don’t know in this fantasy world.
+
+
+Zhubin: [unintelligible]
+
+
+Elliott: Let’s say, let’s say it’s, uh, she gives him a handy.
+
+
+Stuart: No, that’s not--
+
+
+Elliott: That too much?
+
+
+Stuart: Uh, yeah, no, she’s up for that. She’s a halfling.
+
+
+Elliott: Yeah.
+
+
+Zhubin: Out in the woods? Or in the room we’re all sleeping in?
+
+
+Elliott: In the woods!
+
+
+Stuart: In the woods.
+
+
+Elliott: Come on.
+
+
+Stuart: His little...dragon...love nestle that he has.
+
+
+Elliott: Why is it smaller for a dragon?
+
+
+Dan: Okay, let’s bustle ourselves to sleep.
+
+
+Stuart: Okay!
+
+
+Elliott: Oh, I’m sleepin’ well tonight.
+
+
+Stuart: Crack of dawn, the cock crows and wakes you all. You travel by barge down the stream.
+
+
+Elliott: And I go,
+
+
+Scales: Don’t tell your dad about this.
+
+
+Stuart: Uh, until you reach, uh, reach where the stream connects with the wandering river, and continue going south. Past Hogsbottom and its dirty tannery, awful-filled waters. You skirt the edges of the town, continue south until you reach the...by...uhh, I would say by midday, you reach the, uh, the--the port at the bottom of Wolfsburg, the Wolf’s Mountain, seat and fastness of the Bogenhofen family, the baron of the local area. Uh, after parking and stowing your boat, uh, you make your way up to the fortress itself, which is, uh, basically a small town. Basic--uh, just--to m--to make matters, uh, fast, so we don’t, uh, seduce everybody in this town, we, uh, you request an audience with the baron. Um, and after waiting an interminably long time--
+
+
+Zhubin: What?
+
+
+Stuart: Uh…
+
+
+Zhubin: Our families know each other!
+
+
+Stuart: Uh, actually, yeah, you--y--you were able to grease the wheels a little bit with your name. You are pushed to the front of the queue, all on the Silverview name.
+
+
+Zhubin: Yessss.
+
+
+Stuart: Um, and, uh, after, uh, you--the--the three of you are announced as “Lord Silverview, two adventurers, and...Alexander Redcheek, representing the Redcheek halflings’ claim on the Tapwell orchard.” And he, uh, reads out--he--he offers for you to make your case as to what is going on. The baron is sitting there next to the steward who made the announcement. The baron is an older man who is--has to lean forward to hear you guys speak, and occasionally whispers to his steward, uh, things.
+
+
+Scales: Uh, uh, wh--elf, you wanna...you wanna get the--you sound trustworthy, you wanna give the--
+
+
+Stuart: Alexander is way too nervous to speak to the baron.
+
+
+Elliott: Yeah. Yeah, “Alexander, do you wanna--” “gahsglkhagkhades; dkhf” “Okay then.”
+
+
+Stuart: He drank too much on the ride down with you guys. Uh, yeah.
+
+
+Tanzer: I’m the family friend, but all right, let the elf go.
+
+
+Scales: Yeah, Silverview--
+
+
+Dan: I summarize what, uh, what happened, but it’s--I do it North by Northwest style where we just walk across some propellers and no one hears it, so…
+
+
+Elliott: The characters hear it, but the audience doesn’t.
+
+
+Dan: So as not to bore the audience by recapping everything that we’ve just done.
+
+
+Stuart: All the great things that happened in the adventure so far?
+
+
+Dan: Okay.
+
+
+Stuart: So you’re listening to The Adventure Zone, guys.
+
+
+Elliott: I got a handjob, do we tell him about that?
+
+
+Stuart: Sure.
+
+
+Elliott: Probably not. Not in front of her brother.
+
+
+Stuart: You would come to blows at that point. Uh, so, um, af--th-the room is quiet after your tale, Lucien. And the baron leans over and whispers something to his steward, who says,
+
+
+Steward: Your tale has moved the Baron Emil von Bogenhofen. And he offers to--he sees your claim to the land and offers to help you bring Ambrose Tapwell, the laggard, to justice.
+
+
+Dan: So in real terms, that means...uh...fighters to go with us?
+
+
+Steward: We will send a detachment of soldiers with you to bring him back here to Wolfsburg to face retribution.
+
+
+Scales: Sounds harsh.
+
+
+Lucien: Sounds good.
+
+
+Tanzer: Right, is this a dead or alive thing here that we can…? Can we bring him back?
+
+
+Scales: Let’s try to bring him back alive.
+
+
+Tanzer: I’m just saying, like, do we have to?
+
+
+Steward: If possible.
+
+
+Tanzer: All right.
+
+
+Elliott: Uh, and I am overjoyed at the baron’s, uh, mercy, and I--
+
+
+Stuart: Alexander turns to you and he goes,
+
+
+Alexander: We did it, guys! We did it!
+
+
+Scales: We’re not out of the woods yet, but we are far enough through the woods to sing a song.
+
+
+Stuart: His face falls when you start to talk to him.
+
+
+Scales: [singing] Baron--
+
+
+Stuart: ‘Cause he remembers seeing his sister walk into the woods with you.
+
+
+Scales: We were just talking about how much she loves her family!
+
+
+Stuart: Hmmm.
+
+
+Tanzer: You seemed so relaxed when you guys were leaving, though, I don’t understand.
+
+
+Elliott: Almost sleepy!
+
+
+Zhubin: I completely blow his cover.
+
+
+Stuart: Uh.
+
+
+Elliott: You really rushed to the woods, but then when you walked back, you were really takin’ your time.
+
+
+Zhubin: Sauntering, almost. A satisfied saunter.
+
+
+Elliott: You kept goin’, “You hear me, Silverview!?”
+
+
+Stuart: To org-- [laughs] Uh, to organize these soldiers and set forth, you have to spend the night in Wolfsburg in a haunted mansion!
+
+
+Zhubin: Whaaaat.
+
+
+Elliott: That’s great, though.
+
+
+Stuart: You have to spend the night in the local tavern.
+
+
+Zhubin: Sounds great.
+
+
+Elliott: A haunted tavern?
+
+
+Stuart: It’s not a haunted tavern.
+
+
+Elliott: Aww.
+
+
+Stuart: Unless it’s haunted by the cries of joy from all your friends.
+
+
+Zhubin: Yeeaah!
+
+
+Stuart: Uh, you wake up at the crack of dawn the next day.
+
+
+Elliott: We wake up so early.
+
+
+Stuart: You are bustled out of bed.
+
+
+Elliott: Let me get dressed!
+
+
+Zhubin: Ow- Oh- Ow! You’re hurting me.
+
+
+Stuart: A detachment of soldiers led by a stern female sergeant--
+
+
+Elliott: Hello! Looks like the Silverview-Fangbattle feud is at it again! A rivalry, let’s say.
+
+
+Dan: I have, of course, evolved past such--
+
+
+Zhubin: Thanks, Buttwatcher.
+
+
+Dan: --base desires.
+
+
+Elliott: What’s her name?
+
+
+Stuart: Her name is Ursa von Gearsburgen.
+
+
+Elliott: Wow, that sounds tough.
+
+
+Stuart: And she does not like adventurers.
+
+
+Zhubin: Uh, just as we walk, I make sure I walk alongside her to let her know that I’m a nobleman like her.
+
+
+Ursa von Gearsburgen: Noblemen. What has a nobleman ever done that’s noble?
+
+
+Stuart: She scoffs at you.
+
+
+Zhubin: I set my horse back two paces.
+
+
+Stuart: You also don’t have a horse.
+
+
+Zhubin: I remember Clopper--Clops-a-Lot for a minute. I--I--I walk back for a couple of steps and just give a very long wink to Scales.
+
+
+Tanzer: Mmmm!
+
+
+Stuart: You guys are the--the four of you guys are riding in the back of a cart?
+
+
+[laughter]
+
+
+Elliott: We just kinda--
+
+
+Zhubin: I scoot back in the cart.
+
+
+Dan: During all this, I’m just sitting in the corner meditating.
+
+
+Stuart: The soldiers are marching behind the cart, and she’s riding on a horse next to you. Uh, actually.
+
+
+Elliott: So she’s lookin’ pretty cool!
+
+
+Stuart: Uh, Zander is driving the cart that’s being pulled by an oxen.
+
+
+Elliott: Okay.
+
+
+Stuart: Okay, so--
+
+
+Elliott: Zander.
+
+
+Stuart: Alexander Redcheek.
+
+
+Elliott: The son.
+
+
+Zhubin: Pasha, sorry.
+
+
+Stuart: He’s got a lot of nicknames.
+
+
+Elliott: Yeah, he’s Russian, come on.
+
+
+Stuart: So they--you travel over land, over mountain, through hill and stream. Uh, ‘til mid--uh, roughly midday when you cross, uh, you crest a ridge and see laid out before you the town of Hogsbottom.
+
+
+Elliott: Did we just leave our boat at Wolfsburg?
+
+
+Stuart: Yeah, you can get it later.
+
+
+Elliott: Okay.
+
+
+Zhubin: It’s a barge.
+
+
+Stuart: I mean, yeah, you paid for it. You paid for a week in the marina.
+
+
+Dan: I mean, the thing is, it’s just a money suck. ‘Cause we have to pay for it being housed at the marina.
+
+
+[crosstalk]
+
+
+Dan: It’s the biggest mistake we’ve ever made.
+
+
+Zhubin: We got insurance payments on it, yeah.
+
+
+Elliott: It just looks amazing, though.
+
+
+Stuart: And you really just wanna tell people, “Do you wanna go out on the boat for the weekend?”
+
+
+Elliott: Yeah.
+
+
+Dan: We painted a thing on the side that said, “The Phandalin Flyer.” In memory of Phandalin.
+
+
+Elliott: I was gonna call it the Songwater, but…
+
+
+Zhubin: Each side has some name on it.
+
+
+Dan: Yeah, each side has--warring names.
+
+
+Stuart: So as you crest a ridge, you see Hogsbottom laid out before you. Uh, the town is, uh, maybe about half a mi--a half a mile down the hill.
+
+
+Elliott: Great.
+
+
+Stuart: Um, and--
+
+
+Elliott: Almost there.
+
+
+Stuart: However, you see the town is in turmoil.
+
+
+Elliott: Uh-oh.
+
+
+Stuart: Stre--uh, streams of smoke rise from the town, and you can see a--it looks like the town is being attacked by a small army of goblins!
+
+
+Elliott: Noooo!
+
+
+Zhubin: Whaaaat.
+
+
+Stuart: No doubt led by infamous local warlord, Klaarg.
+
+
+Elliott: Wait, are these real goblins?
+
+
+Stuart: They appear to be real goblins this time, and seeing them--you’re not up close, but seeing them, you can--you’re super irritated with yourself that you ever confused them in the first place.
+
+
+Elliott: They don’t even look alike at all.
+
+
+Stuart: Now, streaming away from the town, uh, over, uh, across the river, you can see whatever people, uh, whatever refugees have managed to gather their things are trying to run away from these goblins and are fording the river in various places to do so. The town guard is fighting a battle against the goblins, but it is still close. Now, also, cl--a little bit closer to you at a part of the river that is a little bit more easily forded, you see a, uh, you see a covered wagon laden with goods and, uh, personal effects, and sitted--seated on this wagon is one Ambrose Tapwell and his son Augustus.
+
+
+Elliott: Ahh.
+
+
+Stuart: And kind of trying to drive the oxen pulling this cart forward, you see a short, dour dwarf character who clearly seems to be in cahoots with Tapwell, as he is running away from his town in its time of need!
+
+
+Elliott: Yeah, this is when the sheriff is needed most.
+
+
+Stuart: Uh. Clearly...it’s time for some adventurers. The sergeant says,
+
+
+Ursa von Gearsburgen: The soldiers and I can take care of the goblins. You stop Tapwell.
+
+
+Tanzer: Oh, that’s much easier, yeah, let’s do it!
+
+
+Lucien: That’s what I was gonna suggest anyway, so...
+
+
+Tanzer: That’s a great idea.
+
+
+Elliott: Scales is a little relieved and also a little irritated that he gets to m--that there’s not a--
+
+
+Scales: The song is worse if it’s, they’re up-- [singing] the goblins attacked the town that day, but we went off the other way to stop a man named Tapwell…
+
+
+Tanzer: You don’t have to mention what could’ve happened in the song. You can just mention the stuff we did.
+
+
+Scales: I’m just following my muse, dude.
+
+
+Zhubin: All right, so let’s--so we--
+
+
+Stuart: The soldiers go marching away quickly.
+
+
+Elliott: But once we stop Tapwell, we can go fight some goblins, maybe?
+
+
+Stuart: Sure, maybe. We’ll see if we have enough time.
+
+
+Elliott: Okay.
+
+
+Stuart: Uh, yeah, we’ll see if the listeners want to keep listening to us fight goblins.
+
+
+Elliott: [laughing] Probably not.
+
+
+Zhubin: Is Tapwell in the middle of the river? Is he mid-ford?
+
+
+Stuart: They are, yeah, they’re crossing it. It looks like the easiest--you can either try and pull the cart up to the river and you can try and swim after him, or you can cross a, uh, you can cross a bridge a little bit further up and, uh, and cut him off on the land where he’s trying to land.
+
+
+Zhubin: Uh, should we surround him with--with one on one side and two on the other?
+
+
+Elliott: No.
+
+
+Zhubin: All right, well then let’s, uh…
+
+
+Elliott: ‘Cause, what, is he gonna turn around--he’s gonna turn around and go back to goblin town? Come on.
+
+
+Zhubin: Well, if he doesn’t hit the other shore! All right, sure, yeah, let’s go--
+
+
+Elliott: It feels like if we divide ourselves into parts--
+
+
+Zhubin: I don’t want to get in a situation where we’re all on one side of the river and then he goes the other way so we have to run all the way back around to the other side of the river, he goes away, and just kinda run back and forth.
+
+
+Elliott: And, what, he’s just fording the river back and forth?
+
+
+Zhubin: Yeah, like we’ll get tired first!
+
+
+Elliott: That’s not how rivers work.
+
+
+Dan: Have you ever played Oregon Trail? It’s very hard to ford rivers.
+
+
+Elliott: He’s not gonna just turn around and do it again.
+
+
+Zhubin: No, I haven’t played Oregon Trail!
+
+
+Stuart: He used to have five sons; three of them have already died in this river.
+
+
+Elliott: Oh, god.
+
+
+Zhubin: He’s got so few--oh, he’s got so few sons.
+
+
+Elliott: Now I feel bad for him.
+
+
+Stuart: It’s the great tragedy at this point.
+
+
+Zhubin: Let’s just--we’ll--let’s go around the bridge and approach him.
+
+
+Elliott: Let’s go around the bridge and cut him off the path.
+
+
+Zhubin: We’ll cut him off the path. We’ll stand on the shoreline as he’s trying to get to it.
+
+
+Stuart: Alexander Redcheek takes his orders, nods to you, and snaps the reins on the oxen, which plods its way down the hill!
+
+
+Scales: Is there any way we can make this ox go a little faster?
+
+
+Stuart: It crosses the, uh, it crosses the bridge. All the while, you can see Tapwell and, uh, Bartok Rocksplitter trying to urge their, uh, cart up onto the shore.
+
+
+Elliott: [laughing] Bartok.
+
+
+Stuart: Uh, you’re able--uh, you’re--Zander pulls on--Alexander Redcheek, of course--pulls on the reins to bring the cart to a halt on the, uh, the gravel trail that is, uh, is right opposite the bank that has the, uh, has the enemy cart slowly being pushed up onto the--onto the shore. Uh, Bartok Rocksplitter is coming around with water lapping at his boots, and you can see that, uh, there’s m--uh, uh, a second--a second guard in, uh, Tapwell--in a Tapwell doublet comes climbing out as well. So it’s Tapwell’s son, Tapwell, some guard, and Bartok Rocksplitter.
+
+
+Elliott: Mhm.
+
+
+Zhubin: I shout to him.
+
+
+Stuart: You have just enough time to get set up and make something cool--decide what cool thing you’re gonna say to them.
+
+
+Zhubin: Oh. Uhh…
+
+
+Stuart: So are you guys gonna stay in the car, or are you gonna climb down off the cart?
+
+
+Elliott: Let’s get out of this cart!
+
+
+Zhubin: Let’s get out of the cart, sure.
+
+
+Elliott: Come on! Let’s get outta the cart and go meet him on the shore. How many of us have distance weapons? I have a shortbow.
+
+
+Zhubin: I have a whip.
+
+
+Dan: I also have a shortbow.
+
+
+Zhubin: I have a long bow too.
+
+
+Elliott: Let’s get out of the cart, but it’s not like we need to run up to him and go face-to-face. Y’know, we’ll--we wanna get outta the cart so we can fight this dude.
+
+
+Zhubin: We should tell him that we have a verbal warrant for his arrest, though.
+
+
+Elliott: Yeah. Yeah, that’s a good idea.
+
+
+Zhubin: Yeah.
+
+
+Elliott: Why don’t you say it? So he’ll be like, “Oh, the law, then I better stop.”
+
+
+Tanzer: Halt, Tapwell! It’s me, Tanzer Silverview, of the Silverviews! We have a verbal warrant for your arrest!
+
+
+Tapwell: What are you talking about? Did you find my documents?
+
+
+Scales: Oh, we found quite a bit. We found that your--you stole this land from the Redcheeks, and now the baron has given us leave...leave? Permission?
+
+
+Tanzer: Permission, warrant.
+
+
+Scales: Whatever. The baron has given us a warrant for your arrest, to take you back to Wolfburg. I know that life’s a blur there. It’s like a hurricane. But let’s--
+
+
+Tanzer: Who knows, you might be arrested, you might solve a mystery. All sorts of things can happen.
+
+
+Scales: And change history! Let’s just--let’s--we’ll take you back there, so what do you say? Your time is done. It’s either go back to the goblins with no sheriff to protect, ‘cause look at him. Come on. Look at that pudge. He’s running away. Come with us, and we’ll take you to the baron, and we’ll say that you gave yourself up and throw you on the baron’s mercy, or we can fight you and possibly killify you.
+
+
+Tanzer: Those are your choices.
+
+
+Stuart: He says,
+
+
+Tapwell: I always knew you’d betray me, lizard man!
+
+
+Scales: Racist.
+
+
+Tapwell: What are you doing waiting? Kill them!
+
+
+Stuart: And now, we’re going to roll initiative, dudes.
+
+
+Elliott: Uh-oh! Battling time! Bumbumbumbum… [continues humming]
+
+
+Stuart: Okay, so at this point, guys, when I ask you to roll initiative, roll the 20-sided die and add your initiative bonus.
+
+
+Elliott: I kinda wish I just fired an arrow from the wagon at one of those guys.
+
+
+Stuart: That’s always what you wish, but it’s way cooler to talk shit first.
+
+
+Elliott: I g--yeah.
+
+
+Dan: Wait, where’s my initiative bonus?
+
+
+Stuart: Next to your armor class. Should be right there.
+
+
+Elliott: I got 22!
+
+
+Zhubin: Nice.
+
+
+Stuart: Wow.
+
+
+Zhubin: I got 18.
+
+
+Dan: Mine’s 11.
+
+
+Stuart: Okay.
+
+
+Elliott: That’s less than ours.
+
+
+Stuart: And--
+
+
+Elliott: A lot less.
+
+
+Stuart: And mine...ohhhkay, what’d you roll, uh, Lucien?
+
+
+Dan: 11.
+
+
+Stuart: 11. Okay. So you guys have the drop on them. They’re still soggy with river water.
+
+
+Elliott: And every time they move, they go squish squish.
+
+
+Zhubin: They’re just trying to wring out their clothes.
+
+
+Stuart: Scales gets to go first.
+
+
+Elliott: Oh yeah! Uh, now, I wanna s-save--
+
+
+Stuart: You’re about 30 feet away from these guys.
+
+
+Elliott: Okay. What’s the range of my shortbow?
+
+
+Stuart: Uh, w--t--you’re totally within range.
+
+
+Elliott: Okay. I’m gonna fire a shortbow bolt at the sheriff because, frankly, I’m disgusted at how he would l--he would run from his duty and his people.
+
+
+Stuart: He certainly looks like the toughest dude.
+
+
+Elliott: Yeah.
+
+
+Stuart: And he’s also carrying a crossbow.
+
+
+Elliott: Yeah, so let’s--I’m gonna fire a shortbow bolt at him.
+
+
+Stuart: Okay, uh--
+
+
+Elliott: An arrow.
+
+
+Stuart: You’re not gonna breathe lightning all over his face?
+
+
+Elliott: Uh, I kinda wanna save that in case I need it. Or maybe I should just use it, I don’t know.
+
+
+Zhubin: That’s your thing!
+
+
+Elliott: Look at--how far away is he?
+
+
+Stuart: Uh, he’s within 30 feet.
+
+
+Elliott: Okay, so that’s lightning range, right?
+
+
+Stuart: Yeah, it’s within lightning range.
+
+
+Elliott: Guys, should I just shoot him with some lightning breath?
+
+
+Zhubin: Shoot some lightning, man.
+
+
+Dan: Why did we give your guy lightning?
+
+
+Elliott: Okay, that’s a good point.
+
+
+Dan: And he’s dripping wet, so he’ll take a penalty due to--
+
+
+Elliott: Oh, yeah! Okay, gimme some lightning breath on the sheriff, yeah. Forget the shortbow. I forgot for a moment that I was a dragon man.
+
+
+Stuart: He’s gonna try and dodge out of the way as you--your mouth erupts in crackling lightning.
+
+
+Elliott: [lightning sounds]
+
+
+Stuart: Ohhh, he jumps out of the way at the last minute.
+
+
+Elliott: Noooo!!
+
+
+Stuart: But he still takes some damage as lightning licks ag--around his feet. So roll a six-sided die.
+
+
+[dice rolling]
+
+
+Elliott: 2.
+
+
+Stuart: Okay. So his beard is totes singed.
+
+
+Elliott: Guys, I wasted my lightning breath.
+
+
+Stuart: Uh, do you have a m--do you wanna stay out in the open, or do you 
+wanna go run and hide behind the cart?
+
+
+Elliott: Uhh… ‘cause I can move, right? Why don’t I take cover behind the cart, ‘cause he’s got a crossbow.
+
+
+Stuart: Okay. So next is, uh, Tanzer Silverview.
+
+
+Zhubin: Uh, my--my whip is not in range. My longbow is in range, right?
+
+
+Stuart: Uh, your longbow’s within range. You can also move up and attack him.
+
+
+Zhubin: Um, I--there’s--there’s--the--there’s a sheriff, there’s--
+
+
+Stuart: Maybe you could wait for them to come to you.
+
+
+Elliott: I can’t believe I wasted my lightning.
+
+
+Zhubin: It’ll take an action on their part to come to me, right?
+
+
+Stuart: No, they can move in--you can move and take an action in your turn.
+
+
+Zhubin: Um, well, then I--in that case, I will...it l--my rapier’s the strongest weapon, right?
+
+
+Stuart: Yep.
+
+
+Zhubin: Okay, then I will approach.
+
+
+Stuart: It’s not as sassy as a whip, but it’s more powerful.
+
+
+Zhubin: Not as sassy. I’ll save it for Ambrose when we’ve got him down. I will approach and rapier the sheriff.
+
+
+Stuart: Okay. Yep.
+
+
+Zhubin: Roll for…
+
+
+Stuart: So you come running on the heels of this lightning attack.
+
+
+Zhubin: Heheh, singed--
+
+
+Stuart: Oh, man, you do an amazing strike, so you run up and stab him right in the chest, and you roll a...this? And add 5 to it.
+
+
+[dice rolling]
+
+
+Zhubin: 9.
+
+
+Stuart: So he takes 9 piercing damage.
+
+
+Elliott: Who is this?
+
+
+Stuart: The sheriff.
+
+
+Elliott: Yeah, but I softened him up for you when I singed his beard.
+
+
+Zhubin: Yeah, there was no more beard to protect him against my sword blade anymore. It was all you.
+
+
+Elliott: Yeah. Yeah, there you go!
+
+
+Stuart: Okay. So he is bleeding, and he coughs blood into his black, bristly beard.
+
+
+Zhubin: Ohh.
+
+
+Elliott: But there’s not much of it.
+
+
+Stuart: Shot through with dr--
+
+
+Elliott: So singed.
+
+
+Stuart: It’s totally singed. Lucien.
+
+
+Dan: So who do we have left? Is there, like, an angry dwarf or something?
+
+
+Stuart: There’s a dwarf that’s currently engaged, who is dropping his crossbow and pulling out his axes to make short work of this one, and you also have a thug who is going to gang up on, uh, on Tanzer Silver… Silverview. And then, uh, Tapwell’s son is loosening his sword from his sword belt.
+
+
+Dan: I think I’m gonna target--
+
+
+Stuart: To get vengeance for his brother.
+
+
+Dan: I’m gonna target the thug since he has taken no damage at this point.
+
+
+Stuart: Mhm.
+
+
+Dan: Um...and I’m gonna use Poison Spray.
+
+
+Stuart: Okay?
+
+
+Dan: Which, uh…
+
+
+Zhubin: A can of spray that you shake--
+
+
+Dan: The creature must succeed on a constitution saving throw or take 1 die 12 poison damage.
+
+
+Stuart: Okay. Do you say anything before you poison spray him?
+
+
+Dan: Uhh…
+
+
+Stuart: Do you go, “Hey, asshole!”?
+
+
+Elliott: DXD’s Jason.
+
+
+Dan: Uh, yeah, I just say,
+
+
+Lucien: Suck on this.
+
+
+Thug: Suck on wha--aahhh, oh nooo!
+
+
+Stuart: So he takes how much?
+
+
+Dan: 1 die 12 poison damage.
+
+
+Stuart: Okay, so you roll that 12-sided die…
+
+
+[dice rolling]
+
+
+Dan: Uh, 5.
+
+
+Stuart: Okay. That--that poison splashes in his face, and he goes, “Aaaaaaaahhhh!!” but he doesn’t seem to be quite down, but you have certainly distracted him.
+
+
+Elliott: Total Wayne Knight Jurassic Park moment.
+
+
+Stuart: Yep. He goes, “Gahh, clever girls!”
+
+
+Elliott: No, that’s not--that was Muldoon’s line.
+
+
+Stuart: Okay, on that note--
+
+
+Dan: Don’t even know the character name. That guy.
+
+
+Stuart: Bartok Rocksplitter spits out blood, and he goes,
+
+
+Bartok Rocksplitter: Okay, it’s time for you to die.
+
+
+Stuart: And he rushes you with an axe.
+
+
+Zhubin: I stabbed him in the chest!
+
+
+Stuart: Uh, his first axe strike is easily parried with your rapier, but his second one, uh, misses as well, but he is pushing you back up onto the beach. He is no longer standing in the water.
+
+
+Zhubin: Hmm. ‘Kay.
+
+
+Stuart: And he’s trying to fight his way toward--
+
+
+Elliott: Wait, he was standing in the water before?
+
+
+Stuart: Yep.
+
+
+Elliott: When I hit him with lightning, did it--the electricity go into the water and hurt anybody else?
+
+
+Stuart: No, they weren’t in the water.
+
+
+Elliott: Oh, man. Okay.
+
+
+Stuart: Okay. Uh, but nice thinking. I like that. Speaking of that, what are you gonna do?
+
+
+Zhubin: It killed a lot of--there’s a lot of fish, like, bubbling--
+
+
+Stuart: Oh, wait, no, I got two more guys to go.
+
+
+Elliott: You got two more guys, you got the thug and the Tapwell.
+
+
+Stuart: The thug has got--he’s--wipes the acid off his face, and he starts, uh, moving toward you slowly. And the--his action’s going to be to s--wipe, uh, acid out of his face. And then, uh, but his son, uh…
+
+
+Elliott: Tapwell, Jr.
+
+
+Stuart: His son, Augustus Tapwell, junior, goes rushing toward you.
+
+
+Elliott: I’m behind the cart at the moment.
+
+
+Stuart: So he’s gonna go rushing toward the cart? And he, uh, he’s gonna have to dash, then, so he...he is like, 
+
+
+Augustus: C-come out of there!
+
+
+Stuart: He’s, like, trying to convince you to come out from around the cart.
+
+
+Elliott: Okay.
+
+
+Stuart: Okay! Speaking of which, it’s your turn.
+
+
+Elliott: So I’m gonna poke my head out from behind the cart, and I’m gonna use Vicious Mockery on him.
+
+
+Stuart: Oh nooo! What?
+
+
+Elliott: On Augustus Tapwell. Now, this is--I--this is a spell in which I unleash a string of insults--
+
+
+Dan: A spell that you’re very familiar with.
+
+
+Elliott: --laced with subtle enchantments at a creature within my seeing range. And he must succeed on a wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll by the end of its next turn.
+
+
+Stuart: Okay, he does not resist that very well. He goes,
+
+
+Augustus: Whaa--ghhsgh--I’m sorry, Dad! I’m--doing the best I can! Wwwhhhhhaaaa---
+
+
+Stuart: Uh, so roll a four-sided die.
+
+
+[dice rolling]
+
+
+Elliott: Uh, 1. I guess that wasn’t so great.
+
+
+Stuart: Only 1, but it’s going to make him less good at beating you up in a second.
+
+
+Elliott: Okay, that’s great!
+
+
+Stuart: Okay, and do you stay behind the cart, or do you rush around?
+
+
+Elliott: Uh, I’ll stay behind there for the moment.
+
+
+Stuart: Okay. Now we got Tanzer Silverview.
+
+
+Zhubin: So I’m--in front of me is still this--
+
+
+Stuart: You’re still fighting--
+
+
+Zhubin: --blood-coughing guy swinging a couple of axes.
+
+
+Stuart: Yeah, you’re fighting the sheriff of the town.
+
+
+Zhubin: Right.
+
+
+Stuart: He’s no joke, and you’re a first-level character.
+
+
+Zhubin: Right.
+
+
+Stuart: So he’s tough.
+
+
+Zhubin: Uh, I...oh, well…
+
+
+Stuart: Time for you to make a name for yourself, killin’ sheriffs.
+
+
+Zhubin: Yeeeaaah! I’m gonna do that whip--can I--is there, is--at this range, the rapier’s the best bet, right?
+
+
+Stuart: Yeah, yeah.
+
+
+Zhubin: Okay, so I--
+
+
+Stuart: It looks way cooler.
+
+
+Zhubin: It does, it does.
+
+
+Dan: But it’s not as sassy as your--
+
+
+Stuart: It’s not as sassy.
+
+
+Zhubin: Not as sassy, but I can be sassy with lesser characters. With this character, I take, uh, fighting position stance one.
+
+
+Stuart: Okay.
+
+
+Zhubin: Footwork excellent, and I strike…! 12 plus, uh...5, so that’s 17?
+
+
+Stuart: You totally hit him again!
+
+
+Zhubin: Yeeeaaah.
+
+
+Stuart: And you do another 8-sided die plus 5, another 9 damage, wow. So you--your, uh--
+
+
+Elliott: Makin’ short work of this sheriff.
+
+
+Zhubin: Yeeeaaah. Right back in the gut. More blood, I wanna see more blood.
+
+
+Stuart: So your rapier strike, like, goes clean through his left shoulder, and he is--he’s slumped over slightly, and you can see a l--a look in his eyes like maybe he underestimated you.
+
+
+Tanzer: Yeeeaaahh, I’m a Silverview!
+
+
+Zhubin: I say to him.
+
+
+Stuart: Okay. Now, Lucien, uh, Bottomviewer.
+
+
+Dan: Uh, well...first, I’m gonna cast--
+
+
+Stuart: It’s Buttviewer, my mistake.
+
+
+Elliott: It’s Buttwatcher.
+
+
+Stuart: Buttwatcher.
+
+
+Dan: Gonna cast Shillelagh.
+
+
+Stuart: Okay? What do you do--
+
+
+Dan: To turn my quarterstaff into a shillelagh.
+
+
+Stuart: Into a magical shillelagh.
+
+
+Dan: As Elliott said, take one piece of wood, make it a slightly thicker piece of wood.
+
+
+Stuart: It also counts as magic!
+
+
+Dan: Um, and then I’m gonna attack with it.
+
+
+Stuart: Okay?
+
+
+Dan: So...says the weapon’s damage die becomes a die 8.
+
+
+Stuart: Yep. So it’s gonna make it even better, but before you roll damage, you still gotta hit somebody with it, so…
+
+
+Dan: Oh, I’m going after the guy I attacked before.
+
+
+Elliott: The thug.
+
+
+Stuart: Okay, so the thug.
+
+
+Dan: Yeah.
+
+
+Zhubin: The poison spray guy.
+
+
+Stuart: The thug who is very angry that he got poison in his face.
+
+
+Elliott: He’ll be angrier when a shillelagh knocks him in the noggin.
+
+
+Stuart: Roll the 20-sided die, you gotta make an attack roll, and you’re 
+gonna add, I think, 4 to it.
+
+
+Dan: Ugh.
+
+
+Zhubin: Go for the crotch.
+
+
+Stuart: So you swing at him…
+
+
+Dan: 6.
+
+
+Stuart: Oh, man, that is not a very good roll. Though he is intimidated by this now thicker quarterstaff.
+
+
+Elliott: Did you yell Shillelagh at him?
+
+
+Dan: I did.
+
+
+Lucien: Shillelagh!
+
+
+Stuart: Uh, now. The sheriff. He’s not likin’ this. He’s still fighting you. He swings. And...oh, he hits you for a total of…
+
+
+Dan: Hits who?
+
+
+Zhubin: Me.
+
+
+Stuart: Luci--not Lucien, Tanzer.
+
+
+Zhubin: Tanzer.
+
+
+Dan: Yeah, remember this is an audio podcast, Stuart.
+
+
+Stuart: Sorry, I’m bad at this part. You take 2 hit points of damage. So you mark those on your sheet.
+
+
+Zhubin: This guy’s bleeding out, and he hits--me--
+
+
+Stuart: Yeah.
+
+
+Zhubin: 2 hit points?
+
+
+Stuart: You’re doing very well.
+
+
+Zhubin: All right.
+
+
+Dan: You’re arguing with the very premise of the game right now.
+
+
+Zhubin: I guess that’s true. Stands to reason he needs medical attention really quickly.
+
+
+Stuart: The, uh, the--the thug, uh, cautiously, because he doesn’t wanna get acid in his face, uh, takes a swing at you with his mace, uh, Lucien.
+
+
+Dan: Sure.
+
+
+Stuart: But he misses. And finally, I got… disadvantage on this… Augustus Tapwell is like,
+
+
+Augustus: Dad, I’m doin’ this for you!
+
+
+Stuart: And he misses as well. Okay. So, back around. Now you’re, uh, now it’s up to you, uh, it’s up to Scales over here. You’re fighting on the other side of the cart.
+
+
+Elliott: I’m gonna swing back around to the fight side of the cart.
+
+
+Stuart: Okay, so you’er gonna try and disengage? Or are you gonna tr--are you gonna--
+
+
+Elliott: No, to--and then I wanna fight, uh, the son.
+
+
+Stuart: Okay.
+
+
+Elliott: ‘Cause he’s not--he’s on the other side of the cart, right?
+
+
+Stuart: He’s on your side now.
+
+
+Elliott: Okay. Oh, he’s on my side now.
+
+
+Stuart: Yep. He clambered over the ox and started swingin’.
+
+
+Elliott: Oh, then I’ll fight with him.
+
+
+Stuart: Okay.
+
+
+Elliott: Then I’m gonna--how close is he to me?
+
+
+Stuart: He is right up on you.
+
+
+Elliott: Okay.
+
+
+Stuart: We’ll say melee range.
+
+
+Elliott: Uh, I’m still gonna--I’m gonna use my, my shortbow, though, instead of my dagger, ‘cause it’ll do more damage if I can hit him.
+
+
+Stuart: But because he’s so close, you have disadvantage on the roll.
+
+
+Elliott: Oh, that’s right. Oh, then I’m--then I’ll use my dagger.
+
+
+Stuart: Okay, so make your dagger roll.
+
+
+Elliott: Uh, okay.
+
+
+Stuart: The 20-sided die, and you add whatever the attack bonus is for dagger.
+
+
+[dice rolling]
+
+
+Elliott: So that’s 19!
+
+
+Stuart: Man, that is a huge roll!
+
+
+Elliott: Plus a 4 attack bonus, so it’s 23.
+
+
+Stuart: Okay, so you totally bl--you totally bury that dagger in his stomach. Roll a, what is it, a d4?
+
+
+Elliott: A d4.
+
+
+Stuart: Roll a 4-sided die and add 2.
+
+
+Elliott: Uh, 3.
+
+
+Stuart: Okay.
+
+
+Elliott: So 1 plus 2 is 3. I gotta roll better.
+
+
+Zhubin: Man, you get a lot of 1’s.
+
+
+Elliott: Yeah. I’m very weak.
+
+
+Stuart: He is still fighti--he is fighting with you. He’s a little shocked that he got stabbed. He didn’t think that, uh, you were gonna do that to him.
+
+
+Elliott: Even though he’s been trying to kill me, okay.
+
+
+Stuart: Yep.
+
+
+Zhubin: Is there a concern that we’re--that we’re killing his son? Is that a...should we…
+
+
+Elliott: He attacked me first!
+
+
+Zhubin: I guess that’s true, that’s true, that’s true…
+
+
+Elliott: What--why am I concerned that a guy--
+
+
+Stuart: Don’t talk about the morality of adventuring.
+
+
+Zhubin: That’s fair, I’m wondering more for the sake of justice, like, if it’s gonna be a problem if we come back…
+
+
+Stuart: He has one son still, this guy does!
+
+
+Elliott: Well, and--
+
+
+Dan: Just because you’re a lawyer doesn’t mean that your fantasy creation has to be so concerned with--
+
+
+Zhubin: I just want to make sure.
+
+
+Elliott: Look, we’re in the apprehension of a dangerous fugitive who has killed bef--already. Or his family killed, somewhat--we’re in the apprehension of a dangerous fugitive, and his son starts attacking us!
+
+
+Zhubin: Hey, you don’t gotta tell me, I’m murdering the sheriff right now. I’m stabbing the sheriff to death.
+
+
+Stuart: Speaking of which, time for you to stab that sheriff again.
+
+
+Zhubin: All right, so once again, to deal the fatal death blow…
+
+
+Stuart: Yeah, you’re actually not far from killing this guy. Do you say any last thing to him before you try and deal the final blow?
+
+
+Elliott: Something about swords.
+
+
+Stuart: [????]
+
+
+Zhubin: The entire time, I’m shouting, “Silverview!” as I’m stabbing him, so I’m not gonna say anything different. 11 with 5, so 16?
+
+
+Stuart: 16, that totally hits him. Roll your damage.
+
+
+Zhubin: Yeeaah. This one?
+
+
+Stuart: Yep. Yep, the 8-sided die.
+
+
+Zhubin: 4, 9!
+
+
+Stuart: So that’s 9 more damage. Your rapier goes right through his throat. He falls to his knees, eyes shocked that his life, the life of Bartok Rocksplitter, a life filled with happiness and violence, has been cut short.
+
+
+Zhubin: Do I see that in his eyes?
+
+
+Stuart: You s--you s--
+
+
+Zhubin: Do I make a connection with him in the moment of his death?
+
+
+Elliott: It haunts you forever.
+
+
+Stuart: And he collapses face-down in--on the gravel shore. Okay.
+
+
+Zhubin: I go through his, uh, effects, trying to find a sick--I find a--
+
+
+Elliott: We’re in the middle of a fight!
+
+
+Stuart: Lucien.
+
+
+Elliott: [Crosstalk] I just realized I have not employed my character’s flaw this whole time.
+
+
+Stuart: [Crosstalk] You now have a magical shillelagh.
+
+
+Dan: Yeah. Now, it says that the...the duration is one minute, but then it also says the spell ends if you cast it again or if you let go of the weapon.
+
+
+Stuart: You’re not gonna let--you’re probably not gonna let go of the weapon, right?
+
+
+Dan: Okay. So it’s still in effect, right?
+
+
+Stuart: Yeah, for a minute. A combat round is, like, 6 seconds.
+
+
+Dan: Okay.
+
+
+Stuart: So we have 10 of these before we…
+
+
+Dan: All right, well, then I, um...first, I attack with the shillelagh again, I guess, with the...I guess.
+
+
+Stuart: Do you should shillelagh when you do it?
+
+
+Dan: Yeah. I do. Wait. Am I supposed to?
+
+
+Dan: “Shillelagh!”
+
+
+Zhubin: A magic character.
+
+
+Dan: [deep voice] Shillelagh.
+
+
+Stuart: I like it, okay. Now you roll the 20-sided die, and you add 4.
+
+
+Dan: Jesus Christ. Is this a loaded die? I’m getting the worst rolls of anybody.
+
+
+Stuart: Here, I’m gonna give you advantage on that. You can roll a second time.
+
+
+Elliott: That’s a pity advantage.
+
+
+Stuart: ‘Cause--
+
+
+[dice rolling]
+
+
+Stuart: That’s more like it! Your shouting of “shillelagh,” the heavens grant you a boon in the form of advantage. Uh, so you turn--
+
+
+Zhubin: He rolled a 1, and now rolled a 16.
+
+
+Stuart: He thinks you’re bobbing and weaving, and he bobs at the wrong time, so you are gonna roll the 8-sided die.
+
+
+Dan: Yeah. [dice rolling] That says 4.
+
+
+Stuart: Okay, and you add 2? So that’s gonna be...one...that’s actually enough. He turns to the side, face still blackened from poison, to have a shillelagh crack against the side of his jaw. Now you have an option, an option I didn’t give--I didn’t give Zhubin. Do you want to kill this, uh, thug? Or do you want to just knock him unconscious.
+
+
+Dan: Uh...sure, I feel like I’m a lawful person, so I--
+
+
+Stuart: You just knock him out?
+
+
+Dan: I just knock him out.
+
+
+Stuart: Maybe you can convince him to join your team later. He falls down into the dirt.
+
+
+Elliott: “He threw poison in my face…”
+
+
+Dan: “That poison really made me reconsider my life choices.”
+
+
+Stuart: Tapwell’s currently trying to--he’s shaking the reins and trying to urge the oxen up onto the shore so they can--so he can escape, and the cart is slowly moving away.
+
+
+Elliott: You guys should probably deal with that when it’s your turn to.
+
+
+Stuart: It’s--and then Tapwell’s son, Augustus Tapwell, potentially the last of his line, depending on what happens to his father--
+
+
+Elliott: Archie’s still around.
+
+
+Zhubin: Poor Archie, in his room right now.
+
+
+Stuart: After you guys left, the halflings killed Archie.
+
+
+Zhubin: Oh no!!
+
+
+Elliott: Noooo!! What happened to justice?
+
+
+Stuart: They were getting justice for their dead family.
+
+
+Elliott: Oh, poor Archie. We don’t know that they’ve done that. And listen, there’s a big--there’s a big newspaper stand outside the town with a headline that says, “Archie Tapwell Killed By Halflings. City Mourns.” He was the smart Tapwell.
+
+
+Stuart: Oh, man. This Tapwell was also the good fighting Tapwell, and his--
+
+
+Elliott: Uh-oh.
+
+
+Stuart: His club comes down in a wicked arc, striking you for 4 hit points of damage.
+
+
+Elliott: Oof, that’s a lot.
+
+
+Zhubin: What are you at?
+
+
+Elliott: I mean, I started with 8, so…
+
+
+Zhubin: Oh, okay.
+
+
+Stuart: Ohhkay, your head is a-ringin’.
+
+
+Elliott: Ayayayayayayayayaya...
+
+
+Stuart: Okay, guys. You guys have cleared the field. Uhh, what do we do? 
+What do we do, Scales?
+
+
+Elliott: Well, I’m still fighting the--
+
+
+Stuart: So what are you gonna do?
+
+
+Elliott: I just got hit in the head by, uh, what’s his name, not Archie…
+
+
+Stuart: No, this is Augustus.
+
+
+Elliott: Augustus.
+
+
+Stuart: Do you give him another taste of the old dagger?
+
+
+Elliott: I feel like I’ve gotta, yeah.
+
+
+Stuart: Now that you’ve got a taste for blood, you--
+
+
+Elliott: And [    ] are ringing in my ears, and that ringing is making it harder for me to think, and so I can’t use--I can’t cast Dissonant Whispers, which would be the other thing I would do, or Tasha’s Hideous Laughter.
+
+
+Dan: Or Careless Whispers, the most powerful spell.
+
+
+Elliott: A 3.
+
+
+Stuart: Oh, you totally whiff.
+
+
+Elliott: Oh, boy. ‘Cause I got hit in the head.
+
+
+Stuart: Things are looking grim. Now we have--
+
+
+Elliott: Is this the end of Scales Fangbattle?
+
+
+Stuart: Tanzer. Tanzer, you wanna go for--to try and stop Tapwell from running away, or do you wanna try and help your friend?
+
+
+Zhubin: Uh, I--well, it’s probably better for me to engage in a fight and for Lucien Buttwatcher to run after Tapwell, right? Since I’m pr--I’m a better fighter? So how about I go after--
+
+
+Dan: Sure.PA
+
+
+Zhubin: --the son, I’ll go after Augustus.
+
+
+Stuart: All right.
+
+
+Zhubin: So I...I wonder if I can just sassily hit him from my distance right now.
+
+
+Elliott: With the whip?
+
+
+Zhubin: Yeah, with the whip.
+
+
+Elliott: Go for it.
+
+
+Zhubin: Will I be able to reach him?
+
+
+Stuart: Yep.
+
+
+Zhubin: All right. So I’ll, uh, so I’ll go, uh--
+
+
+Stuart: You plant your rapier in the dirt.
+
+
+Zhubin: I take out my whip.
+
+
+Stuart: Unsheath your whip.
+
+
+Elliott: [humming Indiana Jones theme]
+
+
+Zhubin: I hum the Indiana Jones theme.
+
+
+Stuart: [imitating Indiana Jones?] That’s not a knife!
+
+
+Elliott: Get ready to be sassed!
+
+
+Zhubin: And I--
+
+
+Elliott: Silverview style.
+
+
+Stuart: What’s your total, what’s your total?
+
+
+Zhubin: Um, and then with 5, it’s, uh...so I got 13?
+
+
+Stuart: That’s enough! He’s not very well-armored. Okay, so, but you only roll a 4-sided die.
+
+
+Zhubin: Okay.
+
+
+Stuart: But you add 5. [dice rolling] Man, that is a ton. [pause] Your whip cracks aro--wraps around his neck. You have the option right now. Do you snap that neck and kill him, or do you knock him out?
+
+
+Zhubin: Oh, I kill him. Oh, I kill him.
+
+
+Elliott: Wow!
+
+
+Stuart: You were so concerned--
+
+
+Zhubin: Wait, wait, wait, should we kill him? He’s your son, Tapwell.
+
+
+Elliott: Only you can make this choice. You’ve just tasted first blood, perhaps for the first time. Maybe you’ve got a thirst for the--now you’ve realized how easy it is to kill a man, you wonder why you were taught not to.
+
+
+Zhubin: But I don’t understand why the sheriff’s life wasn’t worth anything if Augustus, uh, Tapwell’s life is worth any--if he was a nobleman, it’d be different, but it turns out they’re nothing but brigands.
+
+
+Elliott: But you’re angry... [???]
+
+
+Zhubin: I snap that man’s neck.
+
+
+Stuart: He goes,
+
+
+Augustus: Father!
+
+
+Stuart: And then you hear a, uh, you are standing right next to him when you hear a sickening crunch as his neck is snapped. And his body goes limp.
+
+
+Zhubin: His body.
+
+
+Stuart: For the last time.
+
+
+Zhubin: His body falls in front of you, leaving your view clear to see me, with the whip, standing there proudly.
+
+
+Elliott: Yeah, very heroic. I say,
+
+
+Scales: Thanks, buddy!
+
+
+Stuart: Lucien. What do you wanna do, man? Do you wanna try and clamber up, do you wanna try and physically stop the oxen?
+
+
+Dan: Uh, yeah, I…
+
+
+Elliott: That’d be pretty cool.
+
+
+Dan: I wanna try and--
+
+
+Stuart: Do you have any spells, you wanna shoot a lightning bolt at ‘em?
+
+
+Dan: You know what, I’ve got Animal Friendship? That means, like, that means I mean them no harm, I can convince animals that I mean them no harm.
+
+
+Stuart: Yeah, but it’ll also follow commands.
+
+
+Dan: All right, so I’m gonna try and cast Animal Friendship on the oxen.
+
+
+Stuart: You don’t even have to try, you cast it. The, uh, the, it’s a save? Or…
+
+
+Zhubin: Order the oxen to drown.
+
+
+Elliott: Give your life for justice.
+
+
+Stuart: The oxen do poorly. The oxen looks at you, doe-eyed, awaiting your commands. And Tapwell’s going,
+
+
+Tapwell: No, you stupid animal!
+
+
+Dan: And I yell,
+
+
+Lucien: Stop!
+
+
+Dan: And I say,
+
+
+Lucien: Tapwell. Enjoy making toilet cider. In jail.
+
+
+Stuart: So you guys quickly subdue Tapwell. He’s a total wimp. What do you guys do with him?
+
+
+Elliott: We tie him up, right?
+
+
+Zhubin: We tie him up.
+
+
+Stuart: You tie him up and toss him in the water?
+
+
+Elliott: No, no, we gotta take him to the baron.
+
+
+Zhubin: We tie him up--
+
+
+Elliott: We have some bodies to search and look for their stuff, right?
+
+
+Stuart: Okay. So you find, you’re gonna find a bunch of money, and luckily, the troops quickly rout the goblins who were not expecting to have organized troops to fall upon their rears. So they flee off to the--off, you know, to wherever. And in the end, you guys have won the day.
+
+
+[all cheer]
+
+
+All: Yaaaaaaaayyyy.
+
+
+Stuart: That’s what Dungeons & Dragons is!
+
+
+Elliott: Uh, so do we--is that it?
+
+
+Stuart: That’s the end of the adventure!
+
+
+Elliott: We did it!
+
+
+Dan: We bustle our way to the end of the adventure.
+
+
+Zhubin: So we self-bustled our way to--
+
+
+Elliott: Yeah! I mean, does the baron give us anything, or…?
+
+
+Stuart: Uh, yeah, the baron, uh, no, he doesn’t give you anything. You guys got plenty of money!
+
+
+Elliott: Okay.
+
+
+Zhubin: Do the--
+
+
+Stuart: I’m assuming you’re going to loot Tapwell’s stuff to get the rest of the money he owes you.
+
+
+Elliott: Oh, for sure.
+
+
+Dan: Yeah, and Jeremy sleeps with that lady, I assume.
+
+
+Zhubin: Yeah.
+
+
+Stuart: You settle down, get married. Yeah, it’s the last adventure you guys ever have.
+
+
+Elliott: Looks like that’s the end of the fearsome threesome. It’s just me and you now, Buttwatcher, now that Luci--
+
+
+Stuart: You don’t go back to the Redcheek farm and marry the halfling girl?
+
+
+Elliott: Oh yeah, perhaps--you know what? I feel like--
+
+
+Zhubin: You have to make an honest woman out of her after she gave you a handjob.
+
+
+Elliott: She just looks at me, and she says, “My hand is pregnant!” and I say, “Okay, all right, we’ll get married.”
+
+
+Dan: And I roam the world alone, being like, “Well, that was a waste of time.” My vision said that these people would help me find what I was looking for, but apparently not.
+
+
+Stuart: Settling down and having a family sometimes can be the greatest mystery of the universe.
+
+
+Elliott: Yeah, it seems like, Dan, your character has missed the most important knowledge.
+
+
+Stuart: What’s that?
+
+
+Dan: I mean, I--
+
+
+Stuart: What’s in the hole?
+
+
+Dan: Yeah, mostly, like, holes in the ground.
+
+
+Stuart: So… okay, guys, well, thanks for playing Dungeons & Dragons with me, and thanks for, you guys, for listening to it, and--
+
+
+Dan: Thanks for donating.
+
+
+Stuart: And definitely thanks for donating, and, uh, I guess--
+
+
+Elliott: Thanks to the Adventure Zone boys for, uh, lettin’ us take their stuff a little bit.
+
+
+Stuart: Yeah, giving us a sandbox to play in. And thanks for playing, Zhubin!
+
+
+Zhubin: Oh, thanks for having me.
+
+
+Elliott: And Stuart, thanks for running a great adventure.
+
+
+Zhubin: Thanks, Stuart!
+
+
+Elliott: And Stuart, thanks for taking us to Great Adventure after the recording.
+
+
+Stuart: Wait, what?
+
+
+Elliott: Yeah, you paid for our tickets, our rides, everything.
+
+
+Stuart: But my flash pass only works for one person.
+
+
+Elliott: We’ll just all dress like you.
+
+
+Stuart: Come back next time.
+
+
+Elliott: On…
+
+
+[theme music starts]
+
+
+Stuart: The Adventure Zone!
+
+
+Elliott: Featuring…
+
+
+Stuart: More adventure.
+
+
+Elliott: Starring…
+
+
+Stuart: Not us anymore.
+
+
+[end theme plays]
+
+
+Griffin: Hey, thanks for hanging out and listening to this whole switcheroo episode. Before I let you go, I just wanted to say one more time, thanks to Naturebox, where you can order hundreds of great-tasting snacks. You can go to naturebox.com/adventure to sign up for a box of great-tasting snacks. Next episode’s up on October 15th, and we will talk to you then. Bye, y’all!
+
+
+
+
+
+
+Maximum fun dot org
+Comedy and culture, artist owned
+Listener supported

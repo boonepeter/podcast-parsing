@@ -1,0 +1,1077 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Clint McElroy
+Nadiya Jones: Travis McElroy
+Chris “Remy” Rembrandt: Griffin McElroy
+Irene Baker: Justin McElroy
+
+
+Episode 70 Commitment - Setup
+(part of TAZscripts on Tumblr)
+[Theme music (The Adventure Zone: Commitment Theme by Griffin McElroy) plays]
+
+
+Travis: [singing] The boys are back in town!
+
+
+Justin: As if we’d ever left.
+
+
+Griffin: Hi everybody, welcome back to The Adventure Zone! We’re happy to be here, we hope you are too. We’re about to start our first sort of experimental game, as we are between seasons where we’re all going to be taking turns running stuff and playing different games and trying out new genres. And this time, the person who’s going to be in charge is… Dad McElroy!
+
+
+Clint: Yay!
+
+
+Justin: I wanted to talk briefly about how we came to this. Because in a lot of games— say tag.
+
+
+Travis: Uh huh.
+
+
+Justin: The person who is the best at tag gets to be the new tagger.
+
+
+Griffin: Yeah.
+
+
+Justin: And I’m curious as to what metric we dec— what is— [crosstalk]
+
+
+Travis: [crosstalk] Well, Justin—
+
+
+Justin: What was it in Dad’s mastery of—
+
+
+[Everybody laughs]
+
+
+Justin: —Dungeons & Dragons that led us to think “I’ll tell you what this man needs; he needs a new— he needs to move onto a new game because he’s mastered this one” and let him lead— sort of lead the thing.
+
+
+Travis: From my point of view, Justin, I think it was Dad’s turn because out of all of us, he was the only one who was ready to go. So… by default… 
+
+
+Justin: You can also make the argument that by knowing too many of the rules of Dungeons & Dragons, you may be too deep— it may be harder for you to fluidly—
+
+
+Griffin: [knowingly] Oh. That’s it!
+
+
+Clint: So by being really bad at Dungeons & Dragons, therefore—
+
+
+Travis: [crosstalk] Because he only lightly settles on the lily pad, he’s able to jump to the next one so much easier!
+
+
+Justin: Right.
+
+
+[Travis laughs]
+
+
+Griffin: Daddy has what I like to call an empty old brain. And that’s— that’s bad for most things, but for this specific instance it’s good because you can fill it up with more game rules!
+
+
+Travis: It’s a good brain.
+
+
+Griffin: Um—
+
+
+Justin: Within the first three weeks of us deciding to go this route, Dad was telling us “There’s a few of the rules I’m going to tweak” and I’m like “Oh really, Skrillex? You’re gonna fucking step in and remix this game system?” rather than—
+
+
+[Griffin, Travis and Clint laugh]
+
+
+Clint: I don’t know if it’s “tweak” as much as “not know.”
+
+
+Griffin: Sure
+.
+Justin: There we go.
+
+
+Griffin: Big thanks to— uh—
+
+
+Travis and Justin: Evil Hat? 
+
+
+Clint: Evil Hat. Yeah.
+
+
+Griffin: —Evil Hat. We had somebody run us through a trial game of this last week and it was very— it was actually— [crosstalk]
+
+
+Travis: [crosstalk] Thank you Morgan.
+
+
+Griffin: Yeah, thank you Morgan. It was very helpful in sort of helping us understand how the game is supposed to operate. It was very informative, and I think our first proper episode is going to benefit from that. But that’s not this. This is sort of just our episode where we’re going to talk about the game and the world and what Dad has prepped. And we’re going to talk about our characters, so that when we do actually start playing we can just kinda step right into it. Um—
+
+
+Travis: Well, first— just to start off, I don’t think we’ve said— we’re playing the Fate Core system.
+
+
+Griffin: Yeah, I was hoping Dad could like start out with just sort of like a surface-level discussion of um— what it is we’re going to be playing, and why it is that he chose this system, and like what his sort of ambitions are for this little mini-arc? Again, this is— these are all going to be pretty short experimental things, probably two or three episodes, so… Dad, what’s up?
+
+
+Clint: Well, I uh— I got a lot of feedback from a lot of folks on social media and actual letters, believe it or not, um, and—
+
+
+Travis: I don’t. But go on.
+
+
+Clint: —a lot of folks said that if you’re looking to do a superhero game, that this would really lend itself to that. But the most compelling thing to me was in the stuff I was reading and the stuff I was looking at, it looked like the Fate system is— relies much more heavily on collaboration and really emphasizes the dramatic angle. Almost a theatrical presentation of the action. Um— when it comes to creating characters, you do it together. Uh, there’s a lot of back-and-forth and a lot of fluidity, a lot of flexibility involved in it. And it just seemed that a lot of the things that we have done up to this point really leans towards the storytelling, the dramatic, and uh— it just really appealed to me for that reason.
+
+
+Travis: Also, I would say— to that point— one of the things as we’ve been playing around with it and testing it out, one of the things I think— uh, you mentioned flexibility, there’s a certain elasticity to the rules of Fate that’s like— you know how sometimes you have that house rule of like “If it’s a cool thing, you’re allowed to do it”?
+
+
+Griffin: Yeah, exactly.
+
+
+Travis: That’s basically one of the core ideas of the Fate system. Um, there are these things called Aspects, that basically— they are character traits or traits of the situation or an item. So for example, you might have a character who is— Will of Iron. Right? They have a will of iron, and so maybe they’re trying to cast a spell and there’s something that would be distracting them from that spell. You can invoke the aspect Will of Iron to add like a +2 to your roll.
+
+
+Griffin: Yeah, and what’s— where that system— it’s really important if you’ve never played Fate and we are not going to overburden you with like a— a— a— you know, comprehensive explanation, but it’s important for you to understand Aspects because there’s other cool stuff that can happen where anything can have an aspect that will either benefit you or harm you in the future. 
+So that if there’s a big uh— you know, a big piece of electrical machinery in the room, one of the players can use their actions to try to uh— you know, create an advantage for everyone else, maybe by uh— you know, disabling that piece of machinery or by like punching it a whole lot. And then maybe it has the Aspect like— Unstable. And then, when it’s your turn, you can invoke that Aspect to gain a bonus or create some sort of opportunity or create some sort of action. Anything, not just your characters, can have Aspects. Aspects also come in the form of like injuries to your character. There are things called consequences, where if you take too much damage you have a consequence, and that’s an aspect that Dad can use against us. Like ”Oh, well, because you have, you know, a broken rib— that’s one of your consequence aspects— I’m going to invoke that to, you know, do something bad to you.” Uh, it’s a really, really, really cool flexible system.
+
+
+Clint: And also a lot of the— a lot of the action comes from skills. There are a number of fairly basic skills that you apply, so when you do have a confrontation, if you are more skilled at Athletics or more skilled at uh— you know, more skilled in Physique, it influences the roll. The rolls are really kinda cool in Fate. It’s fairly simple: you have these die and you roll ‘em. They either have a plus, a minus or a blank side on the die, and when you roll the die— if the minuses cancel out the plusses, you accumulate those numbers and that’s your base for any kind of confrontation or something you have to overcome. Your skill points are added to that if it’s applicable. And then you also have stunts, which in our case will be superpowers since we’re going to do a super— aah, a super-being, a superperson, uh, storyline.
+
+
+Travis: Enhanced individual!
+
+
+Griffin: Yeah.
+
+
+Clint: Enhanced individual.
+
+
+Griffin: Yeah, so that’s very D&D-like. Right? Like that is the main point of familiarity. We are still rolling dice to try to beat either sort of static numbers that Dad has in mind for different situations or traps, or if we are combatting somebody, then Dad will roll and we will have sort of a skill contest. And we want to roll high and we want to add our skills to it, and then if that number doesn’t get us there, then maybe we invoke an aspect like we mentioned earlier to try and get us there. 
+Um, there’s also a really cool system— so usually if you want to do that, right— usually if you want to add an Aspect to your roll, you have to spend what’s called a Fate Point, which we all have limited numbers of. Uh, and if you run out of those you’re going to be in trouble, right? Because those give you more flexibility in certain situations. But you can get them back with something that are called compels. And that basically means like “I am going to use an Aspect against you— or against myself— to create a bad scenario for myself, but in doing that I will get a Fate Point back.” And that’s really the only way to get Fate Points. 
+And what’s neat about that is that we can suggest them for each other, Dad can suggest them for us, we can suggest them for ourselves, like “Oh, well I have the Clumsy aspect, so what if as a compel like I… trip and fall off the roof?” “Ok well, you did that, and because you agreed to do this bad thing, now you have a fate point that you can use later on to— you know— benefit yourself later.”
+
+
+Travis: So that’s the thing, is— what I really love about this system is the Aspects and the— uh, like— there’s like troubles that you have, and the consequences— all of this stuff is both a mechanic and a character-building exercise.
+
+
+Griffin: Sure.
+
+
+Travis: ‘Cause like— if you think about in The Adventure Zone: Balance, there were things about our characters that we established, right? That it’s like, you know— “Magnus rushes in.” But if we’d been playing in the Fate system, the rushing in would have been an Aspect that, like, I could invoke in battle—
+
+
+Griffin: Sure. Rustic Hospitality would be an Aspect, and then if you’re talking to somebody instead of just saying like “Well, I’m rustically hospitable so I think that they’re nicer to me,” you invoke that. You use that Aspect, and maybe if you’re doing a rapport roll, is what they call like one of the main social skills. Uh, and it doesn’t entirely go your way. You say “Well, I am rustically hospitable. So I’m going to invoke that, have some sort of narrative explanation why it is applicable here and then I will get the bonus from it.” 
+So if you take away one thing from this, we are going to be throwing Aspects around a lot. And they are statements about our characters or about uh, the scenario itself that we are going to be trying to use to our advantage, or invoking as a disadvantage when it is like narratively interesting, and we’ll get benefits from that also. That’s it.
+
+
+Justin: We don’t want to overburden you with rules, and I know that probably— if you’re anything like most humans— hearing a bunch of rules told to you is not very effective. We just want to kind of like lay a groundwork. Because I think as we start playing— it’s not a— it’s a very intuitive system, I would say? And I think as we start playing, the important parts of this system are going to become obvious. There are of course, if you’re interested, plenty of great— like, super quick tutorials on YouTube or elsewhere if you just want to like get the basics to get a little bit more out of it. But, as much as we told people who didn’t have any familiarity with D&D, I think you’re going to be able to enjoy this without understanding the system particularly well.
+
+
+Clint: And you the listener will get the enjoyment as you did from— from Balance— of listening to a bunch of people who don’t know how to play the game trying to play the game. So that’s cool.
+
+
+Griffin: [crosstalk] And that’s—
+
+
+Justin: And hey, [crosstalk] if you are an expert in it, um, all of our sort of social media handles and addresses are public—
+
+
+Griffin: [sarcastically] Oh, great.
+
+
+Justin: —so if you are an expert in it and we screw something up, keep it to yourself. And pipe down.
+
+
+[Clint laughs]
+
+
+Griffin: Um, we should— joking aside, because I think this is really important for people to understand, um, because this is going to be across the board for all of these experiments. It’s going to be like— it’s going to be a little messy. Like there’s— we are not going to have a— a— a complete understanding, and I’m saying that kind of facetiously, of how this game works, and how to best play it, and how to make the best stuff with it, just because by virtue of the fact that we’re new to this and we’re only going to be playing this for a few episodes before we move on to another thing. Same goes for like the world itself and the characters themselves.
+We are working really hard to make a cool cast of characters that are going to feel very rich, but we’re not going to have that like deep lore that comes from 80 hours of us playing together and fleshing this stuff out together. So like— I would only ask, and I’m not saying like, “Don’t criticize— this makes us immune to criticism,” but treat this— the way we’re treating this is as— as an experiment, and it is, as— by virtue of that, it is not going to be this like hugely fleshed out thing that Balance was by the end of it. And that’s just not— that’s impossible, that’s just not going to happen. So um, I would ask you all to just sort of focus on what works and what doesn’t work, and then we will incorporate that into whatever it is we do next.
+
+
+Travis: So, Dad, tell us about the world you have created in The Adventure Zone, colon, Commitment.
+
+
+Clint: Uh, the colon is very important.
+
+
+Travis: Yes, tell us about colon commitment.
+
+
+Justin: It’s, as far as I can tell—
+
+
+Clint: [crosstalk] Good colon health is vital.
+
+
+Griffin: It absorbs all the fluid from your dookie is, I think, and that’s where it turns, like, you know, brown and stinky.
+
+
+Travis: Whoa, whoa, slow down, Bill Nye the Science Guy!
+
+
+Justin: That’s like third arc shit you’re getting into right there. You gotta pace yourself.
+
+
+Clint: Yeah, hold off on that. Okay, the basic concept is— I would call it a comic book premise in the sense that it’s… contemporary, sorta like Marvel comics or DC comics are contemporary, ‘kay? Maybe a slight variation on reality but close enough that the decisions you guys make and the choices you make are kind of rooted in what’s— you know, what’s going on in the real world.
+
+
+Griffin: Is it— is it— are we calling it 2017? Like, is it— is it like mo— current— current day, or—?
+
+
+Clint: I would say, yeah, I would say.
+
+
+Travis: Is it that kind of bullshit thing where it’s like “present day” and then 40 years from now and it still says “present day” and people are like, “That’s not present day,” or is it 2017?
+
+
+Clint: Nah, no, it’s present day.
+
+
+Travis: Oh, no! Okay.
+
+
+Clint: So here’s the basic premise. You guys are brand new recruits to an organization called the Do-Good Fellowship. And its name is pretty obvious. This is an organization that is dedicated to doing good stuff all across the globe. If there’s somebody in trouble, if there’s something that’s— that’s wrong, uh, they aren’t a police force or anything like that, they are there to— to help people in case of a major disaster or— or a— things along that line, and they are basically—
+
+
+Griffin: Sort of like a humanitarian— a humanitarian organization?
+
+
+Clint: Yeah, like a humanitarian organization, yeah. Without any real specific ties to government or business. It’s actually based on a concept that Ben Franklin created—
+
+
+Travis: [crosstalk] Wait who?
+
+
+Clint: And that was called a Junto. Ben Franklin, the first president of the United States—
+
+
+Griffin: [crosstalk] The first president — ah damn it, he beat me to it!
+
+
+Justin: [laughing]
+
+
+Clint: The— the Junto was 24 people who got together on a regular basis and met, and they were just— they weren’t special, they weren’t the richest, they weren’t the most powerful, it was just 12 people— I’m sorry, 12 people, that got together, and started off every meeting by answering 24 questions. And I’m going to send you guys the 24 questions before we actually get started. But they were all about things like, “Did you see injustice today?” “Did you get treated poorly today?” and these 24 questions, they were basically to have ideas to try to do what’s best for society, and that’s what the Do-Good Fellowship is kind of a spin-off from.
+
+
+Griffin: So this is not— so this is not necessarily a military Junto, which is like—
+
+
+Clint: [crosstalk] No.
+
+
+Griffin: —a completely different thing and— okay, I wanted to make that clear.
+
+
+Clint: No, Franklin called it a Junto.
+
+
+Griffin: Junto.
+
+
+Clint: Yeah, which is a word he actually made up because the proper form is Junta, and this is not a Junta.
+
+
+Justin: Hey listen, he had a grand slam with “news” and he got a little cocky—
+
+
+Clint: He thought that was pretty cool—
+
+
+Justin: And he thought he could just start coming up with whatever words he wanted.
+
+
+Travis: Now Dad, in this world, is the Do-Good Foundation right? The Do-Good-
+
+
+Clint: Fellowship.
+
+
+Travis: —Fellowship. Is it actually based on— like, in canon based off of Benjamin Franklin’s concept or is that just you have been inspired by that?
+
+
+Clint: No, I think it’s probably— no, I think it was inspired by Ben Franklin’s Junto.
+
+
+Travis: So there’s probably a portrait or two of Ben Franklin in the Do-Good Fellowship.
+
+
+Clint: Oh yeah. Yeah, and in addition to that also hanging in the Do-Good Fellowship there’s a symbol— and I sent it to all you guys and I’ll put it on Twitter as well— that’s kind of a cool stylized 24 incorporating a question mark and that represents the 24 questions that they would have at every meeting.
+
+
+Griffin: I was wondering about that! You can see that in our new album art, which is very, very cool, and features sort of dramatic artistic takes on some of the ideas we’ve had for these experiment games. This’ll be sort of our temporary art while we do these experimental games and it’s— I love how it turned out.
+
+
+Justin: Yeah, that’s, uh— Evan Palmer created our new album art that we’re using for the foreseeable future. Something that would be a little more flexible. We love our old art by Justin Gray, but it was very specific to that campaign and I think this is a new— new page. So, new art.
+
+
+Clint: Ok, so the Do-Good Fellowship has always kept the numbers very small, very manageable. You’ve always had 12— I guess you could call them department heads, and that has kept it- it easy to manage. And so they still maintain the 12 departments. Uh, so there are 12 departments represented in the Do-Good Fellowship, and each one has a department head. You have Security, and that’s just sort of like the internal— it’s just that, it’s the security operation. 
+You have Engineering, responsible for any kind of equipment. You have Transportation, which gets people to and from the base, to the action spots and the places they need to go. You have Facilities, which is just that, keeping the facilities up, feeding everybody, the day-to-day needs and requirements. You have R&D, research and development, which is very important as we’ll find out. There’s also Information Tech, which is the media and information gathering, also cyber security, they are very, very savvy to all of that.
+
+
+Justin: It’ll be interesting to hear Dad roleplay those characters.
+
+
+Travis: They totally know how stuff plugs in, and what switches—
+
+
+Griffin: These superheroes— these superheroes set up their own printer.
+
+
+Clint: I need you to help me with Skype, Justin. Um— Risk Understanding, which is the the wing that makes decisions about where to actually send people to deal with things. You also have Diplomatics because the Fellowship works with all countries and people from all over. Legal, which works with all the legal issues. Finance, which handles the business and the acquisitions and getting funds. Also Humanity, which is kinda their fancy word for human resources, for, you know, making sure people are taken care of. And then one of my favorites is Diversity/Inclusion, and this is a wing that is dedicated to making sure that everybody is represented in the decision-making process, to make sure that— you know, maybe you don’t go to the biggest emergency or the biggest conflagration, but you go to the most important and—
+
+
+Griffin: To make sure that everybody has a voice. I gotcha.
+
+
+Clint: Right. Okay, so you have these— each one of these departments has a department head. The Fellowship has just had a major technical breakthrough, and they are using that for the next big expansion of the Fellowship. And that is to— to recruit one person for each department and, using this breakthrough technology, give them super abilities, to go out and deal with these situations that are going on all across the planet. And you three are three of the people who have been recruited to be part of this effort. Now, just— I don’t want— I’m not telling you what your characters need to be or anything along those lines, but this is not just a job, this is kind of a… this is kind of a calling.
+
+
+Griffin: Sure.
+
+
+Clint: Everyone is on board, really wanting to be part of this organization. So you three are three of the 12 new recruits that are coming in. Let me do one last thing, let me set the actual scene for you. It takes place on— 
+
+
+Travis: Smash cut!
+
+
+Clint: It takes place on—
+
+
+Justin: Wait, I do want to touch on something. Can I make a formal request that we encounter the super accountant just as early as humanly possible.
+
+
+Clint: Oh, yeah—
+
+
+Justin: [crosstalk] And the super lawyer—
+
+
+Griffin: [crosstalk] I am so curious about the super— the super lawyer is going to be one—
+
+
+Travis: Super Facilities Manager!
+
+
+Clint: The super— the super Humanities person is the one I’m excited about. It takes place on a gigantic floating base in the middle of the—
+
+
+Travis: Wait, slow down.
+
+
+Griffin: Well okay, hold on— you’ve kinda chomped my flavor a little bit. I called— you know I said, I get the only floating giant base, and you did it anyway and now I’m all P.O.ed.
+
+
+Clint: Well, I guess you have to redo your thing. That’s why—
+
+
+Griffin: We can’t, we already fucking did our thing!
+
+
+Travis: Oh yeah, we’ll just go back and redo all of Adventure Zone: Balance, Dad!
+
+
+Clint: I have to have a base!
+
+
+Griffin: No, it’s fine. And it’s gotta be floating—
+
+
+Clint: It’s floating— it’s floating in the middle of the Gulf of Mexico.
+
+
+Travis: Oh, it’s floating on water!
+
+
+Clint: Yeah, and like 90 percent of it is below the surface of the water, 10 percent is— like an iceberg. It’s called the Roger, the Jolly Roger.
+
+
+Travis: Okay, to be fair, isn’t that more like a submerged base, then? I mean if 90 percent of it is below the water, it’s not really a floating base.
+
+
+Justin: I mean, it’s not touching the ground. So it’s floating in water.
+
+
+Travis: That’s fair. Mm, good point, Justin. [crosstalk] We’re gonna have to take a break and discuss this.
+
+
+Justin: [crosstalk] Thank you Travis.
+
+
+Clint: Imagine a diamond and then three offshoots from each point of the diamond. Okay? So almost like a, I dunno, like a snowflake or something. It’s a huge facility, each wing— each one of those 12 wings is where one of those departments is. And they call it the Jolly Roger just because it’s research and operations— the Do-Good Rectory is what it stands for, so they call it affectionately “The Jolly Roger.”
+
+
+Justin: And some people call it the Iceberg or the Berg.
+
+
+Clint: Or the Snowflake.
+
+
+Justin: Or the Peter Berg, who directed Battleship. So the Berg is kind of what we all just agreed to call it.
+
+
+Griffin: Unfortunately it’s only going to be called the Berg. Sorry.
+
+
+Travis: Yeah, the Berg!
+
+
+Clint: In the Berg! Okay, that works. So that kinda sets the scene for ya’. Um… 
+
+
+Griffin: I have a— I have a question just off the top of my head. So it sounds like superpowers are a discovery by this organization. Are we to assume that there— this is not going to be a sort of comic book story where we are going to be going toe-to-toe with countless supervillains out in the world who have powers and are using them to accomplish bad things?
+
+
+Clint: I think it is safe to say that, yes.
+
+
+Griffin: Okay!
+
+
+Clint: I tell ya’, this is— you know, one of my influences is a 50-year-old comic book series, um, the T.H.U.N.D.E.R Agents from Tower Comics. And of course this was in the height of spy movies and James Bond and The Man From U.N.C.L.E and Honey West and all of these things, and what they did was they introduced superpowers into an organization — Thunder, T.H.U.N.D.E.R — and they went out and dealt with these kind of issues. So that was kind of a template for me? ‘Cause it was one of my favourite comics. You had Wally Wood art and you had Steve Ditko and Gil Kane and all these great comic artists.
+
+
+Griffin: I think it’s interesting— I think it’s great. The idea of us not following the traditional arc of like “Uh oh! The Vulture’s here! Let’s get The Vulture!” and instead like focusing on like actual issues. I think that’s really fascinating.
+
+
+Justin: Do the people— so do the people who are currently in the organization have superpowers?
+
+
+Clint: No.
+
+
+Justin: Are they worried about us sort of just taking over it? ‘Cause it seems like that would be a concern if you had 12 people all of a sudden with superpowers, that they would want to be in charge.
+
+
+Clint: That’s why—
+
+
+Travis: It would be hard to have like my boss really chew me out and it’s like “Laser eyes!”
+
+
+Griffin: [crosstalk] Yeah, “Eat shit!” Yeah, “Pew!”
+
+
+[Travis laughs]
+
+
+Clint: Well, there are certain controls in the— in giving you the powers. There are certain things that will— that’s a good point, but hopefully one of the things that’ll happen— while that is a real concern, one of the things that’ll happen is everybody’s on board for the cause.
+
+
+Griffin: Okay.
+
+
+Justin: Are we to assume that this technology is fairly new? That maybe like the outcomes of this process of giving people superpowers may not be like 100 percent well controlled?
+
+
+Clint: Exactly. Yeah. And you aren’t exactly the first guinea pigs, but this’ll be the first major implementation of the technology. In addition to the— there’s been a lot of biological screening to make sure that you’re, you know, your bodies are capable or have the capacity to handle this augmentation. So it’s not just something you can grant upon anybody. There’s certain genetic necessities that keep it from being just anybody can just get— boom!— have superpowers.
+
+
+Travis: Well, cool. Should we talk about the characters we have planned?
+
+
+Griffin: I think that’s probably a good next step. Sure! Who wants to— who wants to kick things off? We may also— like, this might be a good time for us to come up with our interpersonal aspects, which I think is an important thing that we just— we have not talked about at all.
+
+
+Travis: Correct.
+
+
+Griffin: So maybe we talk about our characters first, and then we figure out where the dots connect there.
+
+
+Clint: Yeah. As a matter of fact I think it’s important to the story that you guys establish who you are as people, who you were, before you were augmented, um, you know, and like we hinted at earlier, Aspects are not just positives, they are negatives too. That’s what makes interesting storytelling is, you know, the things you have to overcome.
+
+
+Griffin: Sure. Uh—
+
+
+Justin: So are we talking about— in the context of this , are we talking about just our pre- right now, do we want to talk about our pre-superpower [crosstalk] characters?
+
+
+Griffin: [crosstalk] I mean, we should also— I mean, this was such an important aspect in making them, we should also talk about the power suite that we have in mind for them?
+
+
+Clint: Oh yeah, I think so.
+
+
+Justin: Okay.
+
+
+Clint: Like for instance if you—
+
+
+Griffin: Even when you start the first proper episode, we will not have those powers yet.
+
+
+Clint: But, the Aspects don’t necessarily have to reflect the powers. You know what I mean?
+
+
+Justin: Yeah.
+
+
+Clint: The Aspects should reflect who you are as a person, and then we can add an Aspect afterwards if it’s something that comes about from the granting of the powers.
+
+
+Griffin: Okay.
+
+
+Clint: Does that make sense?
+
+
+Griffin: Sure, yeah, for sure. Uh, who wants to start?
+
+
+Travis: I feel like I start every time. Every time we’ve done character creation—
+
+
+Griffin: Why don’t I start, since I’ve never played a character before? This is my first character.
+
+
+Travis: Oooooh!
+
+
+Justin: Here we go!
+
+
+Clint: Yeah!
+
+
+Griffin: Um, so I was trying to think of like what appealed to me in comics? I don’t read a lot of comics, and so I was trying to figure out like what I liked? Uh, there was a Spider-Man fan comic called Your Friendly Neighborhood Cowboy Bebop made by an artist named Hannah Blumenreich that I really enjoyed. Spider-Man is probably my favorite superhero, and I liked the idea of just making a sort of acrobatic physical hero. And that comic is about sort of a Spider-Man who is obsessed with Cowboy Bebop, which I have also been watching a lot of. So I think those two are my biggest inspirations. 
+Um, and I also have been watching a lot of Ninja Warrior lately, so that was a big inspiration for me. So like my character— the first idea I had was sort of a Cowboy Bebop-esque figure who, you know, was sort of this acrobatic, flexible, “use their own power against them” kind of fighter like Cowboy Bebop — Spike Spiegel is the name of the character — by way of like the wrestler Xavier Woods — was sort of my original inspiration? I’ve made this very inaccessible to my family on this recording and I apologize.
+
+
+[Clint laughs]
+
+
+Travis: Yup.
+
+
+Griffin: Um, but there are people listening who I think understand where I’m coming from. So my character is named Chris Rembrandt, but everyone calls him Remy, is his name. And he was a high school gymnast and he was really good at gymnastics, um, he was— he made it on the 2008 Summer Olympic team, but he missed the games because shortly before he was supposed to leave his parents disappeared and while he was sort of figuring that out, he missed the games, which he is still pretty hung up about. Um, and in the wake of that, he had a, you know, a hard time and he has a brother, a, uh— older brother and he sort of came together with him over Ninja Warrior because his brother also sort of a gymnast-type also, although never as accomplished as Remy was. 
+And because of that they had a connection formed over them opening up a Ninja Warrior training gym in “enter city here.” I didn’t know what like- I didn’t know if this would be taking in a city so I kind of envisioned it taking place in that city. Um, but I don’t know where it is so maybe we’ll just have to figure that out as we go. 
+So um, his brother invested like all of his money in this gym and the idea is like that Remy would go on the television show Ninja Warrior and crush it and bring in clients for the gym, and what happened was the very first obstacle in the qualifiers — Remy, who’s probably had like a whole package dedicated to him, like, “The Olympic Ninja is here and he’s about to plant his flag in the ground” — very first obstacle he is overconfident and he goes out. And it sort of a hugely embarrassing and probably, for those watching, like, hilarious thing that happened. He kind of embarrassed himself on television and—
+
+
+Clint: Was is those paddle things?
+
+
+Griffin: It was the paddle things, and it’s like, “Come on it’s paddle things everybody can clear the fucking paddle things, Remy.” And because of that, like he didn’t get clients for the gym and so the gym is kind of failing, and so— at that point I think he just gave up on gymnastics and is so disill— because nothing has gone right in that particular part of his life— and started to, you know, find odd jobs to raise money to keep his brother’s gym afloat, and one of those jobs was in IT for this organization because, in addition to like his other traits, I think he’s also kind of a big nerd? And he knows a lot about computers and other geek stuff, and so Remy found a place in this organization and is one of these candidates probably because of his other skill set that he doesn’t really talk about a whole lot. 
+And sooo that is my character Remy. His superpower suite is called Super Agility, which basically gives him a lot of different bonuses whenever he’s doing anything with athletics. He also has what’s called Natural Weapon which just sort of represents how his super abilities allow him to fight really well. I like the idea of a superhero, with just like really powerful jumps and kicks. And his legs are very good.
+
+
+Travis: He kicks super good!
+
+
+Griffin: And um, in line with that, he can do these acrobatic feats, basically without having to roll, like they require very little effort. Uh, “leaping up to a second story window or from rooftop to rooftop across a wide alleyway is a simple task that doesn’t require an athletics roll.” And then he has some other stuff, one ability called Cat’s Landing where he can’t be hurt by falling, which you know I’m going to use that do some dumb shit. Umm, and he has some Spider-Man-like dodging abilities, which are going to be very useful. 
+There’s a really cool system— he’s also like a personal trainer, right? So I gave him some sort of flavor there, where he has skills in conversing with people, I think this is a character who like wants everybody to be their best? And wants to help everybody else get there? Because that’s what personal trainers do, and so I think that’s an aspect. He has a stunt called Psychologist which sort of treats mental stress, so I think after a fight didn’t go well, “Ah that’s okay, that’s okay, I’m going to help you out.” And he’s also Popular, is another skill I have, so if he’s in a place where people knows who he is then it’s going to help him out.
+And so his high concept is Ninja Warrior-themed personal trainer and his trouble is “family comes first,” which I think could be interesting. He’s kind of beholden to his brother, he feels this guilt. He’s very very close with his brother and he feels guilty that he is kind of responsible for his life not going very well right now. His brother also has a young son who he is very very close to, and he will do anything for them first and foremost, no matter what. And then, we were supposed to come up with another Aspect, and so one that I thought would be really interesting is “humiliated myself on national television”! There’s probably going to be situations where people are going to be like. “Oh shit you’re the Olympic Ninja, better watch out for those paddles man!” [Clint laughs] And so that is my- that is my concept for Remy, sort of an acrobatic, um, kind of Spider-Man-inspired figure. The superhero name I came up with is Spring Heel, which represents how he can jump super good and he’s very athletic and acrobatic and stuff.
+
+
+Clint: On your skill tree, what I was thinking about for skills, is that you basically have one Great, two Good, three Fair, and four Average. What I thought we’d do is apply those skills and then add a fifth one in Superb at the top after the superpowers. Would that be alright?
+
+
+Griffin: Uh, yeah we can do- or we can bump the four up to a five? Because right now my highest skill is Athletics, which represents how before I got these superpowers, I was still an Olympic-level like athlete, so like I already have that one filled in [Clint: Okay] with the one I think should be highest for this character. And just to talk about my skills, like I said, it’s mostly, sort of Athletics and you know physical fighting, which was like hand-to-hand, or in my case, foot-to-head. 
+But I also have some stuff in there for like, talking to people and helping people out with their stuff. I have Crafts in there, which is sort of the tinkering around with electronics which in my way of thinking is his like computer expertise. Um, so yeah, so that’s Remy, or Spring Heel, which is what he will go by as his superhero name, and that is him. And again, I think that one thing we should all do is leave some gaps, like I don’t know where this gym is, I don’t have a name for the family quite yet, but I think we can maybe fill that stuff out as we go. Or maybe we won’t get around to it. Either way, I think it’s more interesting to sort of leave that stuff blank until we get to it.
+
+
+Clint: And he will be in Information Tech, right?
+
+
+Griffin: Uh yes, he is in the IT department.
+
+
+Clint: Okay.
+
+
+Travis:  Can I talk- can I talk about mine? Because I think I have already been inspired by an interpersonal from Remy. Um, so when I started thinking about my character, I was inspired— two different kind of inspiration directions. One, I kind of wanted to play a character who was as different from Magnus as I could think, and so I set about making a character who was very intellectual and analytical and also on a personal level, much more reserved as far as interpersonal relationships goes, and much more withdrawn.
+And then as far as kind of the abilities go, my two biggest inspirations were Green Lantern, who is my favourite superhero, and Mr. Fantastic, and the thing I really liked about Mr. Fantastic was this idea of if you really look at Mr. Fantastic, it is not his, you know, elasticity that is his strongest ability, it’s his- it’s his brain. It’s the fact that he is one of the smartest people in the Marvel Universe and the elasticity is kind of a secondary thing. So my character, her name is Nadiya Jones, and her background is what I’m about to read to you on this piece of paper.
+Nadiya Jones, 25, her mother is second-generation British-Bangladeshi, her father is American, he never cared much about his ancestry past that, but often answered simply “Irish, German, I don’t know, what does it matter?” Her parents divorced when she was three years old, and her mother returned to Britain, she has only seen her mother a few times since—
+
+
+Griffin: Are you going to do a British accent?
+
+
+Travis: No, she was raised in America.
+
+
+Griffin: Okay.
+
+
+Travis: Um—
+
+
+Griffin: I’m down for it either way, I just wanted to prepare myself—
+
+
+Travis: No it would be so inconsistent and so terrible, I could never. She’s only seen her mother a few times since. Her father was granted sole custody and while he cared for her in his way, he was not a nurturing man. A scientist himself, he held several lucrative patents that allowed Nadiya a string of private tutors rather than attending school. Her father worked as a highly paid consultant for the military, and so they bounced from one base to another with no permanent residence. So all those things kind of added together and interpersonal relationships hold very little interest to Nadiya, as she has never had much use for them. She can relate to other people just fine, she just doesn’t see the purpose.
+She followed in her father’s footsteps, and many would argue, has surpassed his most impressive achievements. She earned her doctorate in biochemistry at an impressively young age, which I left blank because I don’t know what an impressively young age to earn your doctorate in biochemistry is [Griffin laughs], but it was, believe me! She also holds advanced degrees in biotechnology and biomedical sciences.
+So my vision of her is a very big-picture kind of scientist, and what’s interesting is that the work that she does is to benefit humanity but she doesn’t see much value in humanity on an individual basis. Like she doesn’t have friends, she doesn’t date. She just, like, doesn’t see the purpose of it, like her work is her life and science is her life. But the project that she was working on before engaging in this kind of individual enhancement project was she had developed a — what she called a smart biopolymer and basically, it can be used in skin grafts and mimics human skin, heals and adapts like human skin and has the sensitivity of human skin but can be made in a lab and doesn’t need skin donors. So that was the project she was working on before, keep that in mind.
+Also she holds many lucrative patents herself, she is not doing this for the money, she is very rich so I actually, I gave her the skill Resources as a—
+
+
+Griffin: That’s a great one.
+
+
+Travis: It’s a +2 skill.
+
+
+Griffin: Yeah, there’s no— there’s no money in the game, there’s just a skill called Resources that you roll when you need to know if you have the thing and it’s like, “Oh yeah, I’m fuckin rich, I have the Resources skill.”
+
+
+Travis: Yeah, it’s kind of the, you know, the Tony Stark/Bruce Wayne kind of skill. Um, so she has resources. I think that takes the form both of like, money, and also her lab? You know like, the resources to investigate something. But her— her, so her high concept is hyper-focused scientist and her trouble is “values logic over humanity.” Think like Spock, kind of deal, you know what I mean? It’s like that kind of like highly analytical, isn’t going to rush to save a single person when she could take an action that would benefit a much larger group. Um, she, she is a good person, mind you, she’s not like an asshole or anything, but she just doesn’t, she’s not, she doesn’t rush in, is the thing.
+
+
+Griffin: You mention that, I want to pause real quick just to say, I don’t think any of us are going to adhere to the sort of static archetypes that defined our characters, or your characters, in TAZ: Balance. Like I don’t think of Remy as the Magnus this time around. He is also brilliant, like, he is not this sort of foolhardy jock who always rushes in. 
+Like, I wanna be careful here, because I wanna be sure that everyone understands, like, it’s not like this time, oh, this time Griffin is playing the unintelligent tank, and this time Travis is playing the, you know, cerebral Taako — not that that’s how I’d describe Taako, necessarily, I don’t think there’s a correlation there — I just wanna be clear that like, we are not going to be filling those sort of traditional archetypes if you guys know what I’m saying, like does that makes sense?
+
+
+Travis: Yeeeuup. Yeah, Nadiya, I created her pretty whole— like, specifically because it was a version of a character I was interested in playing, whereas I made Magnus because I wanted to fill a role in like, in traditional D&D you need a fighter, you need a caster, you need a healer.
+
+
+Griffin: That’s gonna take us some time to— when we talked about what we were gonna do next, I remember having a conversation with you, Travis, where you were like, I don’t understand how we fill the four usual party archetypes with three people, and it was like, no, you don’t have to—we don’t have to be healer, tank, magic user, and nimble fighter, like that’s not, that’s not how RPGs have to work, nor should they work.
+
+
+Travis: Yes. So, um, my vision of her, um, super— Let me run through her skills. Her great is a skill I call Science! exclamation point. Um—
+
+
+Griffin: You made your own skill?
+
+
+Travis: Yeah.
+
+
+Justin: You can’t make your own skills.
+
+
+Travis: But I did. You can actually, that is part of Fate, I read through it, like the skills are a suggestion, you can make your own that fit your character, um, because Lore is one of them but I wanted something very specific to her—
+
+
+Griffin: Why don’t we do this— why don’t we just call the Crafts skill “Science!” because there are rules in place for Crafts and it sounds like you’re describing kind of the same—
+
+
+Travis: Okay, we can call it that, but I’m still gonna call it Science! With an exclamation point. Because I want to be able to say “I want to use Science!” Um, and so, her other skills in the Good category are Will and Investigate. Um, in Fair is Intimidate, Lore, and Resources, and in Average I have Notice and Athletics because in addition to having a disciplined mind, I think she also takes care of herself. She’s in a biomedical field, she has, you know knowledge of the human body, she takes good care of herself. She’s not like— you know, I don’t think she’s at the level of Remy or anything but I, you know, she can run if she needs to, that kinda thing.
+
+
+Griffin: We also—
+
+
+Clint: Uh, to kind of address— to kind of address that and also Griffin’s suggestion about intelligence, remember these are the cream of the crop.
+
+
+Travis: Yep.
+
+
+Clint: Through the selection process the Fellowship has done, you know. So they’re going to be good physical and mental specimens.
+
+
+Travis: And to that point, my vision of her as far as the superpowers went, I think she was selected of course because of her intellect and knowledge and, you know rapid analytical mind, but when I think that when she goes through the process what ends up triggering is because of her exposure to this biopolymer and she has, you know, tested it on herself and that kind of thing, you know, just tiny patches, that kind of thing— but I think that that triggers, and I think what ends up happening is she ends up with the skill to shape her body, um, both as weapon and as defense so that she can—
+
+
+Griffin: Is there a power in the book for that?
+
+
+Travis: Um, I’m tweaking one—
+
+
+Clint: Shapeshifting is in there.
+
+
+Travis: Yes, shapeshifting but rather than having it be animal based, it’s inanimate based, is basically my slight change to it.
+
+
+Griffin: Cool.
+
+
+Clint: Yeah, so it’s kind of a Green Lantern—
+
+
+Griffin: Or like a Mr. Fantastic, it sounds like,
+
+
+Travis: Yeah, so basically if Mr. Fantastic had to shape specific objects, like, turn his hand into a hammer and that kind of thing, but it takes a Will roll to do it, and the drawback is, the power is physically exhausting, so if she relies on it too much, it— she’ll faint. She’ll pass out. It is physical exertion to control the power, it’s not an instantaneous thing. 
+So she uses it as an attack, but her first line of attack and defense is a skill I renamed Knowledge is Power. It’s actually called in the thing something like Shield of Knowledge or something but I called it Knowledge is Power. Where basically she can use Science! as the attack and defense skill, but I have to be able to justify that science applies to the situation. But basically she is much more analytical kind of fighter and approaches the situation very disassociated from it? To like, figure out the best way to proceed in it. So her skills much more pertain to breaking down what needs to happen and addressing the concerns— the issues— rather than fighting.
+
+
+Griffin: So she was in R&D, I’m assuming?
+
+
+Travis: Yeah, she was in R&D.
+
+
+Griffin: And does she have a superhero name? Do you have that figured out yet?
+
+
+Travis: Her superhero name is Nadiya Jones. She doesn’t go in for that.
+
+
+Griffin: Ah! So you have this Tony Stark, like, revealed identity thing going on.
+
+
+Travis: Very much so. She doesn’t do this for the flight of fancy. So basically, this is where it comes down to, I think that she sees Remy as a failure. I think she sees him as a representation of failure where she has always succeeded.
+
+
+Griffin: I don’t— it feels weird to have such a combative like, thing starting out.
+
+
+Travis: Okay, let me do it a different way, then.
+
+
+Griffin: ‘Cause I still want this to be a positive story about people who, like I think that was a defining characteristic of Balance was that it was a story about people who care about each other, and who wanna take care of each other— Like, I think that “You’re a failure” is maybe—
+
+
+Travis: Let me try a different way—
+
+
+Clint: Wait, wait though, this is a team just coming together.
+
+
+Griffin: That’s true. Can Aspects change?
+
+
+Clint: They’re not gonna, well, I mean, you don’t have to invoke it, I don’t guess.
+
+
+Travis: I would say that basically what it comes down to, to justify my choice, Griffin, is I think that Nadiya represents someone who, her whole life has been about honing her mind and being the best, and being the best she can be so she can do the best, you know, and create the best and everything about her is about the best the best the best, and I think that on some level she sees Remy being elevated in the same group that she is as an insult? Not necessarily a personal insult from Remy, I don’t think she holds it necessarily against him, so much as she looks at it as an insult of the choice being made that they are on the same level?
+
+
+Griffin: Yeah, I— I understand what you’re saying, but it’s like Remy was also an Olympic-level athlete who also worked to like, do that same stuff—
+
+
+Travis: But he didn’t go. He chose humanity over success, which Nadiya would never do.
+
+
+Clint: Yeah, I like the dynamic— I like the dynamic.
+
+
+Griffin: I think it’s interesting, I think it’s a good angle, I just think “Remy is a failure” is maybe too harsh of a way of phrasing the actual—
+
+
+Justin: Like, Remy failed himself. [crosstalk]
+
+
+Travis: How about this, Remy encouraging others to succeed she sees as hypocritical.
+
+
+Griffin: That could be good, or like, I think Justin’s suggestion is not a bad one—
+
+
+Travis: What was it?
+
+
+Griffin: About like, Remy failed himself or something like that? Then it’s less like, “He’s a piece of shit,” and more like—
+
+
+Travis: [crosstalk] How about this: Remy needs to be pushed.
+
+
+Griffin: That’s great. That’s excellent. And that’s like, can I suggest another one, and this might be off-limits, but like, I think Remy has specific reasons for having a hidden identity which is like, the same reasons that all superheroes do which is that it limits your— it limits collateral damage to people you care about. And it sounds like Nadiya doesn’t have like a ton of people in her life that fill that category.
+
+
+Travis: [crosstalk] Uh, zero.
+
+
+Griffin: But I think that exposed identity is a really cool aspect that could be used for all kinds of things.
+
+
+Travis: Yeah I think, I think let’s keep exposed identity as just a general one, because I also like that, so “Remy needs to be pushed” and “exposed identity.”
+
+
+Clint: Well now, “Remy needs to be pushed,” that’s her opinion? Or is that a fact? Because if it’s a fact then it would be Remy’s—
+
+
+Griffin: No, I don’t think that— I think that’s her thing. I think Remy’s great.
+
+
+Travis: Yeah, I think that, being part of this team it is important to her that this team is a success, and she knows that in Remy’s past he has allowed himself to fail because he has allowed himself to think too much, to feel too much? Instead of thinking logically, and so I think that now that she is a part of this team she sees it as an extension of herself, and so if any member of the team fails, it is a failure reflected upon her. So I’m gonna go with “Remy needs to be pushed” and “exposed identity.”
+
+
+Clint: OK.
+
+
+Griffin: That’s great.
+
+
+Clint: And she will be in R&D.
+
+
+Travis: Yes. Nadiya Jones. N-A-D-I-Y-A  J-O-N-E-S.
+
+
+Clint: Okay.
+
+
+Griffin: Um, real quick, before we go to Justin’s character, let’s go to the Money Zone? We’ve never had a name for it—
+
+
+Travis: The Zone Zone… the… the… the Loot Zone.
+
+
+Griffin: Okay, I wanna tell you first off—
+
+
+Travis: The Treasure Zone!
+
+
+Griffin: The Treasure Zone. Okay, I wanna tell you first off about Blue Apron. Because we use Blue Apron in this house, and we love it, and we respect it, it’s a really great service where for less that 10 bucks per person per meal they will deliver seasonal recipes along with pre-proportioned ingredients that you can use to make delicious home-cooked meals...
+
+
+{53:00
+
+
+MONEY ZONE
+
+
+59:20}
+
+
+Justin: Lastly, I wanted to talk about my character, uh, thank goodness we had the ads in there to give me the time to make one up. Um, what a relief that was. Just kidding, just a little fun joke. Just a little humor between friends. Uh, so I’m playing as— when we begin, I’ll be playing as a character called Irene Baker, and she is in the Human Resources department of the organization, she got her MBA in human resources, and she is basically the best. Paycheck didn’t come in, you need to get some health insurance, you got a problem with a co-worker you need solved, you need a softball team organized, she is the person to talk to. She likes Dad Rock, like Elvis Costello and Wilco, that’s her— in her private life she has some eclectic tastes like that but, in the office she is really sort of the glue that holds everybody together. She makes sure everybody’s getting along and makes sure that it’s a great environment for everyone and makes sure that the trains run on time. Um, she’s uh—
+
+
+Travis: Justin, can I ask a question?
+
+
+Justin: Yeah, please.
+
+
+Travis: Is she cool?
+
+
+Griffin: Or is she a narc? [Justin laughing]
+
+
+Travis: Yeah, do people like her? Or are they like, “Oh she’s fine to hang out with, but like, y’know, she’s very HR all the time.”
+
+
+Justin: I would say that she probably doesn’t have a ton of great friends at the office but she’s someone that everybody likes. But like less of the close connection because she’s very focused on making sure that everybody is getting along and everything’s going swimmingly. She’s a little reserved, and a little bit mousy, I would say, but she’s not unlikeable, she’s a likeable person. Except, when I was going to create a character for this, I really struggled, because I… I don’t know, sometimes I’m not a very creative person, it takes a while for something to come to me, I’m sorry, but that’s just the truth. And the idea that I eventually hit on was kind of unnerving for me because it’s kind of out of my lane for a little bit and I was nervous about doing it but the longer I tried to put it off and come up with something different, I couldn’t, and this idea kept on stirring around in my brain. 
+So. For a while now, I’ve been sort of interested in Inuit mythology. It’s something that we don’t see represented a lot, I think, in popular culture. We’re very much inundated with the mythology of the Greeks and the Romans and the, uh, Norse mythology and what have you but we don’t get a lot of— there are some mythologies that I think are unrepresented and I think Inuit mythology specifically is really interesting. Now, I am not attempting to, you know, directly sort of tap into that or make a 100 percent perfect simulation of Inuit mythology because that would, I think, not be—
+
+
+Griffin: That would be pretty appropriative and bad.
+
+
+Justin: It would not be great. But I’m definitely inspired by that. I think it’s a really interesting— the more I thought about it the more I thought that it was something I really wanted to try. Irene is someone who I think, uh, that is definitely her culture, but I don’t think it’s something she’s particularly connected to, but it is definitely her- her, sort of, background. And so it is something that I have definitely tried my best to learn about, familiarize myself with, and talk to people about, and that is what I am trying to attempt with Irene Baker. 
+So, Irene Baker, the best way to describe— the thing about her transformation— it is very much a transformation. When she gets her powers, she becomes the thunder goddess named Kardala. And Kardala is somewhat inspired by Kadlu, who is a thunder goddess in Inuit mythology, um, so Kardala has— is basically a juggernaut, she is incredibly strong, incredibly tough, uh, has control of the weather. 
+Her main power suite is basic weather control, so she can create weather, she can use weather to attack people, and sort of has the ability to control weather and uses that against her enemies. Her secondary power which is a synthesis in the nomenclature of inter city is Super Toughness, so she is very hard to bring down. And she is very strong, and sort of operating at peak physical capability, but she is also very different from Irene in so much as they are practically the inverse of each other. I’m very much thinking of sort of an Inuit mythology version of Thor and the more I thought about that idea the more it sort of resonated with me and seemed like something I’d really like to try to do a good job with. 
+So that is Kardala in a nutshell. Her main trait, the high concept is that she is a thunder goddess among mortals, and she does not value or even approach humans in the same way that Irene does, in fact, quite the opposite. I think that, for Kardala, she sees the other people with super abilities as somewhat on her level and I think she sees people without them as humans that need to be perhaps shepherded, perhaps protected somewhat, but does not consider them as her equals in any way, shape, or form, and I think that colors who she is as a character and that is her trouble aspect in the venture city fate corp nomenclature — she struggles with having a mortal’s perspective on things.
+
+
+Griffin: Is this something— I want to make this clear— is this something she believes or is it the truth? Is she actually inhabited by Kardala?
+
+
+Justin: When she is Kardala- When she is Kardala, that is her. Okay? But, there is one other aspect, that I have, oh so cleverly, in my patented Justin McElroy style, called On Comes Irene—
+
+
+[laughter]
+
+
+Justin: That trait is that—
+
+
+Travis: Oh, I see!
+
+
+Justin: Yeah. At inopportune times, or maybe opportune times, depending, Kardala can revert to Irene. I have a separate character sheet for Irene Baker, who shares the physical things like, consequences and what have you, would be shared across the two, so I can’t use it to game whatever, but her skills are very much the inverse of Kardala’s.
+
+
+Griffin: That is fucking great. This is such a good character and such a good game.
+
+
+Justin: She’s very good at— when she’s Irene, she has high ratings in Empathy, in Rapport, in- Rapport, which can be a defensive skill in Fate, and that is, Irene has those skills, but in physical confrontations, Irene is severely lacking, so that is sort of the, a big problem with Kardala and—
+
+
+Griffin: Does that— does she have absolute control over when the transformations?
+
+
+Travis: Yeah, that’s what I wanted to ask.
+
+
+Justin: I would say that if she had absolute control it would be a little too OP, because I don’t want it to be a situation— or overpowered, sorry—
+
+
+Griffin: Like, “I need athletic skills, so now I’m the thunder goddess.”
+
+
+Justin: Exactly, right, or “I need to be empathetic right now, so now I’m this.” It’s more about, I think, one, places where it would be a good story opportunity for one or the other to manifest, but also a way of, uh, I think balancing that very sort of distant god character. I’m actually thinking of a specific manifestation of Thor that was in, of all things, a made-for-TV movie that I believe was called The Death of the Incredible Hulk, and it was this very cool— it was a very funny take on Thor where it was all about him sort of adjusting to human life.
+And you see that trait too, I think, somewhat in the more recent adaptations of Thor but very much a- a goddess among mortals and that is the way she is approaching the world, so she can— I would say maybe if she concentrated very hard there is perhaps a chance that she could become Irene Baker, but I would say that the bias I would have is that I don’t think Kardala would necessarily see any benefit to doing that, so it would be very hard to justify.
+
+
+Griffin: It also puts a huge arrow in Dad’s quiver to drop a Compel and make you be whoever is going to be whoever is going to be the most narratively interesting and challenging for you to be at any point. That is like the strength of this system and stuff like this proves the worth of this system.
+
+
+Justin: Yeah, and I think that— Kardala for me— I think that Irene as a character for me is not, perhaps, super connected to this mythology personally, and I think that makes it a really interesting counterpoint for her to actually manifest some portion of a version of that mythology. So, that is what I am going for.
+
+
+Griffin: I also want to say, and I know this is not something you would do, but something we should probably make clear, this is not going to be a, like, manifestation of like bipolar disorder, for instance, which is a real thing that folks suffer from? This is, I do not believe that this is your, you know, “What if that was a superpower?” sort of thing. Like, that’s not something we would ever do.
+
+
+Justin: Yeah, and that’s why I want to make it clear that this is not a delusional state. This is- that is what she is in that moment. That is- that is who she becomes. And whether or not that is metaphorical or literal, I don’t know, we probably don’t have enough episodes to cover it so—
+
+
+Griffin: I say that not to stigmatize bipolar disorder but just to say that like, it would not be appropriate for any of us to say, “Well, what if it was, wouldn’t it be a cool superpower?” Like, that’s not— that just doesn’t—
+
+
+Justin: Yeah, I feel like, and again I know that just like, a lot like I did with Taako, this is not necessarily— this is not like a character that was drawn on my own experience, and so I’m, I’m obviously really hesitant about doing it but also as we’ve talked about so many times on this show and what have you, we are four straight cis white dudes and I just don’t feel like a show — a team — made of straight cis white dudes entirely is very interesting or sustainable or valuable or useful.
+
+
+Griffin: Yeah. I also will say—
+
+
+Justin: As always, we’re doing our best, and we’re— you know, we’re trying our best—
+
+
+Griffin: You’ve talked to some people who deal with Inuit representation in media, which I think is very— I’m very proud of you for having put in that effort—
+
+
+Justin: Yeah, it’s a hell of an email, y’all. It’s a long way to walk around before you get to the part, it’s a long road before you get to part where you understand why I’m emailing.
+
+
+Clint: Let me ask you this, and you may have touched on this and I just missed it— Is there a physical manifestation of the change between Irene?
+
+
+Justin: Oh yeah, she’s huge.
+
+
+Clint: Okay.
+
+
+Justin: She’s huge, yep.
+
+
+Clint: Okay, well there’s also another aspect that’s going to be built into this that deals with the—
+
+
+Justin: Kardala— sorry I should be more clear— a height- a height difference. There’s a physical change. Irene is smaller and I think? Now that you say that, I hadn’t really thought about it, I think maybe a little more stout? And Kardala is just big. She’s tall and strong and— I was about to say down to get the friction on? I actually don’t know if that’s accurate, or not, but there ya go.
+
+
+Clint: Also the technology will lend itself in an aspect of this as well, that I will reveal when you get your powers. I also want to say that it was the Return of the Incredible Hulk, with Thor played by Eric Kramer, who you all know from The Thundermans.
+
+
+Justin: Motherfucker, don’t try to act like you didn’t just google that.
+
+
+Clint: I did just google that!
+
+
+Justin: Okay! Well at least we’re agreed.
+
+
+Griffin: I want to add an Aspect? ‘Cause like, we have to add some for each other? I like the idea that Irene’s human-focused approach to her day-to-day thing? And that seems very sympathetic with like how Remy thinks about people and why he joined this organization, and I like the idea of an Aspect for me of like, “We can trust Irene’s instincts.” As just like, that way, if Irene wants to make a decision, yeah, I think Remy would be like, “Well, she has everybody’s interests in mind, and she’s approaching that scenario from a very human-oriented place, and so I am down with it.” Does that make sense?
+
+
+Clint: Yeah, and that’s a nice balance, also, to Trav’s character.
+
+
+Griffin: Yeah, so, I think— Irene would need one for Nadiya just so that we have one for each other.
+
+
+Justin: I think more useful would be one for Kardala, because I think Kardala would be more prominent, rather than Irene? I think Irene would have different, sort of a different take on these characters. But I think that Irene believes that Nadiya is a demon. I mean I think that she literally believes that, she is unnerved by Nadiya’s abilities and she finds them very upsetting.
+
+
+Travis: Irene does, or Kardala does?
+
+
+Justin: Kardala does. Yes. Because Kardala also has Lore as one of her abilities. I think Kardala has a, like, has an awareness of other parts of that mythology? And I think that she would be unner— like, she is convinced that Nadiya is a demon. Not necessarily—
+
+
+Griffin: Like a literal—
+
+
+Justin: A literal demon. That she needs to be wary of.
+
+
+Clint: Oh, I love that.
+
+
+Travis: What I love about that is I think— I was going to suggest kind of a similar thing, but for Irene, where I imagine Nadiya has been complained to HR a lot about? Like I think that a lot of people have issues with Nadiya, she’s not very good at interacting with humans in any kind of nice way, and so I imagine that there have been a lot of complaints about her made?
+
+
+Griffin: So this idea of, you could have one Aspect on Irene that’s like, “I want to help Nadiya open up.” And then when you transform, you think that she’s an actual literal demon from hell.
+
+
+Justin: Right.
+
+
+Clint: That’s awesome.
+
+
+Justin: That’s sort of my logic that it sort of colored that perception, I think. Parts of where their personalities I think sort of overlap.
+
+
+Travis: God that’s so cool dude— I love that.
+
+
+Griffin: This is very good.
+
+
+Travis: That presents so many interesting moments, yep. I like these! I like these characters we’ve done.
+
+
+Griffin: I do too! So these are the characters we’re gonna be playing in the game we’re gonna be playing, um, and—
+
+
+Clint: And you are going to be— you said HR, so Humanity— Humanity Division. 
+
+
+Justin: Yep HR.
+
+
+Griffin: And like I said we’re going to be playing a few episodes with these and just sort of exploring the space, and I think we’re going to do some— what gives me hope about this, like, I was really nervous about the idea of moving away from Balance, and to be frank, like since we’ve wrapped up Balance um, my head has been in a really weird place. Partially because I’m not creating in the way that I used to when we were doing the show, and there’s always nerves like, “Oh, we’re going to be doing this new thing.” But Adventure Zone Nights I thought was really fun, and I thought we did some interesting stuff there, and the opportunity to do that a lot of times I think is going to end up being really, really great. Dad, do you have anything else you want to say, to like set up this first episode well?
+
+
+Clint: Well, I think, just a couple things to keep in mind. We’re going to start, you will get your powers in that first episode. And I think it’s going to be kind of, kind of a mystery as to how your powers are going to manifest? I mean, not to us as the players, because we already kind of have an idea but I think in fiction— except for, I think Nadiya, I think has an idea. I think that just is too— she’s working in R&D so I’m sure she’ll have an idea—
+
+
+Griffin: R&D, right.
+
+
+Clint: So I think maybe she has some idea of this might happen to some respect but I’ll let you guys figure out the reaction to that. But we will start non-powered. There’s a big cast of NPCs— not nearly as big as the whole, you know, 69 episodes of Balance but you- you’re not going to be thrust into a situation where you’re going to have remember a bunch of names and everything else right off the bat. 
+And you’ll get your first mission and everything will kind of take from there. Uh, and also wanted to tell folks that there are similarities I guess with Balance in that there’s an organization and there’s going out on missions, but if you really stop to think about what we’re doing, that’s kind of a basic, at least for a startup story, to kind of operate from. So when I steal, I steal from Griffin. 
+
+
+Travis: Great. 
+
+
+Griffin: Steal from the best! That’s what they say!
+
+
+Clint: I’m really excited, I’m really pumped up about it, I think you guys are going to really enjoy the story, but I’m already digging the characters, so.
+
+
+Griffin: Yeah, and I’m going to say this a lot, and this is sort of the sentiment we all have, which is, please be patient with us, and bear with us, and get— I hope you can get as excited with this process as we are going to get, because I anticipate that we will get folks telling us, “I liked Balance better,” and Balance was an incredibly great and special thing that is always going to mean a lot to us, but it had to end when it ended and I want the next thing— the next full season that we make to be not just as good and as special as Balance was but even better, and I think this is going to get us there. 
+Like doing stuff like this, and seeing, like figuring out the best stuff in all the games, and figuring out what suits our play style, and the way that we put a show and a story together the best, like figuring that stuff out is what’s going to make for the best second season. So, umm, keep in mind that this is a short thing, a temporary thing and we’re going to be trying some stuff out and we hope that you enjoy the result of that. Uh, I think that’s it though.
+
+
+Travis: Yes, yes. 
+
+
+Griffin: Uh, thank you all for listening. Remember it’s #thezonecast, tell a friend to listen to it. Uh, again, it’s going to be, as we transition here it’s going to be very important that you help spread the word if you think like,  “Oh I have a friend who’s into comic books, shit, go listen to this thing,” that would mean a lot because you know it’s harder to keep retention and everything when you’re doing something like this. So anything you can do really means a lot. 
+
+
+Justin: And this is a great time, perhaps the best, to get people on board but um, thank you, more than anything, even if you don’t share with anybody, thank you to you, dear listener, for hanging in with us, we, this show literally I think would not exist had you not responded to it the way you had and it means a lot to us that you’re still here listening. So thank you.
+
+
+Travis: You’re great!
+
+
+Griffin: Uh, and thank you to MaximumFun.org. Check out all the great podcasts there. You can listen to other stuff we do and see our videos and stuff stuff at McElroyShows.com. Go to the ComicCon panel if you’re going to be at New York ComicCon. Is that it?
+
+
+Travis: Yep!
+
+
+Clint: Yep!
+
+
+Griffin: Cool. Well, the next episode’s going to be up in two weeks on October 19th and that’s going to be the first episode of our new arc, TAZ: Commitment, so we will talk to you then. Bye!
+
+
+Everyone: Bye!
+
+
+[Next Episode]

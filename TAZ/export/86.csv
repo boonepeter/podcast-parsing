@@ -1,0 +1,536 @@
+,episode,speaker,lines
+0,86,The Adventure Zone,
+1,86,Keeper & NPCs, Griffin McElroy
+2,86,Aubrey Little/Lady Flame, Travis McElroy
+3,86,Edmund “Ned” Chicane, Clint McElroy
+4,86,Duck Newton, Justin McElroy
+5,86,Episode 86 - Amnesty - Part Six,
+6,86,TAZ Transcript ,
+7,86,(part of TAZscripts on Tumblr),
+8,86,"[The Water, Arrival by Griffin McElroy plays] ",
+9,86,Griffin," Moonlight pours through the broad skylights above the Kepler High School pool, and onto the back of Calvin Owens, captain of the Kepler High swim team. He cuts quiet laps through the water, training vigorously for the Pocahontas County swim meet, just four days away. A window over the stacked-up bleachers is propped open by a duffel bag containing a change of clothes, evidence of Calvin’s trespassing in pursuit of a few dozen more practice laps. He breaches the surface and clings to the edge of the pool, panting. He reaches up with trembling, tired fingers, and peels off his goggles and cap, then lays his head down on crossed arms, attempting to catch his breath before pushing his luck for one last set. And for a moment, he is surrounded with silence. Floating in the waters that would be his proving grounds in just a few short days, he pushes his nerves aside, and granting himself a moment of weightless serenity, Calvin Owens exhales a long, contented sigh."
+10,86,And then he is pulled violently below the surface of the water.,
+11,86,"And now the silence of the gym is nearly absolute; there’s just the soft rustling of the pine trees outside and the small ripples that remain on the surface of the pool, which lap lazily against its edges. And then a splash as Calvin resurfaces, gulping air into his burning lungs as he lunges toward the ladder out of the pool. He leaps onto the edge and scrambles up the side of the bleachers, his body aching with exhaustion, and yanks his bag out of the propped-open window, swinging his leg over its sill. But before he makes his escape, his curiosity consumes him. He pauses, and surveys the waters below. His mind cannot comprehend what it sees.",
+12,86,"The surface of the water grows convex, lurching upward from the center of the pool and pulling away from its perimeter. It grows slowly like this until it forms a mound that reaches ten feet above its former surface, and then, without warning, this shape begins moving in Calvin’s direction.",
+13,86,"The window slams shut, as Calvin springs outside. He hits the ground running, and vanishes into the trees that surround his school.",
+14,86,"The nearly-full moon over Kepler, West Virginia illuminates this scene from its ambivalent place in the twilit sky.",
+15,86,[Theme music (The Adventure Zone, Amnesty Theme by Griffin McElroy) plays]
+16,86,{3,21}
+17,86,Justin," Woah, I’m being sucked into a portal! I’m going all the way from West Virginia to— Oh."
+18,86,Clint," West Virginia, yeah."
+19,86,Travis," Aw, man, I’m being sucked, too! I’m going to West Virginia too!"
+20,86,Justin," We’re both being sucked! Dad, are you being sucked too?"
+21,86,Travis, [crosstalk] We’re being sucked!
+22,86,Clint, No! And I wouldn’t admit it if I was!
+23,86,Griffin," And I’m the portal— the portal master, who made the suck."
+24,86,Justin," Griffin, why did you transport me to the state I’m already in?"
+25,86,Griffin," Well, technically you’re 45 minutes east or so… of where you are. So that’s exotic."
+26,86,Clint," There’s all those warrants too, Juice. You can’t really cross state lines."
+27,86,Griffin," Yeah, and now you’re in pepperoni roll country, ba-by."
+28,86,Justin, Now listen— This is pepperoni roll country right here. I’m here. I’m living in it.
+29,86,Clint, [crosstalk] It's the official snack!
+30,86,Griffin," So it’s MaxFun Drive, and it’s our first episode kind of back in Amnesty— what we officially know now as season two, and— Hey, who here remembers what Amnesty was all about? Because it’s been… three months?"
+31,86,Travis, I think it was all about a young woman named Aubrey Little-
+32,86,Griffin," And her journey and two, sort of side characters, sort of ancillary characters, supporting her quest. "
+33,86,Travis, Yes. They’re there to make her look good.
+34,86,Griffin, Sure.
+35,86,Travis," Also, here’s a really fun thing, ‘cause you often see this when you go from pilot to season I can’t remember what Aubrey’s voice sounded like, so it’s going to be completely different now, probably."
+36,86,Griffin, Also because you’re sick. Now Travis has the Episode 1 Sickness. Would you all like a quick refresher on what this is all about and then we can talk about what the MaxFun Drive is and then start doing the episode?
+37,86,Justin, Yes.
+38,86,Clint, I agree.
+39,86,Griffin," You all are in Kepler, West Virginia, that’s the setting for this story, where all of you have kind of been collected. Ned, you lived in town already, you run a kind of cryptid museum called the Cryptonomica. And Duck, you’ve lived here— Has Duck lived here his whole life?"
+40,86,Clint, So far.
+41,86,Justin, Yeah.
+42,86,Griffin," So Ned works at the Cryptonomica, Duck works at the Monongahela National Forest as a park ranger—"
+43,86,Clint, [over Griffin] And we’re buddies! We’re friends.
+44,86,Griffin," You’re buddies? Well you’re all friends now, I think. Or at least casual acquaintances."
+45,86,Clint," Well, apparently I’m a sidekick to Aubrey."
+46,86,Travis, That’s correct.
+47,86,Griffin," I was goofing. Come on, you’re all important in God’s eyes. And Aubrey, you are a travelling sort of— sort of magician starting her career who was brought to Kepler when she developed actual magic powers."
+48,86,Travis," That’s a twist, right? Because before now, she was doing stage magic, but then what’s that? Actual magic? No one’s ever done that before in a story, ya welcome."
+49,86,Griffin," Actual, practical magic. [Travis Yeah.] So you all were— You all sort of came to know Mama, who is the proprietor of the Amnesty Lodge— It’s actually just “Amnesty Lodge”, I need to stop saying “the Amnesty Lodge”. That’s like calling it “the Motel 6”. That’s weird, right?"
+50,86,Travis," Wait, is Amnesty Lodge a chain? Are there other Amnesty Lodges around?"
+51,86,Griffin," No, there’s just this one, and it is— it plays home to a number of… well, monsters, who hail from a world called Sylvane, which is accessible—"
+52,86,Travis, We still need to come up with a better word than like “abominations” and “monsters”. “Alternative beings”?
+53,86,Griffin, Alternative—
+54,86,Clint, I thought we had “bom-boms”.
+55,86,Travis, “Bom-boms” got voted down.
+56,86,Griffin," [crosstalk] No, it’s all terrible. Which, Sylvane is accessible through a stone archway which is in the middle of the woods. And every two months or so, when the full moon— around the time of the full moon, these big, nasty abominations come through. And it’s up to the Pine Guard to defeat them quietly, because nobody else can know about Sylvane’s existence. Because what would happen if you found out there was a world full of monsters that was connected to our own? There would be chaos."
+57,86,Travis, I would feel very satisfied— very vindicated.
+58,86,Griffin," Sure, there would certainly be people like that. But the reason for the secrecy that the Pine Guard operates under is because they are worried about, you know… war. And so y’all slayed a monster, slayed an abomination and won the day. And Mama sort of disappeared on some sort of secret mission. Duck has sort of had a conversation with Minerva, who is his invisible friend? It’s visible to him— she’s visible to him, but to nobody else. And we learned that she’s somewhere? She— exists somewhere? And in the last scene, Ned, you found out that Kirby posted the video of the real Bigfoot, Barclay, fighting a bobcat. Which is a small cat, and I’M VERY SORRY! I didn’t know! I confused bobcat and mountain lion! It happens to the best of us."
+59,86,Travis," Oh shit. I knew that the whole time and I thought you were doing that on purpose, like it was a monster version of a bobcat."
+60,86,Clint," Yeah, I thought it was an oversized—"
+61,86,Griffin," [crosstalk] OK, yeah, there we go. There we go."
+62,86,Clint," As a matter of fact, I think you would even call it a robert cat."
+63,86,Griffin," A robert cat. The monster fluid got in the bobcat, turned it into a monster. Okay— um, any questions before we hop in?"
+64,86,Travis, How long has it been since the—
+65,86,Griffin," It’s been two months. We’re kind of getting to the next monster cycle, which comes every two months or so. So we’re gonna do like, a quick catch-up scene with all of you and then— not go five episodes before getting you all together. I’m going to do that after we do, like, a little catch-up, because I want to know what your characters have been doing in this place for the last two months."
+66,86,Clint, So what time of year is it?
+67,86,Griffin, It’s October.
+68,86,Travis," Ooh, it’s spooooky."
+69,86,Griffin," Yeah, it’s the spookiest month, historically. Uh, let’s talk about the MaxFun Drive though, before we do the story. {{858 - 951}}"
+70,86,Griffin," Uh, let’s start with Aubrey. Aubrey, when last we saw you, you were kind of banged up from the monster encounter. It’s been two months, I imagine you have recovered since then. And it’s October now, and in the last two months, Mama has not returned yet from— whatever mission she embarked on. But with her sort of, last letter she implored you to stay at Amnesty Lodge and help them in their plight while you sort of discover the truth of your magic powers. So I’m curious to hear what Aubrey’s been doing for the last two months, and in there maybe we can find a scene that we can do."
+71,86,Travis," [sarcastic] She’s been binging Netflix. Just really takin’ some her-time, not doin’ much."
+72,86,Griffin," Watching Stranger Things for, like, strategic tips and stuff?"
+73,86,Travis," No, mostly just, like, cooking shows and documentaries- no, she has been practicing—"
+74,86,Griffin," Zumbo’s Just Desserts. I’m pretty sure Zumbo is a cryptid, ‘cause no human can make cakes like that."
+75,86,Travis," I picture, like, with Barclay’s help, setting up kinda strawmen, y’know, and doing some target practice, y’know, flingin’ spells and trying to really control it, and being able to do it without having, like, the spreading danger and really trying to find where the line is of the power and, like, how much she can rely on it."
+76,86,Griffin, Okay. So just practicing your magic abilities— is it going well?
+77,86,Travis," I would say it is… passably well. Here’s another thing I wanna— just like last time, I wanted the characters to use the restroom, I also don’t want this to be like in Doctor Strange where it’s like “Oh now I get it, and now I’m super awesome at magic!”"
+78,86,Griffin," No, yeah, I think that’s very— I think that’s probably how it would work, right? [Travis Yeah.] Like, it’s not something you just “Oh, now I’m a master magician.”"
+79,86,Travis," I would also say that maybe in there, she’s been, like, learning about Sylvane and and she’s been learning about the alternative… people, the alternative beings, in the Lodge, and so she’s been maybe cozying up to Dani a little bit, as a bit of, like, “Now tell me about them, what’s going on here?”"
+80,86,Griffin," Alright, we can do that scene. Like, I think that would be good, I think you doing target practice would be cool too, but you just, like, having a conversation about Sylvane and stuff might be good. So how about this"
+81,86,"You’re… you and Dani are in the woods, not too far from the Lodge, I think it’s probably in sight, there’s a creek that runs along behind the Amnesty Lodge—[correcting himself] behind Amnesty Lodge, dammit—and the two of you are out there, just sort of hikin’ around, I think Dani’s sort of been helping you get acclimated to Kepler first and foremost. Like, this is a town that you have not lived in and so you’re sort of still trying to wrap your head around the landscape and what the town’s all about. And the two of you are looking for… ramps? Do ramps exist in October- I think it’s a springtime food. But because of the magic from the gateway—",
+82,86,Travis," Oh, I thought you meant, like, sick bicycle ramps. “We’re gonna skateboard off some ramps.”."
+83,86,Griffin," No, like the tasty onions."
+84,86,Travis, I don’t know what that is.
+85,86,Griffin," Uh, it’s like an Appalachian delicacy."
+86,86,Travis, Okay.
+87,86,Griffin," Okay, anyway—"
+88,86,Clint, There’s a ramp festival every year.
+89,86,Griffin," There’s a ramp festival, but I think it’s in spring, but because of the magical stone gate, they also grow in October."
+90,86,Travis, Could we be also looking for sick skateboarding ramps?
+91,86,Griffin," Yeah, I think you’re looking for both… "
+92,86,Clint, Only if you have Jake Coolice with you.
+93,86,Griffin," I think Jake Coolice heard you were going out looking for ramps, and he showed up with his shorts and his cool board… "
+94,86,Clint," [endeared] Oh, Jake."
+95,86,Griffin," … And his knee pads and helmet, ‘cause he’s safe, and then Dani was like “No, they’re onions, Barclay wanted ‘em for cooking.” and he was like “Aw, well I can’t grind on those!” and he went back inside. And he cried in his room!"
+96,86,Travis, Oh no!
+97,86,Griffin, Yeah.
+98,86,Travis," Oh no, you hate to hear that."
+99,86,Griffin," So the two of you are out in the woods looking for these stinky onions, and you are talking to her about Sylvane."
+100,86,Travis," Also, just to picture— I’ve been imagining this kind of, like, training exercise that’s also become a nervous fidget for her, where it’s like a little flame on the tip of her index finger that she passes back and forth between index fingers."
+101,86,Griffin," Alright, I dig that."
+102,86,Travis," Yeah, so kind of controlling—"
+103,86,Griffin, Are you doing that right now?
+104,86,Travis, Yeah.
+105,86,Griffin, Okay. So what do you wanna know from Dani about Sylvane?
+106,86,Aubrey," Okay, so, one more time, tell me again, you are a…?"
+107,86,Dani," Well, I’m… I guess I’m Sylvan, like, 100%, there’s sort of different types of beings over there—"
+108,86,Aubrey," Yeah yeah yeah, yeah, but, like, a werewolf? Vampire?"
+109,86,Dani," Okay, yeah, I know, I get what you’re— see, those are your terms, and it’s weird, because—"
+110,86,Aubrey, Oh.
+111,86,Dani," —you kinda have those terms because we came over, and you made them up, but I guess, um… I mean, I guess a lot of us would be vampires. Not in the way that— not like, the, you know, Dracula type?"
+112,86,Aubrey, Uh huh?
+113,86,Dani," I can’t turn into bats. I can do some cool stuff, but like… yeah. Vampire. Sharp teeth, when I need them—"
+114,86,Griffin," And she… what’s she have? I think she has a ring. And she takes that off, and you see her Sylvan form, where she has those sharp teeth, and kind of orange eyes. Not exactly like the two-fanged vamp that, uh, we kind of know about, but she transforms in front of your eyes. She’s like"
+115,86,Dani," Yeah, so, vampire."
+116,86,Aubrey, Sick!
+117,86,Dani," Yeah, it’s, uh, it’s pretty cool."
+118,86,Aubrey," Okay, so this is a weird question, but is there any way… is there any way to recognise— like, without someone taking off their accessory, say, like, oh yeah, that’s a Bigfoot, that’s a vampire, that’s a…"
+119,86,Dani," No. I mean, that’s why they exist, they help us live here. I mean, don’t—you don’t need, like a Voigt-Kampff test on this, it’s pretty much just the folks livin’ in Amnesty Lodge. I feel like a lot of people saw Men in Black, and then just assumed that there were, like, aliens and monsters walking— no. It’s pretty much just us. It would be tough— it’s tough to survive in this world without a little bit of help, and Amnesty Lodge sorta provides that to us. Specifically, so… I think the most important thing you need to know— and I know you’re curious about how Sylvans work— we can’t really live without some sort of sustaining life force. And over in—"
+120,86,Aubrey, Like food?
+121,86,Dani," It could be food. There’s traces of that stuff in there, but in Sylvane, we all sort of subsist on, well, Sylvane itself. On the planet. And—"
+122,86,Aubrey, You eat the dirt????
+123,86,Dani," No, we don’t eat the dirt. We just sort of absorb its energy."
+124,86,Aubrey, Like photosynthesis. 
+125,86,Dani," [laughs] Yeah, I guess if you want to frame it like that, it’s a little bit like photosynthesis. And obviously, over here we don’t get that, and so I think that’s why you get a lot of the, you know, vampire biting, feeding, that stuff that has happened sometimes, and has been kind of unfortunate and has painted a pretty bad picture of me and how I sort of live. Um… But—"
+126,86,Aubrey," So do you have to bounce over from time to time and, like, recharge and come back?"
+127,86,Griffin," She, uh, she looks a little sad when you say that. She’s like"
+128,86,Dani," I… I can’t go back, Aubrey. I'm an exile. We’re… [Aubrey Oh…] we’re forbidden. Yeah. U"
+129,86,m…,
+130,86,Aubrey, I’m sorry. I— I… yeah.
+131,86,Dani," Once you— once you leave Sylvane, you’re not really allowed to cross back over. Um… But anyway, no. I— You know the springs behind Amnesty Lodge? The— [Aubrey Yes.] the hot springs? Yeah, those— those have enough juice I think for a lot of us to keep going. So, quick soak in there and I’m good to go. So… "
+132,86,Aubrey," [hesitantly] Do you… Would you… Wanna go… take a soak? In the springs? I mean, we don't, if you don't, I know we have to get the ramps, so if you don’t… You know what, never mind. Forget it. Um…"
+133,86,Griffin," She reaches down and grabs, like, uh, like, there’s two really close together, which is… I don't know how ramps work, but I’m gonna say it's an uncommon occurrence. She pulls ‘em up, and I think y'all have a healthy bounty. And she’s like"
+134,86,Dani," No, that sounds great. Let's get these over to Barclay, get him working on that… whatever he’s gonna make. These things stink like hell [Aubrey laughs] but I’m sure he’s gonna make ‘em taste very good. And yeah, let’s go for a dip."
+135,86,Aubrey, Sick. 
+136,86,{18,13}
+137,86,Griffin, Um… Duck! 
+138,86,Justin, Yep.
+139,86,Griffin," Duck, it’s been two months [Justin It has.] since— since the events, since the last time. What have you been up to? I think Minerva’s still showing up on a fairly regular basis. I thought it might be interesting if… um… through like, I don't know, through the two of you just like figuring it out, um, if she managed to find a way to show up at like a regular time. Like, you know, 614 PM, sometime in the evening, and I can leave it to you to decide, but just like, that's— that— now it's consistent. Now Minerva shows up and you know what time she's gonna show up. It is not like this random visit thing, she now has a scheduled time. [crosstalk] She’s like— "
+140,86,Travis, [crosstalk] She shows up in time to watch Wheel with you. 
+141,86,Griffin," Yeah, she’s dialed it in, she catches the back half of Wheel. And it's probably not for a super long time, but like, how do you feel about that?"
+142,86,Justin," Yeah, that makes sense to me. Probably in the evening. I feel like— you said 614 kind of randomly, but I think that that… that feels right. 614. 614 every night. "
+143,86,Griffin," Alright. I think Minerva shows up at 614 every night, checks in. I think you… I mean, you still got Beacon, and that's… that's what it is."
+144,86,Justin," And I think Duck has been like, in… he’s still doing his day to day. I think he probably jogs places more often than he used to stroll. Like… trying to sort of casually… get a little bit more physically, uh, fit. I think maybe in the woods once in a great while, he'll sort of like, practice with Beacon. You know, when he's sure no one’s around to look. To sort of, you know, get… knock the dust off a little bit, but it’s not like his prime focus. [crosstalk]"
+145,86,Griffin," [crosstalk] Hey, he’s got— he’s got a fuckin’ job."
+146,86,Justin, He’s got a nine to five. Yeah.
+147,86,Griffin, Has that been complicated by the fact that you… uh… also kind of have started to embrace your destiny a little bit?
+148,86,Justin," Um… I think that he maybe has a sense of… wanting to have things in order. You know, just in case. In case he would have to abandon his post for some reason, or, God forbid, something were to happen to him. I think that he… um… maybe appreciates it more. ‘Cause it is also, like, a sort of bedrock of normalcy… um… in a world kinda gone crazy."
+149,86,Griffin," How’s your training— how is your training going? I think it would be cool if, like, you… Minerva I think would be eager to train you. I think obviously— I think she only shows up for like three minutes. It is very… it is a short window that she appears to you. But it’s every— every day 614 to 617, she shows up and I think wants to— wants to sort of show you the ropes a little bit. "
+150,86,Justin," Yeah, and I think I see Minerva as like his personal trainer, who he’s kind of, like… blowing off. Like, the reason he does the stuff is so he can tell Minerva like “oh yeah, I’ve been practicing, like, running and… swords and stuff.” "
+151,86,Griffin, Okay. 
+152,86,Justin," It’s not… you know, it’s sort of like, Minerva’s there like, you know, “Have you been training?” and he’s like “oh yeah, yeah, yeah,” totally… [laughs] totally training really, yeah, for sure. Like, really grinding… grinding it out."
+153,86,Griffin, Alright.
+154,86,Travis, [crosstalk] Turning in all kinds of Crushbone Belts. You know. 
+155,86,Justin, Yeah.
+156,86,Griffin," God, how often can we reference Crushbone Belts? [crosstalk] From EverQuest?"
+157,86,Travis," [crosstalk] As often as I want, dude."
+158,86,Griffin," Okay. Um… I think I’d like the scene, if you’re cool with it, to be at some point within this two month span she stops taking the excuse of “yep, training, great” and actually wants to like, uh, like, spar with you… somewhere… for her three minute window."
+159,86,Justin," Yeah, and I feel like she like, kicks his ass, like every time. And [clears throat] probably through that, towards the end of this… this period that we’re talking about, like, he gets tired of getting his ass kicked. Which is sort of the prompting for him doing the other stuff. Like for actually trying to get himself in slightly better shape and practice with Beacon or whatever. He’s tired of getting knocked around."
+160,86,Griffin," Well, she’s a specter. She’s like a vision. I don’t think she has a physical form."
+161,86,Justin," Yeah, but he knows when he’s beat. "
+162,86,Griffin," Yeah, okay. I think, uh, alright, let’s do one of these scenes that’s probably close to the end of this two month window. ‘Cause you’ve been— you’ve been training [Justin Yes.] for a while. Where— where are you at?"
+163,86,Justin," And also don’t forget I need to do my, um… [clears throat] Destiny’s Plaything roll at some point. "
+164,86,Griffin," Oh, yeah, go ahead— go ahead and do that. That’s a good setup too. Um… ‘cause we’re, especially— [crosstalk]"
+165,86,Justin, [crosstalk] Are you sure? ‘Cause if we’re flashing back it… okay.
+166,86,Griffin," Um… yeah. I think, yeah. Go ahead— go ahead and do it. And then… we can—"
+167,86,Justin," Okay. For those of you… Destiny’s Play— At the beginning of every sort of like, thing I have to, uh…  roll to see sort of what destiny is gonna tell me about—"
+168,86,Griffin," It is a super cool mechanic. So we’re using roll20 not for, sort of, visual things. We’re not gonna put up, like, things that you won’t be able to see. We’re mainly just doing it so we can see each other’s rolls. And I can see that Justin has rolled a 7. Plus… what is it, Weird? "
+169,86,Justin," Yeah, +Weird. Which is actually -1. "
+170,86,Griffin, Oh!
+171,86,Justin, So… for— for Duck. So… [crosstalk] it’s a 6.
+172,86,Griffin, [crosstalk] What do you— what do get on a failure for… 
+173,86,Justin, “Something bad is going to happen to you.”
+174,86,Griffin," [laughing, high pitched] Oh no!"
+175,86,Justin, Yeah.
+176,86,Griffin, We just started!
+177,86,Justin," Here we go. Here’s a little present for you, Griffin. I’ve— I’ve wrapped it and everything."
+178,86,Griffin," Okay. That’s extremely good. Well, mark Experience. "
+179,86,Justin, Okay.
+180,86,Griffin," Every time you fail a roll in Monster of the Week, which is the game we are playing [Justin Crushing it already.] you mark Experience. Out of curiosity, did anybody rack up 5 XP? [crosstalk] You need to level up."
+181,86,Travis, [crosstalk] No. [disappointed] I just got 1 last time. 
+182,86,Griffin, Alright. 
+183,86,Justin, That’s my second.
+184,86,Griffin," Dad, where are you at, XP-wise?"
+185,86,Clint," [hesitant] You know… you know, I got a— I got a… I got a couple…"
+186,86,Justin, [pause] This is a much simpler system. 
+187,86,Griffin, [crosstalk] This is such a simpler system.
+188,86,Travis, [crosstalk] Look at your character sheet.
+189,86,Griffin, You gotta just do the shit.
+190,86,Clint, I’m lookin’— I’m lookin’ at all my notes! I’m lookin’ at all my notes. I think I—
+191,86,Justin, Look at your character sheet.
+192,86,Clint, 2. 2.
+193,86,Travis, Thank you.
+194,86,Griffin, I’ll do your vision after this scene. We’ll do the flashback and then we’ll do your vision.
+195,86,Justin, ‘Kay.
+196,86,Griffin," So, it’s- where you at when you’re doing this training?"
+197,86,Justin," Uh, out back."
+198,86,Griffin," The Outback Steakhouse? Like, the parking lot, or, like, the kitchen?"
+199,86,Justin," [sarcastic] There’s a parking lot behind the Outback- no, I go out back of my house."
+200,86,Griffin," Okay. Uh, your apartment?"
+201,86,Justin," Uh, yes. Yes, my apartment. There’s a sorta common area… but there’s only, like, three other apartments in the building, and I know when Mrs. Pearson usually packs it in at about- earlier in the evening… "
+202,86,Travis," [goofing] Now, what’s your relationship with Mrs. Pearson?"
+203,86,Griffin," [goofing] Yeah, let’s dial into that."
+204,86,Justin," She is a sweet older lady, former police officer, actually, so she’s got a lotta great stories. Kepler’s first female police officer, actually. And so she’s got a lot of great stories about her time on the force, which Duck likes to hear. She likes to think she’s checkin’ up on him, to make sure he’s doin’ okay, because she still hasn’t lost the sort of protective nature that she developed over forty years on the force, but I think they kinda look out for each other."
+205,86,Griffin," Damn, dude, we were just goofing, but that’s good shit."
+206,86,Clint, That is real good shit!
+207,86,Griffin, Okay! So you’re behind—
+208,86,Travis," [goofing] Wait, hold on, slow-slow. Who else is in the building?"
+209,86,[Clint laughs],
+210,86,Justin, I can tell you if ya want—
+211,86,Clint," It’s Mr. Furley, Mr. Furley’s there."
+212,86,Justin," No, Mr. Tarkesian, who runs the general store in town. Uh, and he—"
+213,86,Griffin," Justin, I have a fucking character list here in Scrivener and I’m having to update it- Mr. … Tarkesian?"
+214,86,Justin," Yeah, Mr. Tarkesian."
+215,86,Griffin," [to himself] Alright, runs the grocery store."
+216,86,Travis, General store.
+217,86,Justin," Yeah, I mean, it’s a grocery store, general store, whatever. It says “Kepler General Store”, but that’s sort of, like, a nod to nostalgia. Y’know, it’s a grocery store. A small one-- you find those in small West Virginia towns, where the big chains have not come in, still, like, if you go to a place like McDowell county, you’ll find these, like, gas stations that are kinda like markets, combination gas stations-markets."
+218,86,Clint, And combination bait shop. Lotta those.
+219,86,Justin," Yeah, and a bait shop, for sure."
+220,86,Griffin," There is a Pizza Hut in town, that is, I think, one of the few chains."
+221,86,Clint, That’s canon.
+222,86,Justin," Yeah. Pizza Hut is not necessarily a grocery store, but I can see [Griffin Sure.] how, if your only groceries were pizza… "
+223,86,[Griffin and Clint chuckle],
+224,86,Travis," “Can you give me all the ingredients but not cooked, please?”"
+225,86,Griffin," Alright, is there anybody else in your apartment building?"
+226,86,Justin," No, the other two—the other—the fourth apartment is unoccupied."
+227,86,Griffin, Okay.
+228,86,Justin," Currently. Y’know, that’s the problem with an area like this, somebody moves out, it’s not like we have an influx of people, y’know."
+229,86,Griffin," Sure. Okay. Alright, so it’s somewhere close to the end of the two-month span, very close, I think, like, a week before the events of this arc, and you’re behind the apartment building, it’s 613, sure enough, nobody’s out there."
+230,86,Justin, And Mr. Tarkesian is still working.
+231,86,Griffin," Mr. Tarkesian’s still at work, Mrs. Pearson’s holed up for the evening…"
+232,86,Travis, Watchin’ Wheel.
+233,86,Justin," She watches the news, 600-630 she’s watchin’ the news."
+234,86,Griffin," ...Watchin’ the news, so you know you’re clear, and your watch rolls over to 614 and then, like, without a sound- there’s no “BSSSHH!”, like, there’s Minerva, and she’s standing in front of you, and she says"
+235,86,Minerva," Duck Newton, let’s be swift, eh? Only a few moments, are you ready to begin your training?"
+236,86,Duck," Alright, here’s the first thing I wanted to show you, check this out."
+237,86,Justin, And he jumps in the air and kicks. And he says
+238,86,Duck, ...Is that anything? ‘Cause I—
+239,86,[Griffin and Clint laugh],
+240,86,Duck," I did it and it felt- I did it and it felt like it was somethin’, but I don’t know if that’s anything."
+241,86,Minerva," Well, why don’t you try to do—"
+242,86,Duck, It’s kind of like a half-kick… 
+243,86,Minerva, Yes.
+244,86,Duck," I kinda jump up and do, like, a half-kick."
+245,86,Minerva," It looked rad and might scare your opponent into maybe wavering for a moment, giving you an opportunity to strike them with your blade. But you’ve just taken up, like, one of our three minutes with it, so I think keep practicing and, um, let’s see how it goes."
+246,86,Duck, Alright.
+247,86,Griffin," Let’s- why don’t you roll to Kick Some Ass? I think that’d be a cool way to, like, see how well you do with this training session."
+248,86,Justin," It is really ha- like, I have my dice in my hand, it’s very hard to break that habit, but I will use your digital- your rigged game."
+249,86,Griffin," …Oh, you were saying?"
+250,86,Justin," Oh, I kicked- 11 points to kick this ghost’s ass. [chuckles] And, uh… "
+251,86,Griffin," Actually, you added your… what is it, Body? … Tough."
+252,86,Justin," Yeah, add Tough, which he has 1, so that’s a 12!"
+253,86,Griffin," Alright, I think this is great because, like, after a few weeks of her- and I think the training is, like, you take turns, you swinging your blade at her, just trying to hit her while she kinda dodges outta the way, then she- she has a blade of her own, wherever she is, that you can sorta see in the projection that she swings at you, and she—"
+254,86,Justin," I feel like because of the magical nature of my blade, like, we could, like, fight that way. Like, I feel like I could have a real- even though she’s spectral, right, like—"
+255,86,Griffin," So here’s the thing you are right, your blade is magic, but, like, you have hit her before, it just passes right through her. Because—"
+256,86,Justin," I meant the sword herself- like, I don’t think it hurts her, but I feel like her sword maybe could bounce off—"
+257,86,Griffin," Here’s how we rectify it I think it’s- you feel something when it hits her, but it’s not, like, in your hand, right, it’s like your brain telling you, like, “that’s a hit”, but it’s not like the blade is stopped in the air. But, that has been sort of rare, for you to actually get a hit off on her. I think this time, you stab at her and she dodges out of the way, and you quickly swing the blade upwards, and you get a hit on her, and even though, like, again, she’s not tangible, I think she falls down. And this is, like, quick, this happens in the span of a second, and she’s laughing as she goes. And she says"
+258,86,Minerva," Oh, Duck Newton, you have been practicing! I see you’re really giving in to the instincts!"
+259,86,Duck," Yeah, I’ve been feeling like I’ve been getting a little bit better, y’know, I’m trying to put in my time and polish up a little bit."
+260,86,Griffin, She says
+261,86,Minerva," Your skills are impressive, Duck Newton, more impressive than I expected them to get, there is a certain amount of… let’s call it “help” that you receive just for being the Chosen One, but it seems like you’ve supplemented that yourself with doing a little… what did you call it, “CrossFit”?"
+262,86,Duck," Yeah, I’m still doing CrossFit, I went back and, uh… y’know, I’m not gettin’ there every week, but I feel like, because of… magic, that’s probably fine. And destiny, y’know?"
+263,86,Griffin, She says
+264,86,Minerva," No, you’re- again, the instinct that you received upon becoming the Chosen One will do you well, there’s no need to overexert yourself. Duck, we only have a few moments, how is it going with Beacon, are you two getting along?"
+265,86,Duck, [sighs] …It’s fine. 
+266,86,[Clint snorts],
+267,86,Duck," It’s fine. You don’t—just so I’m clear—you don’t have any other, like, magical weapons stashed somewhere or anything, do ya? I mean, it’s goin’... fine, but, you don’t—like, I’m pretty locked-in, I assume."
+268,86,Griffin, She laughs and says
+269,86,Minerva," Duck, there’s no way for me to get you another weapon, that’s the only one of its kind on—"
+270,86,Griffin," And then she’s gone. And I think that night, you’re in bed and probably feeling pretty good about yourself, you got some good hits off… why don’t you mark experience? That’s not typically how this works, but I think you did a great job training your bod and your skills, and so I think this would reflect that."
+271,86,Justin," We have to assume— we could say that that’s probably an assumption of, like, since we had a lapse of time, there’s probably a lot of failures in that time period."
+272,86,Griffin," [chuckling] Yes, exactly. [jokingly] Mark 84 experience."
+273,86,Justin," So we’re not playing complete Calvinball, [Griffin Yeah, sure.] we’re making up for lost fails."
+274,86,Griffin," Also because y’all just didn’t get that much experience that first arc, I mean, you probably failed a lot and didn’t tell me, but…"
+275,86,Justin, Didn’t roll a lot.
+276,86,Griffin, Yeah.
+277,86,Justin," We’re gonna roll more, I feel like."
+278,86,Griffin," Yeah, sure, definitely. I think that night, you’re in bed, and you are asleep, and- this has happened to you before, like, you feel it coming on even though you’re unconscious, and- what does it look like? What do your visions look like?"
+279,86,Justin," This is gonna sound like a weird touchstone, but, you ever see, like, rotoscoping? It’s where they animate [Griffin Yeah, sure.] over real people. It’s like that, but, like, a little more monochromatic, a lot of hues of, like, sapphire and green [Griffin I like that a lot.] and stuff like that. But that’s what they look like."
+280,86,Griffin," I think you just see water. And I think you see—you don’t really see any shapes in the water, I think your vision is a little too primitive for that— but you see this water, and it’s dark, wherever this water is, and then you see your body- it’s kind of, like, superimposed in this scene, in that style, and you are face-up, and you are sort of- you look unconscious, and you are falling in this water."
+281,86,Justin, Hmm.
+282,86,Griffin, Ned!
+283,86,Clint, Hm?!
+284,86,Griffin," Ned, whatcha been up to? I think just to set it up, because of the events of the end of the first arc, and I’m not sure if it was clear, what happened there, but the video that Kirby posted was not your Wookie costume, you, like, wandering through the woods, it was the camera still rolling, recording actually Barclay, actually Bigfoot, actually fighting a big monster bobcat that was infected with the monster fluid that made it real big."
+285,86,Clint," But because of Ned’s crummy camerawork, there’s still some doubt."
+286,86,Griffin," Yeah, it is still one of the most convincing pieces of Bigfoot footage that exists out there, and that is why the Cryptonomica has been doing pretty well lately. You have not str—you paid back the missing payments for your lease or mortgage or whatever, and you’re doin’ alright. Not, like, rich rich rich, but, like, you are finally making enough to get by, which is- it’s probably been a long time since the Cryptonomica’s been like that. So, what’ve the last two months looked like for you?"
+287,86,Clint," They’ve been pretty good! …For Ned. He took all that extra money and bought some drones, and, uh… "
+288,86,[Griffin laughs],
+289,86,Justin, [laughing] Sure!
+290,86,Travis, [laughing] What?
+291,86,Clint," Yeah, he bought [Justin Yeah, why not!] some drones, and he’s been cookin’ up a Mothman scam with Kirby. [Griffin Okay.] They had so much success with the Bigfoot video that he bought a couple of drones. And that’s kinda been percolatin’ on the back… "
+292,86,Griffin," Is the Mothman thing you’re doing—just to figure it out—like, you have some sort of paper cutout of a Moth man, that you attach to the drone and just fly it around the town, or… "
+293,86,Clint," Oh, it’s so much more elaborate than that, it’s using a series of lights and phosphorescence and [Griffin Okay.] lasers, there’s some lasers involved. We haven’t really put that into effect, that’s been on the back burner—"
+294,86,[Griffin laughs quietly while Travis talks],
+295,86,Travis," Just to clarify, Ned was super behind on his rent, about to lose the shop, and he gets all this money and he’s like “Cool, finally, drones!”"
+296,86,Griffin, Yeah.
+297,86,Clint," Bought drones, yeah. Well, paid off the rent [Travis Oh, okay.], y’know… money means nothing to Ned, he has no concept of it."
+298,86,Griffin," How’s it different now, doing the Cryptonomica stuff while you actually have, like, a pretty frequent stream of visitors? I think it’s mostly, like, hikers who are maybe, like, doing the trail or… "
+299,86,Clint," Lotta folks doin’ the trail, a lot of folks have been coming into town, it’s- actually, the success of the video has been kinda decent for the town in general. [Griffin ‘Kay.] Y’know, because people have been staying at local hotels and eating in the Pizza Hut, so it’s been kind of a boon for Kepler, it’s still not up there with places like Canaan Valley and stuff like that, [Griffin Sure.] but, you know, it’s helped out. "
+300,86,Griffin," Has there been any friction with you and the—specifically Barclay, I guess, at Amnesty Lodge, for the fact that you put them on blast, kind of?"
+301,86,Clint," Yeah. And not only that, but I don’t think they’re too happy about it, I think there’s some problems."
+302,86,Travis," [crosstalk] I’m gonna say maybe Aubrey has done a little bit of damage control for Ned, to be like “he’s old, he didn’t know! He didn’t know, it was an accident!”"
+303,86,Griffin," Yeah, I don’t think it was, like, a huge blow-up. But I think Barclay was, like, what the fuck, dude, this is like specifically not what we’re going for here. So I wanna do a scene with you, Ned, and I want it to be, like, now; I would like your catch up scene to be kind of now, right as we’re getting into the start of the arc. But, what could we do?"
+304,86,Clint," Well, I have an idea. One of the projects that Kirby and I have been workin’ on is trying to get the local TV station—see, because we’re in the National Radio Quiet Zone, you know there’s no satellite TV, no cable [Griffin Yeah.] But we do have a local TV station that basically is all you have in Kepler WKWV. And they have agreed to let me do a late-night monster movie show, like the old Chiller Theatre. [Justin laughing] Right there at the Cryptonomica, we’re gonna shoot it right there. And Kirby’s gone out and gotten these cameras, and so we’re putting it on Saturday nights. We’re gonna call it Saturday Night Dead, up against Saturday Night Live. And we’re just gonna show scary monster movies, like Roger Corman and all those old great drive-in movies, every Saturday night. And we’re gettin’ ready for the first broadcast, we’re getting ready for the first one."
+305,86,Griffin," Okay. Um, let’s do this at the Cryptonomica. It’s, like, the morning before your first broadcast and you’re talking with Kirby about what you’re gonna do that night."
+306,86,Clint, Okay.
+307,86,Travis," Can we—just to get a little bit more interplay, can we also say, like, ‘cause I think this would be an idea that Aubrey would be—the showmanship, and the thing—she’s not in the scene, but maybe she’s, like, in the background setting stuff up, you know, she’s also there?"
+308,86,Griffin," Um. Yeah, I mean, this is also—is it shot at the Cryptonomica, or is it shot at the TV station?"
+309,86,Clint," Yeah—no, no, shot at the Cryptonomica."
+310,86,Griffin," All right. I think there’s probably some production people there settin’ up some stuff, settin’ up some lights. I think they’re sort of having to move around—there’s probably, like, four or five people there checking out the Cryptonomica, just checking out the exhibits. They wanna see the Bigfoot video—you have a display with the extended cut of the Bigfoot video going, which I think Barclay was kind of uncomfortable about, but it’s bringin’ in the big bucks—and you’re getting set up. And Kirby looks really nervous, he’s like"
+311,86,Kirby," Ned, I know this thing’s happenin’ tonight, I don’t know, uh—I’m not much for, like, public speaking, or being in front of the camera, so, like—"
+312,86,Ned," Oh, no, no, no! Worry not, friend Kirby, because you’re not going to be on camera. [Kirby Oh, thank God.] This is Ned’s time! This is all about me! [Aubrey Ned!] I am the host—"
+313,86,Aubrey, Ned! 
+314,86,Ned, —well— [shouting] What? 
+315,86,Aubrey, Where do you want the candelabras?
+316,86,Ned, The magic candelabras or the regular candelabras? [Griffin snorting]
+317,86,Aubrey," The—I don’t know what you mean, they’re all regular candelabras!"
+318,86,Ned," Well, yeah, but I mean I thought we talked about the gag where you’re going to shoot fire out of your fingers—"
+319,86,Aubrey," O-kay, I’ll just put ‘em somewhere."
+320,86,Kirby, Shoot fire out of her fingers? What are you talking about?
+321,86,Ned," Uh, stage magician. She’s a stage magician."
+322,86,Kirby," Oh, yeah, that’s right."
+323,86,Ned, I thought it would add to the pizzazz of the show.
+324,86,Kirby," Yeah, for sure."
+325,86,Justin," What you just saw there was some really dope, like, ‘hey, Dad fucked up and now I’m gonna burn him’—that was Griffin—and then Griffin was like ‘here’s a burn’ and then Dad was like, ‘actually, twist, I got a answer ready for you’, and Griffin was like ‘aw shit, I’ve been reverse burned!’"
+326,86,Griffin," Yep. And the burner become the burnee. Kirby says, um"
+327,86,Kirby," So, uh, what flick you got on the docket for tonight?"
+328,86,Ned," Ah, great one to start with. It’s called Beast with a Million Eyes. Roger Corman directed it, 1955, oh-ho! Starring the brilliant Paul Birch—and, of course, the second Darren from Bewitched, Dick Sargent. So it’s got an all-star cast. It’s about this family, and they’re on a date farm, and aliens show up. It’s really a piece of shit, people are gonna love it. People are absolutely gonna love it."
+329,86,Kirby," Yeah, it sounds like. I think it’s a good idea, I think it’s gonna bring in business. But I gotta tell you, Ned, I’m a little bit worried, ‘cause we’ve been doing pretty well here for a bit, but the thing about Bigfoot? Folks get kinda tired of these sightings after a little bit. You gotta keep it fresh. So I don’t know if we need to move forward with Operation Mothman or somethin’, but—I’m tellin’ ya ‘cause I see this with the Lamplighter all the time when we get a big scoop on a cryptid in town, and people pay attention, but just for a little bit. So we need to do something if we’re gonna keep this momentum going. "
+330,86,Ned," Oh, listen, the Mothman plan- we’ll definitely do this, this is just publicity, friend Kirby. This is just getting our brand, getting our name out there. I figured whatever we do with the Mothman, we kind of start unveiling it on the show."
+331,86,Kirby, [crosstalk] I like that.
+332,86,Aubrey, [crosstalk] Ned!
+333,86,Ned," Ah, we have exclusive—yes, Aubrey dear?"
+334,86,Aubrey, Do you have more cobwebs?
+335,86,Ned, Yes. Look over there behind the vat that has the giant floating brain in it? The fake brain?
+336,86,Aubrey," Got it, thank you!"
+337,86,Griffin," I think in the middle of this sort of chaotic scene, the bell above the door rings and in walks a young man- you’ve lived here for awhile, you probably- it’s not a huge town, you recognize him as Calvin Owens, the captain of the local high school swim team, and he looks actually pretty shaken up? He sort of stops when he sees the lights being put up and the decorations being put up, but he kind of shakes his head and he walks towards you and he says"
+338,86,Calvin," Hey, are you, um… you run this place, right? It’s, like, this monster museum?"
+339,86,Ned," Absolutely, welcome to the Cryptonomica! When you stepped through that door, you stepped through the arch of doom! Here there be monsters, my friend! And what’s your name?"
+340,86,Griffin," I think whenever you deliver this spiel to people, they usually look kind of delighted? He looks, like, scared. Do you know Calvin or not? I don’t know, like, how deep Ned’s roots in this town—"
+341,86,Clint," Not by name. I mean, he’s a pretty big jock around town."
+342,86,Griffin," Yeah, sure. He says"
+343,86,Calvin," My name’s Calvin, I been in town for awhile, I’ve never been in here, though, but I know that y’all… [sighs] know stuff about monsters? And, what do you call ‘em, cryptids? Here in town."
+344,86,Ned," Cryptids, yes, yes."
+345,86,Calvin," So, like, what do you- what do you do?"
+346,86,Ned," Uh, well, we investigate… there’re a lot of monsters- a lot of cryptids, we call them “bom-boms”, we have a lot of bom-boms [Aubrey Ned!] running through the woods here in Kepler. Yes, Aubrey?"
+347,86,Aubrey, Is “bom-boms” catching on?
+348,86,Ned, Only with me!
+349,86,Aubrey, Okay!
+350,86,Ned," I’m the only one, apparently!"
+351,86,Griffin," Calvin kinda puts his- he does the Adventure Zone NPC symbol where he, like, pinches the bridge of his nose, kinda closes his eyes, and he looks up at you and he says"
+352,86,Calvin," Um… this is the only place I could think to come to, ‘cause… y’all know about monsters and stuff, and so, well, uh… I got a new one for ya."
+353,86,{Commercial break 45,13-5101}
+354,86,Griffin," So the three of you have reconvened at Amnesty Lodge with Calvin in tow. The lobby here is fairly quiet, there’s just a few guests loitering about—not guests, but residents, I guess—loitering about, they’re all in their human disguise, sort of given their uncertainty about the outsider that has come in with you? And Calvin still seems pretty shaky as Barclay enters from the kitchen and hands the four of you each a cup of some strong-smelling cinnamon tea. And after taking a sip of his tea, Calvin says"
+355,86,Calvin," So, uh… I don’t really know what y’alls’ story is, but… look, I’m not a big believer in all the monster stuff that some of the folks in this town are always talkin’ about—sorry, Ned—but I know what I saw last night."
+356,86,Aubrey, What did you see...?
+357,86,Calvin, ...I saw the pool that I’ve swum in every day— “swum”?
+358,86,Aubrey, Swam. Have swam in.
+359,86,Ned, Sssswimmed?
+360,86,Aubrey, Have swam in.
+361,86,Calvin," I mean, I’m the captain of the pool team, you’d think I would know the past tense—"
+362,86,Ned, Say “did laps”!
+363,86,Calvin," The pool I did laps in last night, it came- it came alive? [stammers] I don’t know how to describe it, ‘cause it’s water and I’ve never seen water do that, but… I gotta know… was that real? Do monsters really exist here?"
+364,86,Griffin," And when he says that, I think Barclay, like, kind of locks eyes with… probably with Ned, ‘cause he knows that Ned is the biggest sort of loudmouth in this department, and is making a face at you like [through his teeth] “Don’t! Don’t do it!”"
+365,86,Aubrey," Y’know, um… Calvin, was it?"
+366,86,Calvin, Yeah.
+367,86,Aubrey," No, listen, power of suggestion is very strong, but there’s no such things as monsters. You don’t have to worry about it."
+368,86,Griffin, Why don’t you roll to Investigate A Mystery? That is +Sharp.
+369,86,Travis, So that’s a 7.
+370,86,Griffin," Okay! On a 7-9, Hold 1. You get to ask one of the following questions What happened here?, What sort of creature is it?, What can it do?, What can hurt it?, Where did it go?, What was it going to do?, and What is being concealed here?."
+371,86,Travis, Did he see where it went?
+372,86,Griffin," Probably not. I think- so here’s how this is gonna work, because you’re just having a conversation and this is for, like, hard details, I think he’s gonna tell you, like, what he saw, but if you want actual- and remember, if this is maybe the first episode of Amnesty you’re listening to, the big thing for this game is gathering, like, hard intel on the monster that you are hunting, that you are going to have to use in battle because the odds are usually stacked pretty heavily in favor of the monsters; the only way to get an upper hand is to gather intel and act on it. So I think he’s gonna tell you what he saw [Travis Okay.], but if you want something useful here, it’s gonna be the result of one of these questions."
+373,86,Travis," So I’ll hold onto the question and ask it when I need it. Also, because I’m a Spellslinger, I have Forensic Divination, so when I successfully Investigate A Mystery, I also get to ask the question “What magic was done here?” as a free extra question, that might be better directed towards someone like Barclay?"
+374,86,Griffin," Hm… yeah, I mean, so the other thing about this is that the information can only come in the context of like, what you’re getting it from or who you’re asking. [Travis Yeah.] And so like, Calvin’s not a fuckin’ wizard… um… or is he?"
+375,86,Travis, [Gasps]
+376,86,Griffin," No, he’s not. "
+377,86,Justin, Twist. 
+378,86,Griffin," So I don't know how much, so, I, yeah, I think that’s a good impulse. He’ll sorta tell you what happened and then you can ask one of these questions for some hard intel, keeping in mind that like, he only knows what he saw. So, he says"
+379,86,Calvin," Alright, last night I snuck into the Kepler High pool, and I was doing some laps. We’ve got the big meet coming up pretty soon, I was trying to get—"
+380,86,Aubrey, Big meat. [chuckles]
+381,86,[long pause],
+382,86,Calvin," Alright. I was trying to get, you know… tore— ripped, all tore up, um, in my, you know, swimming muscles. And, uh… I don't know, it was late, it was real dark. And, I don't want to brag, but I'm pretty fuckin’ good swimmer, but I… something grabbed me, pulled me under. And I was under for… a while. I was struggling under there for a bit. And I managed to break free of whatever had me, and… you know, I had my eyes open down there. I didn't see nothin’ grabbing me, but I managed to get away. I swam, ran, got up— got up towards the window I snuck in through. I was just about to hop out when I looked behind me and— God, I swear to God, the water of the pool, started to lift up. Like, make a hill in the middle of the pool. And, uh, when I sorta locked eyes with it — it didn't have eyes — when I looked over at it, it started to move over towards me. And then I made my— made my flight. And [crosstalk] got out. "
+383,86,Ned, [crosstalk] The mound of water… you’re saying the mound of water rose up and actually moved.
+384,86,Calvin, That’s what I saw.
+385,86,Aubrey," And Calvin, just— what did it seem like it was going to do? I mean, it pulled you under the water, but it seemed like it was intent on… on hurting you. Yeah?"
+386,86,Griffin, Is this your question? “What was it going to do?”
+387,86,Travis, Yeah.
+388,86,Griffin," Um… he says, um…"
+389,86,Calvin," I— [nervous chuckle] I don't know, but it was moving towards me there at the end, and it tried to drown me. I think it was gonna try and… kill me. I— [stutters] I didn't, you know, talk to it. "
+390,86,Aubrey," Calvin, can you excuse me for just one second?"
+391,86,Calvin," Uh, yeah. "
+392,86,Travis, And I cross over to Barclay. 
+393,86,Aubrey," Hey, um… I don't know how this usually works, but does this sound like… anything you recognize? And kind of… I don't know, creature or… spell? Is that a thing?"
+394,86,Griffin," He, uh, he kinda walks you over to, like, away from the place, a little bit. I think he’s a little nervous about having this conversation anywhere near Calvin. And he says—"
+395,86,Justin," I'm gonna… we can wait till afterwards, but upon seeing this, like, I start talking to Calvin as well. I have some stuff I wanna say to Calvin. So—"
+396,86,Griffin, Okay. We’ll—
+397,86,Justin," That is happening concurrently to alleviate any, uh, concern of Calvin overhearing— overhearing what they're talking about. "
+398,86,Griffin, Okay. Barclay says
+399,86,Barclay," I mean… some sort of, like, [sighs] unnatural thing tryin’ to kill somebody, it’s— it's definitely an abomination. Just, like… it’s, like, a couple days early, Aubrey. It shouldn't— it shouldn't be here yet. We— we still have a couple days before it was supposed to show up. They— [sighs] they've been acting a little more erratic and… unpredictable over the last year or so. They— they've abided by certain rules for decades but now they're starting to bend ‘em. But yeah, I'm pretty sure this is… that's our mark. "
+400,86,Duck," Calvin, uh, let me bend your ear for a second."
+401,86,Calvin, Yeah.
+402,86,Duck," You know me. You know, uh, we’ve known each other a long time. I went to school with uh… with your dad, actually. So, we— we— you know that we're not, sorta crime fighters or police officers or anything. I know the uniform can be a bit misleading, but what we do do, is, you know, you asked about us. We’re kind of… enthusiasts… uh, into this sorta… cryptozoological world. You know that weird stuff happens here in Kepler. And, uh— ‘Cause Ned’s got his sort of interests, and Audrey’s got hers, and I— I’m— I’m interested in like, creatures and stuff, and Audrey’s interested in magic, and Ned likes to keep track of like, the… how people make up monsters and stuff. They call ‘em cryptids, but—"
+403,86,Calvin," I’m not making this up. [nervous laugh] Oh, God. "
+404,86,Duck," Oh, no, I know, I know, I know, I know, no no no, I understand. What I'm tellin’ you is… we have… weird stuff happens in Kepler, right? Like, that won't come as a surprise to you. We all know it. And uh, but— but sometimes people who have ill intentions like to use that to try and cover up… whatever, you know, dark stuff they wanna get up to. So— ‘cause we know about… the sorta… cryptozoological stuff. We're interested in it. Sometimes we’ll just like to help out, poke around, poke a few holes, and make it a little bit easier for the real heroes, you know, to kinda do their— do their job. And, ‘cause usually you— you know, you start to see it unravel pretty quickly once we start pokin’ around. You know, somebody’s using a ShopVac, you know, to make stuff move or whatever. People got all kinds of tricks. [crosstalk] But, uh—"
+405,86,Griffin," [crosstalk] So I think— So I think what would be cool here is if we did a roll. There's Manipulate Someone, and I think we can do this— uh, once you've given them a reason, tell them what you want them to do and roll +Charm. I think what you're doing is trying to like, assuage his fears so he’s not gonna like poke— poke into, like, what you all are doing."
+406,86,Justin, Yes. Exactly. 
+407,86,Griffin," And the— the reason you're giving them is that, you know, “it’s all good here, there’s no— there's no monsters [crosstalk] “we— we’re a team that sort of investigates…” "
+408,86,Justin," [crosstalk] I’m also trying to like, lay down a cover [Griffin Yeah, for sure.] that he can— he can tell other people in case, you know… he needs to."
+409,86,Griffin," Um… so I think roll +Charm, and I think the stakes here are Calvin’s sort of… continued interference into this thing."
+410,86,Justin," Okay. Roll +Charm. [pause] Aha, 9+1, that's a 10."
+411,86,Griffin," Ah okay, then they do it—"
+412,86,Justin," Consider yourself manipulated, Calvin. "
+413,86,Griffin, They do it for the reason you give them. Uh… I think he— I think he just looks relieved. And he's like
+414,86,Calvin," Alright. Yeah. I was starting to think it was a little silly. I— I— [sighs] I dunno, maybe the jets kicked on too hard and there were… It would make me feel a lot better if y’all would go— go, you know, look— look around, but I don't know, you seem like you’re not full of shit on this, so I’ll— I guess I’ll drop it."
+415,86,Griffin," And he looks— I think he looks, for the first time since, like, you all have been talking to him, he looks like he’s calmed down."
+416,86,Duck," And— and listen, you don't need to go, don't— we’ll pass this all along to the— the— Zeke and the boys over at the… sheriff’s office. [Griffin Fuckin’...] Just let us poke around into it—"
+417,86,Griffin, [crosstalk] Fucking character list is getting…
+418,86,Duck," [crosstalk] And we’ll, uh, and we’ll just poke some holes in this whole… you know, water thing and find out what’s really goin’ on here. And, you know how those guys don't like to lift a finger, so we’ll kinda wrap it up in a nice little bow for ‘em… And drop it off at their office. My metaphor’s gotten away from me. "
+419,86,Calvin," Yeah, a little bit. "
+420,86,Duck, You know what I’m saying. 
+421,86,Clint," Mr. Keeper? Are any of the accumulated, uh, residents of Sylvane there have a medical background?"
+422,86,Griffin," Uh, no, I don't think so. I mean, there's werewolves, and vampires, and a ghost… um, and so they have magical backgrounds, but no medical ones."
+423,86,Clint, Well I just wondered if it would behoove us to take a look at Calvin’s ankle where he was grabbed.
+424,86,Justin, Hmm!
+425,86,Griffin, Interesting… Um—
+426,86,Clint, Well I mean it was the only physical contact that [crosstalk] he had.
+427,86,Justin," [crosstalk] Yeah, and obviously none of us are going to have the expertise to derive anything from it. "
+428,86,Clint, Bar— Barclay [pronounced “Bar-clee”] might. [confused] Bar-clee might?
+429,86,Justin, Yeah. 
+430,86,Griffin, Bar-clay. It’s not— it's not Charles Barkley. He shows up in Arc Four. 
+431,86,[Justin laughs] ,
+432,86,Clint," Oh, I was thinking Barkley from the, uh, from Sesame Street. "
+433,86,Griffin," Why don't we, uh, why don't you roll to Investigate— like, you can just do it, right? And that way we all sorta get a hand on the— on the ball in this scene."
+434,86,Clint, Okay. Um… eight plus what?
+435,86,Griffin, [crosstalk] Sharp. Yeah.
+436,86,Clint, [crosstalk] Sharp? Then that's a ten.
+437,86,Griffin, That’s a— you have +2 Sharp. Wow.
+438,86,Clint, Yep. 
+439,86,Griffin," Uh, okay, on a 10, Hold 2. You get to ask two questions. And I think we, sort of resolve this thing here with maybe… um… “What can it do?” Or…"
+440,86,Travis, “What happened here?”
+441,86,Griffin, “What happened here?” Something like that.
+442,86,Ned," Listen, Calvin, I know it sounds a little weird, but, uh… I am quite an aquatic… fan."
+443,86,Travis," Like a swim— like a Swimfan, you might say. "
+444,86,Ned, I’m a swim fan— wait no.
+445,86,Griffin, [laughing] I’m going to— I’m gonna murder you! 
+446,86,Ned," I have a Michael Phelps poster in the Cryptonomica in the back back back back back back back back room, but uh… could I maybe take a peek at, um, at your— your ankles? You know, a lot of power [crosstalk] derives from the kicking… "
+447,86,Travis," [crosstalk] Hey, Dad, I just wanna say, thank you for making this as creepy as you possibly could in like [Griffin Yeah, sure.] thirty seconds. I really appreciate it. "
+448,86,Griffin," I think you've been— I think you've seen him sort of walk favoring one of his legs. Um, and… sort of put it together like that. And he says "
+449,86,Calvin, [hesitant] Um… yyyes? 
+450,86,Griffin," And he, uh, he rolls up his— his pant leg and props it up on the table. And you look at his ankle and there is like a mark there. It's not like a handprint or anything like that. Um… it's just kind of— it's just kind of… sort of a red, uh, area, I guess, is the only way to describe it, that wraps around his— his whole ankle. And I think what you sort of glean from that is like, he was not  necessarily grabbed by a… by a hand, necessarily."
+451,86,Ned," My second question… You said you opened your eyes and you looked when you were under the water. Now I realize… you probably didn't see much but did you see anything at all. I know, chlorine, I know, kills me too, but did you see anything in the water at all?"
+452,86,Griffin, Is this “What sort of creature is it?” 
+453,86,Clint, Okay… I guess it's “What happened here?” I wanna know what he saw… if he saw anything.
+454,86,Griffin," Yeah, I think it's one of those two. This is your— this is the second question, so I guess it's six of one half dozen of the other. He says, uh"
+455,86,Calvin," I, uh… I didn't have my goggles on, unfortunately. I was taking a little breather when it grabbed me. But um… I don't know, Ned, it was pretty dark and it was underwater, I didn't have my goggles on and… I'll tell you what though… there was some moonlight comin’ in, the moon was real bright that night, and— and so like, that was sorta what I was swimming by. But when I was under there, I feel like I saw, like… a different light. Not moonlight, it was kinda… [sighs] I saw it for like, a half— a millisecond, but, so this ain't gospel, but it was like, yellow light, under there? [crosstalk] Um… I thought maybe they had changed—"
+456,86,Aubrey, [crosstalk] Like… like bioluminescence? Phosphorescence?
+457,86,Calvin," No… No, just like a, not like a… you know, I wasn't grabbed by an electric eel or anything like that. It was just— I thought somebody had changed the pool lights out, put in some different bulbs or something. But the bulbs— the lights were out. There was some sort of yellow light under there. I don't know. That's— thats what I saw. "
+458,86,Clint, Damn you Sinestro!
+459,86,Travis, [crosstalk] That is such a dorky joke. 
+460,86,Griffin, [crosstalk] I don't know what you're—
+461,86,Travis, [crosstalk] I love it!
+462,86,Clint, [crosstalk] I know.
+463,86,Griffin," And I think with that… uh, I think… Calvin, uh, says"
+464,86,Calvin," Uh, [sighs] so y’all are going to look into this… right? I'd feel a lot better just knowing that something— the meet’s coming up in four days. I don't want folks… you know, gettin’— gettin’ pulled under or killed by some sort of living pool or something while— while the competition’s taking place. So if y'all would look into it, it would really help me sleep a bit better tonight."
+465,86,Ned," Yeah, absolutely. The Chicaners will be on the case!"
+466,86,Duck," Now, I'm still not sure about that one. Um… the Chicaners. Nah, it's just us three people, gonna go check it out. "
+467,86,Ned, We’re the Chicaners! 
+468,86,Duck," We don't even really have a team name, Calvin."
+469,86,Ned, But Chicaners would be cool.
+470,86,Duck, Well… [smiling] the Chicaners… or just three… [crosstalk] people. 
+471,86,Ned, [crosstalk] Get it on a jacket— get ‘em on a jacket.
+472,86,Duck," Well, I already have—"
+473,86,Ned, The Three Chicaners! The Three Chicaners?
+474,86,Duck," I already have a jacket, [Ned continuously trying to interrupt] and we may add other people or one of us might beef it, so we don't wanna hang our hat on the number of people and also we [crosstalk] are just three regular people, [muttering] with similar interests."
+475,86,Ned," [crosstalk] Yeah, but for spring, you know, something lighter, like a windbreaker kinda thing. "
+476,86,Duck, I got— got that too.
+477,86,Ned, [disappointed] Oh…
+478,86,Duck," The forestry department issues that to me, so I'm kinda covered on the jacket front. Pretty much any thickness or lining. [Ned Hoodies? Hoodies? Maybe hoodies?] I’m pretty well covered— hoodies I'm not a fan of. ‘Cause of that hat, you see. "
+479,86,Ned," Ah, right."
+480,86,Duck," So maybe for right now we’re just gonna go with three [Ned Three people.] people. Who are lookin’ into it, Calvin. Thanks so much. I’m assuming you’ve left. "
+481,86,[laughter],
+482,86,Justin, The room at this point. 
+483,86,Griffin," Uh, real quick, you mentioned jackets and, uh,  I think you all have received a Pine Guard patch— "
+484,86,Justin, [growling] You will not make the jackets canonical. 
+485,86,Griffin," No, I know, but the jackets. You all have a Pine Guard patch at this point that you, uh, you were supposed to sort of, uh, fasten to the inside of your jacket. "
+486,86,Clint, Does it have to be inside?
+487,86,Griffin," Yes. It’s like a secret thing. You don't wanna go around saying “I'm- I’m part of a team of monster hunters.” I think maybe if you put it on the outside, the first time Barclay saw, you he was like, “What are you— no, inside. It goes inside. For secrets.”"
+488,86,Justin," Duck’s— Duck’s is in his wallet, ‘cause he doesn't know how to sew."
+489,86,Griffin, Okay.
+490,86,Travis," And I will say [Justin But he’s—] Aubrey’s just like safety pinned hers in to the inside of her jacket— uh, her vest. "
+491,86,Griffin, Love it. 
+492,86,Clint," I’ve, uh, got mine in a, um— I'm gonna get a tattoo of it."
+493,86,Travis, That’s—
+494,86,[Justin snorts] ,
+495,86,Griffin," Okay. Do you have it on your person also? In addition to your tattoo? And also you don't have it yet, but you're gonna get around to it?"
+496,86,Clint," Yeah, I've got it, but— he's been really busy [Griffin Yeah, sure.] with the Cryptonomica."
+497,86,Griffin," Um, okay. Yeah, I think Calvin… uh, after this great dialogue stands up and he says "
+498,86,Calvin," Alright, I gotta head out, actually. It's my brother’s birthday, and I’m— I actually snuck outta the house to come here as is, but maybe we can circle back [crosstalk] sometime before the—"
+499,86,Aubrey, [crosstalk] Tell us about your brother.
+500,86,Calvin," He’s a— he’s a doofus. But, um, maybe we can circle back before the swim meet and I can find out what y'all found out? "
+501,86,Clint, Tell me Calvin’s last name is Hobbes. 
+502,86,Griffin," Uh, it’s Owens."
+503,86,Clint, Crap.
+504,86,Justin, Owens… 
+505,86,Griffin, Named after listener Calvin Owens. Thank you for Tweeting about the show. He asked if you can circle back up before the meet. 
+506,86,[pause],
+507,86,Aubrey, Yes.
+508,86,Justin," Uh, it's a problem when we— any one of the three of us can answer [Griffin Mhmm.] you just kinda— there's this weird like, “well, I know if I say it now…” It’s like this math you do where, like, with each second that passes the likelihood of someone else answering becomes higher. [Clint laughs] So you don't wanna like, step on anybody, so we just like, fall into a circle of— of not being able to answer. "
+509,86,Duck, Yes. We will. No problem. 
+510,86,Griffin," Uh, and Calvin… stands up and leaves the… leaves Amnesty Lodge. Um, and with that I think Barclay walks over to the seat he was sitting in and sits down and he says"
+511,86,Barclay," [sighs] Alright. I guess it's, uh… I guess it’s a workday. We, um… should probably start our investigation. If this thing showed up, we can assume the clocks starts then. We got… you know, we got— we got about a week before it's able to leave Kepler, so we need to find out what it is and take it down before it does. So… I gotta, I gotta stay here, ‘cause I—"
+512,86,Aubrey, Could you make us some lunches?
+513,86,Barclay," Yeah, of course I can make you some lunches. That’s my— [Aubrey Sick.] that's my jam. But, you know, Mama ain't back yet, so I gotta, you know, hold down the fort here. Are you three good to—? I know you— I don't know how well you been keepin’ up with your practice and stuff. Aubrey, I know you've been going out back and we've been shooting some fire at some shit, but y’all— y'all feel alright about tackling this one on your own?"
+514,86,Aubrey, Sure!
+515,86,Ned, Go to a swimming pool? Yeah.
+516,86,Duck," I just got one question. Um… one of my partners has a real heavy stick that he clobbers stuff with, I got a sword, and my other partner shoots fire out of her hands. How the hell do we fight water?"
+517,86,Barclay," Duck, I… I don’t know. That's the— that's the job. One of the— one of the tricky things about this gig is we don't get repeats. There's not a lot of, uh, sort of institutional knowledge that comes into play here. I've never seen a water monster come through. So you're gonna have to figure that out on your own. But I think a good place to start is maybe heading to the scene of the attack last night and seeing what you can find out there. Obviously be careful, you don't wanna fight until we know how to kill it. And for God’s sake, whatever you do, don't— don't get in the water. Um… but I think if you head to the pool and— and see what you can see, it might be a, sorta, good place to— good launch pad."
+518,86,Duck, Alright. 
+519,86,Griffin," Um… and he— he stands up and I think he picks up the empty cups of tea and puts them on a tray, and he says"
+520,86,Barclay," And listen, I— I appreciate you not telling Calvin the truth of the matter and… you gotta keep this stuff secret, Ned. You gotta— it’s— it is so important, I mean to all of you, but I'm talking to Ned specifically here because he can't seem to, um, you know… shut up about it. It’s… humans have a long history of freakin’ the hell out when the find out about Sylvane. And that usually ends with them coming over and causing a ruckus. The night that you three found out… that was an anomaly. It is of the utmost importance that no one else gets clued in. Okay?"
+521,86,Ned, My friend… Discretion is my middle name.
+522,86,Barclay, I thought your middle name was Fuckin’?
+523,86,Ned, Ned Fuckin’ Discretion Chicane!
+524,86,[laughter],
+525,86,Ned, That’s me! Junior!
+526,86,Griffin," And I think with that the door to Amnesty Lodge… uh, opens and shuts and a… uh, a man walks in, a tall, sort of handsome, very neatly dressed man walks in. He's wearing a suit. Um, and kind of eyes the place over and sort of nods at one of the guests with kind of a friendly demeanor. And he walks over to the four of you and he introduces himself. He says"
+527,86,Man, I’m looking for Ned Chicane. Proprietor of the Cryptonomica? I was told by his associate Kirby I could find him here.
+528,86,Ned," Hm! What, uh, what do you need jolly old Ned for?"
+529,86,Griffin," Uh, he, I think he sees you, Ned, and just like, deduces “oh, that's Ned.”"
+530,86,Ned, Damn.
+531,86,Man," Mr. Chicane, my name is Agent Stern, FBI. At your earliest convenience, sir, I would just love to see your Bigfoot video."
+532,86,[Theme music (The Adventure Zone, Amnesty Theme by Griffin McElroy) plays]
+533,86,{1,1312}
+534,86,[Next episode],

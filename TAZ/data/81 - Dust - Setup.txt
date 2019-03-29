@@ -1,0 +1,1504 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Travis McElroy
+Errol Ryehouse: Griffin McElroy
+Augustus Parsons: Justin McElroy
+Gandy Dancer: Clint McElroy
+
+
+Episode 81 - Dust – Setup
+(part of TAZscripts on Tumblr)
+
+
+[Theme music (The Adventure Zone: Dust Theme by Griffin McElroy) plays]
+
+
+Griffin: Walk us in, Trav.
+
+
+Justin: Take us out, cap.
+
+
+Clint: Let’s go!
+
+
+Travis: Roll for initiative. 
+
+
+Griffin: Roll that beautiful bean footage. 
+
+
+Travis: Roll your balls!
+
+
+[laughter]
+
+
+That’s a reference that only people who I think went to the Pub and Family Fun Center in Huntington, West Virginia would get.
+
+
+Griffin: Yeah.
+
+
+Travis: Hi, welcome to the first episode of the Adventure Zone: Dust.
+
+
+Griffin: Mmm, I can taste it, I can taste the dust in my mouth.
+
+
+Travis: Dust.
+
+
+Justin: Egh, eh, ugh, god.
+
+
+Travis: It’s a double entendre, because one, it’s taking place in the dusty old west. But two, in the context of like ashes to ashes and dust to dust, it begins with a murder.
+
+
+Clint: Dun-dun-dun.
+
+
+Justin: I love this part of any fiction. My favorite part is the first paragraph of The Stand, where Stephen King is like, “This book is called the Stand, because later in the book some good people will take a stand against bad people.”
+
+
+Travis: Get it?
+
+
+Justin: Get it? Anyway, on with the story. [laughs]
+
+
+Travis: This is how the prologue of any good story begins. Let me tell you why I picked this title. Hi, I’m Travis. So this is… 
+
+
+Justin: It was the best of times, it was the worst of times, there were two cities, and this is the story of them and how they did their thing. [laughter]
+
+
+Clint: This is their tale.
+
+
+Travis: Alright, if we’re done with all the fun and games, let’s play some games.
+
+
+[crosstalk]
+
+
+Justin: There’s a little orphan later in the story, he shows up soon. His name is Oliver Twist, and this book is about him, or…
+
+
+Griffin: You’re going to love him.
+
+
+Justin: You’re going to love his whole thing.
+
+
+Travis: He’s a real rascal. 
+
+
+Justin: He’s a rascal.
+
+
+Clint: And he doesn’t believe in Christmas. 
+
+
+Travis: Wait, Oliver Twist doesn’t believe in Christmas? 
+
+
+[laughter]
+
+
+Griffin: Yeah, it’s all part of the same universe.
+
+
+Justin: What?
+
+
+[Clint laughs]
+
+
+Travis: So Oliver Twist grows up to be Ebenezer Scrooge?
+
+
+Griffin: Yes. Absolutely. Travis, will you please tell us about the adventure.
+
+
+Travis: Yes, so, to start off with, a little more background. So originally I talked about creating my own game system for this. And then what I learned was that’s really fucking hard. [laughter] There are people who work for years and years and years and they only do the one thing, and still then they play test that for years and years after that, so…
+
+
+Griffin: I wanted to believe in you and nurture that flame, but there was an element of hubris to you saying, “Yeah I’ll just make my own.” It’s like, but this a hard— it’s an extremely hard thing.
+
+
+Travis: Well ‘cause then I started to think, like, well what if they want to do this? And I was like man I don’t know. So then instead I set out to look for it a game system preexisting, and I realized lly really liked the Powered by the Apocalypse: Monster of the Week that we’d been doing for Amnesty. So at first I started off thinking about that, but then the problem was Monster of the Week, as the name implies, builds to like fighting a big monster in each arc. And that’s not really what I had in mind for this, and so I started looking for other versions of Powered by the Apocalypse. And what I found is a game system called Urban Shadows.
+
+
+Griffin: We should really drive home, 'cause I feel like on paper it may sound like this going to be kind of a similar thing, because Urban Shadows has a lot of, like, monster-centric stuff in it, but really a cursory look at the two systems, and their genre, and the rules, and the focuses of the different game— the foci— they could not be more different.
+
+
+Travis: Yeah, you’ll hear some of the same terms, like the same of if you roll, you know, as 2 to 6, or a 7 to 9, or a 10 to 12, that kind of thing. And like adding one to roll, you’ll hear a lot of the same terminology. But Urban Shadows really, so, originally the one thing I knew right off the top of my head when thinking about an arc is I wanted it to be based around the interactions of vampires, werewolves, and humans, not as, you know, monsters versus hunters. But more as like people who didn’t see eye-to-eye and get along. And that there was tension between them, not like one hunts the other, but just like as they passed each other in the street there was tension. So what’s great about Urban Shadows is, that’s what it is. So Urban Shadows, the driving kind of mechanic is Factions. And the other driving force in Urban Shadows is Debt. So the way it works is if you do something for someone and both players, or the MC and the player, agree that that is worthy of a Debt, that person then owes you something that you can call in, and they either have to do it or risk taking a penalty if they refuse to honor the debt. And so…
+
+
+Griffin: And all that stuff is tangible game mechanics.
+
+
+Travis: Yeah.
+
+
+Griffin: Like these are numerical values that you add to, like, critical rolls.
+
+
+Travis: So it’s so much more about the interpersonal interactions and connections than it is about fighting. And on top of that, what I really love is that unlike D&D, and I would also say, Fate and Monster of the Week, this is really kind of ready for player vs. player disagreements and conflict. So, like, you don’t have to get along. And in fact, the start of every session begins with the MC asking each player, “Which character does your character distrust the most.” So it’s all about, like, not necessarily getting along, you can still all be working towards the same goal, and still work together. But the idea that you’re just, like, inherently friends because you work together is just not really the way it always works. 
+And so I just love, I think, the interactions, the mechanics, but also the characters and the setup feels very different to me than any of the arcs we’ve played so far. So I’m really looking forward to that. Here’s what I want. This is not, as Griffin pointed out the other day, my goal here is not to be grimdark. It’s not like everybody’s so super broody and nasty to each other and filled with hate. It’s just more tense, you know? Like, for example: a lot of times in Balance we would, you know, kind of goof with like, the player characters would make a joke to an NPC that if you said to someone in real life would offend them, or like make the conversation go pretty south pretty quickly, but we rolled with because we were joking, right? And I think that that’s gonna be a little different in this, because it’s so about interpersonal interactions that if you’re trying to get information from someone and you make a joke about their, you know, the way they’re dressed or something.
+
+
+Griffin: Their voice, or their shiny bowtie.
+
+
+Travis: Right.
+
+
+Griffin: Or how they waste spell slots.
+
+
+Travis: That’s gonna be, they are then going to be less willing to give you the information.
+
+
+Justin: What if it’s a very funny joke?
+
+
+Travis: Well that’s the thing, I’m not saying you can’t joke. I just think, use it as a resource, you know what I mean? Where…
+
+
+Justin: Aren’t you penalizing me for trying to make our comedy podcast funnier, then?
+
+
+Travis: Yes. That’s what this…
+
+
+Justin: ‘Kay, good. Folks, these arcs are limited, I just wanna remind you. Just a few episodes of the [incoherent] that’s intentionally not funny.
+
+
+Travis: Well you know, humor’s different for different people, Justin. [Justin laughs] Maybe some people will find it funny that I penalized you for making a joke. That would be funny to me, I will enjoy that moment. So that’s the thing, I don’t want it to sound like, “I’m gonna make this dark and no one’s gonna have fun.” But it’s more, like, it’s just a little grittier. It’s a little more western-y, you know? I don’t want it to be as lighthearted but I’m also not trying to depress everyone with this. I’m just trying to be a little bit more realistic in the interactions that y’all have with each other and with the players, with the non-playable characters. So Griffin you’ve done this more times than me, what else do I need to tell people about this?
+
+
+Griffin: Well, I mean, as long as we’re talking about tone we should address kind of the elephant in the room of interpreting and incorporating like real-world wild west sort of... social issues? Which is something that I think you’ve been very thoughtful of while sort of... crafting this.
+
+
+Travis: Yeah, so in preparation for this arc, you know, I thought a lot about the wild west and, historically, what life would be like as far as like the social issues and incredible, massive amounts of racism and misogyny that would be present. And, you know, I saw a lot of people when I talked about doing the old west kinda arc and they were made uncomfortable by that concept, and you know what? So am I. And I don’t mean uncomfortable like I didn’t wanna discuss it, or that I wanna pretend like it didn’t happen, but more so is that I’ve seen from a lot of people that this show is an escape for them, and we—
+
+
+Griffin: We try our best to make worlds that are inclusive and not filled with rampant racism and misogyny, even though that was sort of the case back in the wild west. Like, rubber hits the road, I don’t want to be interacting with racist and misogynist NPCs and I don’t think that the listeners necessarily want that either.
+
+
+Travis: Yeah, so this is going to be a world inspired by, designed after, but not actually... the old west. So, it’s not set in our world? And I think that that also tracks because our world doesn’t have vampires and werewolves and demons and ghosts, that we know—
+
+
+Griffin: That we know of! Haha, okay—
+
+
+Travis: I’m glad we went to the same place, alright!
+
+
+Griffin: Another thing that we talked about is not — ‘cause this is another sort of problematic trope that pops up whenever you do supernatural drama stuff like this — is treating relations between different supernatural things like vampires and werewolves as an allegory or a parallel to racism, which is I think pretty dismissive of very serious and very real problems that people deal with day to day, and that is also not what we’re doing. The way I’ve heard you describe it is like, this is about sort of families—
+
+
+Travis: Yeah, cause this is way more Hatfield and McCoy. This is like the Blackwells run the copper mine, the Mathises run the silver mine, so they’re competing business interests, they both have pretty equal areas of the town they run, and it’s really, and I’ll get into this when I intro it, but it’s really this town is on the decline. And so there’s all this tension that just comes from that?
+
+
+Griffin: Yeah.
+
+
+Travis: So it all comes down to like, the families don’t like each other and because these families don’t like each other, the factions have naturally split into the people who side with each family. So it’s not necessarily, like, the entire race of werewolves in this world we’ve created and the entire race of vampires don’t like each other, it is specifically these two families, y’know? And how they interact? Cause that’s the thing, and what I love about Urban Shadows is that it gets down to, like, how individuals interact with each other.
+
+
+Clint: And as the only one of us who was alive back during the wild west, [someone snorts] I think it’s a good choice, a good choice.
+
+
+Travis: So! Let’s talk a little bit more about the world both of Urban Shadows and specifically the town of Dry River, which is where we’ll be playing, so Dry River—
+
+
+Griffin: Now how’s a river get dry? 
+
+
+Travis: Well, we’ll talk about that in the course of the show. And so, Dry River is in the Crescent Territory — originally the Crescent River, now the Crescent Ravine — it’s this kind of unincorporated territory. And so one of the things about Urban Shadows is you’re dealing with kind of power struggles and it’s kind of originally, Urban Shadows is kind of built to be in like a big city, and in fact the book encourages you, like, you can use real cities if you want or create your own! So you can set it in like Chicago or you can create your own world.
+
+
+Griffin: I mean it’s called “Urban Shadows,” it’s not called “Rural Old-Timey Shadows.”
+
+
+Travis: Right. And so rather than just have kind of this individual town of like a thousand people, I’ve created a territory — think more of like a state — so all of them are very connected, so there’s like mining interests and criminal organizations that kind of thrive in this unincorporated territory. So rather than thinking like “city,” I’m thinking of it more as like a territory. And I worked with Brendan from Magpie Games who makes Urban Shadows to kind of make sure I wasn’t breaking the system at all with this, and so like we talked about connecting these and making sure there were still these power systems of, like, the workers versus the mining owners, the criminal organizations versus some kind of law-keeping body, and so making sure that there was still something to push against for all of these different people and factions and that kind of thing. Because otherwise it’s just chaos, and that’s not as interesting.
+So yeah let’s talk a little bit about characters and what they mean. So a lot of the archetypes you’ll see is the same in, like, listen as I flip through my giant RPG binder, you’ll see a lot of the same kind of archetypes as there are in D&D, and Monster of the Week, and even some similar ones in Fate. Do you boys want to tell me about your characters? Or do you want me to go through some of the basic archetypes?
+
+
+Griffin: It’s worth mentioning that the archetypes are divided into the four factions which are, what is it? Mortal, uh…
+
+
+Travis: Yeah, so it’s Mortality, Night, Power and Wild. And so Mortality is like you’re human hunters, or you’re aware. So aware is like they know something’s going on, but they don’t have any inherent skills. So they’re like, they keep their eyes open, they can tell you about stuff they saw, they’re well researched but without any, like, inherent fighting abilities. So you have, like, your aware hunter veteran mortals, right? And then your Night, that’s where you get your vampires, your werewolves. And then in your Power that is someone who has taken on power. So like an oracle or a wizard. And then in Wild that’s where you get, like, your tainted, who are in league with demons. Or fae, who are like these, you know, these fairy creatures. And so if you’re in those factions you inherently get along better. 
+So another interesting thing about Urban Shadows that makes it really great for storytelling is it gives you a lot of the big points? You know, like, this is a vampire, this is what they can do. This is a werewolf, this is what they can do. This is someone who’s tainted with demon, this is what they can do. But as far as the, like, supernatural lore, it leaves a lot of room to fill in, right, so for our story vampirism and lycanthropy are hereditary. And so there are vampire families and werewolf families, and it’s not about being turned, it is genetic. So, like, if you have a werewolf parent and a human parent, they are codominant genes, so it’s fifty fifty chance the child will be a werewolf. If you…
+
+
+Griffin: Can you— in this world— Can you still turn somebody? Or is that just, like, not how it works?
+
+
+Travis: I think that it’s not how it works unless, you know what I mean? ‘cause when we’re talking about there are wizards, there are fae creatures, there are demons, I don’t want to rule anything out.
+
+
+Griffin: Okay.
+
+
+Travis: Because depending on the person…
+
+
+[crosstalk]
+
+
+Griffin: Most of them were born into it, is what you’re saying.
+
+
+Travis: Yeah, but that genetic mutation had to start somewhere.
+
+
+Griffin: Okay, excellent.
+
+
+Travis: You know what I mean? 
+
+
+Griffin: Dracula. It started with Dracula.
+
+
+Travis: It had to start with Dracula. So yeah, so and a lot of that also, that’s about the only decision I’ve made. And then past that when we’re creating characters I’m probably going to ask you questions. Like, “So how does it  work as far as this?” and you will help fill in— as the creator of these characters— help fill in the supernatural lore as we go.
+
+
+Griffin: Okay.
+
+
+Travis: So I think we danced around it long enough. Why don’t we start. Uh, Justin, do you want to tell me about your character?
+
+
+Justin: Sure, I’d love to, Trav.
+
+
+Travis: Then please do!
+
+
+Justin: Well then I will. Here it comes.
+
+
+Travis: Okay. Fine. Do it. Coward.
+
+
+Clint: Okay, Justin, your turn.
+
+
+Griffin: What’s wrong, baby? You scared like a baby?
+
+
+Justin: My turn is starting now. I am playing, which it seems predetermined considering our lives at this point, I am playing a ghost [Clint laughs], whose name is Augustus Parsons. Now, did I realize when I picked the name Augustus that it sounds like “a ghost”? I did not. [laughter]
+
+
+Travis: Okay, I did not put that together. Thank you so much. 
+
+
+Clint: “A Ghost Us.” That’ll be the name of your clothing line.
+
+
+Justin: That is what, that is where we find ourselves. He is the, was the boss, chief executive officer, of the Augustus Parsons Cashew Company. And he was an industrial magnate who died through mysterious circumstances. And he is trapped here on Earth, and he was a very, he was not a good person. He was a bad person, as many wealthy industrialists are, I guess. Just like all of us, there are good and bad. But he is trapped here on earth, and the way Travis and I kind of talked about it is... that this sort of agency or what have you that we are a part of, he is bound into service to them to make up for the wickedness that he did during his life.
+
+
+Travis: Now as far as that goes, J-man, is it like once he’s ticked enough boxes? Or is it just, like, there is no predetermined…
+
+
+Griffin: What’s that fucking show you guys reference all the time that nobody’s ever watched? The 99 deeds of... what’s-his-face?
+
+
+Clint: Oh yeah, where he had to save a hundred souls, or 99 souls?
+
+
+Justin: The 100 Lives of Black Jack Savage, my friends. The 100 Lives of Black Jack Savage, was a hit.
+
+
+Travis: You could also relate it to Cupid with Peremy Jivens, where Peremy Jivens had to get a hundred couples together.
+
+
+Griffin: Let’s not— let’s not make that the anchor.
+
+
+Travis: Okay, we’ll stick with 100 Lives of Black Jack Savage.
+
+
+Justin: So anyway…
+
+
+Griffin: Yeah, it’s much more relatable.
+
+
+Justin: It’s nothing finite, because I don’t think, I think that that would imply that if he could somehow balance what he did in his mortal life, I think that the deal is much more ephemeral than that. He assumes that he will be released at some point, but he doesn’t have, like, a meter.
+
+
+Griffin: I can’t wait to hear—
+
+
+Justin: Salvation meter.
+
+
+Griffin: I can’t wait to hear what kind of sins that really hard-nosed cashew business requires for folks to get ahead.
+
+
+Travis: You wouldn’t believe it, it’s nuts.
+
+
+Griffin: Ah Jesus... God…
+
+
+Travis: See, there’s still jokes!
+
+
+Griffin: Yeah, there’s still gonna be jokes and it’s all gonna be sort of nut/cashew-based humor.
+
+
+Justin: The main reason that he— when you create a character, a Spectre, there’s questions you need to answer. Who are you? Check. Who do you still love? I still love my cashew company. And that is something that I’m still very preoccupied with. I’m thinking a lot about how the business is being run, and I’m like trying to keep an eye on the business while I also slam evil as a phantom once instructed us to— 
+
+
+Clint: Aw man, it’s like Undercover Boss!
+
+
+Travis: Sure?
+
+
+Griffin: It’s a lot like Undercover Boss.
+
+
+[crosstalk]
+
+
+Travis: Is the cover he’s under a bedsheet with the eye holes cut out?
+
+
+Justin: Yeah, invisible boss. He also has a daughter that he was not a, this will come as a shock, he was not a great father in his life. His daughter’s name is Anna Cardiem Parsons, and she is in the care of — Travis, sorry, you texted me the — the Church, sorry, in the care of the Church. So he can’t necessarily— I think that like, it is unpleasant for him to sort of check up on her, that being a church and it being a lot of— it’s sort of like a weird vibe for a ghost I think to hang out in? So—
+
+
+Clint: Except for the Holy Ghost.
+
+
+Justin: Yes, okay, the Holy Ghost and Jesus Christ of course are permitted within the church.
+
+
+Travis: The Church is like the church body, y’know what I mean, so it’s not like a specific building, but more of like the governing church body in this unincorporated territory is the Church. Right? So, someone works for the Church, you know what I mean? Think that kind of thing rather than “Oh I’m gonna go to the church!” It’s “ah, he works for The Church.” Right?
+
+
+Justin:  Uh, and— yes, and also because they are providing for the welfare of his daughter, he owes them two Debts. So I don’t know Trav if you want to think of that as like a certain person in the church that he owes two debts to or just the entity itself, I don’t know what makes the best fit.
+
+
+Travis: I would say that for the purposes of this territory spread out, that it is the entity of the Church, you owe two Debts, you know what I mean?
+
+
+Justin: Yeah.
+
+
+Travis: That it’s like the church can call in and maybe they call in— so the organization that you all three are agents of, I’m calling it the Grayson agency, and it’s very much like the Pinkertons if anyone’s familiar with that, where they are kind of detectives/arbiters/muscle for hire. They are not necessarily a law-keeping — they are NOT, not even necessarily — they are not a law-keeping organization, it is bodyguards, for whatever you need. And so you are all agents of that, so maybe it’s like, the Church could call in the debt with the Grayson agency to have you investigate something or a member of a representative of the Church could specifically call in that favor from you. And I have named some organizations of people after listeners: the Grayson agency is named after Grayson Berg. Not any— because some people, I wanted to leave the option that maybe they are bad villain-type people, and I didn’t wanna name—
+
+
+Griffin: Yeah. Yeah, yeah.
+
+
+Travis: —bad villain-type people after our nice listeners.
+
+
+Griffin: You referenced the Pinkertons, and we should probably clear up that we’re not gonna be doing any union-busting in this game.
+
+
+[Clint laughs]
+
+
+Griffin: I think that also goes against the ethos of what we’re going for.
+
+
+Travis: No, no, no. No union-breaking. Cool! So, Justin, couple other questions that go along with the character creation. How long have you been in the territory and with the Graysons?
+
+
+Justin: Five years I’ve been— I mean, the cashew company is in the territory, so I’ve been in the territory my whole life, it’s old money. But I have been dead, I think five years?
+
+
+Travis: Okay.
+
+
+Justin: Sounds about right, so I’ve been with the Graysons five years.
+
+
+Travis: So then how old is Anna?
+
+
+Justin: She is… 12. He’s a bad father, yeah, and that doesn’t magically [Justin laughs] get fixed, ‘cause he’s a ghost.
+
+
+Clint: Well let’s face it, cashews are easy to love.
+
+
+Travis: Cashews are easy to love, so delicious.
+
+
+Justin: What’s the— is there a movie about a ghost that’s trying to be a good dad— Ghost Dad. So he’s not a ghost dad, he’s—
+
+
+Griffin: Jack Frost, Jack Frost.
+
+
+Justin: [laughing] Jack Frost, thank you, that’s the—
+
+
+Travis: There might be a lot of movies about it.
+
+
+Griffin: And actually-
+
+
+Clint: The Shining, The Shining.
+
+
+Travis: Well… 
+
+
+Griffin: —In both those examples, except for The Shining, it does magically turn you into a good dad. [chuckling]
+
+
+Justin: [laughing] Okay, so this isn’t a Ghost Dad scenario.
+
+
+Griffin: Yeah. 
+
+
+Justin: In many senses of the word.
+
+
+Travis: Who is your closest confidant in the territory?
+
+
+Justin: So I don’t really— oh man, I haven’t really thought that way ‘cause I’ve kinda seen him as somebody who’s kind of apart from it.
+
+
+Travis: Well can I make a suggestion, just from— 
+
+
+Justin: Yeah, please.
+
+
+Travis: —like what you’ve put me so far, is: who took over the cashew company that Augustus is maybe most in contact with as far as like— so confidant, I think for Augustus, maybe doesn’t mean “tells their deepest darkest secrets” but maybe the person that they still feel most connected to and that they interact with the most, so was there somebody who took over the cashew company when A-ghost-us passed?
+
+
+Justin: Yes. Garrett Althiser. And he hates his guts. He thinks he’s an absolute nincompoop. If he had known he was gonna die, he would have created some sort of succession plan for some of the more competent people, but Garrett Althiser is the one who’s sort of like, ascended to running it, and he is the main person that he is haunting to try to make him do a better job.
+
+
+Travis: Was Garrett kind of like a yes-man that Augustus kept around?
+
+
+Justin: Yes.
+
+
+Travis: Yeah, okay.
+
+
+Justin: Yes. Exactly. Garrett is sort of not unlike a Smithers-type, except that Smithers, I think, would do a very competent job. And maybe Garrett Althiser is doing a competent job, but in the views of Augustus he is incompetent.
+
+
+Travis: Last question, then we’ll talk about, like, the moves that Augustus gets, but, last question, what—
+
+
+Justin: Ah yeah, he’s got lots of cool moves.
+
+
+Travis: What do you desperately need?
+
+
+Justin: What I desperately need is to return to my corporeal form and take control of my cashew company. Barring that, I guess, release from my spectral prison so at least I don’t have to see Althiser run my precious jewel of a company into the ground.
+
+
+Travis: So, who wants to go next?
+
+
+[crosstalk]
+
+
+Griffin: You don’t want to talk about his powers?
+
+
+Travis: Oh right, let’s talk about your sick moves.
+
+
+Justin: Yeah, I’ll blow through it real quick, cause it’s kind of pretty ghost-like.
+
+
+Travis: And maybe tell us a little bit about your Demeanor and Looks as well.
+
+
+Justin: So, in the character creation process, it gives you options on your Look and your Demeanor for you to pick from, so I chose male and Caucasian. And that’s kind of boring because that’s what I am, so that’s how I kinda roll. But I thought, since he’s not a great dad, it seemed kind of yucky [Griffin: Sure.] to pick a different race to depict him. Also, he’s an evil industrialist which, like, that’s probably a white guy, right? I mean?
+
+
+Griffin: Yeah.
+
+
+Justin: Probably, I would guess, so that’s what we’re going with. The demeanor here is antiquated, I think that’s probably the best, at least, socially speaking, a gentleman, as those things go, that’s sort of his thing. I think of him as like, he was definitely in his late 60s with a… think like a frock coat, like really dressed to the nines. He was somebody who was very put together and very focused on his appearance. Craggy, angular, sort-of dude. So that’s how I’ve sort of envisioned him. His cool powers are, one, he can Manifest. So, he can choose to be two of these: heard, seen, or can touch or be touched. I have to choose two. If I want to choose one or three, I have to take a corruption point.
+
+
+Travis: Now, that’s at a time, as I understand it. So this isn’t something you have to predetermine now.
+
+
+Justin: No, in each situation I have to choose which of those two I can take.
+
+
+Griffin: That is such a fuckin’ cool way to do ghosts in a game.
+
+
+Justin: It’s really cool. The other abilities I’ve chosen are— one is called Ghost Town. That means I can go hang out with ghosts to try to find more information. And I feel like he finds them contemptible, but, y’know, they’re a useful resource from time to time. The other one is “Wall? What Wall?” He always has the option to escape.
+
+
+Travis: Great, then the—
+
+
+Justin: [interrupting] I can choose an additional option off the list to bring somebody with me for that, but I think it’s mainly just him being able to leave.
+
+
+Travis: You also— so, another cool thing about Urban Shadows is you have your basic moves, but then yo—
+
+
+Justin: [interrupting] Oh, oh, by the way, one last thing. If I fail that escape roll it attracts the attention of dangerous spirits and ghosts in the area. [laughs]
+
+
+[crosstalk]
+Travis: Yep.
+
+
+Griffin: Fuck yeah.
+
+
+Travis: So, you also have drama moves. So, there’s a— [Justin:  Johnny Drama moves.] Johnny Drama moves. There’s a concept in Urban Shadows called corruption, and so, basically, corruption is any time you let your character slip closer to the darker inner parts of their nature, they get a little bit more corrupted. And if they get fully corrupted, they retire from your control to my control as a danger to the city.
+
+
+Griffin: So good.
+
+
+Travis: And so, if you give in to the darker part of your nature and allow corruption to happen, then I get to keep you.
+
+
+Griffin: What’s awesome is that, before you get to that point where your character becomes an NPC threat, you actually get more powerful. [Travis: Yep.] You get other— [Justin: Right.] you get new powers, because that’s— that’s— this is something that video games fuck up so much. Of, like, the good and evil slider where it’s just, like, “Oh yeah, you can— are you gonna rob this person or are you gonna, y’know, help them out? Either way, you’re gonna get this cool sword.” And it’s like, well then it doesn’t fuckin’— it doesn’t matter as much. Like, BioShock did this a lot, right, where it’s like, “Do you wanna harvest the— the— the little girl for her magic energy, or do you want to save her?” No matter what, you’re gonna end up getting, like, cool— cool powers and stuff like that, when really, like, if you do the evil thing there’s a reason behind it, and it’s because your pursuing some sort of power in some way. And this game is like, “Yeah, you get more powerful and more powerful and more powerful and then you become an enemy,” and that’s really cool!
+
+
+Justin: Yeah, his— he gets, like, the ability to possess people and stuff like that the more corrupt— I’m gonna be— he’s gonna get pretty corrupt pretty quick. [Travis: Yeah.] That’s kind of my plan.
+
+
+Travis: And so, what— what do you— what happens— what is the corruption move of a Spectre?
+
+
+Justin: The Spectre corruption drama move is: When I see someone being victimized and I do nothing, I mark corruption.
+
+
+Travis: So good. There’s also, along with corruption moves, there are also intimacy moves. Where, if you have a moment of intimacy, and maybe that’s romantic or maybe it’s just a close conversation or whatever— whatever we determine in play as an intimacy moment, then each different archetype gets a different intimacy move that they can then use.
+
+
+Justin: Um, my intimacy move is— uh, it’s really cool actually, when I have a moment of intimacy with someone, I hold one. And whenever they get into trouble, I can spend my hold to instantly go to where they are.
+
+
+Travis: It’s like Al from— from Quantum—
+
+
+[crosstalk]
+
+
+Justin: [interrupting] Exactly.
+
+
+Griffin: It’s very—
+
+
+Justin: It’s my— it’s my Ziggy move.
+
+
+Travis: And then we also have, y’know, a bunch of standard stuff— and we’ll talk more about advances and everything when we get to it, but—
+
+
+Griffin: [interrupting] This is a— this is a little bit crunchier of a game than Monster of the Week was, so I don’t think we need to go into, like, every detail.
+
+
+Travis: We’ll [Griffin: —every detail.] get to ‘em when we get to ‘em.
+
+
+Justin: Yeah.
+
+
+Travis: [muttering] Okay so who wants to go next?
+
+
+Griffin: Dad, do you want to go? You want to do it?
+
+
+Clint: Sure, yeah. 
+
+
+Travis: Who are you?
+
+
+Griffin: Oh oh oh, what Faction is the Spectre?
+
+
+Travis: Oh.
+
+
+Justin: I mean it’s not really a certain Faction, if we’re talking about Faction alignments.
+
+
+Griffin: No, but it says a member of blank.
+
+
+Justin: Well he would technically be Night.
+
+
+Griffin: Okay. Alright, sorry Dad.
+
+
+Clint: No, that’s alright. My character’s called Gandy Dancer. 
+
+
+Griffin: I did not know this was a thing until you explained it.
+
+
+Clint: Yeah. I did my research, man. 
+
+
+Travis: Yeah, you’re a real nerd.
+
+
+Clint: Her parents were workers on the ocean-to-ocean railroad.
+
+
+Travis: The old OTO.
+
+
+Clint: The old OTO. 
+
+
+Travis: The Oh-Toh.
+
+
+Clint: And there was an accident in which they were killed, but in very heroic fashion they saved about a dozen of their coworkers, and they both died.
+
+
+Griffin: Yes, that’s typically what happens when people are killed.
+
+
+Clint: And so…
+
+
+Travis: Well to be fair this is a world with like spectres and stuff, so…
+
+
+Griffin: That is a fair point, Travis, I did not consider ghosts.
+
+
+Clint: And you know what, put an asterisk next to that, [laughter] maybe that’s something we want to go back to.
+
+
+Travis: The option’s always there, you know what I mean?
+
+
+Clint: So Emil Moche, who was the head of the OTO, the multi…
+
+
+Griffin: Did you name this person after your own middle name?
+
+
+Clint: I actually named this person after my own great grandfather, whose name was Emil Moche.
+
+
+Travis: Okay, well, no I do want to point out I specifically made the choice not to name characters that might end up being jerks after our listeners, but you just went ahead and did it for your grandfather.
+
+
+Clint: Well I don’t know if he was a jerk or not. I don’t think he was.
+
+
+Travis: But he could be! 
+
+
+Griffin: He could be.
+
+
+Travis: You don’t know if your own grandfather was a jerk or not.
+
+
+Griffin: Okay, that’s fair.
+
+
+Clint: Great grandfather. My grandfather was great. Anyway Moche partly maybe for PR, partly to be a sound business decision, Moche has sort of... taken her under his wing, and has agreed to like pay for anything for her life to…
+
+
+Travis: Now let’s clarify that, though.
+
+
+Clint: Yeah.
+
+
+Travis: ‘Cause you say taken, is that like he’s had direct influence?
+
+
+Clint: No.
+
+
+Travis: Or he just like, with money, he’s created a bankroll for her.
+
+
+Clint: He’s buying off…
+
+
+Griffin: It’s a legal settlement.
+
+
+Clint: Yeah, it’s a legal settlement. It’s a PR move, it’s just good business, and I don’t want to completely make Emil sound like a complete doofus, I mean I think there was actually some gratitude on his part for their heroics. But for the most part it’s like a settlement. It’s to get good publicity and at the same time take care of this child. She’s a wizard, so I guess that puts her in the…
+
+
+Griffin: Power?
+
+
+Clint: Power. [Travis: She’s in Power, yeah.] Right. And she has traveled the world studying everything she could about magic. She’s obsessed with the arcane, she’s collected books and artifacts, learning every… possible thing that she could. They call her Gandy Dancer because when her parents were killed, the other workers didn’t really know her name, they named her Gandy Dancer. For one thing a Gandy Dancer was somebody who worked on the railroads. So now she has come back and the railroads — she loves the railroads — so she came back, she worked for a while as an agent on the railroads and she got this job.
+
+
+Travis: How long have you been in the territory and with the Graysons?
+
+
+Clint: I think she’s been with the Graysons for a couple of years. Are the Graysons based in… Dry River? Is that what you said?
+
+
+Travis: They are based in the Crescent Territory, yes.
+
+
+Clint: I would say that she’s been working in the Territory for maybe a year, so does she have to be familiar with the actual town?
+
+
+Travis: No.
+
+
+Clint: No, I think she’s really new to the town, she’s on an assignment.
+
+
+Travis: Gotcha. Gotcha. Gotcha.
+
+
+Griffin: I think it’s fascinating having somebody who’s like, a world traveler who is here, who probably just sees it as just another stop, like another pin in the map.
+
+
+Clint: Yeah, it’s kind of a gig to her, I mean because her job is really not her primary drive, I mean.
+
+
+Travis: It’s just a means to an end.
+
+
+Clint: Right.
+
+
+Travis: So what keeps you up at night?
+
+
+Clint: She’s absolutely terrified of death.
+
+
+Travis: Relatable. 
+
+
+Justin: Too real, too real.
+
+
+Clint: She is obsessed with it, I mean, because she saw her parents, whether it was heroic or not…
+
+
+Travis: Even as an infant it stuck with her?
+
+
+Clint: Oh I think something like that stuck with her, yeah. 
+
+
+Justin: Is she trying to beat it?
+
+
+Clint: Yeah.
+
+
+Griffin: I like that.
+
+
+Justin: Cool.
+
+
+Travis: Let’s go ahead and jump to what you desperately need, then. So what, is that her main drive and ambition?
+
+
+Clint: She wants to beat death. She wants to, that’s— she’s studied magic, she wants to be immortal. She is, that’s why she is so obsessed with magic, that’s why she’s so obsessed with the arcane. She is going to beat it. She’s going to live forever. Fame! She’s going to live forever.
+
+
+Travis: Is there anyone that Gandy is close to?
+
+
+Clint: Well one of the things about wizards is they have what’s called a Sanctum Sanctorum.
+
+
+Travis: Uh-huh.
+
+
+Clint: And I decided to make hers kind of mobile. There’s no rail service, I guess to Dry River.
+
+
+Travis: No.
+
+
+Clint: So she has this Black Maria, which was a police vehicle, a great big rolling…
+
+
+Griffin: A paddywagon.
+
+
+Clint: A paddywagon, yeah. And so she’s converted this paddywagon…
+
+
+Travis: But like in carriage form, yeah.
+
+
+Clint: Right. And this paddywagon is her Sanctum Sanctorum. It’s loaded up with all of her arcane artifacts and everything else. And it’s horse-drawn, and the Sanctum Sanctorum allows you to have a very knowledgeable assistant, so she has this… [laughs] her assistant is a haunted doll.
+
+
+Griffin: Fantastic.
+
+
+Clint: A homunculus, they call them, and his name is Michael, [laughter] and Michael is her coachman too. He drives the horses. But he’s like this repository of arcane knowledge, dresses in robes from the Italian Renaissance.
+
+
+Travis: Well so let me ask you this, then keeping in mind that... these are real things in this world. Is it a ghost of a person that is inhabiting this doll? Or is it a demonic spirit?
+
+
+Clint: I don’t know. I don’t know.
+
+
+Travis: Does Gandy know?
+
+
+Clint: Oh yeah, Gandy knows.
+
+
+Travis: Okay, well you created Gandy, so… [laughter]
+
+
+Clint: I would say probably.
+
+
+Justin: Dad, you’re out there what she doesn’t know.
+
+
+Clint: Demon, demon. I’d say it’s possessed by a demon.
+
+
+Travis: Okay, excellent.
+
+
+Griffin: I’m curious to hear the moves, ‘cause this is like the third magic user that we’ve had across the different campaigns, and I’m wondering how… 
+
+
+Clint: Yeah and, well I’ve never really used a magic user. I don’t count— I don’t count Merle. [laughter]
+
+
+Travis: Excellent, okay.
+ 
+Clint: And so…
+
+
+Travis: It’s just nice to hear you say it. 
+
+
+Justin: Yeah.
+
+
+Clint: A wizard gets spells they can use, so the wizard moves are basically Channeling, which is kind of you collecting your magic, gathering your magic, and the Sanctum Sanctorum, using the Sanctum Sanctorum is also a move. And then you get to choose three spells, and I tried to, I picked three that I thought— I like balanced characters. So Gandy is going to be able to summon Elementalism, which is like the only offensive thing she has. And Shielding, which I thought it might be nice to have somebody who could do some protecting. But also Tracking, I thought that would be really important to what we were trying to do, and so you can track somebody to learn their location magically.
+
+
+Travis: And Dad and I talked about it in creating his character, where I think what we came to is in this supernatural context, like because power specifically is different for Mortal, right? So this is not a Mortal human being who can do magic, this is someone who has taken on power and become different. And so what it is is Gandy has magic, and then carries Foci that allow her to use that magic in specific ways.
+
+
+Clint: Right. I didn’t want her to be an all-powerful spellslinger or anything that she wanted to come up with she could, she basically has these three spells and they work through artifacts that she carries.
+
+
+Travis: Tell us, Dad, a little bit about the wizard-specific Corruption move.
+
+
+Clint: Oh yeah, Drama moves. The wizard Corruption move is if you strike a deal with somebody dark and powerful, you’ve got to mark Corruption.
+
+
+Travis: Yes.
+
+
+Clint: So I’m thinking that maybe, well for instance if she uses Michael, if that’s a demon would that not make her take on…
+
+
+Travis: But it depends. You can use them, but then if there’s some kind of deal like, “Well I could tell you that…” which also is I think another good balance where Michael doesn’t just give you all the information you need.
+
+
+Clint: Right.
+
+
+Travis: He gives you, maybe you’ve already struck a deal for certain levels of information and certain levels of power, and you have to make a decision of how much do you, how much deeper do you go?
+
+
+Justin: Kind of like Bob.
+
+
+Travis: Yeah, like Bob, right. That’s another Dresden Files, not just a weird my friend Bob. You know, my friend Bob? Don’t make deals with Bob. [laughter] What is the look? So you said Gandy is female.
+
+
+Clint: Right. She’s female, she is Asian.
+
+
+Griffin: Specifically East Asian, right?
+
+
+Clint: Yeah.
+
+
+Griffin: Yeah, that’s how you described her to us earlier, it’s weird that’s like not in the list for character creation in this game, but I think it would behoove us to be a little bit more specific.
+
+
+Clint: And you know I think she has really embraced the investigator, the you know, I think she would dress in dark colors, I think you know in variations of standard Western wear, like maybe in…
+
+
+Travis: So in the options are archaic clothing, comfortable clothing, dark clothing, fancy clothing.
+
+
+Clint: I’d go dark, but at the same time I think she would dress, you know with pants and a cool vest. Maybe a duster, although we just used the duster…
+
+
+Travis: I will write down “cool vest,” but you’re going to have to prove to me that such a thing exists.
+
+
+[Griffin laughs]
+
+
+Clint: Uh Mr. James West on The Wild Wild West…
+
+
+Travis: [crosstalk] I’m just kidding, if you’re about to jump on Twitter to tell you about how cool your vest is, that was a joke. I own vests too.
+
+
+Griffin: Yeah.
+
+
+Travis: Vests are great. Just a little friendly ribbing betwixt my dad and I.
+
+
+Griffin: Can I talk about mine now?
+
+
+Travis: Real quick, ‘cause it just occurred to me that I haven’t mentioned this yet, so in Monster of the Week, to compare it, you level up your character when you fail a bunch, right? So if you fail enough, you get to level up. One of the things that they do in Urban Shadows to encourage you to deal with other factions outside of your own and make Faction moves, is anytime you interact with a faction you get to mark that faction, and when you fill up all four of them, that’s how you more or less level up your character. And so it really drives you to play more with the interactions with the other groups and interpersonal interactions. Anyways, I just thought that was a cool thing that we hadn’t touched on yet. Okay, Griffin, tell me about your character. 
+
+
+Griffin: So Travis, in us creating our characters, Travis… 
+
+
+Travis: I thought you were gonna name your character Travis.
+
+
+[crosstalk]
+
+
+Griffin: So Travis…
+
+
+Justin: What an honor that would be.
+
+
+Griffin: Travis kind of encouraged us to try to have characters that are in these different groups, specifically werewolves and vampires, and I made my character last ‘cause I was working on finishing up Amnesty, and we didn’t have one of those either, either one of those, so I was trying to figure out a way to a werewolf or a vampire that would be, like, interesting to me, because I’m not super interested in doing something that kind of already exists in the world. Like, following the strict vampire or werewolf rules, even though we get to tailor what those are, I didn’t think would be, like, particularly satisfying, and so what I landed on is I’m making a werewolf, the class is called the Wolf, it’s a member of Night. And he’s a hunky teen named Jacob. No. I could.
+
+
+Justin: I got so excited for a second.
+
+
+Travis: I know, I was like, “Ah yeah, now we’re rocking it to that next level.” 
+
+
+Griffin: No, what made it click was Travis mentioning…
+
+
+Justin: How to make this podcast commercial.
+
+
+Griffin: Travis mentioned that this was a game kind of about politics, and that kind of resonated with me. The idea of a werewolf pack being a political thing inherently, right? Like they have territory that they control and there are hierarchies of power inside of a werewolf pack, and all that stuff I thought was interesting, and so I kind of blended that with my idea which is a werewolf former politician. Somebody who, I think, used to live in like a larger city than Dry River, and was a local politician. I’ve done some research, and it’s actually kind of tough to find. There was not a lot of, like, codified political structures in small cities, especially unincorporated territories like Dry River, and so I think he was, like, something akin to a city council member, or an alderman. Somebody who had a very hyper-localized sort of area of influence. 
+Travis also encouraged us not to make all, like, purely good characters, but I liked the idea of somebody who once was a very idealistic politician, a Mr. Smith Goes to Washington kind of type, but also somebody who was very ambitious. Like, I think my character wanted to be president one day, but his sort of werewolf transformation and powers started to manifest, and then that sort of became kind of a nonstarter. His name is Errol Ryehouse, and so when these powers started to manifest, his wolf nature started to manifest, I think he wanted to stop it. I think he wanted a way out because he wanted to be president, and we can make this world what you want it, but I still think he was worried about trying to be a werewolf president, right?
+
+
+[laughter]
+
+
+Travis: Though to be fair, coming this summer:
+
+
+All: Werewolf President.
+
+
+Griffin: So he tried to find a way out of it, and that is where I found what I think is interesting about this character, and it was something I kind of had to work with Travis on to make it work for the game. He sought out a magical means of reversing his lycanthropy, and it went wrong, and now he is permanently half transformed between human and werewolf. He is permanently, imagine in Teen Wolf or, I mean any werewolf movie, but for me Teen Wolf was the anchor here. That where he’s starting to get a little hairy, starting to transform a little bit, and then you know like, “Uh-oh, it’s about to go down,” except for him it’s just always about to go down, he is constantly mid-transformation. And that required kind of some tailoring of this class and how it operates, specifically the Wolf has a whole section about the transformation where you have these latent things you get as a benefit. You get Natural Weaponry for plus two Harm, and one Armor, Armor is a thing in this game, it functions basically the same way as it did in Monster of the Week.
+So he has that stuff but then you get to pick these other powers where you pick two powers and two weaknesses, and because he’s just always half transformed, I think he only gets one power and one weakness, and that is that he has even more Armor on top of that, he has two Armor naturally. His weakness was tough for me, because a lot of these were sort of geared around, like, there’s one that’s you can’t resist the change when it comes. So the thing that I thought would be more interesting for Travis is to just lean into one sort of established piece of werewolf lore which is that silver weapons ignore my Armor.
+
+
+Travis: Excellent.
+
+
+Griffin: So he is, he’s an Armored character, right? And that’s like his big benefit, is that he is tough, ‘cause he is always in half transformation, unless somebody knows his weakness, which is silver.
+
+
+Travis: That’s cool.
+
+
+Griffin: And as cliche as that it, like, I think it lets you do some really interesting stuff. 
+
+
+Travis: Just to establish that piece of supernatural lore too, in the world, why that’s such a great pick, is one of the hereditary traits of werewolves in this world I’ve created is an allergy to silver. And so for most, you know it manifests in different forms, just as people have different reactions to different allergies. And I love that for Errol it’s, like, poison, you know what I mean?
+
+
+Griffin: Yeah.
+
+
+Travis: It’s not just like it causes a little bit of discomfort and itching, it’s like no no no no no, no no no, this is severe.
+
+
+Griffin: Well, and everyone who has, like, superpowers also needs a weakness.
+
+
+Travis: Yes.
+
+
+Griffin: And as literal as this is, I think it could be really interesting. So what’s cool about the Wolf class, and the reason why I thought a werewolf politician would be so interesting, is you have a mechanic called your Territory, and I’m using some of the same vernacular that Travis is using, my Territory is not Dry River, it is an area inside of Dry River, and I think the fiction there is that he once was a local politician in his hometown, and I think despite the fact that that part of his life is kind of over, he still wants to fight for a neighborhood, and that’s what his Territory is, is a neighborhood. 
+
+
+And in sort of the game’s language, it is like a werewolf territory, it is a hunting grounds and while you are in there you have certain benefits and there are certain things you kind of have to watch out for while you defend that territory, but for him it is literal political territory. It is his neighborhood. So my Territory, I get to choose some stuff. It spans several city blocks, the people here work hard to keep the streets safe from crime? basically? So it’s like a nice part of town because of his guardianship, his stewardship. But there is some sort of presence more powerful than me that the people in the Territory swear fealty to.
+
+
+That is probably the actual, you know, mayor or sheriff or this town, like the people are grateful for Errol’s support, but like they still have to do the regular town shit. I left a lot of blanks ‘cause I didn’t know that much about what Dry River was, and I thought that Travis could help me fill in the gaps a little bit more. And also mortals in the area are actively trying to revitalize local businesses and architecture. Kind of like a Goonies-esque vibe? Where I think this is like just a residential area in the town that he tries to keep safe despite this, like, quiet war that is happening in Dry River, for control. But on top of that, also it’s a town that is maybe changing a little bit, and he is trying to, like, resist that change because I think the more it changes the less power and less control he has in the Territory. 
+
+
+And all of his moves stem from that, so like I am really good at hunting people down in my Territory. I’m really good at persuading people in my Territory. I actually roll, there’s different stats in the game, and Heart is what you usually roll with when you have to persuade somebody, it’s like your Charisma, but there’s also a stat called Blood that is like the raw power in your blood, which werewolves are, like, all about, and in your Territory you actually roll with that to persuade people. And so there’s different…
+
+
+Travis: That is so good, Ditto.
+
+
+Griffin: Thanks, man. Yeah, so there’s different, like, benefits that he gets from being a werewolf politician when he is specifically in his neighborhood. And it’s such a different way of doing business than he used to do it, right? He’s not getting out there pressing the flesh and kissing babies, I don’t think anybody would, you know, let him get that close to their baby at this point, but it is a way of interpreting these two things in a way that I think is gonna be really really cool. So that is…
+
+
+Justin: How do the people in his Territory feel about him now that he’s half-wolf?
+
+
+Griffin: Yeah, well I think they’ve only known him as half werewolf.
+
+
+Justin: Oh.
+
+
+Griffin: ‘Cause he came to Dry River, I think he came to Dry River as, like, I think that Dry River’s a place where you can be as a werewolf or as a vampire, right?
+
+
+Travis: Just to jump in real quick, just to give you and listeners kind of the way I’m envisioning the territory as a whole, and how Dry River fits in there. So I think about it a lot like Los Angeles, right? Where Los Angeles is this gigantic city and within it you have, like, the Valley and West Hollywood, and Venice Beach, and you have all of these individual neighborhoods that have, within themselves, like, their own local governments and their own kind of, you know, like the mayor of Hollywood and that kind of thing. And so Dry River would be like Culver City, you know what I mean? Where it is the thing, and the Crescent Territory’s like Los Angeles as a whole.
+
+
+Griffin: Right.
+
+
+Travis: So when you talk about your territory yes, absolutely. You all do not live in Dry River, but Dry River exists within a territory and within a section of Crescent Territory that I definitely think you have influence over.
+
+
+Griffin: And his Territory I still have, I have not, like, nailed it down. But I think it’s just the place where people live. I don’t think it’s like the business district, I don’t think it’s like the main, you know, political hub of the city, I think that he is not, I think he is— so just like looking at his Faction stats, it’s basically across the board like, okay, I think he doesn’t, I don’t think he’s necessarily ingratiated with the werewolf community, because he’s half werewolf.
+I don’t think he’s necessarily beloved by the human community outside of his Territory, because he’s half-human, like I think he’s kind of in between somewhere. And like, that’s the kind of stuff that I want to explore with him, this idea of yeah, werewolves are political and he is just now trying to learn what that means as a former politician, because he has these skills, and he’s still a very idealistic very good person, it’s just there’s, he’s had to change the way he thinks about politics and interpersonal relationships, and how he is able to help the city in which he lives.
+
+
+Clint: And they will love him as long as the garbage gets picked up on time and the potholes get fixed.
+
+
+Justin: That’s right. [incoherent]
+
+
+Griffin: I think that’s how he joins up with…
+
+
+Clint: No, I’m serious.
+
+
+Griffin: Yeah, I think he joins up with the Graysons for this reason, ‘cause he just sees the Graysons as like, “Well, they’re trying to help, and so that’s why I’m here.” This job got maybe a little bit too big just for him to do alone, but the Graysons seem to have their shit in order and can, are doing some good. Or if not good, are helping to balance the city out and, the territory out…
+
+
+Travis: Some kind of order.
+
+
+Griffin: Establish some kind of order, yeah.
+
+
+Travis: So, Ditto, run me through just one the basic levels like, look, Demeanor, that kind of stuff and then we’ll do the intro questions and figure out your Debts. And dad I also realized we did not nail down your Debts, we’ll get back to that in a second. 
+
+
+Griffin: Yeah, so I went with male, and then I want him to be a Latinx dude, which is again, I want to like drive this home, like I do not want to, it would be kind of problematic if it was like he is Latinx and also a big monstrous beast. That is like, absolutely not what I am going for for this character, ‘cause I think that’d be very bad.
+But just when I thought about this character being this sort of, you know, community leader and idealistic politician and sort of everything else about him I sort of just envisioned him as Latinx, and then for clothing I had baggy clothing, concealing clothing, dark clothing, dirty clothing. I went with concealing clothing, I’m imagining like a coat with a, some sort of hooded garment underneath it. Which I don’t, I’m not thinking of it as concealing as in like he is embarrassed of being half-transformed all the time, but rather like it helps him in certain situations where there may be, people might have questions about, “Hey, like, why are you half-werewolf, half-human?” where I don’t think he minds answering those questions, but it might be a little bit more convenient when he’s on, like, an investigation.
+Like there may be times where it is beneficial just kind of get in, get out unnoticed sometimes. Not that he’s a particularly stealthy character, but I think he likes having the option. And then for demeanor there was; Aggressive—no. Feral—no. Violent—no. And then, excitable? Okay. Okay, if it’s not going to be the other three, sure, let’s— I think he is probably a pretty excitable dude.
+
+
+Travis: And just, what I also really like about excitable compared to the other three, is like excitable can apply in so many different ways. 'Cause it can be like he’s passionate about his community, and he gets excited at the idea of like, you know, improving something. Or it can be like he’s just enthusiastic about what they’re doing.
+
+
+Griffin: Yeah, sure.
+
+
+Travis: Whatever.
+
+
+Griffin: Yeah.
+
+
+Travis: It’s a good kind of descriptor of someone who maybe reacts to a lot of things in a lot of positive, excitable ways. 
+
+
+Griffin: Yeah.
+
+
+Travis: Okay, so let me ask you some of the intro questions, right. How long have you been in this Territory and with the Graysons? It sounds like kind of a lifelong territory thing.
+
+
+Griffin: No, no, ‘cause remember he like moved…
+
+
+Travis: Oh right, right.
+
+
+Griffin: He moved here, after his sort of, botched, attempt to shed his lycanthropy. I think he’s only been in Dry River for like eight months or so feels right to me, like I think he’s probably one of the…
+
+
+Travis: Been in the Territory. Just to keep nailing down the…
+
+
+Griffin: Yes, yes, sorry. Sorry and in that time he has sort of started to work for the community and learned— or at least started to learn, like, how he can continue to be this like community leader and you know community supporter with his sort of new half-werewolf sort of thing that he’s got going.
+
+
+Travis: Yeah, so keeping that in mind, one of the questions is what’s the best thing about the change? But I think I’m going to change that a little bit to ask what’s the best thing that came out of the trying to shed the curse? Trying to shed the genetic… part of it?
+
+
+Griffin: I mean I like the what’s the best thing of the change? Because if I’m talking mechanically, he’s got minus one Heart, and that’s like your Charisma stat. So he maybe wasn’t the best poli— like he wasn’t the most charismatic politician, right? But now he has like a new way of doing things. And that new way actually works for him a lot better than the old way did. So I think in a lot of ways like he has learned a lot more about community and all that since he became a werewolf. So I think that’s why he’s kind of leaned into it, and that’s why he’s not embarrassed of the change and not like anything like that. It is just a different way of being a community leader that is actually kind of better.
+
+
+Travis: And who’s the most important person in the Territory to you?
+
+
+Griffin: I kind of left that question up to to you, ‘cause I don’t know about the politics of this town, but I still think he thinks of like the mayor or the governor of the Territory, or whoever’s in charge here as the most important person. And he probably disagrees with a lot of their decisions, he’s probably very opinionated about that stuff, but that’s probably the answer to that.
+
+
+Travis: Oh I like that, because I like that as a general answer that then we can figure out more specifically as we play, of just like he likes people who bring order to the Territory, and people who are not necessarily in control, because there will be criminal organizations, and you know, business interests, but this idea of like social control order, structure.
+
+
+Griffin: Yeah.
+
+
+Travis: Yeah? Okay. What do you desperately need?
+
+
+Griffin: I think, so again like I wanted to push away from like, he wanted to— also because after talking about our characters, I don’t want it to be the same as Justin’s thing, like he’s not looking for a way to fix this. ‘Cause I don’t think he sees it as something that’s broken. I think for him, like his main drive is keeping his territory safe, which I think can be really interesting ‘cause there’s a lot of stuff in the game about your territory changing and coming under these threats that you’ve established. So I…
+
+
+Justin: Griff, do you think it’s fair to say then that he, ‘cause obviously he did at some point want to change it, is it fair to say that he sort of like learned a lesson from that? Like, about accepting who he is rather than trying to like, what, is the botched transformation something that changed his mind about that?
+
+
+Griffin: Yeah, for sure. For sure.
+
+
+Justin: Like forced him to sort of accept who he was?
+
+
+Griffin: Yeah, I think absolutely.
+
+
+Justin: Not to put words in your mouth, but I’m curious what… 
+
+
+Griffin: No, I think that’s a good way of putting it, because I think he now kind of recognizes like, “Oh if I was just still a werewolf that transformed the usual way that werewolves transformed, I would kind of slot more neatly into these like categories that would make it, politically speaking, probably easier to do what I want to do. But now that I’m here, like this is what the situation is and I have had to become comfortable with that too.” But to me that’s like kind of separate from this thing which is like his main motivating drive is his Territory and keeping it safe ‘cause he wants to, he wants to do what he can. Not just to like protect the people who live in his Territory from whatever sort of struggles that are happening in this city between the different factions, but also like the usual city stuff. 
+Like Dad mentioned the trash being taken out on time, like I think he does think about that stuff, and he wants to make sure that the Territory and Dry River are doing well and that his Territory is benefitting from that. I also want to mention he has, he’s good at like hunting and stuff ‘cause he does have these wolf powers, and that’s his Drama move. Whenever I begin a hunt for someone I mark Corruption. Basically any time that I like lean into my like powers or whatever, it does sort of, it taps into this thing that is kind of against his nature a little bit. That’s not so much necessarily talking about like the political side of things, it’s like his main jam. But anytime he does sort of need to push the limits a little bit of his wolf powers it sort of goes against his nature and he marks Corruption.
+
+
+Travis: Okay. So Justin, with Augustus we established that there was a Debt to the Church. Two Debts to the Church. And then I assume also a Debt to, you said you were haunting Althiser.
+
+
+Justin: Yeah.
+
+
+Travis: So there’s probably a Debt there, and then there’s one more, let me find it.
+
+
+Clint: Can you add Debts as the story goes along?
+
+
+Travis: Oh yes.
+
+
+Griffin: Debts are changing constantly.
+
+
+Travis: That’s what it is, and then those are two of your three, and then the other one is someone or someone’s progenitor was involved in your death, they owe you a Debt. You have, is there anything along the lines of Augustus’s death that is blamed on someone else?
+
+
+Justin: Yeah, one of the mining companies, we were sort of squabbling over territory, and my belief is, I don’t have concrete proof of this, but my belief is that he had me killed.
+
+
+Travis: Okay, so maybe to like, keep you quiet about it. They haven’t admitted fault.
+
+
+Justin: The finest cashew farming land in the area is also very rich in mineral deposits.
+
+
+Travis: Excellent. 
+
+
+Justin: And he wanted the land for himself, and he couldn’t buy me out because I’m a bitter old man.
+
+
+Travis: Excellent, excellent. So there’s was a…
+
+
+Justin: His name is Flint Chittles. [All laugh]
+
+
+Travis: Wait, that’s the name of the…
+
+
+Justin: Flint Chittles, you owe me big!
+
+
+Travis: Flint. Chittles. Perfect. Dad, tell me…
+
+
+Justin: Do you want to know something weird, Travis?
+
+
+Travis: Uh-huh.
+
+
+Justin: I just came up with that name.
+
+
+Travis: [sarcastically] Nooooo.
+
+
+Griffin: Can we do that? I owe a Debt to Boop Strongly.
+
+
+Travis: Yeah. Hold on, let me write it down.
+
+
+Justin: You guys probably thought I came up with that for a long time, but I just did it just now. Flint Chittles.
+
+
+Travis: No, yeah that’s amazing, so…
+
+
+Clint: If it means anything, I believe you, Justin.
+
+
+Justin: Thank you dad, thank you for believing in me.
+
+
+Travis: In wizard your Debts, your starting Debts are someone is helping you keep the demons at bay, you owe them a Debt. Someone is your go-to when you get in trouble, you owe them two Debts. And you are helping someone keep a dangerous secret, they owe you a Debt. 
+
+
+Clint: Alright, the go-to when I get into trouble is Chint Flittles.
+
+
+Justin: Come on.
+
+
+Travis: Is it Flint Chittles?
+
+
+Clint: No… 
+
+
+Justin: Stay in your lane. Flint Chittles is…
+
+
+Clint: Chint Flittles is now…
+
+
+Justin: Flint Chittles is mine, you can’t also, you can’t steal, you can’t make a parody of mine. It’s not even on Tumblr yet, mack.
+
+
+Clint: Alright, yeah yeah yeah, okay. I’ll do the parody later. I think it would be more interesting if Michael…
+
+
+Justin: Now I can’t remember which one is mine, Flint Chittles or Chint Flittles. Thanks, Dad.
+
+
+Clint: Flint Chittles. I wrote it down.
+
+
+Travis: So Michael, your homunculus.
+
+
+Clint: Yeah, my haunted doll. I think that Michael is the go-to when she gets in trouble.
+
+
+Travis: Excellent.
+
+
+Clint: And she owes, she owes him two Debt.
+
+
+Travis: And I think we’ve already kind of touched on that, to say like Michael is your source of information, and so has already, like you’ve already made this promise twice, you know? So like there’s then the opportunity for more Debts to be offered, but we’ve already established that that is why he’s so free with information to you, because you owe two Debts already. So he is…
+
+
+Clint: And I was thinking, I don’t know who the other two, but I was thinking what if one of either Augustus or Errol has a Debt. Can I have a Debt with one of them?
+
+
+Travis: Yes. Absolutely. 
+
+
+Clint: Well what I’m saying is she maybe…
+
+
+Justin: What, hey Dad do you know the job that brought you to town? Just a thought, what if I hired Gandy?
+
+
+Clint: To help, I was thinking to help Augustus…
+
+
+Justin: No, to investigate Flint Chittles.
+
+
+Clint: Oh, okay.
+
+
+Justin: So I can try to prove that he was the one who killed me. That’s kind of, is that kind of fun, isn’t it?
+
+
+Travis: Great.
+
+
+Clint: Yeah, I would love that. So that would be…
+
+
+Travis: We’ll put that in the first one, so you owe Augustus a Debt. And then, are you keeping someone’s terrible sEcReT? Or if you want to just say someone owes you a Debt for some reason.
+
+
+Griffin: I can answer that maybe with my Debts. Maybe we can make this the same thing, ‘cause I…
+
+
+Travis: Yeah, so you go ahead.
+
+
+Griffin: Yeah, I have someone is hiding you from someone or something powerful, you owe them a Debt. And I thought it would be cool to use that with Gandy, through some sort of magical means because she has shielding magic, she is keeping my presence sort of off the books from somebody back in the old family, maybe back in the town where I’m from, where I started out that I kind of ran away from after things went south. And so for that reason I actually owe… 
+
+
+Travis: Okay so let me help out with this, then.
+
+
+Griffin: Please do.
+
+
+Travis: So let’s say because I have in my fiction, there is a kind of head of a criminal, magical criminal organization known only as the Banshee, and you know nothing else about them. They are very, very, secret. No one’s ever met them and lived, but let’s say that in trying to reverse the curse, as it were, Errol made a deal with the Banshee’s organization.
+
+
+Griffin: Yes, good.
+
+
+Travis: And then didn’t deliver, and that’s why the halfway transformation has the curse…
+
+
+Griffin: Yes good. Good and yes. Because one of my Debts is someone is living in your Territory benefitting from your protection, they owe you a Debt, and I think this would be, the woman, a wizard, another wizard who tried this transformation, tried to cast this spell that went wrong, was probably a member of Banshee’s former sort of clique, and was excommunicated.
+
+
+Travis: Perfect.
+
+
+Griffin: And so I am trying to keep her hidden in my neighborhood. Her name is Boop Strongly.
+
+
+Travis: Uh-huh.
+
+
+Griffin: No, her name is, let me look at a random name generator.
+
+
+Travis: I liked Boop Strongly, but…
+
+
+Griffin: How about Dariah? Dariah Cross.
+
+
+Travis: Okay.
+
+
+Griffin: Dariah Cross is her name. She was the one who tried to transform me and it didn’t work out. But there’s no bad blood. And so she owes me a Debt because I am sort of, as Gandy is keeping me sort of hidden from the Banshee, Dariah is also, you know, here. Is that too snake-eating-its-own-tail?
+
+
+Travis: No no no no, I love this, ‘cause I was going to suggest the second one here is someone hired you for a job, and you fucked it up.
+
+
+Griffin: I think that’s Augustus, I think I was also hired by Augustus to investigate this, and maybe that— ‘cause you want this team to exist before we get into this story.
+
+
+Travis: Oh yes.
+
+
+Griffin: Maybe that’s what first brought us together, and the reason that Augustus doesn’t know whether or not this, whether or not Flint was his killer or not is because I did something during the investigation that fucking ruined the whole thing.
+
+
+Travis: Okay, we can play with that more because I would love to explore later if you did that on purpose to save Flint Chittles’s life, like you knew that if Augustus could prove it, then the same might be dealt upon Flint Chittles.
+
+
+Griffin: Yes. So I owe Gandy one Debt, I owe Augustus two Debts, and Dariah owes me one Debt.
+
+
+Travis: Great.
+
+
+Clint: So you see this being a 40 episode arc, I’m going to say. [laughter]
+
+
+{1:12:40}
+
+
+[Ad Break]
+
+
+{1:17:33}
+
+
+Travis: Okay, so I think all of that is a really great start.
+
+
+Griffin: Well I feel like, can you give a two-minute long sort of overview of the rules? ‘Cause we didn’t even talk about of the fact that there are basic moves that sort of cover all the actions. If you listen to Amnesty all that stuff is virtually the same.
+
+
+Travis: Yeah so there are basic moves, there are also specific Faction moves you use in investigation or talking to people, and you know I think all of that will become clear when we play. I would rather use it in context ‘cause right now it would just be a lot of words, a lot of hollow, empty words. But I want to read the, I’ve written a thing that’s like the lead up to and go with the action, so we can wrap up here.
+
+
+Griffin: Okay, I’ll start playing the theme music that I haven’t written yet right now.
+
+
+[Theme plays.]
+
+
+Travis: [as narrator] Welcome to Dry River. Back before the drought, we used to call it Twin River. The town was settled on a big spit of land nestled between where the river split and then flowed back in itself. Of course that was back when the river flowed. All that’s left now is the dry bed, just a ravine really. North and south bridge used to be bustling with folks traveling west, who would stop and spend some time in our thriving little town. 
+
+
+Now, folks give Dry River a wide pass. They’ve heard stories. When the water flowed, people came, business thrived, and the Fleshes, the Fangs, and Furs all lived peaceful. Now, every day gets a little worse. 
+The Fangs and the Furs snarl at each other, waiting for the other to make the first move. The Fleshes just keep their eyes low and hope to stay out of it all. The peace, if you can call it that, was barely holding. 
+
+
+Then tonight, we found Jeremiah Blackwell dead in the street. Jeremiah was the eldest of Joseph Blackwell. Blackwell Senior is just about the most respected Fang in town, not to mention the richest, thanks to the copper mine up north. All the other Fangs seem to look to him when it comes to matters. As if his eldest dying suddenly weren’t trouble enough, it has every sign of an attack of one of the Furs, Dylan Mathis. 
+
+
+Now nobody seems to have seen the murder, but Nick Winstead was leaving the Sterling late last night and found Dylan hunched over Blackwell’s body, Dylan’s clothes soaked through with blood. 
+
+
+The three of you work for the Grayson agency. Grayson agents are detectives, bodyguards, arbiters, enforcers, whatever the client needs. What they ain’t, is lawmen. Abigail Mathis, Dylan’s mother and owner of the silver mine south of town had hired Graysons as arbiters, but didn’t state in the telegram what it is you’d be handling. 
+
+
+You had only just dropped your bags in your rooms above the Sterling when Deputy Rosa showed up to bring you to Sherriff Connors. When Connors first brought Dylan in he wouldn’t shut up about his innocence. Now he’s keeping quiet. Wary. Abigail and Connors have agreed to bring y’all in on this to try to sort it out. It’s midnight now. At 8 a.m. the whole town is going to be awake. Once they find out what’s happening, all hell is going to break loose. 
+
+
+You have eight hours. Good luck.
+
+
+[Theme music (The Adventure Zone: Dust Theme by Griffin McElroy) plays]
+
+
+[Next episode]

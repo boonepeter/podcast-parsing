@@ -1,0 +1,1278 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Griffin McElroy
+Aubrey Little/Lady Flame: Travis McElroy
+Edmund “Ned” Chicane: Clint McElroy
+Duck Newton: Justin McElroy
+
+
+Episode 76 - Amnesty - Part One
+(part of TAZscripts on Tumblr)
+
+
+Griffin: We see a carpet of pine needles laid out over the quiet floor of the Monongahela National Forest. Bright light is beaming down from the waxing, nearly-full moon overhead. It is summer in Kepler, West Virginia, and it is still. In this particular neck of the woods, not a creature is stirring. The tall pines all around are motionless, bathing in this moonlight. There are no howls from the forest’s depths. No frogs rattling in the creeks that criss-cross the terrain. No crickets whistling their summer song. Kepler is quiet too. Its citizens have long since retired for the day, the steady hum of the funicular that connects the town to the ski slopes above ceased operations hours ago.
+
+
+Signs for the businesses catering to Kepler’s night owls flicker and dim as their proprietors close up shop. Soft lights in the town’s windows extinguish one by one, save for the office window of the Amnesty Lodge, on the outskirts of Kepler’s topside, where the manager sips her evening tea, peering expectantly out this window and into the forest beyond. And back in those woods, a stone archway stands in the centre of a small clearing, the waxing moon reaches its zenith in the starlit sky above. The carpet of pine needles begins to vibrate in soft pulses, away from the center of this clearing, and, in an instant, the span of the arch is filled with the moonlight above, and the carpet of needles is stripped away as sharp winds blow outward and away from the clearing in every direction.
+
+
+{Music 1:54-2:08}
+
+
+Griffin:  
+
+
+[Theme music (The Adventure Zone: Amnesty Theme by Griffin McElroy) plays]
+{3:05}
+
+
+Griffin: Okay, hi everybody, welcome to the Adventure Zone first proper episode of what we’re calling The Adventure Zone: Amnesty. It’s a new mini arc that I’m doing— [crosstalk]
+
+
+Travis: Can I- I know we just started, but what about Kablamnesty?
+
+
+Griffin: Yeah, let’s just go ahead and change it to Kablamnesty. I think it’s better on pretty much every conceivable level, and like fuck me for my bad idea.
+
+
+Travis and Clint : Yeah!
+
+
+Griffin: Uh, so-
+
+
+Travis: and Haam-haam-kablamnesty.
+
+
+Griffin: Yeah, that’s a reference that nobody is gonna get. So, I guess a few things? One, I’m sick, and so this is- the characters you hear in this episode that I do are probably not—
+
+
+Clint: They’re all sick.
+
+
+Griffin: They’re all sick. It’s not what they’re gonna sound like. Imagine just, I guess, a couple semitones higher, and not as gravelly. Um, but, the other thing is, so for this first episode I was thinking of the best way to introduce your guys characters and make them sort of more concrete with the short amount of time we’re gonna have in this arc. And what I think we’re gonna do is, for this first episode, your characters are going to be kind of individual. I have a couple basically individual scenes for each of your characters, before you all sort of form your group in the second episode. So that’s gonna be the structure for today. Also kind of like how we did arcs in the Balance campaign? This first episode is kinda gonna be more setup of the world and the mystery and then I’m gonna sort of set you guys loose in episode two. So that’s what we’re going to be doing today. Anything else before we get started?
+
+
+Travis: I wanna say a quick thank you to someone whose name I did not catch, but at PodCon, a volunteer gave me this really cool metallic six-sided dice, and it’s red, and I think it’s perfect for Lady Flame and so I’m going to be using it in the show.
+
+
+Griffin:  Well, you will need another one. Everybody needs two six-sided dice for Monster of the Week.
+
+
+Travis: Yeah, I have two! I have two. I wanted to say thank you to them and I’m sorry I did not catch their name. But if you’re listening, I’m using that dice and I appreciate you.
+
+
+Griffin: Should mention that we are playing Monster of the Week, new game. If you listen to our setup episode, we kind of briefly go over the rules. But it’s gonna be really cool and the rules I think are gonna be pretty apparent. Even if you didn’t listen to the setup episode, I think you’re not gonna have any problem following along. So y’all ready?
+
+
+Clint: Kudos to Michael Sands.
+
+
+Griffin: Yeah, well done Michael.
+
+
+Clint: [mumbling] The creator of Monster of the Week.
+
+
+Griffin: Uh, sorry, I’m just turning up my audio a little bit, okay. Alright, you guys ready to get going?
+
+
+Clint: Yeah!
+
+
+Justin: Yeah.
+
+
+Travis: Is it too late to give Lady Flame a motorcycle with a sidecar that Dr. Harris Bonkers rides around in?
+
+
+Griffin: It is absolutely too late and, uh, before we get started, Duck- you have a vision of the future. Roll plus Weird for Destiny’s Plaything.
+
+
+Justin: Uh, 7.
+
+
+Griffin: A 7 is a mixed success. Can you tell me what it says for Destiny’s Plaything when you roll a 7-9?
+
+
+Justin: “At the beginning of each mystery, roll plus Weird to see what is revealed about your immediate future. On a 7-9, you get a vague hint about it.”
+
+
+Griffin: Alright. Uh, Duck, you see a vision, and it’s a pretty simple vision. You’re in the Monongahela Forest and your vision is kind of obscured a little bit by the branches of the pines in this forest, but through them, you can make out a shape. You see a stone archway, just a few dozen yards away. Um, it almost sort of resembles like a Stonehenge archway, it’s just three slabs of solid stone with two sticking out of the ground, with one sort of balanced, perched between them, and it almost feels like this archway is beckoning you. And then there’s a sharp gust of wind that comes off this archway and right as it hits you, you wake up. And you wake up to the sound of a phone ringing at your desk, where you are working an overnight shift in the ranger station, in your leg of the Monongahela National Forest, right on the outskirts of Kepler, West Virginia, the town in which you live. You did some research, Justin, on this exact subject, so please correct me if I use sort of the wrong terminology at any point.
+
+
+Justin: [crosstalk] [laughing] Okay, I’ll do my best.
+
+
+Griffin: But what is a day patrolling the trail like for Duck? Like, what does Duck’s like, job look like here in the forest?
+
+
+Justin: Forest rangers in the Monongahela National Forest are district rangers who are largely resource specialists, so they’re more like science people, as I understand it. But- so I’m taking a little bit of liberty here, with Duck, because it’s not necessarily a park, so he’s sort of- a lot of his work, I think, is monitoring tree growth, checking for diseased trees. I like that idea, like keeping the trails clean. I think he takes a lot of pride in it, and is sort of careful about making sure that it’s on a good tilt.
+
+
+Griffin: I dig that. I think, just to sort of make this a little bit more action-oriented, like to get you into the action a little bit more, I’m thinking, like, because during this graveyard shift in the forest, I think you are also kind of wearing the hat of a park ranger. Also, which is not something you typically do, but like, answering, you know, distress calls about [crosstalk] you know—
+
+
+Justin: [crosstalk] Sure.
+
+
+Griffin: —Shitty campers or something like that. Um, and speaking of, the phone rings, and it’s sort of the first thing that’s sort of broken the silence of this quiet, late summer evening. It’s a really nice night: There’s a nice breeze coming up off the Greenbrier River, and the sort of balmy heat of August is finally starting to fade away. And you get this distress call, where somebody is complaining about, uh, at the Park and Camp RV grounds, sort of on the outskirts of the forest, someone was making a ton of noise, uh just a little bit ago. And you’ve also gotten some reports from passing trailwalkers that there’s a big bonfire going on right in the middle of their campground, which Smokey would tell you is not acceptable behavior. And, so this is what brings you—
+
+
+Travis: [impersonating Smokey Bear] Woah, you’ve got to shut that shit down, Duck!
+
+
+Griffin: Uh, we could introduce- Smokey- Is Smokey a cryptid? [Travis laughs] Have we talked about this? 
+
+
+Travis: [emphatically] Yes.
+
+
+Clint: [sarcastic] A talking bear wearing blue jeans, hm.
+
+
+Griffin: Yeah, I think absolutely. So Duck, this is what brings you to the Park and Camp lot 5 a little after 6 o’clock p.m. And at this lot, you see a mid-sized RV parked in its appropriate space, but it looks like it was recently kind of wrecked. The front driver’s side corner of the car is just crumpled up, the headlights just gone, um, the lot’s trash receptacle has been upended and is similarly kind of roughed up and its contents are laying all around the lot. And just as these complaints attested, there’s a big fire roaring in the middle of the lot, in a pit. It’s not quite a bonfire anymore, but you can tell from the charred wood that’s rolled away from the pit that it probably used to be. And the lights inside of this RV are turned off. What do you do?
+
+
+Justin: Uh, can I Read a Bad Situation?
+
+
+Griffin: So, yes, this is our first move that you can do, but remember, and I think this is something we’re all gonna have to get used to, you don’t just say the move that you’re doing. I want you to tell me what Duck is doing and then you’d Read a Bad Situation, right. So it is narrative descriptor first, move second. Does that make sense?
+
+
+Justin: Alright, got it. Yes. Uh, so I’m gonna take out my mag light and just sort of do a sweep of what I can see and, uh, try to get a lay of the land before I rush into anything.
+
+
+Clint: Is Duck strapped?
+
+
+Justin: Uh-
+
+
+Griffin: So this is— we didn’t talk about guns in the setup episode, but like,  unless your character has a fuckin’ really good, solid reason to carry a firearm with them, which is also something I have plans for, because I don’t love the idea of an arc where just like it’s a bunch of gun-totin’ shootin’ shooter folks all the time. So unless you have a really good reason to have a gun, I would say definitely not.
+
+
+Justin: Yeah, I don’t—
+
+
+[crosstalk] 
+
+
+Clint: I was thinking of animals and—
+
+
+Travis: I should probably change mine then, because in my gear I picked a gun, but I can go with Heirloom Sword, that feels magician-y.
+
+
+[Clint laughs]
+
+
+Griffin: I think in general, for weapons, don’t stress about weapons. I want to ground your characters in the real before we do, like, stuff like that. And pick weapons, but I might just give them to you at some point during this arc, but you wouldn’t start with them, because you are not, you know, monster hunters right now. But we’re delaying, so go ahead and roll plus Sharp, which is the stat that you use for Read a Bad Situation.
+
+
+Justin: Ten.
+
+
+Griffin: Alright! That’s our first “great success”!
+
+
+Travis: [laughs] No!
+
+
+Justin: I Hold three on a ten.
+
+
+Griffin: Yes, so uh, when you Read a Bad Situation, you roll plus Sharp, and on a 10, you get three Hold. And Hold you spend immediately to answer- t-to ask me the following questions, which I will answer based on what you said you were going to do. So you said you were flashing your light around this scene, looking around, uh, so I can answer a lot of stuff for you. And then, what’s really cool about this is whenever you act on the answers, you get plus one to your rolls, ongoing. So go ahead and pick your questions, and I will answer them.
+
+
+Justin: Are there any dangers I haven’t noticed? 
+
+
+Griffin: You, while you are looking around this scene, you hear the sound of a shotgun shell, uh being loaded into a shotgun, just behind the door of the RV. Um, you actually can tell that, like, whoever’s doing it must be kind of nervous, because you heard some rattling and some, like, scraping as they were trying to put this shell in. But you hear a shotgun shell go into a shotgun in the RV.
+
+
+Justin: What’s my best way in?
+
+
+Griffin: I mean the best way into the RV is obviously the front door, but sort of building off of the last thing that you noticed, your best way in would be very very cautiously and not trying to startle or suprise the person inside.
+
+
+Justin: What’s the biggest threat?
+
+
+Griffin: [laughs] The person with the shotgun inside the RV.
+
+
+Justin: Well, I mean obviously.
+
+
+Griffin: Yeah sometimes that’s just what the answer’s gonna be. [crosstalk]
+
+
+Justin: [crosstalk] Yeah, yeah I mean.
+
+
+Griffin: Yeah, there’s not much- I mean the fire could potentially be dangerous but it looks like it’s dying out and you get the idea that in a few minutes, this things gonna fall apart and that won’t be a threat to the forest, but um, obviously the person with the shotgun inside that RV could be a situation that you’re gonna have to deal with.
+
+
+Justin: Okay.
+
+
+Griffin: So while you’re acting on that stuff, then you get a plus one to your rolls, but because you rolled so well, you have a pretty comprehensive understanding of what’s going on: There’s a nervous person with a shotgun inside that RV.
+
+
+Justin: I call out, pretty loudly.
+
+
+Griffin: Let’s hear that voice.
+
+
+[Clint and Travis laugh]
+        
+Duck: Excuse me?
+
+
+Griffin: As soon as you yell that, a shotgun blast shoots through the door, which you are not anywhere near. It doesn’t shoot quite through the door, as just sort of a buckshot blasts, you see just sort of a big dent form and you hear a sort of a yelp come from inside the RV.
+
+
+Justin: I pull out my radio.
+
+
+Duck: I’m over at lot 5. I’m gonna need some, ugh, police support, I guess. I’ll keep you updated with the situation. I’m not engaging, obviously, but keep me updated.
+
+
+Griffin: Okay.
+
+
+Travis: [muffled, radio voice] 1-Adam-12, 1-Adam-12
+
+
+[Griffin laughs] 
+
+
+Travis: [muffled, radio voice] … at lot 5.
+
+
+Griffin: What do you do? Do you wait patiently for the police to arrive to play the roleplaying game?
+
+
+Justin: [laughs] No, I just wanted to- I’m trying to do what I would do in the real situation, which I don’t think he’d be like, “All right motherfucker, time to go!”
+
+
+[Everyone laughs]
+
+
+Justin: [muffled, radio voice]: … fucking chucks his radio at him.
+
+
+Griffin: After, um, after the shotgun blasts through the door, you hear a voice from inside go:
+
+
+Shotgun person: Aw shit, I’m sorry! I’m sorry, I’m sorry, I’m sorry! Sorry sorry sorry! Are you okay out there? Did I hit anybody?
+
+
+Duck: You are, my friend, you are in violation of now several park rules. Number one, obviously, you’ve got a fire situation we need to deal with. Number two, well it’s not ranger season, partner, and these grounds are—
+
+
+Griffin: [laughing] Partner?
+
+
+Clint: I like this.
+
+
+Griffin: Yeah alright, no, I’m into it.
+
+
+Duck: My name is District Ranger Duck Newton, um [crosstalk]
+
+
+[Crosstalk, unintelligible]
+
+
+Griffin: The duck, er the door to the- you’re just having this conversation with the closed door. The door slides open as you start talking.
+
+
+Justin: I thought he fired the shotgun through the door?
+
+
+Griffin: It just kind of dented it. But she—
+
+
+Justin: It’s a bad gun!
+
+
+[Clint and Travis laugh]
+
+
+Griffin: Yeah, she uh—
+
+
+Clint: She must’ve- And they’d had to have been some blow back too.
+
+
+Griffin: Yeah, she opens the door as you’re talking and sets down her shotgun, and actually like puts her hands up and then realises you’re not a cop and puts her arms down, but then she puts her hands back up again, she’s like, “I don’t? Okay,” and puts her hands back down like, “You’re not a cop, it’s probably okay.” Inside the RV is a young woman, probably about 20 years old. She’s wearing a tank top, she’s got a toboggan on with ear flaps, she uh, drinking a bottle of Yuengling, and when she sees that you’re not a cop but still, like an employee of the park, she kind of tries to scoot it out of your line of sight with her foot, and she is disarmed and has her shotgun down. She says uh:
+
+
+Shotgun Person: [southern accent] Sorry, uh w-what’s uh, what’s your name?
+
+
+Duck: My name is Duck Newton.
+
+
+Griffin: She starts cracking up, laughing, like kind of slapping her leg. She’s still like obviously still kind of nervous but she- this has kind of cut the tension a little.
+
+
+Shotgun Person: You’re kidding me? Duck?
+
+
+Duck: [flatly] It’s a nickname.
+
+
+Griffin: She says
+
+
+Pigeon: Oh no no, my name is Pigeon! That’s, that’s crazy man. What are the odds?
+
+
+Duck: Don’t that beat all? Uh, listen, we need to get this fire under control, this- this is a real danger to the, uh, to the park, and this is kind of a little bit of a dry season for us so we’ve got a sort of elevated risk, and we’re gonna need you to bring that down. Obviously, trying to shoot me with a shotgun, was a problem, but I don’t have the ability to arrest you or anything. What was um- what’s going on?
+
+
+Griffin: She laughed at sort of the incident of both of you kind of having bird names, but she’s starting to look a little bit shaky again and she reaches down and shakily grabs the Yuengling and she’s like:
+
+
+Pigeon: I know it’s against the rules, but if you had the kind of night I’ve been having, I don’t think you’d do any better.
+
+
+Griffin: She takes a slug and she says:
+
+
+Pigeon: I uh, I need to keep that fire going, because, I ran into something out in the woods. Me and my buddy, Pete, we ran out into something in the woods, and he’s still out there, somewhere. We were looking for mushrooms, and we got attacked, by some big motherfucker, some kind of like- it was a bear but I’ve seen bears, and this was like, this was like, several bears sort of all rolled up into one superbear.
+
+
+Travis: He was wearing blue jeans!
+        
+[Clint laughs]
+
+
+Pigeon: I built that fire to try to keep him away, but I know I was breaking the rules, but I was just kind of waiting for it to go off, before I go out and try to find my buddy again.
+
+
+Duck: Listen, I like a story as much as anybody. What is- is it Friday night? 
+
+Pigeon: Yeah.
+
+Duck: That’s right, right? There’ll be traffic from the high school football game, so I’m assuming [sighs], we got about 20, 30 minutes before the cops get here, honestly, their response time isn’t great. Why don’t you do away with the story, I’ve got a little time to kill. Why don’t you tell me what’s really going on here? Are you hiding from somebody? You messed up, with drugs? What’s the deal?
+
+
+Griffin: So, uh, this would be a great time for Investigate a Mystery because you have kind of- or she has sort of stepped you into what is the mystery of this arc, and if you want to find out more details of the monster and what’s going on here, then you can sort of interview Pigeon by sort of doing this move.
+
+
+Justin: Oh, wow, 12.
+
+
+Griffin: Holy shit twelves are cool-
+
+
+Travis: Her whole life is laid before you as if reading a book.
+
+[Clint laughs]
+
+
+Griffin: There’s a way to, uh, when you level up you can improve your moves, so that there’s sort of an additional condition, where if you get a 12 you get like a bunch of great stuff, but right now, it’s just a big success. So for Investigate a Mystery, which is different from Read a Bad Situation, you get a three hold- no, you get two holds actually on a 10-plus and you get to ask some questions.
+
+
+Justin: Okay, this is- this is a point of order here, previously when I was using holds, I was asking you a sort of omnipresent, omniscient narrator-
+
+
+Griffin: Right.
+
+
+Justin: Which it says I’m still asking the Keeper in Investigate a Mystery.
+
+
+Griffin: It’s the same thing.
+
+
+Justin: If I’m using an Investigate a Mystery am I getting answers through them as a conduit, but confident in this information is legit?
+
+
+Griffin: It is in both things, Read a Bad Situation and Investigate a Mystery are both contextual. Read a Bad Situation, I will only divulge information based on what you can see, based on what you’re doing to read the situation. When you Investigate a Mystery if you’re talking to her, she’s not gonna be like, “Well the silver swords you need to kill the dragon…” like she’s only gonna tell you what she knows. It’s always conditional.
+
+
+Justin: Okay, so, uh let’s see-
+
+
+Griffin: Also- also, like a thing, like an important thing, um, there’s a lot of- there’s what’s called the Keeper Agenda that is sort of a facet of all of the Apocalypse games. And a big one is uh, and this is sort of an umbrella for a lot of this stuff, I uh- I am a fan of yours guys characters which means I’m not going to do anything intentionally to mislead you or put you in a situation where like if you- like if something was left unsaid, I punish you for that? And with that in mind, I will always tell you the truth in these situations, so you can take what you investigate here and the info you glean as gospel. Unless, there are characters who will be like liars, but then we’ll cross the bridge when we come to it. But what she tells you is, you know will be the truth. What you do to kind of rectify that for Duck to make it something he believes is up to you.
+
+
+Justin: Okay.
+ 
+Griffin: So two hold, two questions.
+
+
+Duck: So um, what sort of creature is it?
+
+
+Griffin: She says uh:
+
+
+Pigeon: I told you, it was some kind of bear? It was so dark and I dropped my flashlight somewhere back there but uh, it has kind of patchy fur like, I don’t know how to describe it, like patchwork fur? Like it almost looked like it, it almost like it had a horn coming out of its body, not out of his head, like a bear unicorn or something, but out of its shoulder? And um, that’s about all I saw. It was big, man, it was about eight- eight feet tall or so? It was a big nasty bastard.
+
+
+Duck: Did you say a big nasty badger?
+
+
+Pidgeon: Ba-Bastard. It might have been a big badger, I don’t know. It was dark.
+
+
+Duck: Yeah, I was gonna say, I mean it’s not impossible. Uh, did you see which way it went?
+
+
+Griffin: Is this your second question?
+
+
+Justin: Uh yep, where did it go?
+
+
+Griffin: She says- she points back into the woods sort of behind Lot 5. Um she says uh:
+
+
+Pigeon: It uh, sort of pursued me here to my camp but when it got to me, it sort of turned tail and ran away as soon as it got close to the camp. That’s why I built that fire. Yeah, it just turned tail and ran right back in there.
+
+
+Griffin: And you can see as she’s describing this, there’s a path of sort of broken branches on the ground and some disrupted like piles of leaves, and in there, you actually also see sort of some droplets of what looks like black blood or some sort of black ooze, that you could follow as a trail because you asked this question and got this information back into the woods. She actually sees you notice some of this blood on the ground and she’s like:
+
+
+Pigeon: Ah yeah, I did, uh, I did shoot it, which is probably also not okay, but like, my life was in danger, it was self-defense, but I’ll tell you bud, it didn’t seem to do much of anything. So um, I guess it’s not illegal if it doesn’t really hurt the animal.
+
+
+Duck: Well, it’s obviously still illegal. I think both you and I know that.
+
+
+Pigeon: Listen… I can’t- I’m kind of nervous about- I heard you call the cops earlier, I know you said they’re on their way. Is there any way you can kind of wave them off? I swear to God, I was attacked and everything I’ve done is sort of in response to that and I’m pretty freaked out right now and I really don’t wanna go to the pokey, which... is not what human beings call it, I’m just really nervous.
+
+
+[Travis laughs]
+
+
+Duck: Pigeon, what’s your last name Pigeon?
+
+
+Griffin: I didn’t give Pigeon a last name.
+
+
+Travis: Pigeon Pigeonson.
+
+
+Justin: Well you can pick any fucking last name in the world, Griffin. Start yes-anding please.
+
+
+Pigeon: Wilson, Pigeon Wilson.
+
+
+Duck: Wilson. Are you- are you Vicky’s girl?
+
+
+Pigeon: Yeah, that’s- that’s me. Vicky’s girl.
+
+
+Duck: Ahh, alright. Listen, I can tell you’re pretty scared and you didn’t mean to uh take a shot at me. Honestly, I mind less about that than the fire. You know, some of these trees- look around you, some of these are 60 years old, can you imagine? Loose match, cigarette, 60 years old, just gone. [crosstalk] That’s what bothers—
+
+
+Pigeon: Yeah no- That’d be horrible.
+
+
+Duck: I’ll make you a deal. If you can promise me to never to start an open flame like this again and only occasionally taking shots at rangers with shotguns, [Clint laughs] then I think we can wave them off. They’re probably gonna have quite a few drunks to take care of anyway.
+
+
+Clint: Friday night!
+
+
+Duck: Friday night, yep, I hear you.
+
+
+{25.43}
+
+
+Griffin: She smiles, big smile. She actually runs up and gives you a big hug, she’s like:
+
+
+Pigeon: Oh, Duck! Thank you so much! I really appreciate it. I-I swear. I’m done with fire, I’m pretty much done with shooting at rangers. I just- I would say I’m relieved, but I’m still pretty worried about Pete. He’s my buddy, he’s still out there somewhere. We got separated while we were running away. Do you think you could try to see where he’s at? Try to find him for me?
+
+
+Duck: Yeah. I’ll try and go for a look. No promises, it’s a big forest.
+
+
+Pigeon: Okay. Um, are you uh, are you packin’ heat? ‘Cause I’m real worried now about the bear and you getting hurt by the bear. Are you strapped?
+
+
+Duck: I’m not strapped, but I’m also not gonna engage. The problem I’m having, Pigeon. Hold on real quick. Come on back, that was a false alarm there I uh-
+
+
+Police: [muffled, radio voice] There was a false gunshot? What? False gunshot? How does that work?
+
+
+Duck: You know, I- It was a couple of kids playing with cherry bombs. I just- little over-active imagination.
+
+
+Police: Those fucking millennials, man, I’m telling you.
+
+
+Duck: I know, I hear that. I hear that. Alright, so you can wave the boys off, thank you.
+
+
+Griffin: She-she leans into the RV and she pulls out a hunting rifle that she kind of hands to you and she’s like:
+
+
+Pigeon: I know you don’t wanna engage but it might wanna engage with you. Are you sure you don’t wanna take…?
+
+
+Duck: Pigeon, you brought a lot of guns out here, eh? [crosstalk] 
+This a second gun business? 
+
+
+[Clint laughs]
+
+
+Pigeon: No, this one’s Pete’s. This is his. We each brought one gun.
+
+
+Duck: Alright well, I’ll hold onto it in case I run into Pete so we can get that back to him.
+
+
+Travis: So you can kill Pete?
+
+
+Duck: I’m gonna make a call to make sure that uh, Pete’s got all the proper paperwork for this but uh yeah, I’ll hold onto it for now if that’ll make you feel better. The problem I’m having, Pigeon, is about the biggest animal we have in these parts is the good ol’ ursus americanus, the black bear. That’s our state bear, you know that?
+
+
+Pigeon: Yeah, everybody knows that, take West Virginia History, but uh-
+
+
+Duck: Quick, state flower: Go!
+
+
+Pigeon: The rhododendron. [crosstalk] but I’ll tell you, Duck, you’re wrong about that bud, but you’ve got something way bigger in these woods.
+
+
+Duck: [enthused] Alright, alright!
+
+
+{music 28:02-28:08}
+
+
+Griffin: Aubrey, so the early days of a professional magician’s career are pretty difficult ones. Your gigs are almost inconceivably humble with crowds that don’t really pay attention, and venues that generally just don’t pay, and it’s on one of these days that we find you, Aubrey Little, the Lady Flame, on your grind. You’re doing a show on a small sort of temporary stage in the lobby of a resort in Snowshoe, West Virginia, which is pretty, pretty close by to Kepler. It’s about as prestigious as the last you know, dozen shows you’ve done. There’s a small gathering of guests sort of with nothing better to do, just sort of sitting around the lobby, kind of half watching. There’s a kid’s birthday party in the corner of the room that is just paying you no mind at all. It would almost be too insulting to do, if the pay wasn’t decent and you need bus ticket money if you’re gonna line up your next gig. So Audrey Little- Aubrey Little- 
+
+
+Travis: Thank you.
+
+
+Griffin: What does your act look like?
+
+Travis: Um, well Aubrey’s act is very- uh it’s sleight of hand, is what we’re looking at to-
+
+
+Justin: But with fire.
+
+
+Travis: Yeah so the flourishes and the misdirects are all centered around fire, but that more kind of the showier tricks. I mean basic stuff is, you know, your card tricks, your rings.
+
+
+Griffin: Yeah, got it.
+
+
+Travis: Um, you know, your basic rabbit out of a hat, hence Dr. Harris Bonkers.
+
+
+Griffin: Like if you’re a fan of old school magic performance, these are the tricks that you’ve learned first, right? It’s not like you’re David Blaine like eating a bunch of snakes or and leeches or whatever and barfing them up and like, “Oh it’s new magic!” This is like, it sounds like you’re talking about that sort of old school shit but with fire.
+
+
+Travis: Well, here’s the thing. Here’s the thing about magic and magic performances is like you have the basics, right? Where your sleight of hand, you know, “Look over here, here’s the ball, oh where’d the ball go?” is like, that’s the basic. And like it’s how you perform it, it’s your patter, it’s your flourishes. That’s what separates you, because really a lot of the building blocks are the same with every trick.
+
+
+Griffin: I got you.
+
+
+Travis: it’s what you add onto it, so Aubrey’s thing is very, um, you know, the flash, the literal flash of the fire, the sparks—
+
+
+Griffin: Cool.
+
+
+Travis: —the patter.
+
+
+Griffin: Then let’s get started. I want Aubrey to- either like a few sections to start off with and I’m gonna fudge the rules a little bit, but I want Aubrey to go ahead and do her first trick of the night.
+
+
+Travis: Okay.
+
+
+Aubrey: Alright, now everybody? I want you to listen closely. Three thousand years ago, on the banks of the Nile, the priests used to believe that if someone believed hard enough and pushed their will to the brink they could conjure, from nothing, flame itself. I am that person. With the strength of my will alone, not only can I conjure flame from nothing, but I can manipulate that flame to become whatever I desire.
+
+
+Travis: And she begins concentrating and has the concentrating face, as her hands move through the air, dancing dancing, the hands dance, and then she ignites a pile of metallic shavings that she has palmed to create a flash in an attempt to manifest a flower that she had up her other sleeve.
+
+
+Griffin: Um, okay. By the way, what’s the background music, because you sort of painted a picture of her having sort of non-traditional magician aesthetic and I’m sort of wondering if that is also part of the act?
+
+
+Travis: Yeah, so I would say that she has like a little, like, sound board that she carries with her that she plugs into a mini speaker, if you know what I mean?
+
+
+Griffin: Yeah, what’s it playing?
+
+
+Travis: I would say it’s kind of like, imagine like a lot of the incidental music from Prince of Egypt.
+
+
+Griffin: Okay.
+
+
+Travis: But added to it is like-
+
+
+Griffin: But not like punk-punk-punk rock-
+
+
+Travis: But added to it is like punk EDM.
+
+
+Griffin: Okay but, fine, that’s a lot of fucking genres but I’m into it. So-
+
+
+Travis: Listen, let me tell you, straight up, I would say the music background is the weakest point of her act.
+
+
+Griffin: Sure. Um, so I’m fudging the rules a little here, because for this part I just want you to do a straight up or down roll, and based on what you decide- so if it’s something that is going to be sort of dextrous, like requires a lot of hand-eye coordination or something like that, I want you to roll plus Cool. But if it’s something where you’re trying to misdirect the audience, I want you to roll plus Charm.
+
+
+Travis: No it’s misdirect. Um, so with that, I got a 10.
+
+
+Griffin: Okay, I think with a 10, you crush it. You cause this burst of flames to shoot out of your hand and suddenly there is a flower in your other hand, and with that, and with a performance that steady, I think the audience is now sort of like paying attention. You actually get some scattered applause throughout the audience, which, you have done shows in like resort lobbies like this where you’ve not got any applause at all, so this is- this is awesome. The kids’ birthday party, a couple of the kids actually are sort of - their eye catches the flash of the fire and they start applauding too. And this one kid in the back yells out:
+
+
+Kid: Hey! Do you do balloon animals?
+
+
+Aubrey: I do not, but thank you for asking.
+
+
+Griffin: Before you get to your second trick, you also notice some activity at the front door, as a large woman, like just this imposing figure wearing a tattered brown leather duster is 
+
+
+helping out one the staff’s- one of the hotel staff, wheel in this ornately detailed wooden sculpture of an elk, into the lobby, on a- you know, on a pallet. You notice that in the back of the room. What is your second trick?
+
+
+Aubrey: Now, before I continue, if I’m going to move forward with these amazing feats of will and skill, I’m going to need the help of a wise and venerable assistant.
+
+
+Griffin: You see a couple of kids start raising their hands, like “Oh oh oh!”
+
+
+Aubrey: Hold on just one moment, because now I am about to introduce to you the true amazing wonder of my act. Folks, I’m ready to present: Dr. Harris Bonkers! [someone feigns a crowd roar]
+
+
+Travis: And she taps with her foot and a little puff of smoke from a mini pyrotechnics machine goes on, and with that, the sides of a box fall away, revealing Dr. Harris Bonkers, PhD.
+
+
+Griffin: Um, I think maybe one of the kids is like:
+
+
+Kid: A bunny!
+
+
+Griffin: But eve
+rybody else doesn’t really know how to react to this [laughs]. I think that would count as a trick, by the way, so go ahead and roll plus charm on that.
+
+
+Travis: Okay. Um, it was an eight.
+
+
+Griffin: Yeah, okay. I think you just get that result. One of the kids is just like, “A bunny!” and the rest of the audience doesn’t really know how to react to that, as Dr. Harris Bonkers makes his appearance. And as this cloud of smoke like rolls up and dissipates you see through it and you see and the resort’s manager has made his way from behind the front desk and he’s like conversing with this like large imposing woman, sort of taking the statue off her hands and handing her an envelope, which she tucks into the pocket of her coat and now she’s just hanging out at the back of the room and sort of watching your act.
+
+
+Aubrey: To you, he seems like just a bunny, but let me tell you: Dr. Harris Bonkers was once the greatest wizard who ever walked the face of the Earth! Until one day, he touched on something too powerful for him to control, it backfired, cursing him into this poor and lonely shape. But I iam able to communicate with Dr. Harris Bonkers, and Dr. Harris Bonkers tells me that there’s someone here in the crowd who I need to bring up on stage. Someone here with something to tell me. You! In the back, in the ragged duster. Would you join us on stage please?
+
+
+Griffin: This woman at the back of the room, uh sort of- kind of an older woman, you think? Like not older maybe, like mid-fifties or so? She kind of smiles and like shakes her head like, “No I’m good, thank you though.” She gestures over at one of the kids at the party like, “Why don’t you take one of them instead? I feel like they’d get a kick out of it.”
+
+
+Aubrey: I see. A little trepidatious, afraid of what Dr. Harris Bonkers might know. Very well, if you’re afraid…
+
+
+Griffin: She gets that you’re trying to goad her and she kind of chuckles again.
+
+
+Aubrey: Very well. Let’s see, we need a volunteer. Who’s- lets see… 
+
+
+Griffin: There’s a kid in the birthday party who’s like wearing like a paper crown, who you take to be the birthday boy.
+
+
+Aubrey: You! The little prince. Why don’t you join us here on stage?
+
+
+Griffin: The kids are kind of like clapping, almost like they’re making fun of this little boy, who kind of like nervously, kind of almost sullenly walks up to the stage and hops up next to you and Dr. Harris Bonkers.
+
+
+Aubrey: [whispers] Don’t worry kid, it’s gonna be fine. [normal voice] Now, what we are going to do here: he is going to- what’s your name son?
+
+
+Randy: Randy…
+
+
+Aubrey: Alright, Randy is going to communicate to Dr. Bonkers and then Dr. Bonkers is going to communicate to me. Are you ready Randy?
+
+
+Randy: Yeah, I guess so.
+
+
+Aubrey: Okay.
+
+
+Travis: And so then she begins some very flourishy, like card shuffles, and offers to Randy.
+
+
+Aubrey: Now Randy, I want you to pick a card, but don’t show it to me. I want you to show it to Dr. Bonkers.
+
+
+Griffin: He picks a card, and holds it to his chest, looks at it.
+
+
+Randy: You want me to show it to your bunny?
+
+
+Aubrey: To Dr. Harris Bonkers, yes.
+
+
+Randy: Alright.
+
+
+Griffin: And he goes and sort of flashes it to Dr. Harris Bonkers. Is Dr. Harris Bonkers a magic rabbit? What would stop this rabbit from just like eating the card? He’s just well-trained?
+
+
+Travis: He’s a very well-trained rabbit! He’s very smart for a rabbit.
+
+
+Griffin: Alright, I got you. Alright, continue the trick, the illusion.
+
+
+Aubrey: Now Randy, I don’t want you to put it back in the deck. That would be too simple. I want you to hold it in front of you. Don’t show it to me, but concentrate on it as hard as you can.
+
+
+Griffin: He’s concentrating on the card. 
+
+
+Travis: And she puts her finger to the back of it, and snaps and the card ignites in flames.
+
+
+Griffin: Roll plus Weird.
+
+
+Travis: Okay, that’s a 10. I rolled an eight plus two.
+
+
+Griffin: Okay, I’m trying to decide if that’s very good or very bad. I think following the rules of the game, I think it’s good, but it’s also powerful. You touch your finger to the back of the card, and what did you intend for it to happen?
+
+
+Travis: The card, like flash paper, goes up.
+
+
+Griffin: It actually, kind of, explodes in a big burst of flame. Okay, with that in mind, I think Randy sees like this fire is actually pretty big and scary, so he kind of drops the card and jumps off the stage, and Dr. Harris Bonkers also jumps out of the way, but this explosion- you’ve done this trick hundreds, thousands of times- this is not intended. The burst of flame is actually enormous and I think the people in the front row also kind of scoot their chairs back instinctively, and the fire doesn’t like stop, it’s not like a blast of fire, it kind of hangs in the air off your hand. And as you turn to look at your hand, like the fire spreads, and now the curtain that’s behind the stage also gets ignited a little bit. There’s some flags, some like little decorative pennants hanging from the ceiling that also catch ablaze, and suddenly the people in the audience are having to pay attention to you, they are kind of yelling and starting to turn and run kind of scared.
+
+
+Travis: I want you to know, I’m gonna say, this is a professional magician who works with fire, hidden under the table is a fire extinguisher.
+
+
+Griffin: Okay.
+
+
+Travis: She would not be without a fire extinguisher. She is doing tricks around kids—
+
+
+Griffin: Yeah sure.
+
+
+Travis: —with flames. So would that be Act Under Pressure?
+
+
+Griffin: Uh yeah, I think Act Under Pressure. I think that there’s fire kind of starting to spread around the curtains and pennants and—
+
+
+Travis: Well, that’s not good.
+
+
+Griffin: [amused] What’d you get?
+
+
+Travis: It’s a four plus zero. 
+
+
+Griffin: Oh boy. Well, mark experience.
+
+
+Travis: Uh-huh.
+
+
+Griffin: You really set that up for me. ‘Cause I didn’t even think to make you- okay, this is a good game. Uh, so when you act under pressure, and you fail, something goes very, very bad. Uhh, I get to make basically a hard move, and the hard move is that the fire just spreads, pretty quickly. Um, you get the feeling that is not spreading naturally it’s almost spread in response to you and the things that you’re doing, and now the whole back wall of the uh, of this lobby is kind of ablaze with sort of this one long curtain and it is all on fire, and you try to put it out with your fire extinguisher, but it’s just not effective enough. And I think the kids’ birthday party at the back of the room is now just clapping like up and down cheering, this is the best fucking thing they’ve ever seen. [Clint laughs] But some uh, some adults come and grab them and start to usher them out of the room. And you see that big- that imposing woman in the back of the room, kind of look curiously at you and then walk backwards out of the lobby as the fire alarms start blaring. The lobby’s on fire, what do you do?
+
+
+Travis: Okay, she closes her eyes and takes a deep breath. And then another. And then another.
+
+
+Griffin: She’s burned to death. No, okay-
+
+
+Travis: No, she’s not. She’s breathing quietly, calming down, and then she acts.
+
+
+Griffin: Alright, what are you doing?
+
+
+Travis: First, I’m gonna scoop up Dr. Harris Bonkers.
+
+
+Griffin: Yep.
+
+
+Travis: And then I’m going to uh, you know, get the fuck off the stage.
+
+
+Griffin: Uh yeah. I think the fire’s mostly behind you at this point so you have a pretty clear line to the exit.
+
+
+Travis: Well I guess- here’s my question: is this the first time anything like this has ever happened to Aubrey?
+
+
+Griffin: You tell me, dog.
+
+
+Travis: I’m going to say no. I’m going to say—
+
+
+Griffin: I will definitely say- I will definitely say it has never happened this powerfully before if it has happened before.
+
+
+Travis: Yeah, I’m going to say little things like this happened a lot more when she was a kid. She has probably had like weird manifestations of this, and so if the fire is somehow springing from her and reacting to her, I’m going to see if she can, maybe, without really knowing what she’s doing, in calming down, see if she can get the fire to calm down?
+
+
+Griffin: I wanna challenge that and say is that something Travis wants to do, or is that something that this actual person would do if they were in the middle of a burning building?
+
+
+Travis: Well, that’s such a good question, because it really depends on what the history of this with her is, you know? If she has had to deal with little things like this happening before, but never on this scale… I think that if the fire is behind her, I’m gonna try it once. Because maybe she used to play more like a kid lighting matches—
+
+
+Griffin: Okay.
+
+
+Travis: With this power when she was a kid, but it hasn’t manifested since then. I’m gonna say she’s been able to turn on and off this fire before—
+
+
+Griffin: All right.
+
+
+Travis: So she’s gonna make one attempt at it.
+
+
+Griffin: Alright, so you’re gonna use magic, which is a Weird roll.
+
+
+Justin: What’s weird about it?
+
+
+[someone snorts]
+
+
+Griffin: I guess this would be “Do one thing that’s beyond human limitations,” is one of the things you can do with magic.
+
+
+Travis: Yeah well, I also have moves.
+
+
+Griffin: You have like your fire attack or whatever, but I don’t think-
+
+
+Travis: Well, no no no, I have moves. So one is called Not My Fault, which plus one to act under pressure when you are dealing with the consequences of your own spellcasting.
+
+
+Griffin: That’s definitely this.
+
+
+Travis: Um. Yeah so- but if it’s Weird, I rolled an eight plus two so it’s a 10.
+
+
+Griffin: Okay. I think with a plus 10, you contain the fire. You see it start to retreat off the edges of the curtain, that sort lines the back of this room, and sort of retreat off the ceiling a little bit where it had started to spread. It’s still definitely burning somewhat, but you get the sense that you have essentially like, saved this building. Um, I will also say that the fire and heat 
+and smoke of this situation is now powerful enough that it’s becoming kind of unbearable to be in this place. But with your control, you controlled the fire, you almost spoke to the fire and made it calm, somewhat. You have saved this building from being completely destroyed, but if you stay here any longer it’s going to be bad for your health.
+
+
+Aubrey: Lady Flame out!
+
+
+Griffin: Okay.
+
+
+[Clint laughs]
+
+
+Griffin: You step outside, and as you do, you see some folks on their cellphones, trying to get reception. Again, you’re in the US National Radio Quiet Zone, and so it’s kind of difficult to get signal here. The kids are still applauding you as you come outside. In the distance, down on the hill that you’re on, you can see the lights of a fire truck kick on and start speeding up the road, and behind them, you see another set of lights kick on, and these are the lights of a police vehicle, sort of following to race up to this scene. And you also see out of the corner of your eye, to your left, you see at the edge of the building, that woman. That woman wearing the leather duster, and she is kind of frantically motioning for you to come over to her as quickly as you can. 
+
+
+Travis: I do that.
+
+
+Griffin: Okay, you move over to that woman and you turn the corner and you see her big four-wheel truck, that she’s got parked around the corner of the building and as you come around the corner, she has a sawed off shotgun trained on you and she speaks quickly and she says:
+
+
+Woman: Alright then, let’s hear it. What are you doing this far from the gate? Didn’t anybody tell you the rules? Just come on now, I know real magic when I see it, fess up. You thought you’d just go around blowing up ski lodges all willy-nilly like that?
+
+
+Aubrey: I’m flattered. Um, I’m a magician, those were tricks, I wish I could tell you how... I did it, but as you know, magicians’ secrets. [nervous laugh] Um, but-
+
+
+Woman: Alright, explain the trick how you made the fire retreat. By the way, the cops are gonna be here in a couple minutes. How’d you make that fire just disappear? I’m listening.
+
+
+Aubrey: Uhh, fireproof curtains. Now, if you don’t mind, I’d be happy to talk to you more, in the truck, away from here please.
+
+
+Woman: Alright, well I’m heading to Kepler anyways.
+
+
+Aubrey: Where?
+
+
+Woman: Kepler?
+
+
+Aubrey: Never heard of it.
+
+
+Woman: Well, I think it’s where you belong. I’m just as confused as you are.
+
+
+Griffin: She uh holsters her shotgun in a holster she has inside of her duster. She says:
+
+
+Woman: Alright, hop in the truck. Let’s get the hell out of here.
+
+
+Aubrey: Hold on, first?
+
+
+Woman: Yeah?
+
+
+Aubrey: I need you to apologize to Dr. Harris Bonkers for pointing a gun at him.
+
+
+Woman: I’m very s- that’s your rabbit?
+
+
+Aubrey: His name is Dr. Harris Bonkers [crosstalk]
+
+
+Woman: [crosstalk] Dr. Harris Bonkers, I’m very sorry for pointing a gun at you. Cops are gonna be here in about 30 seconds. Let’s get the hell out of here.
+
+
+Aubrey: Hold on. Dr. Harris Bonkers, do you forgive her? [pause] Okay, he forgives you, let’s go.
+
+
+Woman: I know Dr. Harris’ name. What’s yours again?
+
+
+Aubrey: It’s Aubrey, but you can call me the Lady Flame. Now, if you don’t mind, start the fucking car.
+
+
+Griffin: She hops in the driver's seat as you hop in the passenger's seat, and turns the ignition. She says:
+
+
+Woman: Alright Aubrey, it’s nice to meet you.
+
+
+Griffin: And she extends her big hand and she says:
+
+
+Mama: I’m Mama.
+
+
+{Commercial break 48:45-54:41}
+
+
+{Music plays until 54:46}
+
+
+Griffin: Ned, the bell over the entrance to the Cryptonomica chimes as Janice, Kepler’s dedicated mail carrier, finishes her route. Uh, the Cryptonomica sits at the very entrance to Kepler, uh, just alongside the Greenbrier River, which is glistening in the mid-morning sun. Uh, and Janice strides towards you, Ned, and begins rummaging around in her bag, but instead, she first delivers a couple of pieces of mail to this room’s other inhabitant, who is Kirby. He’s here often enough that she knows just to bring his mail directly to here at his request. 
+Kirby’s in his late 20s, kind of sloppily dressed. He’s drinking an RC Cola and, uh, he’s typing feverishly into an old Macbook that he has at a sort of makeshift desk in, like, a corner of the Cryptonomica. 
+And he has it positioned, his desk, by your modem, which he comes by to sort of plug into, which is kind of the nature of an arrangement that we’ll get into later. And Janice finishes delivering the package and the mail to Kirby and then walks over to you, Ned, and pulls out the last few pieces of mail from her bag. It’s mostly just junk mail, but then she pulls out another piece of mail, in a large envelope, and she kind of reacts with surprise, and she says,
+
+
+Janice: Oh, this one’s certified, Ned. Looks important, gonna need you to sign for this one.
+
+
+Ned: Of course, uhh, Janice. Certified… is it sent to me? I mean, in my name?
+
+
+Janice: [amused] Yeah, dude. Why do you think I’d deliver it to you otherwise?
+ 
+Ned: Well, no. I mean, if it was sent to the business, you know. Uh, sure. Here, let me, let me sign!
+
+
+Griffin: ‘Kay. You sign for it.
+
+
+Ned: Edmund… Chicane!
+
+
+Griffin: She’s already like—
+
+
+Ned: —here you go!
+
+
+Griffin: She tears off the stub off the end of the certified sort of part of the letter, and she hands you the rest of it, and she pops on her headphones, and heads out the door just with a wave. And you have this piece of certified mail.
+
+
+Justin: Hmm!
+
+
+Travis: And it’s haauunted!
+
+
+Griffin: It’s haunted. A big ghost jumps out of it. No, you tear it open, and it’s an eviction notice! You have— it tells you that you are two months late on your rent for the Cryptonomica, and you have seven days to pay the last two months’ rent. And you feel this pang of, sort of like, anger, because this was definitely issued by somebody at City Hall who was, like, gleefully pursuing the opportunity to get rid of your establishment. Like we talked about in the setup episode, there’s this friction between, like, the cryptid industry side of town and the, like, quaint tourism industry side of town. You also kind of saw this letter coming, because visitors at the Cryptonomica have been kind of few and far between, and revenue has dwindled. And before we go any further, I wanna hear from you about what the Cryptonomica looks like. What’s— whatd’ya got in there?
+
+
+Clint: Cryptonomica is really kinda divided up into two areas. There’s one main area that is open to the public, with a lot of glass cases and a lot of shelves, tables, mostly cases, I’d say it’s dominated by the glass cases. And there’s another room, a back room, that is similar to the front room, but maybe about a third of the size. And it has things in it too, but that’s not open to the general public. There— 
+
+
+Travis: Can I ask you a question, Dad?
+
+
+Clint: Yeah.
+
+
+Travis: Is it like a museum, or like a shop?
+
+
+Clint: [sighs] I think it… I think it’s like… a shop.
+
+
+Griffin: I mean, every museum has a shop in it.
+
+
+Travis: Yeah but I mean, is it like a gift shop/touristy thing or is it like, “Look on these wonders!” 
+
+
+Clint: I think Ned portrays it that way, but it’s, you know, every one of these wonders can be bought.
+
+
+[Justin laughs]
+
+
+Travis: Ahh, gotcha gotcha gotcha.
+
+
+Clint: These wonders, one-of-a-kind, amazing artifacts, and mystic tomes, whatever, can all be purchased for a—
+
+
+Griffin: The right price.
+
+
+Clint: —ridiculous fee. And there are like um [laughs] spinners with pamphlets in it.
+
+
+Griffin: I thought you were gonna say fidget spinners.
+
+
+Travis: Yeah, I thought so too.
+
+
+Clint: No. No, that’s—
+
+
+Travis: With like Bigfoot’s face on ‘em.
+
+
+Clint: And he’s got a lot of um, a lot of books. Uh you know, every cryptid you can imagine: Mothman, and uh the Jersey Devil, and Nessie, and some that are kind of dedicated to uh, to some of the local cryptids that are rumoured to be rumbling about. But Ned is gonna portray them to the public as amazing wonders, one of a lifetime items that can pierce through the veil of ignorance and enlighten everyone!
+
+
+Griffin: But Ned doesn’t necessarily believe any of that?
+
+
+Clint: Oh God [chuckles], hell no.
+
+
+Griffin: Okay, um-
+
+
+Clint: [laughs] He doesn’t believe in any of it.
+
+
+Griffin: Also in this room, as I talked about earlier, is a corner where Kirby is working at a desk, and he sees you open this letter, he stands up from the desk, walks over to a vending machine in the corner, and pops in a couple quarters and he grabs a fresh RC Cola and he motions to you Ned like, “You want one?”
+
+
+Ned: Ah no thank you! Friend Kirby, I’d much rather you get back to finishing whatever you’re doing so you can get the hell out of my shop.
+
+
+Griffin: He kind of chuckles-
+
+
+Ned: Museum! My museum!
+
+
+Griffin: He kind of chuckles and he goes and he sets the can of soda down on his desk and he says um:
+
+
+Kirby: Well, what’d you get, Ned?
+
+
+Ned: I received a communiqué from the local bureaucracy, Kirby, and apparently they would like me to vacate the premises or pay them the exorbitant fees that they demand.
+
+
+Griffin: He kinda like puts his head in his hands and sort of rubs his temples for a second, he’s like:
+
+
+Kirby: You got an eviction notice, Ned? You gotta fix this, I like working in here, with you, it’s a good arrangement, anything you can do to drum up some-
+
+
+Ned: Yes let’s talk about that arrangement, Kirby. What exactly do you do around here? What do you contribute to my wellbeing.
+
+
+Kirby: Well, you know. I’m an income generator, Ned. You- you know how this works.
+
+
+Griffin: You- I’ll explain cause this is, like, a thing you would know. This is not like- I’m introducing this to the game, but this is something Ned would know. Kirby runs a local cryptid zine, called the Lamplighter, and he writes about stuff, it’s like a one-page weekly, where he writes about cryptid activity in Kepler. And its circulation- I mean he puts it up in, you know, roadside restaurants and gets it out to a couple establishments outside of town to bring in some folks. But your arrangement is such that he writes about cryptids, and then people, if they get interested in it, they come here, to the Cryptonomica. Which is I think something Kirby had to give you the hard sell on, but it has worked in the past. Um-
+
+
+Clint: Apparently not well enough! 
+
+
+Griffin: Yeah, things are definitely slow. He says: 
+
+
+Kirby: You’re gonna have to drum up some cash, Ned. Can you- Can you just-
+
+
+Griffin: He starts looking around the Cryptonomica, he’s like:
+
+
+Kirby: Can’t you just hawk some of this old stuff? I’m bettin’ some [crosstalk] weirdos out there would pay a pretty penny for it.
+
+
+Ned: [crosstalk] Hmm...
+
+
+Griffin: And while he’s saying that he’s eyeballing one exhibit you’ve got in particular, it’s like a strange looking weapon mounted in a display case on the wall.
+
+
+Ned: You know, I bought all this stuff on ebay, so I’m not sure there’s a lot of resale. Perhaps back in my private stock… Yes, I-I think perhaps I may have to part with some of my extremely precious items in the back room.
+
+
+Griffin: He says-
+
+
+Ned: I know, I know you’ve never been in it. I know you don’t know what I’m talking about, but um…
+
+
+Kirby: Oh, I go back there all the time. 
+
+
+[pause]
+
+
+Ned: Oh… You do?!
+
+
+Kirby: Yeah man! I mean, I’m a journalist. I gotta know- I gotta know the truth of the matter. I gotta know what’s going on.
+
+
+Ned: Yeah… I may have to have that key back, um.
+
+
+Griffin: [laughs] He says:
+
+
+Kirby: Listen, you- you might not need to sell anything, we could just go do the usual.
+
+
+Griffin: He says:
+
+
+Kirby: In fact it seems like you’re hurtin’.
+
+
+Griffin: He walks over to his desk and says:
+
+
+Kirby: I think maybe it’s time we pull out the big guns. I- I think it’s time for a new exhibit.
+
+
+Griffin: And he turns his laptop around, he spins it to face you and you can see what’s on the screen, it’s the front page of the next issue of the Lamplighter. And you see a headline in a staggeringly large font just below the masthead which reads “Bigfoot! Hiding Out in Kepler?”
+And Kirby says,
+
+
+Kirby: I know it’s pretty mainstream, but folks are just crazy about Bigfoot. You could become a destination for Bigfoot activity and put the Cryptonomica on the map!
+
+
+Ned: Well, um… Kirby, I think the… seven people who’ll actually read that might be extremely interested. Okay, I think I can probably dust off some of the Bigfoot stuff and set it up in a new display.
+
+
+Griffin: He says,
+
+
+Kirby: I don’t know about your old Bigfoot stuff though, I’m talking about a new exhibit, Ned. Somethin- Somethin’ that is gonna bring in folks who’ve already been here and make this place the Bigfoot capital of the world!
+
+
+Ned: Well, that’s-that’s fine, Kirby, but I think you’re forgetting is that we have to have stuff from the real Bigfoot, and since there is no real Bigfoot then there’s no… stuff from the real Bigfoot, so what do you suggest I make a display about?
+
+
+Griffin: He says,
+
+
+Kirby: I mean, come on, man! You know-You know the deal! You gotta take matters into your own, perhaps, costume-wearing hands sometimes.
+
+
+Griffin: And he winks. He’s like,
+
+
+Kirby: Listen, we both know that Bigfoot is bullshit, but desperate times call for desperate measures. Get out in the woods, take some blurry fuckin’ pictures! I don’t know! Whatever people usually do to make Bigfoot stuff happen. But you do that and this place is gonna pop off, I’m tellin’ you.
+
+
+Ned: You know… I do have that Wookie costume from last Halloween… 
+
+
+[someone claps]
+
+
+Ned: And it’s obviously a slight welp of a child like you, but you can take shitty pictures, can’t you?
+
+
+Griffin: He’s like,
+
+
+Kirby: I’m on a tight deadline for the next issue, but um… I think that Wookie costume would look great on you! You go out there, time- set a timer, on your phone, I can show you how to do it, I know you have trouble with some of your phone’s more advanced functions, but I think that’s gonna be great. And lemme tell you, Ned, personally speaking, I cannot wait to see these photos. These are going to be some choice images, my man.
+
+
+Ned: Alright! I’ll do it, will you keep an eye on the shop?
+
+
+Griffin: He says—
+
+
+Ned: The museum! The museum.
+
+
+Griffin: He says,
+
+
+Kirby: Yeah, I’ll do it, I dunno how late you’re plannin’ on bein’, but I can close up if need be. [sarcastically] Lemme tell ya, I dunno how I’m gonna keep up with this rush of customers, though, oh my god! You gotta remind me of how everything works ‘cause it’s gonna get so frantic in here with all the customers!
+
+
+Ned: [laughs] Kiss my ass, Kirby.
+
+
+Griffin: And Kirby laughs as he cracks open his- that RC Cola, and he sits back down at his desk and starts working on the next Lamplighter as Ned, you start planning your next grift! You are going to bring Bigfoot to Kepler!
+
+
+[Theme music (The Adventure Zone: Amnesty Theme by Griffin McElroy) plays]
+[Next episode]

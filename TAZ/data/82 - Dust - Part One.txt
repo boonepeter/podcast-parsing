@@ -1,0 +1,1862 @@
+﻿The Adventure Zone
+Master of Ceremonies & NPCs: Travis McElroy
+Errol Ryehouse: Griffin McElroy
+Augustus Parsons: Justin McElroy
+Gandy Dancer: Clint McElroy
+Episode 82 - Dust - Part 1
+(part of TAZscripts on Tumblr)
+Travis: Previously, on The Adventure Zone:
+
+
+Justin: I’m playing a ghost. His name is Augustus Parsons.
+
+
+Clint: My character’s called Gandy Dancer. She’s a wizard.
+
+
+Griffin: His name is Errol Ryehouse. He is permanently half-transformed between human and werewolf.
+
+
+Narrator: We found Jeremiah Blackwell dead in the street. It has every sign of an attack by one of the Furs, Dylan Mathis. The three of you work for the Grayson Agency. Abigail Mathis, Dylan’s mother and owner of the silver mines south of town, had hired Graysons as arbiters, but didn’t state in the telegram what it is you’d be handling. When Connors first brought Dylan in, he wouldn’t shut up about his innocence. Now he’s keeping quiet. Abigail and Connors have agreed to bring y’all in on this to try to sort it out. It’s midnight now. At 8 a.m. the whole town is gonna be awake. And once they find out what’s happening, all hell’s gonna break loose. You have eight hours. Good luck.
+
+
+[Theme music (The Adventure Zone: Dust Theme by Griffin McElroy) plays]
+
+
+Travis: Here we are. Episode 1, offish. Um.
+
+
+Justin: [crosstalk] Wait, gonna roll a—
+
+
+Griffin: [crosstalk] Wait, the arc is called “Fish” now?
+
+
+Travis: “Offish,” like “official.”
+
+
+Griffin: Welcome to The Adventure Zone: Fish. What’s going on under-?
+
+
+Travis: Fish. No that’ll be the sixth one if I know my alphabet correctly.
+
+
+Clint: Yeah.
+
+
+Griffin: We are doing that, right? 
+
+
+Travis: The next one is “Extravagance.” Um, so, I was just gonna jump straight into the story but last night, as I was figuring stuff out, I came up with a mechanic that I really, really like that I’m gonna share with y’all. Because I set a kind of time limit on the story, I was trying to figure out a good way to like, work that in to the game. So what it’s gonna be is, I have mapped out a certain number of beats in each hour so you can go to different locations. You know, so for example, during the hour of midnight you could go to two or three locations.
+
+
+Griffin: I love that.
+
+
+Travis: Then the time will move forward. Now the reason—
+
+
+Justin: That’s cool!
+
+
+Travis: Now the reason the two or three is— The other part of the mechanic is you have the option to either completely separate or go to places together. If you go to places together, you only have time to do two. But if you separate, you have time to do three beats. And the problem is if you are by yourself, you are without the faction help and the skills of the other people, but you have time to do more investigating. 
+
+
+Clint: And I’ll miss you.
+
+
+Griffin: It’s funny that you came up with that independently, because there’s a— I think a Sherlock Holmes Powered By the Apocalypse game. I’ve heard it a couple times on the “Friends at the Table” podcast that has basically this exact mechanic in it. And I always thought it was really neat.
+
+
+Travis: Excellent. Well, I’m a genius. And to put a little-
+
+
+Griffin: Or a thief. Or an idea thief. Copyright thief.
+
+
+Justin: [underneath Griffin] Or a thief. A thief.
+
+
+Travis: One of those two. No, I definitely did not steal the idea. Came to me last night, in a dream. Um, also—
+
+
+Justin: While he was listening to his favorite sleeping podcast, “Friends at the Table.”
+
+
+Travis: To add a little bit more, kind of pressure to this kind of old West, police procedural I’ve written, certain characters will be unavailable during certain times. Either they’ve, you know, gone to sleep, or they are at work or whatever. And certain locations will be unavailable during certain times. So like, if you don’t go talk to somebody in say, midnight or 1:00 to 3:00, you won’t get a chance to talk to them after that.
+
+
+Griffin: Killer.
+
+
+Justin: Cool.
+
+
+Travis: So…
+
+
+Justin: Everybody’s asleep, also, because it’s midnight to 8.
+
+
+Griffin: It’s midnight, what are y’all doing?
+
+
+Justin: That’ll do it, folks.
+
+
+Travis: So, we’re gonna start in the sheriff’s office and this does not count towards your time. Um, we are probably only gonna get to the midnight beats, I think, in this first episode, because there’ll be a lot more to talk about here.
+
+
+Griffin: Yeah.
+
+
+Travis: So, also! I should also say that in Urban Shadows, usually at the beginning of a session, the players will go around and say who they distrust, what other player character they distrust the least, and there’s a whole thing about setting up, but the Master of Ceremonies has the option to skip that if you’re starting in the middle of a chaotic situation where there’s already a lot of information revealed. So-
+
+
+Griffin: [interrupting] Let’s do that.
+
+
+Travis: I’m gonna invoke that just because we already have a lot to figure out. I don’t want to add more stuff to that and complicate it.
+
+
+Griffin: I'm going to say I don’t like Jeremy, the silent fifth member of the Adventure Zone podcast, who is playing the character of Pervis.
+
+
+Travis: Take that, Pervis.
+
+
+Griffin: No, take that, Jeremy, you big donker.
+
+
+Travis: So, scene: smash cut. So you’re in Sheriff Connors’ office, it doubles as the jailhouse. There are three cells across the backside of the building. In cell number one, which is on the far left as you’re looking at them, you can see a shape that you know is Dylan Mathis curled up on a cot. Dylan is facing away from you, so it’s hard for you to tell if he is sleeping or simply trying to stay as still and silent as possible. Trying to keep himself out of the world. I should also say that you have been briefed by your agency before you came here, so there will be certain things that you already know about the inhabitants and the town, and there will be other things that you will have to search out and find out on your own.
+
+
+Griffin: I assume you’re gonna tell us the first things when they are relevant.
+
+
+Travis: Absolutely. And those will be the things that you know from, like, putting a name to a face or that kind of stuff. I can tell you, like, who has the business interests and where things are in the town, but as far as the interpersonal connections and who distrusts who and all the gossip? That stuff you’re gonna have to figure out on your own.
+
+
+Griffin: Broad strokes, because it’s been about three weeks since we recorded the setup episode, remind me [hesitantly] the Mathises...run the...copper mine?
+
+
+Travis: Yes, the Mathises are the lead Fur family in town. They run the silver mine. The Blackwells are Fang leaders in town, and they run the copper mine. Sheriff Connors is… the sheriff. His deputy is Rosa, and they kind of constitute the leadership of the Fleshes. But the Fleshes aren’t as— If you think about the nature of a pack or a family, the Fleshes aren’t as tightly knit as either the Fangs or the Furs. So when we start the scene, we kind of start in medias res, as they say, and Connors has been explaining to you that they found Jeremiah Blackwell’s body in the center of town at the intersection that’s kind of like, the main part of town and over him, covered in blood, was Dylan Mathis. So they took Dylan in under the cover of night, there was only a few witnesses and… that Connors was able— Connors and Rosa were able to talk to people and kind of keep it quiet, but they know that once the sun comes up and everyone’s up and getting ready to go to work, they’re not gonna be able to keep this quiet and it’s gonna be out of their hands. So they’ve been able to brief you a little bit about who was there, and we can get into that when you’re exploring your options of where to go next. But when the scene starts, Rosa is kind of nervously looking out the front windows.
+
+
+Connors: Rosa, come— come away from there. You’re making me jumpy.
+
+
+Rosa: I-I know, I know, Sheriff, it’s just I’m— I got a bad feelin’.
+
+
+Connors: Well, yeah. Yeah. Of course you got a damn bad feelin’, there… there’s a murder. Now come away ’fore someone sees you. Alright now, you three. What do you need to know? I want to keep this quiet, and I want to get it done. What do you need to know from me?
+
+
+Errol: Well first of all, hi. I don’t think we have to be, you know cut— Cut out the pleasantries.
+
+
+Gandy: Well, I would—after we talk to whoever we’re talking to—I’d like to inspect the body.
+
+
+Errol: Yeah, I was gonna say looking at the body would be pretty choice.
+
+
+Connors: Alright, well, we already sent that headed to The Church—well, specifically, graveyard. We don’t really have, you know, a coroner. Michael kind of serves as undertaker and gravedigger and kind of, I guess groundskeeper at the graveyard. But he’s there around the clock, so anytime you want to go talk to him, Michael’s gonna be there.
+
+
+Gandy: My Michael or your Michael? Oh, you have a Michael too?
+
+
+Connors: My— my Mich— why would your Michael be there?
+
+
+Gandy: Well he’s named Michael, so you confused me with your rhetoric—
+
+
+Connors: [Crosstalk] Okay but like, context clues.
+
+
+Errol: [crosstalk] There’s lots of Michaels, it’s a pretty common name.
+
+
+Connors: Yeah, like, we didn’t— okay, people named Connor, I don’t know about Gandy, you might be the only one of them, but anyhoo, while you’re at the church you might also talk to Father Dante. He’s been at The Church all night as far as I know, so he ain’t like, a witness or nothing, but he might be able to give you some kind of information. Uh… Oh, so as far as witnesses go, we know— so it happened like right in front of the Sterling and, by definition there, because of how space works, right in front of the Wild— the Full Moon Saloon, so you might talk to Wilder there. Or uh… you could check in with Isabella at the Sterling. Oh, uh, I— I think you might check and see if Mr. Silver was working late. That’s… he usually does that, that’s right there in the square too…
+
+
+Errol: Sorry, I haven’t— I haven’t been here that long, um… there’s a dude named Mr. Silver here in the town where he mines silver with werewolves who are allergic to silver?
+
+
+Connors: Well, to be fair, I don’t know if that’s his real name. His shop is called Silver’s Linings, he’s the tailor in town.
+
+
+Gandy: Is his first name Hiho?
+
+
+Connors: …No.
+
+
+Gandy: That would be funny, though.
+
+
+Griffin: Gandy owes me a Debt for having to listen to that joke.
+
+
+[Clint laughs]
+
+
+Travis: That’s fair.
+
+
+Augustus: Ah, pardon me, as much as it… mortifies me to interrupt a genuine lawman such as yourself, I do have one query. If we’re…
+
+
+
+
+Connors: Uh-huh.
+
+
+Augustus: …So hot to find out who killed Mr. Blackwell, then why do I not just ask his ghost, which is standing directly behind you?
+
+
+[Clint makes spooky laugh noise]
+
+
+Connors: Uhh…
+
+
+Augustus: Nah, that’s just a little ghost humor. Hi, it’s a pleasure to meet you. I try to keep things light. 
+
+
+[Clint laughs] 
+
+
+Augustus: One of my classic ghost bits, it’s a pleasure. Augustus Parsons.
+
+
+Travis: I’m going to take a quick second here to tell you what you know about Sheriff Connors–
+
+
+Griffin: He loves ghost jokes.
+
+
+Travis: It will explain to you why that didn’t maybe have the impact you were hoping for.
+
+
+Clint: Why it didn’t land.
+
+
+Travis: Yes. Sheriff Connors belongs to a group called the Law. And the Law exists in these unincorporated territories where there is no kind of government established. And the Law is more of like a… a powerful sect, if you will. They are all tainted, but not in the way that you think. They are connected to a demon, but it is a demon whose specialty is justice.  But kind of justice in the terms of like, Judge Dredd justice? This is not about right and wrong or morality, this is about the letter of the law, and so with that, he has been granted certain perception abilities. Certain abilities to be able to discern whether someone is lying, [Griffin: Fuck!] it’s not so much a, uh, you know the ability to say, “Ah, the truth is blank,” but more of like, “I get the feeling you’re not telling me something,” which—
+
+
+Griffin: Can I… can I change characters and play as Sheriff Connors? ’Cause he sounds rad.
+
+
+Travis: Yeah, it’s pretty rad. And as such, that is why, and because you have to imagine people who come through any kind of sheriff’s office door will say “I’m innocent, I’m innocent,” but there was something about Dylan saying “I didn’t do it” that kind of rang true to Connors’ ears. The only reason— [Griffin: We’re here] he’s giving this the benefit of the doubt.
+
+
+Griffin: Alright.
+
+
+Errol: Sheriff Connors, tell me, you got, uh, you got a time pencilled in to hang ol’ Dylan Mathis by the neck until dead?
+
+
+Connors: Listen, this— it ain’t up to me. I want you to understand that. But there will come a time— there is such a, like, tenuous peace here in town. That, like, there will come a demand and if I don’t, it’s gonna, it’s gonna be bad. For everybody. And it’s— listen. One way or the other, it’s gonna be bad.
+
+
+Errol : Yeah.
+
+
+Connors: Either I’m gonna piss off the Fangs, I’m gonna piss off the Furs, or I’m gonna piss off both. And I wanna avoid that at all costs, that’s why I need you. I’m gonna try to keep this quiet, I’m go— but if I’m out there, you know, pounding the pavement, I’m— I’m… I’m gonna draw too much attention to this. I need you all as strangers out there asking questions, but for god’s sake. Keep it. The fuck. Quiet.
+
+
+Errol: Well why don’t we start off talking to Dylan? ’Cause if he was there, and covered in… some blood, we don’t know whose, probably his, you know, we’re not detectives. Uh, but let’s talk to him and see what uh, see what he’s got to say.
+
+
+Connors: You can try.
+
+
+Errol: I mean, you know. Fur to Fur, I feel like we can find some common ground.
+
+
+Travis: Cool! So you want to go talk to Dylan.
+
+
+Errol: Wake up, Dylan! Dylan, wake up!
+
+
+Travis: Dylan doesn’t move. You can see that Dylan is still breathing. So, he’s definitely alive, and that’s about all you can tell from him lying there.
+
+
+Clint: Is he wearing the same clothes he had on when he was incarcerated?
+
+
+Travis: Well, he’s kinda taken off his overshirt that was the most soaked in blood, he’s down to like, kind of a… underclothes as far as his top goes, but you can still see that there are some blood stains on it. This was a loooot of blood. I mean, yeah, he was incarcerated about 20 minutes ago. So it’s still pretty fresh.
+
+
+Justin: I don’t think that— this may not come up, but just for the record, I can be heard and seen now but can’t currently touch or be touched by anything.
+
+
+Griffin: Fantastic.
+
+
+Travis: Got it.
+
+
+Griffin: And he’s not responding as I yell, “Wake up Dylan, Dylan wake up”?
+
+
+Travis: No. You might have to… let’s say this would be like a hit the streets kind of faction move if you were trying to leverage your Fur… Night faction with his Fur and Night faction.
+
+
+Griffin: Sure. Is he— is he, I should ask ’cause we don’t really know how werewolves work in this world and it’s midnight, I don’t know if it’s a full moon, I don’t know if he’s in full fur form.
+
+
+Travis: It is not a full moon, so basically— well, lemme ask you.
+
+
+Griffin: Yeah.
+
+
+Travis: How do you think werewolves work in this environment?
+
+
+Griffin: I think it’s probably around the full moon. I think it’s like, couple days, and maybe at the full moon it’s like, at its strongest. But I don’t think one night a month they take this form. I think it’s like a couple days before, a couple days after, which is kinda bullshit ’cause that’s kind of the Amnesty rules, but um… I think that makes the most sense to me.
+
+
+Justin: [crosstalk] We can have coherent multiverse werewolf rules.
+
+
+Griffin: [crosstalk] Yeah, sure. It doesn’t affect Errol, ’cause Errol’s always half transformed, but I think that’s how it works.
+
+
+Clint: Could it maybe wax and wane with the moon? Like the full moon, they’re full-blown wolf?
+
+
+Griffin: Yeah, that’s what I’m saying.
+
+
+Clint: Yeah.
+
+
+Travis: And I was also thinking, and tell me if this jives with that, Ditto, like that at the peak of the full moon it is a compulsion. You know, that it cannot be avoided, but on the days before and after it’s more of like, “Just be careful, don’t get too worked up.”
+
+
+Griffin: Sure.
+
+
+Travis: You know, like that kind of thing of it’s a risk but it’s definitely controllable, especially for elders, you know what I mean?
+
+
+Griffin: Yeah yeah yeah.
+
+
+Travis: They’re a little bit— but when you’re looking at like, young people, with all their hormones and hula-hoops, it’s a lot harder for them to control.
+
+
+Griffin: Yeah. Their yo-yos and their Pepsi Colas. Lemme hit the streets to try to wake this lil’ dude up.
+
+
+Travis: Cool, gimme a roll.
+
+
+Griffin: That is a six plus one, a seven.
+
+
+Travis: Great. So… that’s a mixed success, so you hear:
+
+
+Dylan: [quiet, moody] What do you want?
+
+
+Errol: Um, I wanna keep you from gettin’, you know, massacred in the middle of town when everybody wakes up. How’s that for an answer there, Dyl?
+
+
+Dylan: I can’t… I can’t.
+
+
+Errol: “Can’t”— “can’t’s” just a… “won’t” with a pretty face on it.
+
+
+Clint: With a C-A.
+
+
+Errol: No, listen, that’s nothin’. Dylan, you–you… I don’t care how you feel about it, you’re actually the only one who can in this situation, so… Um… I need you to get up and just come talk to us, I’m not gonna force [Dylan: She wouldn’t…] you to do nothing you don’t— What?
+
+
+Dylan: She wouldn’t want me to. I promised.
+
+
+Errol: Who’s? I don’t know who you’re talking ’about Dylan, you can’t sorta start a conversation in the middle of a sentence, bud. 
+
+
+Dylan: I’m just so tired…
+
+
+Errol: Yeah I mean it’s midnight, we’re all pretty tired, but um… there was a murder?
+
+
+Augustus: I’m not! I don’t sleep.
+
+
+Errol: Yeah…
+
+
+Augustus: I’m a ghost.
+
+
+Errol: Yeah, fantastic.
+
+
+Augustus: Specificity in all things, young man, specificity.
+
+
+Errol: Dylan, listen. 
+
+
+Dylan: Leave… me… alone.
+
+
+Errol: Well no, I’m not gon— I’m not gonna do that. You’re like, in a little cage, and so I can just stand here and talk all night if you want. My buddy here apparently doesn’t sleep, so he— he could— he could keep that going for… god, I don’t know, eternity, Gus?
+
+
+Augustus: Yeah. It’s uh… It’s Augustus. And also, yes. I could also— 
+Look, I’m in your cage now. This could get very annoying for you very quickly.
+
+
+[Clint laughs]
+
+
+Dylan: I’m not saying anything to you.
+
+
+Errol: To which one?
+
+
+Dylan: Any of you.
+
+
+Errol: Oh.
+
+
+Dylan: Leave… me… alone.
+
+
+Travis: So the mixed success here, just to be clear, is you did find out something, right?
+
+
+Griffin: “She” wouldn’t want this.
+
+
+Travis: Right. But he’s not gonna give you much more than that. You can try to persuade at this point, but it’s gonna be a pretty high roll…
+
+
+Griffin: Yeah, can I try something else?
+
+
+Travis: Sure.
+
+
+Griffin: So I have a thing called Bloodhound. When you hunt someone, roll with Blood, on a hit you know exactly where to find them and follow their scent until you do.
+
+
+Travis: Uh-huh.
+
+
+Griffin: Can I use that to, in full-blown sort of werewolf, wolf instinct-style, sort of get the scent of the blood on his shirt and, if it leads me to him I know it’s his. And if it leads me to The Church I know it’s Jeremiah.
+
+
+Travis: You got it.
+
+
+Griffin: ’Kay. That is a seven plus two Blood, nine.
+
+
+Travis: Okay, so it definitely doesn’t lead you to him.
+
+
+Griffin: Okay.
+
+
+Travis: It leads in the direction of The Church. But—
+
+
+Griffin: Okay, shit.
+
+
+Travis: But it’s hard to track kinda that far out? Church is outside of town, but you can just— it is definitely leading away from him.
+
+
+Griffin: Okay, so— but I could follow the scent and figure out where it goes and find out whose blood it is, so at least we’ve got that—
+
+
+Travis: You would, but I mean, that would be you know, a beat, you know what I mean?
+
+
+Griffin: Right, sure sure sure, sure sure. I’m just saying now we have two pieces of information.
+
+
+Errol: Alright, anybody else want—
+
+
+Travis: You have a piece, and let me say, and I don’t think this has been a thing that we have pushed in any of our arcs up ’til now, you probably wanna take notes.
+
+
+Griffin: Yeah.
+
+
+Travis: There’s going to be a lot of information.
+
+
+Griffin: Also, a wolf Corruption move: When you start a hunt for someone, mark Corruption, so I think that I just did that.
+
+
+Justin: Hey, first corruption!
+
+
+Travis: Yeah! Hey!
+
+
+Griffin: I thought for sure Augustus was gonna be… alright. I have one Corruption.
+
+
+Travis: And you can spend that at our store right outside the gates. This is the information you have, right? I’m gonna fast-forward a little bit and just kinda collect. So here at the start, your options are, this is what sheriff tells you, right? The Sterling is an opportunity, you know that that is the vampire kind of hangout tavern in town, it is also the casino. Then there is the, and this is another thing you know from your briefing, Isabella Slate is now the proprietor of the Sterling, she took it over from a man named Marcus two years ago. Marcus disappeared mysteriously, and basically Isabella kinda turned power back over to the people working there. Marcus was not a good person. So the Sterling is a possible beginning location, the Full Moon Saloon, which is the werewolf hangout tavern. You could also head to The Church and the graveyard, The Mathis home, and Silver’s Linings, to talk to Mr. Silver.
+ 
+Griffin: We were brought— we were brought on by the Mathis matriarch, right? It was her—
+
+
+Travis: Correct, Abigail Mathis hired you.
+
+
+Griffin: ’Cause that— that’s the only she I could think of that would be the obvious sort of answer here.
+
+
+Justin: Well, let’s give it a shot.
+
+
+Clint: Gandy really wants to take a look at the body.
+
+
+Griffin: Nasty.
+
+
+Clint: Since her… you know, her skillset is in the analytical, magic kinda thing. I really think she is— feels a compulsion to go look at the body.
+
+
+Griffin: Yeah, let’s get— that’s— police work 101, get the clues before you…
+
+
+Justin: Get the clues.
+
+
+Griffin: Before you start talking—
+
+
+Travis: You gotta talk to the coroner, find out about the autopsy.
+
+
+Clint: Gotta slide over the hood of a car.
+
+
+Griffin: Yeah, let’s head to The Church.
+
+
+Errol: Alright, we’re gonna go to church, do some Hail Marys and crack the case.
+
+
+Connors: Alright, um… we’re gonna be here. So feel free to stop back by here anytime if you need to bounce anything off of us or need any guidance or anything, we’re gonna be here, we’ll see what we can get outta the boy. And if you need us, just let us know.
+
+
+Errol: Yeah that sounds— Oh shoot. Hey, Augustus, are you even gonna be able to go in The Church? I don’t know if there’s some sorta like, holy warding or something that keeps you outta there.
+
+
+Augustus: I can, I just don’t enjoy it. But to be fair, that is no change from my life.
+
+
+Errol: Alright. We’re going to church.
+
+
+Travis: So as you make your way through town… the town doesn’t feel right. It feels tense in that way that it— it might just be completely placebo, but in that way that buildings and wood seems to absorb the negative emotions of the people within it and kind of bleeds through like a whiskey as it picks up the flavoring of the barrel. And so as you move through town—
+
+
+Justin: Hell yeah, that’s evocative as fuck!
+
+
+Travis: Thank you. You have a hard time not looking over your shoulder. You have a hard time not keeping your eyes on the windows to make sure nobody’s watching you. And as you leave town and make your way toward The Church about 50 yards outside of the— the last houses, it eases a little bit. You can see all around you the ravine of the Dry River. In the distance you can see the mountains. You can see the stars and the sky and it starts to loosen up, but still at your backs you can feel the tension. And you’re just breathing a little easier out here, and then as you approach The Church, you see above the door the symbol of The Church, capital “T” capital “C.” That’s  all we got out here in the Crescent Territory is The Church. It isn’t exactly a specific religion or denomination, it’s just a group trying to spread some sort of morality. And then you have two options as you approach The Church: you can either head into The Church and talk with Father Dante, or you can head into the graveyard and look for Michael.
+
+
+Errol: Graveyard, right Gandy?
+
+
+Gandy: Absolutely, let’s go and see what’s shaking baby.
+
+
+Augustus: Now that— these are my people.
+
+
+[Laughs]
+
+
+Travis: So as you head into the graveyard, it’s silent as… the grave.
+
+
+Griffin: Hmm!
+
+
+Travis: But you can see in the middle of the graveyard—
+
+
+Justin: Less evocative.
+
+
+[Griffin laughs]
+
+
+Travis: Yeah, you can see in the middle of the graveyard a small house with the lights on inside. The lights are flickering, it’s very clearly either some kind of lantern or candles. I assume you want to approach?
+
+
+Griffin: Yeah, imagine me kind of uh… I wanna keep following this— following the wafting scent of the pie through the air as I follow the scent. Is it heading towards that house, or?
+
+
+Travis: Indeed it is.
+
+
+Griffin: Alright, let’s keep following the stink lines.
+
+
+Travis: As you approach the door and raise your hand to knock, the door opens before you can make contact.
+
+
+Michael: Ah, Gandy, Gus, Errol, was it? Come in.
+
+
+Errol: Uh… Y-yeah. It’s E-R-R-O-L, I know a lot of people on [Griffin chuckles] Twitter have trouble with that. Yeah, thank you.
+
+
+Michael: Absolutely. Come in, come in.
+
+
+Travis: And you see before you a very broad and frankly beautiful man. He has a warm smile and kind eyes, and immediately like, gives you a feeling of peace? That’s only slightly thrown off by his blood-stained apron and gloves.
+
+
+Griffin: Yeah, that’s one of my main turn offs, is if they’re covered in blood.
+
+
+Travis: When you enter, you can see laid out on a slab is— is Jeremiah Blackwell. You can tell that Michael has been in the process of cleaning the body and preparing it for funeral rites.
+
+
+Augustus: Sorry to bother you sir, could we take a look at the steak? We’re conducting an investigation.
+
+
+Michael: Oh, no bother at all, I expected you. Of course, of course. But… [laughs] it wasn’t a stake, that’s archaic. It was claws.
+
+
+Errol: No, I think he meant like, S-T-E-A-K, like the meat.
+
+
+Augustus: Yes, this has all made me very hungry, this appetizing environment.
+
+
+Michael: Of course. 
+
+
+Augustus: No, I meant the— so— see, here I thought, serves me right for believing all those fantasy novels, I thought they could only be killed with a stake through the heart. Bear in mind, I’ve never attempted it.
+
+
+Michael: Um, I mean they can pretty much be killed same as you or me— well… same as a regular person I should say.
+
+
+Augustus: F— no, well, that’s very kind of you, sir, thank you. So few people take into account my phantasmagoric nature.
+
+
+Michael: I make the same mistake about myself all the time. It’s so easy to forget.
+
+
+Augustus: Indeed.
+
+
+Gandy: Can we— can we pick this up, please? I am very, very uncomfortable in this setting?
+
+
+Michael: Of course… [crosstalk] 
+
+
+Gandy: [crosstalk] With all this uh…
+
+
+Michael: After your parents’ death, this was probably very unsettling for you.
+
+
+Errol: Okay, uh, I gotta st— I gotta stop you right there, bud. Are you like, some sort of psychic, what’s the— what’s the— what’s your whole deal? We are very very short on time, and I love sort of the spooky thing you got going on, but we need to get to the bottom of it as fast as possible.
+
+
+Gandy: Well, let me help, let me help. I would like to Figure Someone Out.
+
+
+Travis: Okay.
+
+
+Clint: I would like to Figure Michael Out. I roll with Mind?
+
+
+Travis: Go for it.
+
+
+Clint: Alright, I’m rolling with Mind… and it is— 
+
+
+Justin: A zero! [laughs]
+
+
+Clint: A nine plus two for Mind. So it’s an 11.
+
+
+Travis: So… Michael is giving you incredibly strong immortal vibes. Now this is an option for NPCs only, so this is an old one, an angel, a god, something along those lines. But Michael is most definitely and has never been, not like, not human, has never been human, isn’t fey, isn’t Power, isn’t Night, isn’t anything.
+
+
+Griffin: Something else. Well, he also, I have to ask—
+
+
+Justin: He’s his own thing.
+
+
+Griffin: He has to ask two questions as part of Figure Someone Out, right?
+
+
+Travis: So let’s say that’s one answer. Give me another question.
+
+
+Clint: Okay.
+
+
+Gandy: What do you, Michael, what are you afraid might happen from this situation?
+
+
+Michael: I worry about the people in town. It’s not their time.
+
+
+Errol: What’s their time? Michael, I just wanna cut to the quick here. What’s the— what’s your— what’s your deal? You some— you uh… you some sort of… eldritch sort of deity? What— what’s— what are you?
+
+
+Michael: No, no, nothing… Nothing quite so… unseemly. I make sure that they move from one side to the other seamlessly when it is their time.
+
+
+Clint: Oh shhhhhhit. 
+
+
+Griffin: [laughs]
+
+
+Clint: Gandy is not digging this guy at all. He’s Death! He’s like the boatman, the— aw, f—
+
+
+Griffin: Shit.
+
+
+Clint: Oh fuck a duck! No!
+
+
+Travis: Now, those at home who may have studied theology will know that Michael is the name of the angel of death!
+
+
+Clint: The archangel of death.
+
+
+Griffin: Yes, so that works.
+
+
+Clint: Yeah, oh, wait a minute. Gandy goes in the corner of The Church and barfs.
+
+
+Gandy: Oh, god. Ohh god.
+
+
+Michael: I’ll… clean that up later I guess?
+
+
+Gandy: [groans]
+
+
+Michael: Gandy, it’s not your time.
+
+
+Augustus: You vomited through me.
+
+
+Michael: You have nothing to fear from me.
+
+
+Gandy: [tense] Mmhmm… I— I— listen, my friend, it has nothing to do with fear. I hate you. Sorry, it’s just— I can’t— it— compulsion—
+
+
+Michael: Absolutely, I understand.
+
+
+Augustus: Maybe, perhaps Gandy, you should begin your investigation on the body, see what you can derive.
+
+
+Gandy: Ugh, f— fine. Fine, yes, okay… Um… Yeah, I’ll go over and…  check out the deaaad body. This is not my wheel—
+
+
+Travis: You wanted to come here, Clinton!
+
+
+Gandy: This is not my wheelhouse! This is not—
+
+
+Travi:s: You said you were anxious to get here!
+
+
+Griffin: You were so— you were dying to get here.
+
+
+Gandy: [not really in character voice?] I was, I was, but I didn’t know Death was gonna be hanging out!
+
+
+Travis: You knew there’d be a dead body, you can’t be like, “Eww, gross!“
+
+
+Gandy: Well a dead body’s already dead. Ugh…
+
+
+Justin: While— before this, or during this, or whenever, I’m not picky. I uh.. I would like to commune with some ghosts…
+
+
+Travis: Okay.
+
+
+Justin: I’m gonna Hit the Streets with the ghosts that might be inhabiting this graveyard.
+
+
+Travis: Mmkay.
+
+
+Justin: Seems even money that there’d be some hanging around.
+
+
+Griffin: I like this. Can we all take one action, right? If we’re like, exploring this place.
+
+
+Travis: Yeah!
+
+
+Griffin: I wanna talk to Michael whenever it’s… whenever the other two boys are done.
+
+
+Travis: You got it.
+
+
+Griffin: Okay. Who wants—
+
+
+Justin: Alright, I’m gonna do mine first, so… Hit the Streets I roll against, what was it?
+
+
+Travis: So you would be rolling—
+
+
+Justin: Okay, so I’m rolling Night.
+ 
+Travis: Yeah.
+
+
+Justin: That’s ghosts, right?
+
+
+Travis and Griffin: Yes.
+
+
+Justin: Oh, cool, I got a nine plus… two, so 11.
+
+
+Travis: Okay. Let’s see.
+
+
+Justin: To be more specific, I don’t know what ghosts are here, but I’m— I’m kinda wanting to go out into the graveyard, look up some ghosts, see who I can scare up—
+
+
+Travis: [Acknowledging pun] Ahh.
+
+
+Justin: See if they saw anything.
+
+
+Travis: Okay, so as you kind of, I assume, well you describe. What do you do to commune with ghosts?
+
+
+Justin: I float out into the graveyard and I extend my hands up into the air and say
+
+
+Augustus: Are there any ghosts here?
+
+
+Griffin: If so, I want to do them!
+
+
+Travis: And you feel a tap on your shoulder.
+
+
+Justin: Mm, no I don’t—
+
+
+Travis: You do.
+
+
+Justin: I can only be seen and heard.
+
+
+Travis: But another ghost could tap you right on that there shoulder.
+
+
+Justin: You are fucking playing Calvinball with ghosts rules, my man, but I’m into it, that’s fine. You can put a little English on this ball if you like.
+
+
+Travis: Well, so I mean—
+
+
+Justin: Yes, I am tapped on the shoulder by a ghost—
+
+
+Travis: My assumption was when you’re talking about seen, heard or felt that that was to the corporeal world. But does that apply to—
+
+
+Justin: Yeah, but why— that would imply that the spectral plane has physics of its own.
+
+
+Griffin: I love it, dude, that’s that Soul Reaver shit.
+
+
+Justin: I’ll grant it yes. Okay yes, I am tapped on the shoulder by a ghost.
+
+
+Ghost: Hi! You—
+
+
+Justin: If only so someday I might be able to fight a ghost.
+
+
+Ghost: Yeah so—
+
+
+Clint: Oh yeah!
+
+
+Ghost: Do you need a— do you need some help there, fella?
+
+
+Augustus: Uh yes, what’s your name? I’m Augustus Parsons, pleasure, from the Parsons Cashew Company.
+
+
+Ghost: Jonathan, pleas—
+
+
+Augustus: Sorry? Jonathan, pleasure.
+
+
+Travis: And you turn and you see a man, a little bit grizzled, but with a twinkle in his dead, dead eyes. Um, a warm smile, but an eyepatch across one of said dead, dead eyes. And y— other than that, pretty nondescript as things go. Five-foot-eight. Um, y’know? Fairly regular looking person.
+
+
+Jonathan: Um, is there something I can help you with?
+
+
+Augustus: So I’m investigating a murd— were you alive during a, uh, the— the uh— to encounter any of the Blackwell family?
+
+
+Jonathan: Uh yeah, I’m um, very familiar with the Blackwell family. But I— I have to tell you, if you’re looking for information, I’m— I’ve been here about 10 years… So I— I don’t know how much help I can be.
+
+
+Augustus: Well, I understand that, but one of the Blackwells, Jeremiah, was uh, took a little poorly tonight, by which I mean he was murdered. And uh, we— there was a blood trail leading this way to The Church. I was just curious if you had seen anything… unusual tonight.
+
+
+Jonathan: Well, I mean, honestly, that does explain a few things… 
+
+
+Augustus: Go on, I’m all ears. 
+
+
+Jonathan: Well I— I, I didn’t know who it was— I— it was just in passing. Um, you know, I— after you’ve been here awhile, you get kinda attuned to things? I felt—
+
+
+Augustus: Sure.
+
+
+Jonathan: I did feel, you know, a ki— a— a spirit move from here to there if you know what I mean. And— and the— mm, the overwhelming feeling was [sighs]
+
+
+Travis: And you can see him kind of squirm, like he’s trying to… pin down that feeling in his body. 
+
+
+Jonathan: I— I’m— I’m sorry, it’s been a long time since I, you know, felt in the human way, you know what I mean, so I’m trying to—
+
+
+Augustus: Of course.
+
+
+Jonathan: I was— confusion? Betrayal? … It wasn’t— you’d expect a murdered pers— you’d expect anger, sadness, but this was just… confusion. 
+
+
+Augustus: So, you’re thinking maybe the… they weren’t prepared for the attack. Sort of came out of nowhere perhaps? Were they confused by the assailant? 
+
+
+Jonathan: I mean, hard to pin down. Might be both? Uh… you know I didn’t— I didn’t talk to the boy, I just felt. Uh— and all I—
+
+
+Augustus: And you didn’t see anything, perchance?
+
+
+Jonathan: No, unfo— I mean just, not from here [chuckles]. Just— just felt the spirit go. 
+
+
+Augustus: All right. Alright, well, Johnathan, I will let you return to your eternal slumber, I’m sorry to have uh, disturbed you.
+
+
+Jonathan: Well it’s been a pleasure. It’s rare I get to talk to anybody, so…
+
+
+Augustus: Well I gotta go, thank you so much!
+
+
+[Griffin laughs]
+
+
+Travis: Alright, so let’s cut back in to… Who wants to go next? Errol or Gandy?
+
+
+Griffin: Gandy, why don’t you go?
+
+
+Clint: Well, give me some advice here. I’m— I— if I’m investigating a body… if I’m checking out the body, I’m not sure which of the moves applies to that.
+
+
+Travis: Well, so this is—
+
+
+Clint: There’s an Investigate a Place of Power…
+
+
+Travis: No, I can tell you what this is. So, in Powered by the Apocalypse and— and specifically, I don’t know if it applies to Monster of the Week as well, there are certain things that like, you can do. Like, I know that Gandy has studied this, she is very learned, so this is not so much a move so much as just a things she’s doing. So I can give you information, I don’t think that this is a challenge you have to overcome so much as just— this is like, if you wanted to sit down and eat a sandwich, I wouldn’t make you roll for that. 
+
+
+Griffin: Yeah, but if you have any kind of like, magical abilities that you could— would wanna enhance this investigation, that would be [Travis: Yes.] probably a— a move.
+
+
+Clint: Yeah, I want Gandy to look at the body and investigate the wounds—
+
+
+Travis: Okay.
+
+
+Clint: But I don’t— but you gotta tell me what I see, Trav!
+
+
+Travis: I will tell you what you see, for I am the Master of Ceremonies! Um, so, what you see is you see um, two like, kind of cross-sections, and because I can’t think of a better way to describe it, like Wolverine’s claws? Have been pulled across his gut.
+
+
+Justin: I’ve solved it. 
+
+
+Griffin: Okay, hold on—
+
+
+[laughter]
+
+
+Travis: And those wounds, though fairly razor sharp, very clearly went deep. And he bled out his— his uh— Michael has packed his internal organs back into the wounds, but he [Griffin: Yuck.] was eviscerated.
+
+
+Errol: Yeah, okay, that kinda does look like werewolf stuff, if I’m being honest. And that’s… not great for us, I don’t think.
+
+
+Travis: Um, so. Do just a straight up and down investigation— what’s your Mind, Clint?
+
+
+Clint: Plus two.
+
+
+Travis: Okay, so do an investigation roll plus Mind for me.        
+
+
+Clint: ’Kay… That would be eight plus two, 10.
+
+
+Travis: Great. So… what you can see, as you investigate past just kind of surface level, is along, um, kinda the edges of the— the wounds there’s some trace of like, metal dust? Some kind of powder. And it’s— um, ok— it looks to be a mixture of silver and copper. It’s hard to tell exactly which of the two it is, I mean there’s dirt in the wounds too, but there’s definitely a glint to it.
+
+
+Gandy: I would like to take a sample of this— these scabs or whatever they are, back to my Sanctum Sanctorum to do a little bit of… checking maybe? Maybe getting to the bottom a little bit? I have uh— [clears throat] an assistant there who might be able to tell me a little more.
+
+
+Travis: Okay, so that’s, um, just so you know, if you go back to your Sanctum, that’s gonna be like, your beat for the next one, you know?
+
+
+Clint: I’m cool with that. 
+
+
+Travis: Great. Um—
+
+
+Justin: Hey can we— for the— for the, um… essence of like, for efficiency of storytelling, can we just assume that if we derive information from any of these sort of little beats, that we have passed that information along to our cohorts, to save us [crosstalk] from like, reiterating everything?
+
+
+Travis: [crosstalk] Yes. Absolutely, yes, yes. Um, and then uh, so we go to Errol. 
+
+
+Griffin: Yeah, um, I wanna talk to Michael.
+
+
+Travis: Absolutely.
+
+
+Errol: So uh, you… you deal with the dead here, in uh… in the Dry River, right?
+
+
+Michael: Yes, um, by definition that is correct.
+
+
+[Gandy makes grossed out noises]
+
+
+Errol: I don’t really know how it works. I don’t know if you got some… big hourglass or something counting everyone down. I haven’t been at this very long, but I kinda understand this is uh… well it’s wet work that we’re doing here. And before we go any further with this investigation, I think it’d be helpful to know… You, uh… you got any idea of whose time’s gonna run out tonight?
+
+
+Michael: It’s… not quite that easy. I see… stretched before me… three different possibilities. And the problem is… if I were to give you any information… about those three… I would affect… which three came to pass. And I am not permitted to do so. I can only… discuss the present and the past with you. I’m sorry, Errol, I want to help. I want to give you the information that I can. It saddens me to see Jeremiah here.
+
+
+Errol: Yeah, it’s a bummer. Um… 
+
+
+Griffin: I want to try to persuade just to ask one specific thing.
+
+
+Travis: Go for it.
+
+
+Justin: Yeah, persuade an angel. [laughs]
+
+
+Clint: [sarcastic] Should be easy.
+
+
+Justin: [sarcastic] Should be easy! No— should be— should be no problem.
+
+
+Griffin: That’s— okay, are we, uh, so, I have a territory that I have named Carrion Street, which is kind of like the residential area of, of Dry River, and that’s where I have my cool bonuses and stuff. [Travis: Uh-huh.] I ass— I assume we are not in Carrion Street.
+
+
+Travis: We are not.
+
+
+Griffin: That is a seven minus one. That’s gon— that’s gonna be a six. But I still wanna ask the question and he can tell me to fuck off.
+
+
+Travis: Okay!
+
+
+Errol: Can you at least tell me, Michael, in how many of those three possibilities… how many of ’em does Dylan Mathis live through the night?
+
+
+Michael: I can’t tell you that. But what I can tell you… is in all three of them, you succeed. 
+
+
+Errol: Well that’s fucking great news! All right! Well, um—
+
+
+Michael: Success as you may well know, Errol, isn’t always the outcome you expect.
+
+
+Errol: Well don’t take the wind outta my sails, you just gave me a nice little confidence boost there, Mike.
+
+
+[Laughter]
+
+
+Michael: I will… give you one more piece of information. But in exchange I will need help from you in the future.
+
+
+Griffin: He wants a Debt.
+
+
+Errol: Yeah, uh… I’m uh, you know I’m the helpful sort. What do you— what do you got for me?
+
+
+Michael: When I… was cleaning the body… I couldn’t find any trace of fur… on him.
+
+
+Errol: Hmm… Maybe one of those nude werewolves. Um, okay, uh… that’s— that’s, well that’s great news and it’s also kinda confusing news. But uh, I appreciate the help there. [Music fades in] Keep uh, keep a eye out for a— s— say a little prayer I guess? That might be—
+
+
+Michael: Of course.
+
+
+Errol: That might be weird, you are an angel, you’d be praying to yourself or somethin’.
+
+
+Michael: That’s… not how prayer works, but I’ll get right on it.
+
+
+{45:21-50:18 ad break}
+
+
+Travis: So you now have one more beat in midnight. Now, here you can separate into a group of two and one, or all stay together.
+
+
+Justin: Well we’ll need to do two and one for Gandy to go back and do her research, yeah?
+
+
+Travis: Yes. 
+
+
+Clint: And Gandy wants to take the body with her—
+
+
+Travis: Nope!
+
+
+Clint: Is that possible? Okay, then…
+
+
+Travis: I should say— [Clint: Tell mee-] in character, Michael would not allow that.
+
+
+Griffin: Yeah, that’s wild.
+
+
+Travis: Yeah. Not— that’s not just me being like, “I— uh— no.” It’s— that is the only duty Michael has is to shepherd… uh, people as they cross, and like, that would go against everything.
+
+
+Clint: All right, then I have— I have something I wanna do. I think it would be, actually, a— um, a magic spell. I don’t— it’s not necessarily—
+
+
+Travis: Ooh, a magic spell! Go on.
+
+
+Clint: Wizard spells. Yeah. Not Zone of Truth! [Justin snorting] Not gonna go there.
+
+
+Griffin: I mean, that’s barely a spell.
+
+
+Clint: [Sheepish, small voice] Could I— could I do Zone of Truth…?
+
+
+Travis: No. 
+
+
+Clint: No, okay.
+
+
+Justin: [Copying small voice] Is— a thing don’t rush to judge from here {???}
+
+
+Clint: No I— What I want to do is I wanna take as much information to… my, uh, my assistant. My… homunculus. Um, I had this idea of maybe Gandy would have these— what are they— how do you pronounce it? Pince nez? The little— glasses that— that you know, go on your nose. [Justin: Mmhm!] You know what I’m talking about?
+
+
+Travis: Yes.
+
+
+Justin: Mmhmm.
+
+
+Griffin: I have never heard this word in my life. 
+
+
+Travis: It— [crosstalk] you need to read Poirot, Griffin.
+
+
+Justin: [crosstalk] Yeah, I know exactly what you’re talking about.
+
+
+Clint: Pince-nez, which is… pinch nose. Uh, that are— are actually an artifact that when she puts them on, they kind of take in data about what she’s looking at, and she can take that back to, uh, her assistant and have him analyze stuff and— and give her some ideas. Is that workable?
+
+
+Travis: Dad, here’s what I will give you because that was not [Clint: Okay.] one of the artifacts you wanted [Clint: Right.] but just to uh, kinda make… transferring information a little easier, we’re gonna say that those are Michael’s pin— Pince nez, that you can then [Clint: Mmkay.] put back on him when you return and it just transfers everything you saw to him.
+
+
+Clint: Okay.
+
+
+Travis: And that will save us on exposition.
+
+
+Griffin: It’s a homunculus flash drive!
+
+
+Clint: Cool.
+
+
+Travis: Yeah! I was thinking more of like, a homunculus GoPro, but.
+
+
+Griffin: Yeah, sure. 
+
+
+Clint: Well then, I’ll take that— I’ll take that and some of the scabs from the wounds.
+
+
+Travis: Perfect.
+
+
+Griffin: Yuck.
+
+
+Travis: You take a few scrapings and— and do a good sweep of the area. So Gandy’s gonna head back to her— her Tower of Power. What’s it called?
+
+
+Clint: It— Sanctum Sanctorum.
+
+
+Travis: And what’s—
+
+
+Clint: The Black Mariah, the Black Mariah.
+
+
+Travis: The Black Mariah, and what’re Errol and Augustus going to do?
+
+
+Justin: What do you think, Griff?
+
+
+Errol: We could go talk to the Mathis matriarch, but um… seems like we should have our ducks in a row before we sorta confront her about her son’s potential murder.
+
+
+Augustus: That makes sense. Makes sense to me.
+
+
+Errol: He was killed outside the Sterling, right? Maybe somebody there saw something that could help us out? 
+
+
+Augustus: Well… that’s possible. I— I would worry, though, that Sterling, being a house of ill repute, might be more inclined to…  discretion than uh… than the patrons of the saloon.
+
+
+Errol: Yeah, I mean, Full Moon Saloon, those’re— those— that’s my folks there, so we might have a better chance of getting some actionable info there, so.
+
+
+Augustus: Indeed.
+
+
+Errol: Alright. Also, I’m— I’m thirsty as heck, and they got a root beer there that’ll knock your socks off. It would probably fall right through you, which is a dang shame… 
+
+
+Augustus: Mmhmm, ah, speaking of. Give me a moment.
+
+
+Justin: Augustus is going to be— heard and felt, but not seen.
+
+
+Travis: Creepy.
+
+
+Justin: Hey, I gotta pick two, baby!
+
+
+Errol: Yeah, Gus, you gotta warn me when you do stuff like that pal, it is disconcerting to have somebody just vanish right in front of my eyes.
+
+
+Justin: Augustus is silent.
+
+
+[Laughter]
+
+
+Errol: Excellent.
+
+
+Augustus: I’m still here!
+
+
+Travis: Oh, god. Let’s resolve Gandy’s first. So, describe to me, and our listeners, the inside of your Sanctum Sanctorum.
+
+
+Clint: It’s a Black Mariah, is what it was called, it’s a very large. In this case, a very large one that police used to use to collect prisoners.
+
+
+Travis: Yes, but what does the inside look like? I want to know, is it like, you know, like, Tesla coils and Frankenstein, you know machines or is it like, potions?
+
+
+Griffin: Do you have a Fronken— do you have a Fronkensteen?
+
+
+Clint: Um, she calls it a— her Labrary. It’s part lab, [snorting laughs] part library. Um, there are a lot of books… there are a lot of… of artifacts laying around. It’s… there’s a— almost— it’s almost divided in two. There’s like a main part full of books and, and artifacts, and then there’s the— a— a secondary part that is… laid out with like a, a table for doing work and for alchemy and for analysis and stuff. And there’s a chute at the very front with some steps that the homunculus, who is also… who is also the carriage driver, can clamber up and down and still have access to all of this. I’m thinking very much like the— the train car that James West used in the TV show The Wild Wild West.
+
+
+Travis: The only canonical Wild Wild West.
+
+
+Clint: Ah--In my book, yes. And— her, she has this assistant, I mentioned before the homunculus, but now since I have to change his name…
+
+
+Travis: You don’t have to change his name!
+
+
+Clint: We’re not gonna have two Michaels in the show!
+
+
+Travis: In the real world people have the same name.
+
+
+Clint: That— that’s true, but this is not the real world!
+
+
+Travis: People go to the bathroom, they have the same name…
+
+
+Clint: I have a nickname—
+
+
+Justin: This just happened on, uh, Terrace House: Boys X Girls Next Door, where another Te-chan [sp???] showed up at the house, there was already a Te-chan, so they called him, uh, Oji.
+
+
+Clint: Well that’s—
+
+
+Griffin: Which means prince, which is the most wild. “I’m gonna call you prince now.”
+
+
+Justin: And he actually says like, “I would prefer you not call me prince.” And then literally next scene everyone is calling him prince.
+
+
+Clint: Well Terrace House was my inspiration for this.
+
+
+Griffin: Good, good.
+
+
+Clint: Um, actually—
+
+
+Justin: The illegal fan du— subbed Terrace House: Boys and Girls Next Door was Dad’s inspiration.
+
+
+Clint: She has this homunculus that is— basically is a homunculus is a doll or an artificial construction, sometimes possessed by something else. So she calls him Uncle Oni, he’s about two feet tall, he’s a bunraku puppet. And bunraku puppets are these elaborate, beautiful puppets that have been an art-form in Japan for, for centuries and centuries. And this is possessed by a demon, and Uncle Oni is very powerful, and we already know that she has a Debt to Uncle Oni. And that’s who she goes to when she needs advice.
+
+
+Griffin: Is this something— y— you said in the setup episode that Gandy was like a world traveler, is this— is this something that she picked up while like traveling in Japan, or?
+
+
+Clint: Yes, absolutely, yeah. She has artifacts from all over that she’s found as she is— and it was particularly interesting to her the fact that basically a demon is alive after death, and so this is kind of one of the ways, here you have a disembodied spirit placed back into a form, that was very interesting to her.
+
+
+Griffin: Yeah, I think that’d be interesting to pretty much anyone.
+
+
+Clint: Yeah, that’d be interesting.
+
+
+Griffin: I would be fascinated by that.
+
+
+Travis: Okay, cool, so I’m going to say… You can ask three questions of Michael a day. Right? So you can’t just keep coming back here. This is what your Debt to him— this is the arrangement that you made. Or, to Uncle Oni, ’scuse me.
+
+
+Clint: Uncle Oni.
+
+
+Travis: So you can come ask three questions, but once you’ve used those three questions, you’re done for the day. And I think that those questions Uncle Oni is going to have final say as to how much information your Debt has earned you? And I’m also going to put the limit on them that they’re going to be who, what, where, when and why questions.
+
+
+Clint: So Gandy walks into the Black Mariah, there are like wards and, and things that would keep people out. She goes into the— the back part and calls out.
+
+
+Gandy: Uncle Oni! Uncle Oni!
+
+
+Uncle Oni: Yes?
+
+
+Gandy: Hello—
+
+
+Clint: And Uncle Oni visually has this sweet cherubic li’l fat li’l face, but when Uncle Oni—
+
+
+[Griffin groans in apprehension]
+
+
+Clint: When Uncle Oni is in kill mode—
+
+
+Griffin: Yeah—
+
+
+Clint: It switches to this really awesome mask.
+
+
+Griffin: I was really—
+
+
+Justin: This is a— this is a hostile action on your part, Dad. The—
+
+
+Griffin: Yeah I was really—
+
+
+Justin: A hostile action you’re— you’ve taken against me.
+
+
+Griffin: Uh… I’ve seen— I’ve seen some pictures of some pretty scary looking puppets like this…
+
+
+Clint: Yeah.
+
+
+Uncle Oni: Do you have a question for me, Gandy? 
+
+
+Griffin: Travis, what is this voice?
+
+
+[Clint laughs]
+
+
+Travis: You know how sometimes you open your mouth and like, a voice comes out? I think that’s the voice of the little, like, forest wizard character from, uh, I’ve only seen on Mystery Science Theater 3000 of like, Jack Frost? And there’s the character and he turns the character into a bear? ’Cause he, like, doesn’t carry him. I can’t remember, but that voice has always stuck with me.
+
+
+Clint: I thought it was reminiscent of Coily from MST3K. 
+
+
+Travis: [High-pitched, energetic] No springs!
+
+
+Clint: No springs.
+
+
+Griffin: Yeah, let’s lean into Coily, I like that.
+
+
+Travis: Okay!
+
+
+Uncle Oni: What can I do for you, Gandy?
+
+
+Gandy: Uncle Oni, I’ve brought some scabs for you—
+
+
+Uncle Oni: Disgusting!
+
+
+Gandy: Uhh, these are from a wound—
+
+
+Uncle Oni: [quizzical] MMmmm…
+
+
+Gandy: And I want to, I want to ask one of— one question, my— today’s question. What is this substance in the wound? What is this powdery substance?
+
+
+Uncle Oni: Well, give me my glasses and let me look.
+
+
+Clint: I hand Uncle Oni his Pince nez, and they look really cute on his li’l face, and pops ’em on and is looking through them like they’re some kind of VR kinda thing.
+
+
+Uncle Oni: Mmm…
+
+
+Clint: And I also put the— the scabs down on one of the— the tables.
+
+
+Travis: Now, I, listen, I’ve watched enough police procedurals, I do need to correct you here. You wouldn’t get scabs on a dead body. You’d get dried blood, and you would get powder, I just don’t want anyone tweeting at you…
+
+
+Griffin: Yes.
+
+
+Clint: Okay, William Petersen, here you go, here’s your dried blood.
+
+
+Travis: I’m just saying… dead bodies don’t coagulate.
+
+
+Griffin: I need to know if Uncle Oni ever says “enhance”— 
+
+
+Uncle Oni: Enhance!
+
+
+Griffin: While looking at the blood.
+
+
+Uncle Oni: Ah, what is this? Mmm, let me see. [Thoughtful clicking noises] Yes, ah… This is refined, processed silver. It has been mined from the local mine— this is local silverdust. 
+
+
+Gandy: From the area?
+
+
+Uncle Oni: Yes.
+
+
+Justin: So it’s both local and from the area…
+
+
+Travis as Uncle Oni: Yes.
+
+
+[Clint laughs]
+
+
+Justin: That narrows it down.
+
+
+Uncle Oni: Gandy, do you have any other questions?
+
+
+Justin: Hi, I’m another puppet in your paddywagon that’s just there to get on your nuts about stuff.
+
+
+Clint: It’s a ventriloquist dummy that just sits there. Okay. 
+
+
+Gandy: No, Uncle Oni, I’m going to save my other questions. You can dig right into the dried blood if you want.
+
+
+Uncle Oni: If you’d like, I could just tell you who did it,
+
+
+Gandy: No. No, that takes all the fun out of it. You know me, I’m all about gathering information.
+
+
+Uncle Oni: Okay, just know I’ll be here if you want to exchange me… any more of your soul. 
+
+
+Gandy: I know…
+
+
+Uncle Oni: I can just tell you.
+
+
+Gandy: Uh, no, I’ll hold off. Getting rid of my soul, I’m not quite prepared for that… and I’m getting a little nauseous just thinking about it. But, I need— may I wear your Pince nez again.
+
+
+Uncle Oni: Of course! Do come back and see me.
+
+
+Gandy: And let me tell you one thing: This situation is extremely dangerous, and I know we’ve been through some dangerous times before, for those of you who don’t remember the prequel, Gandy Dancer and Uncle Oni in the— the Pits of Despair. So be prepared, be ready, um, this is a very hostile situation, I would hate to see anything happen to my Sanctum Sanctorum.
+
+
+Uncle Oni: Oh, I will protect it, and what will you give me?
+
+
+Gandy: Well, I actually was concerned about you, so that’s the only reason I suggested…
+
+
+Uncle Oni: If I lose this form, I just find another.
+
+
+Gandy: Not without my help, you don’t.
+
+
+Uncle Oni: Oh, the hubris. I will look forward to being free from this body.
+
+
+Gandy: Go ahead. Hope springs eternal.
+
+
+Uncle Oni: We shall see…
+
+
+Griffin: [smiling] Can we do another scene or are you guys gonna just keep dropping one-liners on each other?
+
+
+[Laughter]
+
+
+Travis: So, let’s move on to Errol and Augustus. You are heading to the Full Moon Saloon, is that what you’ve said?
+
+
+Griffin: Right.
+
+
+Travis: When you arrive at the Full Moon Saloon, it is now… let’s say about 12:30? And it’s a school night, so there’s not a lot of people there. You see the bartender Wilder: an older fur, he’s gone gray, he has a gray beard, um, long but well-kept. The bar is clean, he is well-dressed; aged, but still clearly— he could kick your ass if he needed to. At least you, Errol, maybe not Augustus. Are you corporeal at this second, are you touchable?
+
+
+Justin: We’ve covered this. 
+
+
+Travis: Okay.
+
+
+Justin: I’m corporeal, but I’m invisible, basically.
+
+
+Travis: Got it. So until you speak, and let’s make sure we keep this in mind, until you speak, it’s possible that no one knows you’re there.
+
+
+Griffin and Justin: That’s the idea.
+
+
+Travis: That’s the idea. Um, and also sitting at this bar there are two women. They are not sitting together, they are fairly far apart, it’s clear that they are not with each other. But one you recognize as your employer Abigail Mathis.
+
+
+Griffin: Shit! Okay. Uh—
+
+
+Justin: I’m gonna float over to Abigail Mathis, not float, I guess slowly walk. How— it— within earshot.
+
+
+Travis: Mmkay.
+
+
+Griffin: Yeah, are they having a conversation when we walk in? Or is she just drowning her sorrows right now?
+
+
+Travis: Well, she is both drinking but also waiting. I think she kind of expected you sooner.
+
+
+Griffin: Uh, I walk up to the bar and sit down at the stool next to her, and I say:
+
+
+Errol: Lemme get uh, two root beers— I— lemme get one root beer, please. Uh, and you can put it on the Grayson’s tab.
+
+
+Abigail: About. Goddamn. Time.
+
+
+Errol: …No need to take the Lord’s name in vain, Abigail. We’re out here you know, busting our humps trying to find out what we can find out.
+
+
+Abigail: It— [sighs pointedly] My son has been locked in that cage for almost an hour. You better be close to solving this goddamn thing.
+
+
+Errol: Wheels of justice turn pretty slow and that root beer is… Listen Abigail, here’s what we know: your son’s covered in blood, and we found out that it is Jeremiah’s blood. And he’s got claw marks across his gut, and we can’t just release your son, he’s the most likely suspect still, so I know you’re frustrated and everything, but—
+
+
+Abigail: My son would not do this. He is a good boy, he would not have done this.
+
+
+Errol: He’s a good boy, but he’s a shit suspect. He wouldn’t really tell us much when we were in there talking to him. 
+
+
+Abigail: He— he always has been quiet.
+
+
+Errol: Yeah, that’s agai— and not super helpful and again that root beer though? Is it…? What are you do— you brewing the sarsaparilla back there? What’s the—
+
+
+Travis: Wilder just kinda glares at you and continues polishing cups.
+
+
+Errol: What’s— you— you got beef, bud?
+
+
+Justin: Wilder watches one of the mugs floats over to the root beer and begins to fill itself.
+
+
+Errol: I’m doing that with my mind.
+
+
+Justin: It is placed in front of— in front of Errol.
+
+
+Travis: Wilder reaches underneath the counter and pulls out a club with a silver tip, and you can see engraved upon it is the symbol of The Church, and he points it—
+
+
+Justin: You see the mug start to float back over and upend itself, and the— then it goes over to the sink and is washed and is placed back in its place.
+
+
+[Clint laughs]
+
+
+Wilder: Show yourself, ghost.
+
+
+Augustus: First off, I have a name. 
+
+
+Justin: And I materialize in front of him.
+
+
+Griffin: What two?
+
+
+Justin: So I— what? I can be… seen and heard, but not felt.
+
+
+Griffin: That’s a good call in this situation.
+
+
+Augustus: We didn’t come for any trouble, my good man. We are here to investigate a terrible crime and to free one of your lupine brethren from the shackles of injustice. We just need a moment of your time, and we’ll be on our way.
+
+
+Travis: In fact, I’m gonna say he sounds like this:
+
+
+Wilder: Get behind my bar again and you won’t be walking out. Or—
+
+
+Augustus: Well…
+
+
+Wilder: Should I say floating out?
+
+
+Travis: And he kinda like, give you a bit of a smile-glare. He smiles, but not with his eyes!
+
+
+Griffin: Ahh, there he is! There he is! He’s smizing.
+ 
+Augustus: I appreciate the concessions made to my phantasmagoric nature. Not the threat, but I do appreciate that you recognize that I am a ghost.
+
+
+Errol: Alright I’m gonna give up on Operation Root Beer. Abigail, listen, when we were talking to Dylan—
+
+
+Augustus: Now I’ve almost got it cracked, give me a second.
+
+
+[Laughter]
+
+
+Errol: When we were talking to Dylan, he’s— mentioned something about “her”… not wanting— not wanting him to talk. Just curious if you ah, you know who that might be.
+
+
+Abigail: I can tell you there’s only one “her” Dylan cares about, and it’s his sister.
+
+
+Errol: Lemme add that to the old clue book. What’s ah— what’s the deal there, are they close? 
+
+
+Abigail: They are twins from the same litter…
+
+
+Augustus: What’s her name?
+
+
+Abigail: Ann. 
+
+
+Errol: Where might we find Ann here at this late hour?
+
+
+Abigail: Probably still asleep back at my house.
+
+
+Errol: Well I may need you to go wake her up and get her— get her here in town, ’cause we got— we gotta ask her some questions.
+
+
+Abigail: Do it yourself.
+
+
+Travis: And she slides you the key.
+
+
+Abigail: I need to be here, center of town in case something happens. I’m not leaving my boy.
+
+
+Errol: Abigail, I feel like maybe you don’t really understand the situation that we find ourselves in.
+
+
+Travis: You see the back of Abigail’s arms start to get a little hairier, her nails start to grow, and she turns and glares at you and says:
+
+
+Abigail: No, I don’t think you understand, Errol. I am not leaving my boy. He is next in line to take over my place. I am not. Leaving him. Alone. Do you understand me, Errol?
+
+
+Errol: Yeah, I understand, you don’t wanna lose your boy… But things go south here, you’re gonna lose a lot more than that. The gravity of the situation is this, and I’m surprised, ’cause I would think [music fades in] somebody who’s been living around the mines for as long as you have would know a powder keg when you saw one. This town’s about to blow up. And… we’re trying to stop it. We’re— we’re on the same side here, we’re just asking for a little bit of help.
+
+
+Abigail: You stop it. I’m Plan B. 
+
+
+[Theme music (The Adventure Zone: Dust Theme by Griffin McElroy) continues]
+
+
+[Next episode]

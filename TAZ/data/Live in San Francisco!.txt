@@ -1,0 +1,2919 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Griffin McElroy
+Magnus Burnsides: Travis McElroy
+Merle Highchurch: Clint McElroy
+Taako Taaco: Justin McElroy
+
+
+San Francisco Live Show
+TAZ Transcript
+(part of TAZscripts on Tumblr) 
+
+
+[Intro music fades in, audience cheers.]
+
+
+Griffin: Hi, San Francisco, welcome to The Adventure Zo-o-one.
+
+
+[cheers]
+
+
+Griffin: I was about to start introducing us, but I… everyone here is dressed like our characters, so I think that would be unnecessary. Uh, so—
+
+
+Travis: Oh wait, real quick, before we get started, before we get into anything, can we get some house lights up, please?
+
+
+Griffin: Oh, yeah, I wanna see that cosplay.
+
+
+Justin: Let’s see it. [Griffin: Woah.] Anybody dressed up?
+
+
+Travis: If you’re in cosplay, stand up! Stand up.
+
+
+[Chorus of appreciative “yeah”s from all four.]
+
+
+Justin: You wild animals.
+
+
+Travis: Now, we haven’t done this before, but if you think you are dressed as the most deep-cut, esoteric character, stay standing up.
+
+
+Griffin: [laughs] Boyland! We got a Boyland.
+
+
+[crosstalk regarding cosplays]
+
+
+Travis: Fantasy Costco.
+
+
+Griffin: We’ve got somebody dressed up as the Fantasy Costco.
+
+
+Travis: We got a Voidfish. There’s a Steven up there! Yeah!
+
+
+[cheers]
+
+
+Justin: Very good!
+
+
+Travis: Hell yeah!
+
+
+Griffin: Alright, let’s get those house lights off. I’m, uh, shaking... with... fear! [nervous laughter]
+
+
+Justin: Ding ding ding ding. Ah, there they go, and they’re gone! Just me and my twenty closest friends.
+
+
+Griffin: It’s imperative that you all don’t yell things at the stage during the show—
+
+
+Travis: We spook easily.
+
+
+Griffin: We’ve never announced that at the beginning of the show, [Justin: Yeah.] but a lot of people wanna yell suggestions for cool spells… they wanna yell the rules...
+
+
+Clint: And we don’t do cool spells.
+
+
+Griffin: Well, Justin does. They wanna yell the rules of D&D.
+
+
+Justin: We used to have somebody in our first couple live shows.
+
+
+Griffin: Oh, yeah.
+
+
+Justin: We actually appointed— what did we call it? [chorus of “archivist”] The archivist. Which was somebody to sit in the audience with the D&D Player’s Handbook, and correct us on the rules. What the fuck were we thinking?
+
+
+Griffin: Yeah.
+
+
+Justin: Seriously!
+
+
+Clint: We would do an hour and a half, and… 88 minutes of it was the person correcting us.
+
+
+Justin: We— Yeah. I remember when we stopped, because at a show we did in L.A., the archivist was tragically wedgied to death, and… We’ll always remember you, Dylan, wherever you may be, I presume Hell. But thank you, for all your help.
+
+
+Griffin: Also that’s not gonna be a cool watch for them.
+
+
+Justin: Yeah, that’s not fun for them. They paid their money.
+
+
+Travis: All right, I am in, basically, a corset. So let’s move it along!
+
+
+Griffin: Let’s get rolling! Alright, let’s get started.
+
+
+Travis: [gasps strenuously]
+
+
+Griffin: Your adventure begins, as almost all of our live adventures begin, with a letter. You each received it in the mail several days ago. It’s been nearly a year— [muttering into microphone] spoilers for, uh, TAZ Balance— [normal voice] since the Day of Story and Song, [mild cheers] and still— it was a rough day, y’all, you don’t gotta cheer for that. And still your inboxes remain in a constant state of being blown up. But this letter caught your eye, solely because of who sent it. It read:
+
+
+Davenport: Hey, gang, it’s your captain here.
+
+
+[audience cheers]
+
+
+Travis: Cap’nport!
+
+
+Davenport: Your former captain, I should say. You’ve all been off my payroll for some time, but I hope you still have some fondness for me, ‘cause I’ve got kind of a big ask for you today. I’ve fallen into a spot of trouble. See, I’ve run up some debts with some unsavory characters all across the Sword Coast, and they’ve come to collect. I’m a bit low on liquid assets at the moment, which, as you can imagine, they’re not terribly pleased about. Fortunately, I’ve found a way to take care of the situation. No, Taako, it doesn’t involve killing all of them in a huge and fiery explosion. I’ve found a way to pay them back and then some.
+
+
+During my many travels on the waters of this wonderful world, I’ve found a sunken ship [Travis gasps] that’s chock full of treasure for the taking.
+
+
+Clint: Harrrrr!
+
+
+Davenport: Unfortunately, I wasn’t able to recover it on my own. I sail by myself most of the time, and—
+
+
+[Audience laughter, followed by Griffin’s laughter. Unsure of context.]
+
+
+Davenport: And though my yacht is a capable vessel, hoisting wreckage is a bit above my considerable capabilities. [Justin: Yesss.] So I’m writing in the hopes that you’ll be willing to sail with me, back out to the wreckage—
+
+
+All Three: No.
+
+
+Travis: Fuck off!
+
+
+Griffin: Thanks for coming, everybody! Thanks to the Warfield.
+
+
+Clint: Thanks everybody! We love you, San Francisco! [blows kisses]
+
+
+Davenport: I hope you’ll be willing to sail with me back out to the wreckage and recover it as a team, for old times’ sake.
+
+
+Travis: And money?
+
+
+Davenport: Once I pay back my—
+
+
+Travis: We’re not talking, I just— [crosstalk] it’s just a letter. And money?!
+
+
+Griffin: It’s actually a magic letter. Like, uh, Harry Potter magic letters?
+
+
+Travis: Uh-huh?
+
+
+Davenport: Once I pay back my debtors, you’re welcome to split the remainder. It should be enough, uh, more than enough for each of you to buy your own boats, if you wish. I cannot recommend it enough. There are few investments in this life that are wiser than buying a big, big boat. 
+
+
+[laughter]
+
+
+Davenport: I’ll be casting off from the docks at Westbreak in three days. I sincerely hope you all will be aboard when I do. Your friend, Davenport.
+
+
+Travis: [singing] I’m already there!
+
+
+Taako: Ok, I know what he said, but hear me out, I have another plan. We find all the pirates that he owes money to, and we kill them all in a fiery explosion. Now hear me out.
+
+
+Magnus: Oh! Now. [Merle: What does—] If I may. And this isn’t usually Magnus’s thing, but... maybe there’s a voice in my head called Travis. I don’t know, random name. We wait until all the pirates are together to collect the money.
+
+
+Taako: Yes?
+
+
+Magnus: And then we kill all of them, keep the money.
+
+
+Justin: I say we let him go.
+
+
+Griffin: If y’all want, I can press control-A and delete everything in this document.
+
+
+Justin: No, no, no, let’s do it.
+
+
+Travis: I just recently did a game with Chris Perkins, and there was a part where they were walking to the next thing—
+
+
+Griffin: Oh, so sorry, I fuckin’ get it, I’m not Chris Perkins.
+
+
+Travis: And he said— Well, I just said Chris Perkins was a real pro— and he said as they were walking, like, “So, what do you do as you walk there?” and I was like “What? What do you mean? No, you’re just there.”
+
+
+Justin: We’re just there.
+
+
+Griffin: You all arrive at the Westbreak Docks at the appointed time and find a lively scene waiting for you. Despite the fact that most of the docks aren’t in operation— many lie shattered, you assume, from the Hunger’s attack nearly one year ago. [mutters into microphone] Spoilers for TAZ Balance. 
+
+
+[normal voice] A dozen small fishing vessels are preparing to depart on their daily trips into the nearby reefs. Amidst the hubbub of these preparations, you spot one another near the central dock. I don’t know how often you three actually meet up these days. What is this—
+
+
+Justin: Every other month.
+
+
+Griffin: Wow.
+
+
+Justin: Approximately.
+
+
+Clint: Yeah. Yeah, we get together, play a little euchre.
+
+
+[pause]
+
+
+Griffin: Don’t you need—
+
+
+Travis: Fantasy euchre, don’t worry.
+
+
+Clint: Fantasy euchre, yeah.
+
+
+Griffin: Who’s your fourth?
+
+
+Clint: The fourth is, uh...
+
+
+Travis: Rotates.
+
+
+Griffin: You could name literally any character right now and get a cheer from the audience.
+
+
+Clint: Garyl!
+
+
+[audience cheers]
+
+
+Justin: No. Absolutely not. Don’t applaud that, that doesn’t make sense.
+
+
+Griffin: [softly] You all have to set a higher bar for us. We can’t just...  say the names of characters. Or else that’s—
+
+
+Travis: Maybe it’s the Flaming Raging Poisoning Sword of Doom!
+
+
+Griffin: Stop.
+
+
+[audience cheers]
+
+
+Justin: Maybe it’s the Millenium Falcon! [Griffin laughs] Maybe. Just. It’s something else.
+
+
+Travis: Aubrey shows up and plays with us.
+
+
+Griffin: You—
+
+
+Travis: It’s all one universe!
+
+
+Griffin: I’m stopping this right now. You hear a loud “ahoy!” come from—
+
+
+Magnus: Ahoy!
+
+
+Griffin: ...Come from the docks in front of you.
+
+
+Justin: Travis gave us a speech literally thirty seconds before we came on, which was, and I quote, “let’s try to make sure Griffin can get through his introduction.”
+
+
+Clint: “Let’s not interrupt him.”
+
+
+Travis: But then I got to be a pirate!
+
+
+Justin: Then it got to be too much. He’s just bloviating bullshit. Let’s just let the little kid talk, and then we’ll do some other junk.
+
+
+Griffin: No, I’m loving it. I have barely anything prepared if… 
+
+
+Justin: Okay, fine.
+
+
+Griffin: You hear a loud “ahoy!” come from the docks in front of you, from the largest and nicest ship in the harbor. It’s a long vessel with a solid wood construction, painted a glistening pearl color. Two ruby red sails at the center and stern of the ship are raised, though you see some imposing figure on the ship beginning the process of untying their bindings, preparing to raise the anchor. It’s a beautiful boat. Through, uh— Towards the rear of the ship, you notice some patches of unpainted wood covering up some considerable damage, with scorch marks barely peeking out from behind them.
+
+
+Justin: Can I roll a history check to see if I recognize the symbols on the boat?
+
+
+Griffin: ...Sure.
+
+
+Justin: It’s an eighteen, plus five. So I made ‘em up, pretty much.
+
+
+Griffin: Uh, the symbols on the boat— there’s just one. 
+
+
+Justin: Okay.
+
+
+Griffin: It’s a name, painted out n the side. 
+
+
+Clint: Garyl!
+
+
+Travis: And is he able to read it?
+
+
+Griffin: He is, it says: “The Wavesmasher.”
+
+
+Justin: Mm. Very good. Very good.
+
+
+Griffin: You take it that Daven— With that roll, you assume Davenport has sort of adopted a certain naming convention for… 
+
+
+Justin: Yeah.
+
+
+Griffin: All ships.
+
+
+Justin: You know what’s funny, in my head? I had the words “Wavehumper” in there.
+
+
+Griffin: Yeah.
+
+
+Travis: Oh, I like yours better.
+
+
+Griffin: Oh, I’m sorry, I misread.
+
+
+Justin: Did you?
+
+
+Griffin: Yeah, ‘cause of the font— let me increase the font size. It says Wavehumper.
+
+
+Justin: Okay, good. I thought it might say Wavehumper.
+
+
+Griffin: And bounding down the gangplank, you see Davenport. At least, you presume it’s Davenport. A year at sea has changed his aesthetic dramatically. He’s got long, unkempt gray hair now, gathered in two sections in bearded tails. And peeking out from behind that hair, you see an impressive salt-and-pepper goatee. Your once neat-and-tidy captain has become a bit of a sea dog in the year since you last saw him.
+
+
+Travis: Now, does he look more like Dad, or Captain Ron?
+
+
+Griffin: Captain Ron.
+
+
+Travis: Okay.
+
+
+Justin: Thank you-u-u.
+
+
+Griffin: And he yells as he approaches you,
+
+
+Davenport: I knew I could count on you three! How the hell are ya?
+
+
+Magnus: Pretty fuckin’ good!
+
+
+Taako: Uh, we’re very well. Uh, h— Th— It sounds like things are not going great with you though, my man.
+
+
+Davenport: Oh yeah, the debts are so… much of them. And… 
+
+
+Taako: Yeah.
+
+
+Davenport: It’s gonna be great, though, when I don’t have the debts anymore, [crosstalk] because of the adventure, that we’re gonna do.
+
+
+Taako: [crosstalk] Yeah.
+
+
+Magnus: [crosstalk] Oh yeah. Yeah, yeah, yeah, yeah.
+
+
+Taako: How come you didn’t parley your world-saving success, and fame and fortune?
+
+
+Davenport: Spent it.
+
+
+Taako: [skeptically] Spent it.
+
+
+Magnus: Ah. You spent your credentials on— you spent your reputation?
+
+
+Merle: We got paid?
+
+
+Magnus: No. Not as such.
+
+
+Justin: Just the licensing.
+
+
+Clint: Oh, right.
+
+
+Travis: And merch!
+
+
+Griffin: Davenport says,
+
+
+Davenport: It’s just gonna be us, I think. Lucretia responded, and said she’s finishing up Neverwinter for a big reopening ceremony. She offered to send some money instead, which was… awfully nice of her. Barry and Lup didn’t respond at all, which, honestly, I don’t really know what I was expecting there.
+
+
+Griffin: Another figure comes down the gangplank from Davenport’s ship. She’s an orc wearing a black duster over a white linen shirt and ratty brown pants, with an eyepatch over one of her scarred-up eyes. She’s large enough to carry what appears to be a moderately-sized ship’s cannon strapped to her back. On her hip is a long cutlass in a plain black scabbard. She approaches your party and she says,
+
+
+Swashbuckler: Wind’s finally in our favor, and—
+
+
+Magnus: Ahoy!
+
+
+Swashbuckler: Ahoy.
+
+
+Merle: Harrr!
+
+
+Griffin: She says,
+
+
+Swashbuckler: Sorry, what am I thinking. Ahoy. Ahoy.
+
+
+[crosstalk of “ahoy”]
+
+
+Taako: Ahoy!
+
+
+Swashbuckler: Wind’s finally in our favor, captain, we should set sail before we lose our window.
+
+
+Griffin: And then she give you all each one more round of the ‘goodbye’ ahoy.
+
+
+Justin: Sure.
+
+
+Travis: Bahoy.
+
+
+Griffin: Bahoy.
+
+
+Justin: You know, pirates have 37 words for ‘ahoy.’
+
+
+Griffin: And she—
+
+
+Travis: But no word for money!
+
+
+Justin: Think about it.
+
+
+Travis: Mm.
+
+
+Griffin: And she walks back onto the ship. And Davenport says—
+
+
+Magnus: Who was that?!
+
+
+Davenport: That’s Orla. She’s a local merc that offered to come along for the journey.
+
+
+Taako: Sorry, Or—
+
+
+Griffin: I’m just watching pieces of cosplay just falling.
+
+
+Travis: It’s really fucking hot!
+
+
+Griffin: That’s true.
+
+
+Clint: It is hotter than hell over here.
+
+
+Travis: Fuck!
+
+
+Justin: It’s like an after-party at GenCon in here.
+
+
+Griffin: He says,
+
+
+Davenport: She’s a local merc that offered to come along for the journey. I hired her in case the rest of you didn’t actually show up—
+
+
+Magnus: [offended] Oh, cool.
+
+
+Davenport: Which I don’t really think you can blame me for.
+
+
+Taako: Fair.
+
+
+Davenport: You all ready to head out? We’ll be gone for a couple of days, and convenience stores are hard to come by on the open ocean.
+
+
+Travis: Um, I assume with vehicle proficiency, I know a lot about boats?
+
+
+Clint: What’s the left side called?
+
+
+Travis: That’s the…? Port.
+
+
+Justin: Port.
+
+
+Griffin: You helped him.
+
+
+Travis: I know aft—
+
+
+Clint: This is not Password!
+
+
+Travis: I know aft and stern, port and starboard.
+
+
+Griffin: After a full day of relatively, and literal, smooth sailing, night falls, and Davenport summons your party below decks for a nice meal he’s prepared. He removes the lid off a steaming pot of seafood stew, which he delivers to each of you around the dining table in the galley, alongside a hunk of day-old, but still relatively tasty, bread.
+
+
+Travis: Magnus is already talking about how the sea has changed him… 
+
+
+Griffin: Sure.
+
+
+Justin: Yeah.
+
+
+Travis: How his time out here and, oh, the open ocean can really get to someone— You know like, a lot of that.
+
+
+Griffin: Ocean friendship bracelets, which is sort of a new concept he’s developed.
+
+
+Travis: Yeah! A lot of ‘oh I’ve really found myself, you know I thought I knew what it meant to be Magnus, but here—’ A lot of that? And it’s all horseshit.
+
+
+Griffin: Sure. Over dinner, Davenport says, 
+
+
+Davenport: So uh, how’s life post interdimensional adventures treating each of you?
+
+
+Merle: Gahh, the kids are a pain in the ass.
+
+
+Griffin: Woah!
+
+
+Justin: Woah!
+
+
+Clint: That was not a character voice, that was me talking about you guys!
+
+
+Justin: Charming.
+
+
+Travis: Happy Father’s Day Weekend!
+
+
+Clint: That’s why I can do it!
+
+
+Justin: Charming.
+
+
+Magnus: Uh, going good, I’m thinking of opening a dog training school. Haven’t yet, canonically, but I’m thinking about it.
+
+
+Davenport: There a lot of money in that, ya think?
+
+
+Magnus: Nooo, I’m planning on losing a lot of money that I hope to make on this voyage!
+
+
+Griffin: He says,
+
+
+Davenport: Well I’m glad you’ve found something to keep you busy, Magnus. I’ve been struggling with that myself, if I’m being honest. I tried to find more sort of, stuff I could help out with, but, uh… it’s just been me and the sea for a while, which is kind of how I… like it. I kind of know that I’m playing the back nine as it were, I’m a little too old to start over somewhere, so finding some new life to lead just doesn’t sound good to me right now. Y’all aren’t having trouble readjusting now that we’re sort of settling in?
+
+
+Magnus: [unsure] ...No?
+
+
+Davenport: Oh. Just me then. Alright.
+
+
+Clint: Awhh.
+
+
+Magnus: Hey… 
+
+
+Taako: You know, uh… 
+
+
+Clint: Davenport. [Justin sighs exasperatedly] I thought you’d forgotten!
+
+
+Taako: Some people take a while to find their thing, you know? Like, find their stride? Like, uh… the guy who wrote Moby Dick! That took him forever! Lot of words in that one. And that’s the kind of thing that maybe you’re just in the middle of your… dick, and you don’t— it’ll take a while to find your stride, maybe. Maybe piracy was the wrong path and this is the universe’s way of telling you: “Hey, go ashore”.
+
+
+Magnus: Become a land pirate!
+
+
+Taako: A land pirate! 
+
+
+Magnus: Not enough of those!
+
+
+Merle: Open up a bait shop!
+
+
+Davenport: [sarcastically] Yeah, that sounds fulfilling. 
+
+
+Justin: There’s somebody who owns a bait shop in here like, “Awh. Actually, I have a lot of good conversations with fish people.” 
+
+
+Griffin: Uh, Orla, who’s dining with you, speaks up, and she says,
+
+
+Orla: You know, I, uh, found my life on the sea too, Davenport. I lost my home, it was destroyed when I was just a child, and I found a new home on the ocean. That feeling when you lookout on the horizon, and there’s nothing but endless water in every direction, that’s- that can be home too. Don’t listen to these three clowns who are telling you to open a bait shop somewhere!
+
+
+Magnus: To be fair, only one of us said bait shop. 
+
+
+Merle: And it was me. 
+
+
+Justin: Who? Clint McElroy on this boat? Amazing!
+
+
+Travis: Clint McElroy is a custodian on a completely different planet!
+
+
+Griffin: Uh, Davenport kinda shakes himself and puts on a smile and he says,
+
+
+Davenport: Alright, well we should arrive at the wreckage at sunrise. You all should get some sleep, we’ve got a big day ahead of us.
+
+
+Travis: Magnus does. Right there at the table.
+
+
+Griffin: You retire from the galley to the sleeping quarters except for Magnus, who just instantly falls asleep at the table.
+
+
+Clint: And we drag his ass to his hammock.
+
+
+Travis: Nope, no, he’s too heavy for that! He’s sleeping at the table. 
+
+
+Griffin: Taako and Merle, you find with this—
+
+
+Justin: Taako wakes up in the middle of the night. And he goes to Davenport’s cabin. 
+
+
+Griffin: Okay. 
+
+
+Taako: Hey, listen… bad news. I think I’ve got scurvy. I’m not sure what the signs of scurvy are. But I’ve been out here for what feels like 13 fuckin’ years, and I’m— how would I know if I have scurvy?
+
+
+Davenport: Well, what’s your symptoms, pal?
+
+
+Taako: ...Bored? Salt taste? 
+
+
+Davenport: Salt taste.
+
+
+Taako: Salt, there’s like a salty taste all the time? So I’m bored and salt taste, and some mild nausea. 
+
+
+Davenport: Can I— show me those chompers… You’re good.
+
+
+Taako: Really?
+
+
+Davenport: Yeah.
+
+
+Taako: You can tell from the teeth! 
+
+
+Clint: From the teeth!
+
+
+Taako: Like a veterinarian! I never— so there’s the answer, I guess. Well, thanks anyway, sorry to wake ya.
+
+
+Davenport: No problem, I—
+
+
+Taako: Do you have any limes, though? As long as I’m here I hate to go back empty-handed. Or empty-citrus.
+
+
+Davenport: I got a grapefruit.
+
+
+Justin: Did you roll to see if you had a grapefruit?
+
+
+Griffin: He has a grapefruit. 
+
+
+Taako: I actually don’t love grapefruit. 
+
+
+Magnus: You gotta put some salt— wait, no, this is Travis,
+
+
+Travis: 
+You gotta put some salt on there—
+
+
+Griffin: Magnus is just there. He’s just been standing in the door the whole time.
+Magnus: Yo! Scurvy?
+
+
+Taako: Okay, sorry to wake you, I’ll take the grapefruit and try to muscle up the courage to take a nibble. Maybe it’s a “juice in case of emergency” situation, I’ll just keep it on a shelf.
+
+
+Griffin: It’s the following morning. You all awaken in the different rooms you slept in, for some reason, and head above deck, and see the sight described by Orla the previous evening. There’s no land in sight, just infinite ocean in every direction.
+
+
+Travis: Magnus loses it.
+
+
+Griffin: Uh-oh. I thought Magnus was a sailor boy.
+
+
+Travis: But then he’s okay.
+
+
+Justin: What a rich bit that was. 
+
+
+Clint: Ah, how’s this, Merle starts to puke. 
+
+
+Griffin: Okay.
+
+
+Clint: Yeah.
+
+
+Griffin: There is one point of interest that breaks up this vista of endless ocean, though. Directly in front of your ship, you see a few planks of wood stitched together to form a makeshift raft. Slumped over it, and clinging to the side of this piece of wreckage, you see a hooded figure with its head down, seemingly passed out cold. What do you do?
+
+
+Magnus: Ahoy!
+
+
+Taako: Ahoy.
+
+
+Merle: [while retching] Ahoy.
+
+
+Justin: Uh, I’m gonna roll a— how far away are we?
+
+
+Griffin: You’re a good fifty feet away. It does not respond to your “ahoy”s. 
+
+
+Justin: Pfft. Asshole. You know what, I’m gonna do a perception check to see if I sense anything else there, and see if I can pick up any other details. And we are looking at a… 19. 
+
+
+Griffin: With a 19, your eagle elven eyes peer into the distance, and you get a better look at the shape of this figure slumped over the raft, and you see that its hand is a skeletal hand, and that it is moving a little bit.
+
+
+Justin: Oh. My. God.
+
+
+Travis: Well here’s the bad news. Magnus has already leapt over the side to go save this person.
+
+
+Griffin: Okay. 
+
+
+Travis: So I am going to execute a perfect dive. 
+
+
+Clint: No, you’re not.
+
+
+Travis: Well… is that athletics? Is athletics swimming? 
+
+
+Griffin: Yes. 
+
+
+Travis: That’s a 19. 
+
+
+Griffin: Uh, good dive, dude.
+
+
+Clint: Was it a ‘phoon? Did you do a ‘phoon? 
+
+
+Travis: No, it was a sick-ass dive—
+
+
+Griffin: A single drop of water just “bloop”! And you swim over to the raft?
+
+
+Travis: I leap out of the water like a dolphin and land upon the raft. 
+
+
+Griffin: Alright, you dolphin-swim through the water, and leap up on the raft as Davenport’s ship continues at speed towards it. And, what do you do, you’re at the raft. 
+
+
+Magnus: Hello friend! 
+
+
+Griffin: It, uh, looks up at you, the shape does, and it is, in fact, totally a skeleton with a bright gold tooth.
+
+
+Magnus: I’ve met skeletons before!
+
+
+Griffin: It slashes at you with a dagger at its waist. 
+
+
+Magnus: I get it, I know you’re a little stressed out right now, my man! Stuck out here on a raft while we could be [unintelligible] skeletal friends! 
+
+
+Griffin: That’s a 24 versus AC. 
+
+
+Travis: Eff. 
+
+
+Magnus: Ow! Listen, I get it, you’re mad. I’ve changed a lot in the last year. 
+
+
+Griffin: It buries a crooked knife in your shoulder for 14 points of damage. 
+
+
+Justin: Damn.
+
+
+Travis: That’s nothing. I don’t know— I know we probably should roll initiative, but I’m just going to— it’s half— like, it’s a Jack kind of situation, right, like “I’ll never let go,” it’s off the raft, in the water, right? It’s like, clinging to the side of the raft?
+
+
+Griffin: Yeah.
+
+
+Travis: I’m gonna punt it. 
+
+
+Griffin: Okay. 
+
+
+[Sound of dice rolling, someone sucks air in through their teeth]
+
+
+Justin: No you’re not.
+
+
+Travis: Well, it’s a 13?
+
+
+Griffin: No. It grabs your ankle in midair and slashes it—
+
+
+Travis: No!
+
+
+Justin: Just let it happen, it’s— do it for the vine. Do it for the vine.
+
+
+Griffin: It only rolled a 13 on its attack at you, so you don’t have to—
+
+
+Travis: Okay, so it missed.
+
+
+Griffin: Yes. 
+
+
+Travis: [mumbled] At least I probably have something. 
+
+
+Justin: It’s good to let the vines happen sometimes, Travis.
+
+
+Travis: Yeah, I know.
+
+
+Justin: It can be better for the drama to—
+
+
+Griffin: This raft that you’re standing on, uh, it explodes, knocking you backwards, up into the air, and then down into the ocean. And Merle and Taako, you see from behind you, on the deck of Davenport’s ship, you see Orla, holding her ship’s cannon, with smoke coming out the end.
+
+
+Justin: Nice! Woah, write it down everybody, we finally got saved by a competent woman. 
+
+
+Griffin: Uh, and Davenport walks out of the captain’s quarters and and throws you a life, uh… ring. What are those… life preserver, as he floats by and fishes Magnus back up into—
+
+
+Magnus: It was a skellington! 
+
+
+Griffin: He says,
+
+
+Davenport: Yeah.
+
+
+Clint: Were we supposed to— I thought it was somebody we knew. Was it somebody we—
+
+
+Justin: Not everything’s a callback.
+
+
+Griffin: Not every character’s gonna be a callback.
+
+
+Clint: Okay, alright, that’s cool. The gold tooth kinda threw me. 
+
+
+Griffin: Do you know Joe Pesci from Home Alone? Like, what’s the fuckin… Davenport says, 
+
+
+Davenport: Okay, so… confession time. I haven’t been completely honest with you all about why I brought you out here today. 
+
+
+ Magnus: Uh-huh.
+
+
+Davenport: So first off, and someone please be ready to catch Taako as he faints, there’s no sunken treasure. 
+
+
+Justin: Taako faints. 
+
+
+Clint: Nobody catches him. 
+
+
+Travis: No, I rolled a 15—
+
+
+Clint: Of course you did.
+
+
+Travis: Dexterity, uh, plus 2 is 17. 
+
+
+Griffin: Easy catch. 
+
+
+Justin: Thank you so much. 
+
+
+Davenport: Silver lining, though, your buddy Davenport isn’t wracked with debt, so that’s… something, at least?
+
+
+Magnus: So are we just, “Oh, it’s a picnic”?
+
+
+Davenport: No…
+
+
+Griffin: He says,
+
+
+Davenport: There’s an undead pirate ship that tried to destroy my boat while I was out here just a few days ago. I was just minding my own business, it came along, and it was just like, “Rahhhh” and “Bfffff.” I managed to escape and I met Orla while I was drowning my sorrows back at Westbreak. Apparently this ghost ship’s brought down several dozen other non-ghost ships over the the last year or so, so I know I said my days of heroism are behind me, but that’s just not gonna fly, personally speaking. I wouldn’t leave something like that out here, potentially endangering other oceanic explorers like myself who are just trying to find some peace and quiet out here. So, I brought you all in to help me take it down. And I’m sorry for lying, I just haven't spoken to you all in a while and I didn’t know if I could count on you to still be in the… hero business. 
+
+
+Magnus: Coulda asked. 
+
+
+Clint: Merle casts Cure Wounds. 
+
+
+Travis: Why? Oh, on me?
+
+
+Griffin: The idea of Travis— of Magnus being healed is just so alien to Travis. 
+
+
+Clint: Yes, he got stabbed, right?
+
+
+Griffin: What’s Cure Wounds do?
+
+
+Clint: Cure Wounds, of course, Griffin!
+
+
+Justin: Get comfortable. 
+
+
+Clint: A creature you touch regains a number of hit points equal to 1d8 plus your spellcasting ability modifier. 
+
+
+Griffin: Go ahead and roll 1d8 for me. 
+
+
+Clint: 1d8.
+
+
+Griffin: Got it? First try. That’s it.
+
+
+Clint: 1d8. It’s a 1. 
+
+
+Griffin: Juicy, juicy. 
+
+
+Travis: Actually, that’s a 7! 
+
+
+Griffin: That’s a 7.
+
+
+Clint: Wait, that’s a 7?
+
+
+Travis: Yeah!
+
+
+Griffin: Yeah, alright—
+
+
+Clint: Ah. What language is this? It’s a 7 plus my spellcasting modifier.
+
+
+Griffin: Which is 5 or 6, so we’ll say… full-health Magnus! 
+
+
+Clint: You’re freakin’ welcome!
+
+
+[audience cheers] 
+
+
+Travis: Okay, but listen though—
+
+
+Justin: Don’t applaud, enjoy the bare minimum please.
+
+
+Travis: I do wanna say, I went from 131 hit points to 117 to 131, so I had a boo-boo and he fixed it.
+
+
+Clint: And to be honest with you, I was really casting it on Taako to wake him up. And you kinda hijacked my move. 
+
+
+Justin: Ehhhh, fainting is not a wound.
+
+
+Clint: Well—
+
+
+Justin: I guess this is the time to talk about how I hadn’t lost any hit points. I was literally— the only damage that could have been done to me was the fall, and I was literally caught. 
+
+
+Travis: Yeah, if I caught him too hard, I guess? Oh, that’s 10 points of catching damage. 
+
+
+Clint: I am glad I cast it on Magnus, then. 
+
+
+Griffin: Davenport says,
+
+
+Davenport: Anyways, we’re all here now with this pirate situation whether we like it or not, and speaking of, battle stations. 
+
+
+Griffin: And he points off the starboard side of the ship, and you all see the waters below start to part. And in the gap that forms, a shape emerges in the water. It’s a crow’s nest, followed by a tattered sail of translucent cloth, and then another sail, and a third, and then you see an entire boat rise from the waters and splash down 10 feet off the side of your ship. This vessel is made of rotted grey wood and covered in barnacles. And yet the whole vessel seems to be coated in this shimmering, sickly green light. 
+
+
+Travis: Yarrr, it’s Davy Jones! 
+
+
+Griffin: This boat also eclipses your own, it stands about 8 feet higher in the water, and it’s nearly twice as long as Davenport’s… Wavehumper. And over the railing of the side of the ship, you see a skeleton peek out and give you all a friendly wave, and a voice shouts:
+
+
+Skeleton: Hello! My name’s Captain Callaway, and I’m so sorry for the inconvenience—
+
+
+Magnus: Ahoy!
+
+
+Captain Callaway: Ahoy, of course, where are my manners! Ahoy, ahoy, ahoy, ahoy, ahoy. 
+
+
+Merle: Harrr!
+
+
+Taako: Ahoy, ahoy— no, I’m—
+
+
+Justin: —asleep, sorry. 
+
+
+Captain Callaway: Uh, we’re going to need to take your ship and kill all of you, so we can dragoon you into our undead fleet, we’ll try to make it quick and painless, but it’s—
+
+
+Magnus: Listen, I—
+
+
+Captain Callaway: It’s hard to guarantee. It’d be actually really cool, honestly, if you could just drop anchor and wait to be murdered?
+
+
+Magnus: Uhhh…
+
+
+Clint: He is very nice. 
+
+
+Magnus: I will, I’ll tell you what, you seem very nice… you have one chance to surrender. 
+
+
+Captain Callaway: Oh, man.
+
+
+Magnus: Listen, I know! Crossed purposes… 
+
+
+Justin: Is this the talking skeleton? 
+
+
+Griffin: Yeah. 
+
+
+Justin: That’s so crazy. [Griffin and the audience laughs] It is if you think about it! 
+
+
+Travis: ‘Cuz where’s the air in the vocal cords—
+
+
+Justin: Where’s the air in the vocal cords and stuff?
+
+
+Clint: And is there, a tongue, like, how do you make your umlauts and stuff?
+
+
+Justin: Right? Thank you.
+
+
+Travis: Without the lips or the tongue, you just have the teeth.
+
+
+Griffin: He chatters in a rhythm that makes the words… no…
+
+
+Travis: Are you sure?
+
+
+Griffin: Yeah. 
+
+
+Travis: ‘Cuz it’s our podcast. 
+
+
+Griffin: No… We’re actually doing our own podcast. 
+
+
+[Clint laughs in the background]
+
+
+Justin: The Bone Zone.
+
+
+Griffin: The Bone Zone. He turns to his crew and says, 
+
+
+Captain Callaway: They’re not just gonna let us murder ‘em. Looks like we have to… do a fight. 
+
+
+Griffin: Let’s roll for initiative with that… climactic—
+
+
+Clint: Jim J. Bullock delivery! Wow. 19.
+
+
+Griffin: Woah.
+
+
+Travis: An 11.
+
+
+Griffin: Uh, Taako, what’d you roll? 
+
+
+Justin: Um, I’m fainted. 
+
+
+Griffin: Go ahead and roll initiative, though, please.
+
+
+Justin: Okay, I wake up.
+
+
+Taako: (gasp) Scurvy vapors! 
+
+
+Clint: I was healing him from scurvy!
+
+
+Griffin: Sure. 
+
+
+Justin: Don’t have scurvy, I have a 6 on that one.
+
+
+Griffin: Uh-oh. That’s not very good—
+
+
+Travis: You have a plus 3, so it’s a 9. Jesus! 
+
+
+Justin: Yeah. 
+
+
+Griffin: The first thing that happens: a long plank of wood with spikes on the bottom of it raises up from the deck of the ghost pirate ship, and slams down into the deck of Davenport’s boat, the Wavehumper, uh, with a terrible crash, and 5 skeleton crew members come pouring down the gangplank onto your ship, and they all take a swing at Magnus, they act as a swarm, which means I roll as one sort of thing for them, that is a 19 versus AC?
+
+
+Travis: That’s a miss.
+
+
+Griffin: Oh that’s cool. You easily brush off five skeletons as they swing their scimitars at you— or their cutlasses, their cutli, at you, you carry them effortlessly, and they look very confused because the odds of that happening are just… wild! Next in the order is… Merle.
+
+
+Clint: Uh, Merle casts Guiding Bolt.
+
+
+Griffin: Okay.
+
+
+Clint: At… Gallaway?
+
+
+Griffin: Callaway.
+
+
+Clint: Callaway. Uh, the golfing pirate, so… That’s, um, that’s a sports reference.
+
+
+Travis: No, I got it. 
+
+
+Clint: Okay, I didn't know. Uh, 4d6 radiant damage.
+
+
+Travis: Well, you have to roll the hit first.
+
+
+Griffin: Right.
+
+
+Clint: 16.
+
+
+Griffin: Uh, that’s a hit on Captain Callaway.
+
+
+[audience cheers]
+
+
+Clint: Thank you.
+
+
+Griffin: Uh, just roll one—
+
+
+Clint: Is that Father’s Day pity?
+
+
+Griffin: What— uh, you got that d6 there?
+
+
+Justin: Roll one.
+
+
+Clint: I got a d6, okay… it’s— it’s kind of on a fold, maybe I oughta roll it again.
+
+
+Travis: You said 2?
+
+
+Clint: 2.
+
+
+Travis: Four, four d6, is what you roll—
+
+
+Griffin: Yep.
+
+
+Travis: Roll those.
+
+
+Clint: Okay— god these are heavy!
+
+
+Travis: Yeah, they’re metal!
+
+
+Griffin: Travis is gettin’ yolked over there!
+
+
+Clint: God almighty!
+
+
+Travis: He rolled three 1’s, and a 2. 
+
+
+Griffin: Holy shit. 
+
+
+Justin: Unbelievable. 
+
+
+Travis: Statistically, the second worst he could have done.
+
+
+Griffin: Sure.
+
+
+Clint: I suck at this game!
+
+
+Griffin: It is radiant damage, though, so instead of just 5, it’s 10 points of damage. 
+
+
+Justin: Nice.
+
+
+Clint: And I have advantage on my next attack roll. 
+
+
+Griffin: Oh, cool, okay. Uh, you're not gonna remember that, uh, and uh, your bolt emerges as you read from the Extreme Teen Bible, and it just kind of hits Captain Callaway, and he was like, 
+
+
+Captain Callaway: ...Okay… uh…
+
+
+Griffin: Next in the order is… oh! You hear a mechanical sound coming from the ghost pirate ship, as a panel on the ghost pirate deck opens up, and from  your position on Davenport’s boat, you see what looks like a hot air balloon start rising up from the ghost pirate ship, tethered to their ship with a long rope. And as it raises up 20 feet into the air, you see, attached to the bottom of this balloon, a ship’s cannon, which launches a big cannonball at the three of you, uh, roll a dexterity saving throw.
+
+
+Clint: 12.
+
+
+Justin: Takin’ a while. This one is a 22 for ‘cha boy Hoops.
+
+
+[audience cheers]
+
+
+Justin: Thank you, I did not play a large role in the outcome. 
+
+
+Travis: Uh, 16.
+
+
+Griffin: And Merle, you rolled a… 12? Alright. Magnus and Taako, you both dive out of the way with grace and ease.
+
+
+Travis: I rolled twice because I have the tooth necklace. 
+
+
+Griffin: Merle, you are struck with a cannonball. 
+
+
+Justin: I pictured it like, the three of us are standing in a row, it goes Magnus, Taako, Merle? 
+
+
+Griffin: Yeah. Uh, it actually lands at your feet, hitting you with a fiery explosion and splinters of wood that come up from the deck of Davenport’s ship for 24 points of damage.
+
+
+Clint: Jeez.
+
+
+Travis: Hey, you cool?
+
+
+Griffin: Yeah, it’s a fuckin’ cannon guys, c’mon! Uh, next in the order is… Magnus.
+
+
+Travis: Um… well, how close is the ghost ship to our ship?
+
+
+Griffin: 10 feet away, you have a gangplank also.
+
+
+Travis: I’m gonna jump to it. 
+
+
+Griffin: You got a gangplank, and— okay.
+
+
+Travis: But there’s 5 shellingtons in the way! 
+
+
+Griffin: Sure… There’s a— hey, hey, hey! There’s probably a rope you could swing on!
+
+
+[Audience cheers]
+
+
+Travis: I do that. Okay, uhh, that’s a 17.
+
+
+Griffin: You swing and it’s cool. 
+
+
+Travis: And I land right next to Callaway. 
+
+
+Griffin: Sure!
+
+
+Travis: And I attack him.
+
+
+Griffin: How many times?
+
+
+Travis: Six. No, no, right now, just the three. No, wait, just two.
+
+
+Griffin: Okay. Uh, what are you attacking him with?
+
+
+Travis: The Flaming, Raging, Poisoning Sword of Doom. 
+
+
+Griffin: Fuck.
+
+
+Travis: That’s a 7. Oh, sorry, 17. 
+
+
+Griffin: [defeated] Yeah. Shit. One of these liveshows, I’m gonna make a demon take it, or something. 
+
+
+Justin: I think a demon would only be temporary—
+
+
+Travis: Well, I only rolled a 2, so that’s only 26 points of damage. 
+
+
+Clint: We played the Stream of Many Eyes game, and Travis played, and when it finally got to his turn, he took one battle turn that they literally turned and said “What does your character do?”, and 20 minutes later, when he wrapped up his turn, they were all gaping at him.
+
+
+Travis: And I rolled a 24 attack.
+
+
+Griffin: Yeah, of course!
+
+
+Travis: And a 27 damage. So that’s 53 total.
+
+
+Clint: Wait a minute, he may not be done.
+
+
+Griffin: A lot uh, a lot of his bones come off. Just a lot of—
+
+
+Clint: He’s de-boned.
+
+
+Griffin: A lot of discarded bones on the ground. 
+
+
+Travis: And then with my third attack—
+
+
+Griffin: Shit-birds.
+
+
+Clint: I told ya! I told ya!
+
+
+Travis: I’m gonna throw the Chance Lance at the cannon operator? Or the cannon?
+
+
+Griffin: It’s just a balloon, it’s floating in the air.
+
+
+Travis: I pop the balloon.
+
+
+Griffin: Okay. There’s no operator, as far as you can see. 
+
+
+Justin: [quietly] Magic.
+
+
+Travis: That’s a 19?
+
+
+Griffin: Yep. 
+
+
+Travis: So… okay, I guess the balloon will… take some damage? Um, 12 damage—
+
+
+Griffin: It pops, it’s a balloon. It pops.
+
+
+Travis: That’s why I was confused. 
+
+
+Clint: You have solved his balloon mystery. 
+
+
+Griffin: The balloon pops, and the cannon falls and plunges into the deck of the ship, and it keeps on going, and you hear it hitting a lot of wood, just sort of— it sounds like it’s maybe going to the mantle of the earth that you’re standing on. You also hear it hit water as it falls. 
+
+
+Travis: I just imagine Callaway and I standing there like, “Ooh. Oof. Ooh. Oh.”
+
+
+Griffin: With his four remaining bones. Uh, next in the order is Orla, who takes her cutlass and engages with the uh, swarm of skeletons. And she engages with one in particular and there’s a cool duel, and she cuts off its head. As it falls to the ground, there are now four remaining skeletons on the ship. Next in the order is Taako.
+
+
+Justin: Um, I hide behind the edge of our ship.
+
+
+Griffin: ‘Kay.
+
+
+Justin: And I chew a piece of Mockingbird Gum. And I impersonate Captain Callaway as I call out,
+
+
+Taako (as Capt. Callaway): We’re beaten, boys, it's time to get out of here!
+
+
+Griffin: The four remaining skeletons look around like,
+
+
+Four Skeletons: Well, where do you want us to go?
+
+
+Taako (as Capt. Callaway): Everyone in the water!
+
+
+[The crowd laughs and applauds]
+
+
+Travis: Your move, Griffin!
+
+
+Griffin: Make a check, you’re gonna need to check for this one.
+
+
+Justin: I got the gum. But I have the gum.
+
+
+Griffin: It’s good gum, you’ll have advantage on it. What’s the— I always fuckin’ fuck this up— deception, make a deception check for me.
+
+
+Justin: That’s a— that one’s a 2 on that—
+
+
+Griffin: So, you have advantage.
+
+
+Justin: Not good. And a 10. So, it sounds more like this,
+
+
+Taako (as a Southerner): Hey everybody! Hey! Let’s all jump in the water! Come on! Come on!
+
+
+Griffin: Yeah, they do it. 
+
+
+Justin: I mean, they’re dumb skeletons!
+
+
+Griffin: Sure. They all just jump right in. They gather up the bones of the defeated skeleton brethren and all five of them jump into the water between the two ships. The ghost pirate ship is now sinking into the water as the cannon sort of pierced through it
+
+
+Justin: So in a sense, it was the most humane thing I could do in this scenario! They were, in fact beaten, and they should, in fact, retreat. 
+
+
+Griffin: The water is almost up the deck of the ship, Magnus, where you and Callaway are standing, and Callaway says,
+
+
+Captain Callaway: Well, uh, I can see that I’m beaten. Boy, that didn’t… take very long. 
+
+
+Griffin: And he takes a step towards the mast. And on the mast there is a bell, which he grabs the ringer for and rings the bell, which is what you do… with a bell. And it makes a sickening, low noise, much lower than the size of the bell… would… make you think it would make— fuck me! 
+
+
+Justin: Tell me more about the bell. [audience laughs] Let’s not rush.
+
+
+Clint: Can you like, recreate it for us?
+
+
+Travis: Yeah, like I—
+
+
+Griffin: Sure sure—
+
+
+Travis: I figured it would make a “ding ding ding!”
+
+
+Clint: No, I think it would be more resonant.
+
+
+Griffin: It’d be like… “dong-a-long-a-long”.
+
+
+Justin: Right on.
+
+
+Griffin: Uh, the sound rings out into the distance, and continues until it is consumed by the waters. Magnus, you are just kind of, in the water now as the ghost ship sinks below, taking Captain Callaway and the rest of the crew down with it. 
+
+
+Travis: I grappling-hook up to the ship. 
+
+
+Clint: Wait I have a— I have a spell! 
+
+
+Griffin: Hold on, wait, he grappling-hooks up to the ship. There’s a second act. And the sound of this bell is continuing in the air, even though the ghost ship is consumed, and suddenly, the waters behind your ship part once more. And another ghostly vessel rises from the water, and then two more behind it in formation. And then, three more behind it. Within moments, an entire fleet of ghost ships, dozens of them, are pursuing your boat, all crewed by dozens of cackling skeletons, thrilled at the opportunity to engage in some good old-fashioned piracy. Amidst their laughter, you hear a strange sound come from close by. Here’s another sound effect for you Dad. It sounds like: “Caw! Caw!”. Perched on the railing of Davenport’s ship is a raven, a bird not historically known for oceanic expeditions. And then a second raven lands immediately adjacent to the first and joins in the chorus. Then we see a shadow cast over your faces as hundreds of ravens appear, which, uh, fly immediately down, down towards your ship, crashing into the deck of the Wavehumper. And as the ravens fly off, three robed, familiar figures appear in front of you. [The crowd goes wild] The one in the center pulls out a scroll and begins reading. It says,
+
+
+Kravitz: [in a Cockney accent] Undead abominations! By decree of the Raven Queen, we formally charge your fleet w— [drops accent] Taako? What are you doing here, babe?
+
+
+Griffin: That’s the end of Act 1! We’ll be back with more!
+
+
+(Intermission)
+
+
+[[Music fade-in at 50:01-50:11]]
+
+
+Griffin: Alright. Kravitz, Lup, and Barry are standing in front of you at the bow of—
+
+
+[crowd cheering]
+
+
+Clint: Oh, okay! Okay.
+
+
+Griffin: [laughing] You spent that entire intermission like—
+
+
+Clint: I was sitting there— I was on my phone saying “Oh god, crows, and why… Adventure Zone…”
+
+
+Griffin: [crosstalk] Ravens.
+
+
+Clint: Oh, ravens, that’s why I couldn’t find ‘em.
+
+
+Griffin: The three— The three of them are standing in front of you at the bow of Davenport’s ship, dressed in their full Raven Queen regalia. As the three of them realise the situation, Kravitz drops his skeletal facade, and the three of them rush towards your party. Kravitz gives you a warm embrace, Taako, and says,
+
+
+Kravitz: No, no, seriously, Taako, what are you doing here?
+
+
+Taako: Babe, I told you I was having a boys weekend. I put it on my G-Cal, you know I did!
+
+
+Kravitz: I thought that meant, like, you’d go out to, you know, Reno, and play the tables, I didn’t think…
+
+
+Magnus: We’re doing that after!
+
+
+Clint: So is Reno canon now?
+
+
+Griffin: It’s Reno…
+
+
+Travis: Renowinter!
+
+
+Griffin: ...Yes.
+
+
+Griffin: Uh, Lup says,
+
+
+Lup: So, uh, Davenport, bud, kinda curious why you’d, uh, decided to come back out here after you wrote us about all the ghost-based dangers you encountered, my man, didn’t you consider that we’d be coming to collect for, you know, the goddess of death?
+
+
+Griffin: And, uh, Davenport says,
+
+
+Davenport: I’ll be honest, I kinda forgot? That y’all were… doing that these days? I’ve been on the sea, you see, the ocean makes you forget things.
+
+
+Griffin: And Barry says,
+
+
+Barry: Well, no worries, we’ll take it from here. You all just head back home, we’ll clean up, and uh, meet you back at Westbreak for a celebratory round of drinks, shouldn’t take us more than five minutes.
+
+
+Taako: Yeah, any help you wanna provide would be absolutely astounding, thank you.
+
+
+Magnus: Yeah, we’d like to— I mean, we’re— Can I be honest? Hey?
+
+
+Griffin: Barry says,
+
+
+Barry: Y-yeah?
+
+
+Magnus: Since that whole thing where, like, we saved not only this universe but all universes?
+
+
+Clint: Spoiler alert.
+
+
+Magnus: Yeah. I’ve been bored. Could we stay and fight the skellingtons please?
+
+
+Griffin: Lup and Barry start hovering off the deck of the ship, uh, in this cloud of black smoke, and, addressing you, Magnus, as they soar off, Lup says,
+
+
+Lup: You’ll just get in the waaayyyyyy! [voice trailing off]
+
+
+Griffin: And Kravitz says,
+
+
+Kravitz: Seriously, five minutes, we’ll be right back.
+
+
+Griffin: And he takes off in a cloud of smoke also.
+
+
+Taako: [voice also trailing off] Okay, who’s feeding the caaaaats?
+
+
+[laughter]
+
+
+Griffin: He—
+
+
+Travis: I just pictured skellington cats.
+
+
+Griffin: He yells,
+
+
+Kravitz: Susan!
+
+
+Taako: I hate Susan, you know that!
+
+
+Kravitz: [voice trailing off] You don’t have to like her for her to feed the caaaaats!
+
+
+Taako: Okay. But don’t binge Queer Eye season 2 without me, it came out today!
+
+
+Kravitz: [crosstalk, voice continues to get drawn out as he gets higher in the sky] Too laaaate!
+
+
+Taako: Noooooo!
+
+
+Griffin: Uh, from behind you Orla clears her throat. She says,
+
+
+Orla: Your friends seem, very capable. But taking down this fleet? It’s, uh, a futile effort. They’ll— these aren’t like the undead you’ve faced before, they’re not the defiled husks of fallen adventurers lying in wait in some dungeon, they were— they were turned. They were made that way by something that lurks fathoms beneath us this very moment. It’s the same thing that destroyed my ship and killed my crew. It’s an elder god called The Kraken.
+
+
+Griffin: And, in one swift movement, she draws her cutlass and drags it against her palm and flicks a few drops of blood over the side of the boat.
+
+
+Magnus: [crosstalk] Ew!
+
+
+Griffin: Storm clouds gather from every direction as a peal of thunder matches the sound of ghost ships exploding in the melee behind you. Waves rise up from the waters in an instant like goosebumps appearing on flesh. The boat lurches to the side and Davenport springs up the stairs towards the wheel, attempting to keep the boat level. Orla removes the cannon from her back and kneels, refilling a chamber with black powder from a flask on her hip and says,
+
+
+Orla: We have mere moments to prepare, you should spend them wisely.
+
+
+Magnus: Why didn’t you say that before? Why didn’t you be like, “Hey, I’m about to do a thing, do you need time?”
+
+
+Griffin: She said— she says, uh,
+
+
+        Orla: If you knew what was coming, you would’ve turned and ran—
+
+
+        Magnus: To where? We’re on a boat!
+
+
+[audience laughs]
+
+
+Merle: [incredulously] The back of the boat?
+
+
+Clint: Which is the...
+
+
+Travis: Okay.
+
+
+Griffin: Ugh, don’t, please, Christ.
+
+
+[laughter and crosstalk]
+
+
+Justin: I can’t. I am going to cast Water Breathing on our entire crew.
+
+
+Griffin: Okay.
+
+
+Justin: Just a little insurance.
+
+
+Griffin: Do you tell people you’re doing that?
+
+
+Justin: No, it’ll be a fun surprise.
+
+
+Griffin: You all feel gills appear on your neck.
+
+
+Travis: Huh.
+
+
+Griffin: Two massive tentacles splash upward from the starboard side of the boat. One teeters towards the boat and wraps itself around the mast at the center of the ship just a few feet away. Two more spring upward from the port side, one entwining the figurehead on the prow. From beneath the pitch-black waters, now slapping at the bottom of your boat below, you hear an otherworldly howl. And… 
+
+
+Travis: Are we to assume this is the Kraken?
+
+
+Griffin: [sarcastically] No, this is… some other big octopus. You have four tentacles, two of which are entwining your boat. We’re back up to the top of the order with Merle.
+
+
+Clint: That’s only really half an octopus.
+
+
+Travis: The other four are doing other things.
+
+
+Clint: Oh, okay! ‘Cause, I mean, a four-legged octopus is… a horse.
+
+
+Justin: [laughs] Stupid, stupid thing to say. What a dumb joke.
+
+
+Clint: Is it— is it stupid?
+
+
+Travis: Well, no one’s ever looked at a horse and said, “That’s like half an octopus!”
+
+
+Justin: Okay, but if you put two horses and glued them together—
+
+
+Travis: Yeah, no, I get it, but!
+
+
+[crosstalk] 
+
+
+Griffin: It would kinda look like an octopus, sure.
+
+
+Clint: Sometimes I’m just too deep. 
+
+
+Justin: Dumb, stupid— stupid podcast.
+
+
+Griffin: Merle... Merle, you’re up. You’ve got one tentacle entwined in the mast, one on the figurehead, and two more floating in the ocean, one to the starboard side and one to the port. What do you do?
+
+
+Clint: Um, Merle casts Water Walk!
+
+
+Griffin: What’s—
+
+
+Clint: Yeah!
+
+
+Griffin: Seems a bit sacrilegious to give that one to a cleric, but go ahead and hit me.
+
+
+Clint: This spell grants the ability to move across any liquid surface, such as water, as if it were harmless, solid ground. Uh, yeah. Up to— oh, okay! We can all do— oh, we can all walk on water! We all walk on water. 
+
+
+Griffin: Alright, sure! Fuck it! That is your turn, next in the order is Magnus.
+
+
+Clint: But can’t we describe it at least, how cool it looks?
+
+
+Justin: We’re still on the boat! [crosstalk]
+
+
+Griffin: [crosstalk] I mean, you’re still on a boat right now, so—
+
+
+Clint: Oh, but it’ll get there, right?
+
+
+Griffin: [laughs] 
+
+
+Clint: Yeah! Be ready. As soon as we start walking on water, you know who did it.
+
+
+Griffin: It’s not gonna happen. Magnus, you’re up.
+
+
+Travis: I attack the tentacle?
+
+
+Clint: By walking over to it?
+
+
+[crosstalk]
+
+
+Griffin: On the boat’s surface. You’ve got one on the mast, one on the figurehead, and two floating in the water. Which one do you attack?
+
+
+Clint: [strained] I’d attack the one in the water.
+
+
+Travis: I’m gonna attack the one on the mast because it seems like the easiest one to reach.
+
+
+Griffin: Yep, sure. Go for it. I’m gonna guess it’s, what, the broken one of them—
+
+
+Travis: Uh, 15?
+
+
+Griffin: Oh, no! You didn’t hit it.
+
+
+Travis: What about a 26?
+
+
+Griffin: Yeah. I mean, you’re gonna add 20 fuckin’ damage to it—
+
+
+Travis: 29.
+
+
+Griffin: Yeah. Uh, you cleave right through it with the Flaming Raging Poisoning Sword of Doom. A spurt of gross, green fluid comes flying out of the severed tentacle as it falls to the deck of the ship, and the rest of the tentacle retreats. There are now three tentacles remaining.
+
+
+Travis: Now, Griffin, I know you’re the DM and I don’t normally challenge your authority. When the tentacle, a tentacle, was wrapped around the mast, how did I miss it with a 15?
+
+
+Griffin: It was too strong. Your attack bounced off like a child, like a child swinging a wiffle ball bat at a flagpole, like a weak fucking child.
+
+
+[cheers]
+
+
+Travis: Fair play.
+
+
+Griffin: Is that it?
+
+
+Travis: Yep.
+
+
+Griffin: Oh, shit! Uh, next in the order is the octopus. The two tentacles that are floating free— one of them is going to try to slam down on Merle. It was confused by the spell that he cast. It was afraid of how powerful it was. It rears up into the air and comes down— that’s just a 15 versus AC?
+
+
+Clint: Yeah.
+
+
+Travis: No, that’s a miss.
+
+
+Clint: That’s a miss.
+
+
+Griffin: Yeah, it comes down on you and you hold up your bible and deflect it in the air.
+
+
+Clint: Okay! Can I open it?
+
+
+Griffin: Sure, yes.
+
+
+Clint: Ahhh… beautiful.
+
+
+[cheers]
+
+
+Clint: These are available out in the lobby!
+
+
+Justin: They’re not!
+
+
+Clint: They’re not?
+
+
+Justin & Griffin: No.
+
+
+Clint: Uh, this is only mine.
+
+
+Griffin: The other one— uh, the other one swings down and tries to grab Magnus. That is a 21 versus AC?
+
+
+Travis: Where’s the tie— what’s a tie?
+
+
+Griffin: Tie goes to the attacker.
+
+
+Travis: Fuck.
+
+
+Griffin: You are grappled. It crushes you in its grasp. Oh, that’s not bad, it’s 11 points of damage. But you are grappled—
+
+
+Travis: I sneeze.
+
+
+Griffin: But you are grappled in this tentacle’s grasp and lifted up above the deck of the ship. Next in the order is Taako.
+
+
+Justin: First thing’s first, I dig into my bag as a free action and pull out the Cloak of the Manta Ray.
+
+
+[cheers]
+
+
+Griffin: It’s covered in cobwebs!
+
+
+Justin: Yeah. That allows me the ability to breathe underwater. Little bit of…
+
+
+Griffin: A lot of sort of water-based buffing happening so far.
+
+
+Justin: Redundancy… 
+
+
+Travis: We’re just so excited to finally have the chance to use them!
+
+
+Griffin: Sure.
+
+
+Justin: I can also swim at 60 feet per second, so—
+
+
+Griffin: Oh, beautiful, okay.
+
+
+Justin: But I’m not gonna do that right now. Right now, I’m going to cast, on the dumb squid who is not the Kraken— is that what we established, is that canonical? Or this is the Kraken?
+
+
+Travis: It is, it is the Kraken.
+
+
+Justin: You said it was another big squid, so—
+
+
+Clint: And a squid— [crosstalk]
+
+
+Griffin: [crosstalk] I was being a jackass, it’s the Kraken!
+
+
+Justin: Well then, on the Kraken, I’m going to cast Otto’s Irresistible Dance.
+
+
+[cheers]
+
+
+Griffin: This spell is fucking broken!
+
+
+Justin: I’m gonna cast that on a creature I can see within range. It will begin a comic dance in place. Shuffling, tapping its feet, and capering! [Clint laughs] For the duration of a minute, it has to use all its movement to dance, and it cannot leave its space and has disadvantage on dexterity saving throws and attack rolls. While the target is affected by the spell, other creatures have advantage on attack rolls against it as it dances. As an action, the dancing creature may make a wisdom saving throw to regain control of itself, and on a successful save, the spell ends.
+
+
+Griffin: Do you have to attack me, or do I roll to resist it at first—
+
+
+Justin: It is a, what, uhh… I think it’s a… nope!
+
+
+Griffin: Oh, shit, okay! 
+
+
+Justin: It work— it just worked!
+
+
+Griffin: The remaining tentacle that’s wrapped around the prow of the ship just unspools, and then… fuck, man.
+
+
+Justin: [smug] Yeah.
+
+
+Travis: I hate to ask to introduce the idea, but… is one of the tentacles that’s holding Magnus dancin’ around holding Magnus?
+
+
+Griffin: Yeah.
+
+
+Magnus: Aaauahah!
+
+
+        Taako: Win some, lose some.
+
+
+Griffin: All three of the remaining tentacles including the one holding Magnus reach up into the air and start doing… the electric slide?
+
+
+Clint: It’s electric!
+
+
+Griffin: Yeah, so they just start sliding back and forth in the water sort of rhythmically. Magnus, you’re getting whipped around, back and forth. It’s a violent dance. Uh, but the ship has become ungrappled entirely, and you realize that it’s good that that is the case because it was slowing down significantly and the remaining ghost ships behind you were starting to catch up. But now, you are not in danger of the ships behind you catching up. We are back to the top of the order. Merle, what’s up?
+
+
+Clint: Merle casts Control Water.
+
+
+Griffin: A little unnecessary! 
+
+
+Clint: Oh, is it?
+
+
+Griffin: No, Travis giving me the bird. [Clint: Oh.] As if he was—
+
+
+Clint: Lemme see it again, wait wait!
+
+
+Travis: No no no!
+
+
+[crosstalk]
+
+
+Griffin: I think Travis even now realizes it was uncalled for.
+
+
+Travis: It was a real older brother, not cooperative podcaster, move.
+
+
+Griffin: What does Control Water… do?
+
+
+Clint: Merle… [sputters] Gee whiz, it makes spaghetti. What do you think Control Water does?
+
+
+Griffin: [laughs] What’s the fuckin’ card say?
+
+
+Clint: Hoist on your own petard, pal!
+
+
+Justin: Until the spell ends, you control any free-standing water inside of an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. You can flood, which causes the water—
+
+
+Griffin: Please don’t read every— there’s eight paragraphs of spell [Justin: —to rise.] description.
+
+
+Justin: There’s— you can part the water. You can redirect the flow. You can make a whirlpool. You— you said you were doing that one.
+
+
+Clint: Yeah.
+
+
+Justin: It requires a body of water at least 50 feet square and 25 feet deep. I think we got that.
+
+
+Griffin: That’s the ocean.
+
+
+Justin: You cause a whirlpool to form. The whirlpool forms a vortex that is five feet wide at the base. Up to five— 50 feet— five feet wide at the base? I’m not even sure that would— they would notice. 
+
+
+[crosstalk]
+
+
+Griffin: This is great fuckin’ audio.
+
+
+Clint: This is gonna kill him, though, this’ll kill it!
+
+
+Justin: This is what you rule people want, right? You want me to read all the rules. [audience cheers] Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet towards it. [Griffin: Good.] The creature can swim away from the vortex by making a strength— athletics check against your spell save DC.
+
+
+Clint: ™ Wizards of the Coast.
+
+
+Griffin: So, you’ve created a whirlpool.
+
+
+Clint: Yeah!
+
+
+Griffin: Alright. 
+
+
+[Clint and audience chuckle]
+
+
+Clint: Give him the finger again, Trav!
+
+
+Griffin: Yeah. [Travis: No.] You’re— you’re on a fucking boat!
+
+
+[cheers]
+
+
+Clint: But! I can walk on waaater.
+
+
+Griffin: Alright, we’re doing this. [Clint laughs maniacally] The waves beneath you, they move in a peculiar motion. Maybe the other, the rest of you don’t quite understand what’s going on as a whirlpool suddenly forms right beneath the ship and octopus and all of it. And now, you cannot only see the three tentacles that were above the water, you see all seven of them remaining. And in the center, at the bottom of this whirlpool, being crushed by the water— go ahead and roll 2d8 bludgeoning damage for me. It’s the eight-sided die, let’s go ahead and hurt this octopus.
+
+
+Clint: Seven… six… [Griffin: Alright.] Plus… something?
+
+
+Griffin: No, I don’t think so. 
+
+
+Clint: Okay.
+
+
+Justin: [laughs] 
+
+
+Griffin: You see the body of the Kraken. It is… enormous. It is larger than your ship with sickly pink skin, two beady glowing orange eyes, and a beak that is shrieking towards the heavens as this whirlpool forms around it, crushing it. There are now seven tentacles and your ship sees— everybody on your ship sees this— sorry, I’m trying to figure this out in real time. Everyone aboard your ship sees the body of this Kraken as it looks over the edge of this whirlpool on the ship, and then you don’t really need to look over the edge anymore as the ship is then also pulled into the whirlpool, and you hear Daven go,
+
+
+Davenport: What the fuuuuck?
+
+
+as he jerks the wheel to the side, trying to keep the yacht afloat. You are close to the top of the 50-foot rim of this whirlpool, going down. Uh, let’s see what the fuck else happens. I think as it is crushed, it drops you, Magnus, back down onto the boat. There are now seven tentacles just kinda all over, so please don’t ask me which tentacle you’re attacking at any given time, they are identical. And we’re back up—
+
+
+Clint: They’re identical tentacles?
+
+
+[cheers]
+
+
+Griffin: Magnus, you are now up.
+
+
+Travis: I am going to take control of the ship wheel and steer the shit out of it. No? I am not going to do—
+
+
+Griffin: No, you can do that, it’s just Davenport’s gonna be like,
+
+
+Davenport: [disappointed] Oh, yeah alright.
+
+
+Griffin: Daven— Davenport—
+
+
+Justin(?): He didn’t have money troubles before—
+
+
+Griffin: Davenport says, uh,
+
+
+Davenport: I know about your proficiencies, it’s just I’m the captain, and it feels like, um…
+
+
+Magnus: Well, you can command— listen, you can be captain and not steer.
+
+
+Davenport: You wanna do tradesies? Can I hold onto the Flaming Raging Poisoning Sword of Doom?
+
+
+Magnus: Nooo!
+
+
+Griffin: He says,
+
+
+Davenport: That’s the only way I’ll do it! I’ll let you steer the ship, you gotta give me the Sword of Doom for a little bit. 
+
+
+Magnus: Okay. On one condition—
+
+
+Taako: It’s— it’s technically mine.
+
+
+Magnus: If you lose it—
+
+
+Taako: It’s my sword.
+
+
+Magnus: —you die forever.
+
+
+Taako: Well, it’s kinda my sword, so it’s more up to me. It’s fine, go ahead.
+
+
+Griffin: He says,
+
+
+Davenport: Yeah, I can live with that. It’s a big responsibility.
+
+
+and he is now wielding the Flaming Raging Poisoning Sword of Doom. [audience cheers] That’s a… roll initiative for Davenport!
+
+
+Travis: Nope.
+
+
+Griffin: This is gonna be weird.
+
+
+Clint: Aw, really?
+
+
+Griffin: Alright, you’re steering the ship. What’s up now?
+
+
+Travis: I rolled a… 14 plus four, 18.
+
+
+Griffin: A— what?
+
+
+Travis: To steer the ship.
+
+
+Griffin: Yeah. You’re steerin’ it… 
+
+
+Travis: Real good. [crosstalk]
+
+
+Griffin: [crosstalk] Steerin’ it real good.
+
+
+Travis: I’m trying to keep from getting pulled into the whirlpool that Merle created.
+
+
+Griffin: Uh, yeah no, you definitely have—
+
+
+Travis: Oh, I know what I’m doing!
+
+
+Griffin: Yeah?
+
+
+Magnus: Orla! I’m gonna bring the cannons alongside!
+
+
+Griffin: She gives you just a thumbs up and lights a cigar because it’s about to get righteous. Uh, and she takes her cannon that she has strapped to her back and places it into position next to a few others and starts loading them up with cannonballs. Uhhh, let’s just do that now so we have some resolution to this action. She just runs down with a lighter that she has lit, just tss-tss-tss-tss and fires into the crowd of tentacles. She blasts with four cannonballs outward, only three collide with tentacles and they explode, leaving four remaining, getting us back on track for the fight so you guys aren’t fighting eight things at the same time. Okay, next in the order is Taako.
+
+
+Justin: Yeah. Mm, so, you know what, we’ve come a long way, why don’t you describe the situation to me so we all know what we’re—
+
+
+Griffin: [crosstalk] There’s four tentacles remaining. Your ship is trapped in a whirlpool, at the bottom of which is the body of the Kraken which is looking at you and howling with a gross beak. 
+
+
+Travis: And with the steering, it’s kind of going around—
+
+
+Justin: And there’s tentacles in the water?
+
+
+Griffin: Yes.
+
+
+Justin: Okay. And there’s a whirlpool. 
+
+
+Griffin: Yes.
+
+
+Justin: Oh my God.
+
+
+Griffin: No, yeah, it’s gotten… hairy.
+
+
+Justin: I grab… [Griffin: Yeah.] I grab the plank that the other ship used to attack us with the spikes on it. I pick it up and I stand on the edge of the boat and say,
+
+
+Taako: You don’t know me. My name is Taako and I invented surfing!
+
+
+[audience cheers]
+
+
+Justin: And I leap… I leap off the boat on my spiked surfboard towards the remaining tentacles in the water.
+
+
+Griffin: Alright. I think on your rad trajectory being pushed forward— it’s like one of those like surfing pools where the water’s like shooting at you super fast, so you are able to just like, fuckin’ carve it, bro.
+
+
+Justin: Yeah, bro.
+
+
+Griffin: You are able to get some good speed going.
+
+
+Justin: Yes, bro.
+
+
+Griffin: That’s just your movement. What’s your— what’s your action, now? 
+
+
+Justin: Oh, golly! [Clint laughs] Kinda thought that I— that would’ve done it, you know what I mean? Kinda thought that I—
+
+
+Travis: I do like that your idea was not in any way to stop the Kraken, but no, I just wanted to carve! [crosstalk]
+
+
+Justin: [crosstalk] The spikes! I was planning on carving over the legs with my spikes.
+
+
+Griffin: Oh, sick! Okay. [Justin: Yeah!] Make a… just make a basic attack roll, adding… 
+
+
+Justin: [laughs] It’s a natural 20! 
+
+
+Griffin: Fuck. [audience cheers] Uh, you’re gonna kill one of the tentacles, but why don’t you describe what that looks like.
+
+
+Justin: Taako leaps off and— the spike thing— and he grabs the edge of it and he kinda bends it up, just sort of a stylish maneuver, it’s not necessary, and then he brings it back down and he just carves right up the tentacle and like, carves off of it, does a 900 off of it, [Clint: Ooh!] and he just shreds it right in half. It’s really gnarly. Perhaps tubular. 
+
+
+Griffin: Uh, okay! Yeah. It explodes and it’s totally sick.
+
+
+Justin: Indeed, indeed. 
+
+
+Griffin: Orla from the deck of the ship says,
+
+
+Orla: Who the fuck are you guys?
+
+
+Next in the order is the octopus. Two of the tentacles— hm, let’s think. One of the tentacles comes crashing down— I’ll give you each one. Merle, one tries to slam down on you again. That’s a two, so that’s not gonna work. Another one comes crashing down towards Mag— where are you at, Magnus, are you still even on the fuckin’ boat?
+
+
+Travis: Yeah, I’m steering.
+
+
+Griffin: Oh, that’s right. 18 versus AC?
+
+
+Travis: Miss!
+
+
+Griffin: Mkay. I don’t know how that happened, you’re steering a boat, not a hard target.
+
+
+Travis: Well I’m wearing a giant-slayer’s ring and I’m wearing armor, and I just gotta go, “Ohh!” 
+
+
+Griffin: The third one is gonna take a swipe and try to grapple Taako as he surfs down the water, and that is a 19 versus AC.
+
+
+Justin: Indeed.
+
+
+Griffin: You are grabbed. Do you hold onto your skate— your surfboard as you are lifted up into the air?
+
+
+Justin: [quiet] I think I do.
+
+
+Griffin: Mkay. Make a strength contest with this tentacle. 
+
+
+Justin: This should go good. Uh, 13 plus, what’s my strength? Zilch. 
+
+
+Griffin: I got a 16. You see the beak of the Kraken open wide as this tentacle starts to move downward back into its awaiting maw. It looks so ready for this. It looks real hongry. And as you are just inches away, you see a black cloud of smoke fly through the tentacle [Travis laughs] and it explodes. And you see Kravitz now in his reaper form, full skeletal face with his scythe dripping with green ooze as he severs the tentacle, and it spasms and flings you back up into the air, and he catches your hand in his [audience cheers] and gently kind of puts you back down, like,
+
+
+Kravitz: Do you want me to put you back surfing? Or were you… where do you need to go right now?
+
+
+Taako: For— question one, did you see the thing with the surfboard?
+
+
+Kravitz: It was rad, yeah.
+
+
+Taako: Thank you, yes!
+
+
+Kravitz: Very good.
+
+
+Taako: The boat is fine, I had my moment. 
+
+
+Griffin: He says,
+
+
+Kravitz: You got it.
+
+
+and takes you back up to the boat, and you hear Lup in the distance like,
+
+
+Lup: Hey, hurry it up! There’s still like eight more boats back here. 
+
+
+Taako: Fuck.
+
+
+Kravitz: Yeah, no, it’s— it’s not going good back there, either, but you all have this octopus situation taken care of? Have you tried using diplomacy?
+
+
+[Clint laughs] And he flies back off. Next in the order, we’re back up to Merle. 
+
+
+Clint: Merle casts Bane on the three remaining tentacles. 
+
+
+Griffin: What’s that do?
+
+
+Clint: Up to three creatures of your choice that you can see within range must make charisma saving throws.
+
+
+Travis: How charming are these tentacles?
+
+
+Clint: Whenever a target that—
+
+
+Griffin: Depends on who you ask.
+
+
+Clint: I’m banking on it not being—
+
+
+[Travis laughs and audience cheers]
+
+
+Griffin: It’s not— no, no, no. It’s not… it’s not my thing, I’m just saying, making an observation. 
+
+
+Clint: The target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+
+
+Travis: What?
+
+
+Clint: I don’t know.
+
+
+Griffin: This is going to—
+
+
+Clint: Alright, so you have to make— the three tentacles have to make charisma saving throws! Do you not know this game?
+
+
+Griffin: I got a seven for the tentacles, so they don’t save, and now every time they attack they roll a d4 and subtract it. Alright, well, lemme get a d4 out, didn’t think I was gonna be using one of these little guys. [dice clattering] Alright, I got one. [Clint: ‘Kay.] Okay! Good stuff. Next in the order is Magnus.
+
+
+Travis: Alright. 
+
+
+Griffin: Oh, no, I’m sorry, I forgot to roll for Davenport. [weak chuckle] You— the ship is now sailing almost next to, right up against one of the remaining tentacles. We’ll say two remaining tentacles because that clock is almost out of time. As you carve a path with the ship, Davenport holds onto some netting on the side of the boat, and, taking the Flaming Raging Poisoning Sword of Doom in his hand, he says, 
+
+
+Davenport: This thing’s super heavy! You could’ve given me a heads up!
+
+
+And as he says that, just kind of holding it out, right, it just very slowly like, bloooop, cuts through one, and then bloooop, cuts through the other, and he says,
+
+
+Davenport: Wow! This thing’s… way too powerful! It’s… I didn’t even swing it, I just kinda held it out and then the things just died as soon as it touched this utterly broken fuckin’ item. It feels like God shouldn’t allow something like this to exist in our universe! And you use this all the time!
+
+
+Magnus: It’s my main! 
+
+
+Davenport: That’s pretty wild, it’s just— 
+
+
+Magnus: I know!
+
+
+and then bloooop, he cuts through the third one, like,
+
+
+Davenport: Oh shit, I didn’t even— I wasn’t even paying attention that time!
+
+
+Clint: Wouldn’t it be funny if Davenport dropped it? [Travis: No!] And you lost it forever?
+
+
+Travis: Then Davenport would be dead forever. [crosstalk]
+
+
+Griffin: [crosstalk] And you see Davenport’s hand as it hits the third one open, and it faaalls. [Clint laughs] But then he reaches down real fast and catches it and is like,
+
+
+Davenport: Wow, that was pretty close, huh? 
+
+
+And then a big bird flies down and grabs it from his— but then he grabs it back like,
+
+
+Davenport: Ohhh! 
+
+
+Clint: [laughs] He’s gonna cry.
+
+
+Travis: I am not. [Griffin: Next—] But I would and it’s not— there’s nothing wrong with crying.
+
+
+Clint: And technically it’s Taako’s.
+
+
+Justin: Technically it’s my sword. 
+
+
+Griffin: Next in the order is Magnus. What do you do?
+
+
+Justin: Taako calls out,
+
+
+Taako: Don’t kill it, I have a plan.
+
+
+Griffin: Yeah, we can cop out of initiative.
+
+
+Travis: Okay—
+
+
+Justin: Perfect! 
+
+
+Griffin: Do you have a— who has plans? Let’s take a vote on plans.
+
+
+Travis: I’m just gonna steer out of the whirlpool.
+
+
+Taako: Perfect!
+
+
+Griffin: Okay, it’s… sucking you down.
+
+
+Travis: [muttered] Yeah, but I’m really good at driving. Ooh, but I have proficiency. Oh, that’s better! 
+
+
+Griffin: Okay. You stay afloat in the whirlpool, start, uh, going back up to the top. Taako, what’s your plan?
+
+
+Justin: I cast Dominate Monster on the Kraken.
+
+
+Griffin: Fuck. There’s a spell for everything.
+
+
+Justin: Eighth— it’s eighth level, I only have one and I’m using it on this. Cast Dominate Monster on the Kraken. [Griffin: Okay.] It’s gotta succeed on a wisdom saving throw. 
+
+
+Griffin: It’s— it won’t.
+
+
+Justin: Well, go ahead and roll.
+
+
+Griffin: Uh, 13? 
+
+
+Justin: No, sir.
+
+
+Griffin: ‘Kay. It failed. 
+
+
+Justin: So now it works for me. [audience cheers] And I… leap into the water, swim to it with extremely fast speed thanks to my radical cloak. [more cheers]
+
+
+Griffin: You jump out of the boat, actually, and as you hit the water, you just collide with it [Travis: Yeah!] because of the spell that Merle cast. You— you cheer, “Hooray, my wonderful cl—” bonk, you collide with the water and just kind of crumple down the whirlpool—
+
+
+Justin: I stand up—
+
+
+Griffin: Towards your new pet. 
+
+
+Justin: I stand up, I dust myself off, and I say,
+
+
+Taako: C’mon, we’re gonna go save my boyfriend!
+
+
+And I point it towards— I point it towards the remaining ghost ships. Me and my legless Kraken [Clint: Ah!] are coming to the rescue!
+
+
+Clint: But not for long!
+
+
+Justin: Okay?
+
+
+Clint: Merle casts Regenerate on the Kraken. 
+
+
+[crowd goes wild]
+
+
+Justin: Yes! Yes!
+
+
+Clint: Where a target’s severed body members are restored!
+
+
+[everyone goes wild]
+
+
+Griffin: You all have lost so many body parts during—
+
+
+Travis: So Merle— Merle uses his tree arm to cast Regenerate [Griffin: Sure!] on a Kraken he just met—
+
+
+Griffin: No, his tree arm is way more rad than his flesh arm. You befriend this Kraken that you sort of slide down the whirlpool towards, and as you Dominate it, it says,
+
+
+Kraken: [unintelligible gurgling noises]
+
+
+And you hop on its back and it kind of starts trying to flop up the side of the whirlpool [Clint: Aww.] but it’s having trouble, but then you see a beam of light from the Extreme Teen Bible—
+
+
+Clint: Well, he’s runnin’ along the water, Merle is, ‘cause he can walk on water.
+
+
+Griffin: Yeah, let’s get everyone in the water.
+
+
+Clint: Yeah, he’s walkin’ on water and runnin’ towards it and holds it up and yells out the spell.
+
+
+Griffin: And suddenly, all eight tentacles return to the Kraken, and it nods at you Neverending Story-wise. Does it pick up— I’m asking Taako this— does it pick up Merle also as it flies out of the whirlpool?
+
+
+Taako: No need for that, he can walk on water!
+
+
+[laughter and cheers]
+
+
+Griffin: We— there are— there’s one main ghost ship remaining. It is a dreadnought, the biggest ship of the fleet, crewed by dozens of skeletons alone in this one, and you see Barry, Lup, and Kravitz having a dang hard time taking it down. There’s some big burly skeletons on this one, probably a couple— two mummies? Oh, no!
+
+
+Clint: Aw, mummies?
+
+
+Travis: Aw, the worst!
+
+
+Griffin: Uh, and they are surrounded on the center of the boat, and then in the distance, they hear, [deep] “splash, splash, splash,” and they turn and look behind them and see the shape of the Kraken coming towards them with a figure silhouetted from behind by the sunset behind him flying towards the ship, and right before the Kraken collides with the ship, Barry says,
+
+
+Barry: What the hell is that?
+
+
+[outro music begins]
+
+
+And Kravitz says,
+
+
+Kravitz: That’s the best damn pirate I’ve ever seen.
+
+
+[audience cheers]
+
+
+That’s the end of the episode! Thank you all so much for joining us!
+
+
+[Maximum Fun logo and sponsor messages play]

@@ -1,0 +1,1250 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Griffin McElroy
+Aubrey Little/Lady Flame: Travis McElroy
+Edmund “Ned” Chicane: Clint McElroy
+Duck Newton: Justin McElroy
+
+Episode 75 - Amnesty - Setup
+(part of TAZscripts on Tumblr)
+
+
+[Theme music (The Adventure Zone: Amnesty Theme by Griffin McElroy) plays]
+Griffin: Okay, hi everybody! Welcome back to—
+
+
+Travis: We’re back in the saddle again!
+
+
+Clint: Yaaaay!
+
+
+Justin: What?
+
+
+Griffin: —The Adventure Zone. That was rough, uh, for me, so I can’t imagine how it was for you… 
+
+
+Travis: [guitar noises] We’re back in the saddle a-ga-a-ain.
+
+
+Griffin: Justin, do you have anything you wanna sort of say to—
+
+
+Justin: I was just kinda trying to let you do your thing.
+
+
+Griffin: Aw damn dude, that’s really solid of you. [Travis laughs] Um, this is the setup episode for the new mini-arc that we’re doing, the next mini-arc that I’m gonna be running, that I’m very excited about, and, um, I’m just so stoked to get started because we’re playing a game called Monster of the Week. Um, which was— I guess we should talk about what we’re doing in this episode, we’re really just gonna be talking a little bit about the game — what sort of the inspirations for the setting and these few episodes that I have prepared are, you guys are gonna talk about your characters, and that’s pretty much gonna be it. Um, but you all have read the, the full manual, the full revised edition manual of Monster of the Week by Michael Sands, right? You all did your homework?
+
+
+Justin: Yes.
+
+
+Travis: I have.
+
+
+Griffin: Okay, good. Um—
+
+
+Travis: I actually made myself a 10-page shortened-down version of everything I needed to know. A quick reference guide, if you will.
+
+
+Griffin: There actually is a reference guide that—
+
+
+Justin: There is a printable reference guide.
+
+
+Griffin: There is a printable reference guide, but that’s—
+
+
+Travis: God dammit.
+
+
+Griffin: —very cool that— no, it’s good that you did the, you know—
+
+
+Travis: No, don’t.
+
+
+Griffin: You showed your work.
+
+
+Travis: Don’t patronize me.
+
+
+Clint: Look, I got the actual book.
+
+
+Justin: In fact— wait, I left my printable reference guide on the printer, so you guys just talk amongst yourselves.
+
+
+Griffin & Clint: Okay.
+
+
+Griffin: Well, we’re not actually gonna be playing any of this episode, that’ll be for next week’s episode, because by the way, we are going weekly for the rest of the experimental arcs [Clint: Woohoo!] starting this week. So, um, I guess actually we have an episode—
+
+
+Clint: I hope we don’t screw it up!
+
+
+Griffin: Yeah, no, me too. I don’t know why you would even say that. Um, so, let’s get started! Monster of the Week is a game sort of modeled after, appropriately enough, like, monster-of-the-week shows like, uh, Buffy and Supernatural. In which, in each sort of arc, there is a monster that a team of hunters has to hunt down.
+
+It is a game that is part of the Powered by the Apocalypse system which, if you listen to the Balance arc, is sort of what I based the Stolen Century episodes on. It is a very— it’s sort of like the d20 system, right? That covers a lot of different games, like D&D and Pathfinder. Uh, it is sort of just like a broad rule set that you can put a bunch of different stuff on top of to make it fit whatever genre you want it to fit. And there’s a ton of very cool games that use the Powered by the Apocalypse system. Uh, I was inspired to do an Apocalypse game because of one of my favorite podcasts, Friends at the Table, which has done a bunch of really cool ones in sci-fi worlds and fantasy worlds and all kinds of stuff.
+
+But Monster of the Week is sort of this, this monster-of-the-week sort of horror but like, campy horror? Uh, thing that’s going on here? And the basic rule that covers pretty much everything in Monster of the Week and all the Apocalypse games, is that whenever something comes up that is not, like, an automatic thing, like is something that is dangerous or a conflict, or something that would be covered by like a D&D move, like, oh, you have to roll a perception check if you wanna actually notice that thing, all that stuff is in here, but instead of rolling a 20-sided dice, you roll two six-sided dice, and then one of three things happens.
+
+Either you roll a six or below, and you have fucked up. You have fucked up now. And something goes horribly wrong sort of at my discretion. I’ll be GMing this game, they actually call the GM in this game The Keeper which is, like, so great to me? That the fiction of the game extends out of the game, like, Stranger Things style.
+
+So, six or below is a miss. A seven to nine is a mixed success, where you get to do the thing you wanna do, but usually there is a cost. And then a 10 plus is “You crushed it,” and you get to do what you wanna do, and usually it’s just all great.
+
+
+Justin: One cool thing to note about getting a bad roll is if you get one of those six or below, you get an experience point! And then you get to level up.
+
+
+Griffin: That’s true.
+
+
+Justin: That’s neat.
+
+
+Griffin: Yeah.
+
+
+Travis: We learn from our failures.
+
+
+Justin: Thank you, Travis, yes.
+
+
+Griffin: It’s beautiful! This is a game of small numbers, for the most part. Which is— it’s something that I think is gonna be really, really great for us, because we would get lost in the weeds with a lot of the math of D&D. Things like, you know, adding up 6d10 for— or 10d6 for a big fireball or something like that. That’s not really true here, the margins are much smaller. If like, if you land an attack, you know how much damage it does, and it’s usually like two or three. And that’s about as high as it ever gets.
+
+
+Travis: Yeah, I do like that the bonuses, like the things that you add to rolls. I think the highest it goes is plus three?
+
+
+Griffin: That’s it.
+
+
+Travis: And the lowest it goes is negative two? So.
+
+
+Griffin: Everybody has— to really make this concrete, everybody has seven hit points. End of story. Everybody has seven hit points, if you lose them all, you die. Like, it is a game that I think is gonna be a lot of d—
+
+
+Clint: But not really. Like you don’t really die, right?
+
+
+Griffin: Not IRL.
+
+
+Travis: Like— yeah. This isn’t, like, Mazes and Monsters or whatever the shit. No, you’ll be fine.
+
+
+Griffin: Yeah, we’re not Sword Art Online-ing.
+
+
+Justin: It’s called Jumanji.
+
+
+Griffin: Yeah.
+
+
+Travis: Thank you.
+
+
+Griffin: I’m glad we managed to pull three different “if you die in the game, you die in real life” things out there— it’s a rich tapestry. But yeah, the margins are a lot smaller, which I think is gonna be, like, a lot more digestible, but also makes things like a lot more meaningful. If you get hit by a monster for, you know, three harm—big monster gets its claws in you for three harm—that’s almost half your health. You cannot take a lot more than that, or else things start to get very, very bad.
+
+
+Justin: It also— it also, if I read it correctly, does away with the concept of defense. If you are in— if you engage in a fight, you, and the— and it goes— even if it goes well, you and the monster are both going to do harm to each other.
+
+
+Griffin: Yeah. So lets get — lets get into that. This game—
+
+
+Justin: Yes.
+
+
+Griffin: —has a, it handles most of its action through what it calls Moves, and these— this is, uh, these are eight basic moves that cover more or less every action that a player could take in the game, right? And this is a, this is a very conversational game. We are going to talk about the things that happen, and it is only when you all are describing the hunters’ actions when it becomes apparent that what you are describing is covered by one of these moves, that’s when we get into one of those moves. If at any point during this you say, “I want to Kick Some Ass,” which is the name of one of the moves—
+
+
+Travis: Absolutely.
+
+
+Griffin: —you’ve fucked up, because you should be saying, like, “I take my gun and, you know, I’m doing this” or “I get my big sword and I wanna ram it through,” and then it is my job to say, “Okay, that’s a Kick Some Ass roll.” And then we do that.
+
+
+Travis: Well, that’s one of the things that I really like— so, for example: one of the moves is Help Out.
+
+
+Griffin: Yeah.
+
+
+Travis: And you can’t just say, like, “I want to Help Out.”
+
+
+Griffin: [crosstalk] It’s— if you— yeah.
+
+
+Travis: You have to be able to say, like, “This is the action I want to take, this is what I have in mind,” and it is governed by, like, logic, you know what I mean? So I can’t be like, “I wanna Help Out by…”
+
+
+Clint: [inhaling sharply through teeth] Ssssssssssssss... Ooooh, logic.
+
+
+Travis: “...pulling the sun down.” Yeah.
+
+
+Griffin: [laughs] If you try to— if you try to play this like a game that you’re trying to win constantly, I do not think it’s gonna work. If Justin rolls a six, and neither of you are, like, anywhere close to him, but you really wanna get him up to that seven, and so you’re like, “Ohhh can I think of some way to bullshit this so that it can help out,” like, no. There are going to be lots of failures in this game, and lots of mixed successes in this game, and that’s what makes this stuff, like, so, so interesting, and it’s what gives this game kind of a sense of danger. I don’t think that we’re gonna get to this point in this mini arc, but one of the things that I think is cool about this game is players, like… because of how narrow the margin of error is in fights, for instance, death is, like, pretty common. Not as much as some of the Lovecraftian RPGs where it’s like, “Oh no,” and then you are like, you evaporated again. But it is common, and there are systems for retiring your characters and rolling new ones and then giving that character over to the Keeper to use in whatever story in whatever way they want, which I think is really cool.
+
+
+Travis and Justin: There’s also a—
+
+
+Justin: —mechanic for reviving people, bringing people back to life.
+
+
+Griffin: There are— yeah, which has a huge cost. If it is a direction you wanna go down, you decide like, “Oh I’m not done with this character yet, I wanna keep doing stuff with them,” you can do what’s called Big Magic, which has like— as is always sort of the folk tale, like a horrible cost most of the time. There’s a lot of that flavor.
+
+
+Travis: I do love, too, that there’s a— once you get enough experience levels, you can opt to create a second character and play both of them at the same time.
+
+
+Griffin: Yeah, that would be a little—
+
+
+Travis: It’s a little much.
+
+
+Griffin: —a little wild.
+
+
+Travis: Can I read through the actions real quick, Ditto, just to give people an idea of what we’re doing?
+
+
+Griffin: Yeah, real, real quick, and we’ll give like quick summaries, cause like this is— it’s gonna be a lot real fast, but then take heed: it’s literally all it is for the most part.
+
+
+Travis: Yeah. So! The first one is Act Under Pressure.
+
+
+Griffin: This one’s great because it covers pretty much a lot of stuff. One thing to keep in mind is the Keeper never r— I will never roll dice in this game. I will only respond to your successes and your failures, and I can take either what are called Soft Moves, which is like establishing a danger that can like pose a threat to you and set you up to sort of take a move to do something to stop that threat, or I can take Hard Moves, which is like, I hurt you, or I do something bad to you because you have failed somehow. Other than that, like, we don’t roll in combat to contest each other. You roll, and if you succeed, you succeed, and if you fail, you fail, and that’s literally it.
+But Act Under Pressure is that same idea but like, if you’re in a burning building or you’re trying to sneak through a laboratory or you’re trying to find the right key to unlock your car while the monster is charging you. All of that stuff is covered under this one move in a really graceful way, I think.
+
+
+Travis: And you add your Cool score to that, which is not like Fonzie cool, but like “keep your cool” kinda thing.
+
+
+Griffin: It could be Fonzie cool!
+
+
+Travis: I guess it could be Fonzie cool. Uh, the next one is—
+
+
+Clint: Ayyyyyyyy!
+
+
+Travis: —the next one is Help Out, which pretty much just like it sounds, if you wanna help another player out, [Griffin: Yes] another hunter out, you would roll this. Um, that does not stack, [crosstalk] so you can only add one to their roll.
+
+
+Griffin: [crosstalk] No, no you could only— What’s great about that one is if you fail, or get a mixed success, you open yourself up to repercussions. To, like, the same reper— so you can help out, yeah, but you are also exposing yourself to danger, which is real smart.
+
+
+Travis: Uh, Investigate A Mystery, which is pretty much like your insight checks, your investigation checks. And what’s cool about that is what you earn when you get a 10 or above, or a 7 or 9, you earn what’s called Holds. And in Investigate A Mystery, the Holds will let you ask these questions, one Hold per question.
+
+
+Griffin: Yeah, it’s codified. There are specific questions you ask, like “What can the monster do,” and—
+
+
+Travis: Yeah, so it’s “what happened here”, “what sort of creature is it,” “what can it do,” “what can hurt it,” “where did it go,” “what was it going to do,” and “what is being concealed here.”
+
+
+Griffin: This is something really important to understand about this game is that the pacing of it is gonna be different in that most of the time it’s really just the one big monster that you’re trying to hunt down. It’s not like you’re gonna be fighting through a dungeon full of skeletons and a bunch of mini-bosses before you get to the— like, a lot of the game is talking to people, and investigating, and learning the monster’s weakness. Which is, like, an actual mechanic. If you don’t hurt the monster with its weakness, you can’t actually kill it. So like, gathering information is the— and setting up your plan— is the bulk of the game. ‘Cause if you don’t do that stuff, you will get killed. Like, guaran— this cannot be a “Magnus rushes in” style adventure [Travis: Nope] because Magnus would be destroyed by this stuff.
+
+
+Travis: The next one is Kick Some Ass, which is pretty much just like a— it’s fighting. It’s when you—
+
+
+Clint: Hell yeah!
+
+
+Griffin: It’s fighting, but like you talked about earlier, it is fighting with damage on both ends, no matter what.
+
+
+Travis: Yes.
+
+
+Griffin: And there can be situations where you get the drop on somebody and so you— it’s not a Kick Some Ass, you just hurt them. But in a, like, “you’re hurting me, I’m hurting you”, that’s a Kick Some Ass roll.
+
+
+Travis: Then there’s Manipulate Someone, which is kinda like a will contest? It’s like [crosstalk] trying to get someone— 
+
+
+Griffin: [crosstalk] Well, it’s like charisma.
+
+
+Travis: What?
+
+
+Griffin: It’s like charisma.
+
+
+Justin: [crosstalk] It’s not particularly useful, I think, to keep filtering these through Dungeons and Dragons lore.
+
+
+Travis: [crosstalk] That’s fair.
+
+
+Griffin: [crosstalk] Yeah, maybe.
+
+
+Justin: It’s more useful, I think, to use a fictional counterpart of like, it’s going into the demon bartender and—
+
+
+Travis: [crosstalk] Yeah, okay, that’s fair.
+
+
+Justin: [crosstalk] —and forcing him to tell you what he knows.
+
+
+Griffin: [crosstalk] Yeah, that makes sense.
+
+
+Travis: Uh, then there’s Protect Someone, which pretty much is what it sounds like—preventing Harm. But in doing so, you take the Harm.
+
+
+Griffin: Yeah. Or, if you fail, you make things much worse for both of you.
+
+
+Travis: Yeah.
+
+
+Griffin: The collateral damage in these moves is, like, so tasty. And then the last one is Use Magic—
+
+
+Travis: Well, there’s also Read A Bad Situation.
+
+
+Griffin: Read A Bad Situation, which is like, feeling when something’s off and like, your spider sense’s tingling a bit. Use Magic is neat, ‘cause there’s like, a bunch of different effects you can do with magic? Like enchant a weapon, or, uh, it’s not like a list of spells, it’s like a list of things you can kind of do with magic, like restrain an enemy. It’s very sort of like, broad effects that you can do, which then you have to describe when you are casting this magic. And, like every other move, there are really really interesting ways that this can go horribly, horribly wrong if you roll poorly. Which I guess we’re gonna get into when we start playing the game. ‘Cause at least— [crosstalk] one of you is a magical one.
+
+
+Travis: [crosstalk] Oh yeah, we’ll definitely roll poorly.
+
+
+Clint: Yeah, I guarantee we’ll roll poorly.
+
+
+Griffin: Uh, so those are the moves. Whenever we’re talking about what we’re doing, it’s one of those things. On top of that, there are different, what are called Playbooks, and these are tantamount to classes in other RPGs, where there are these archetypes that are modeled after, like the kind of characters you’d expect to see in one of these shows, like Buffy and Supernatural. And there are some really really cool ones in here— I won’t go over the ones you guys did, but like, there is the Divine, which is like somebody with holy origins? Like, maybe a literal angel. There’s the Expert, who’s kind of like the Giles. The Flake, who is sort of like the, I don’t know the right sort of comparison here, but, y’know like, the weirdo in town—
+
+
+Travis: It’s The Lone Gunman from The X-Files.
+
+
+Griffin: Yeah, sure. Like, the Initiate who’s part of this, like, secret order; the Monstrous, who’s actually half monster; the Mundane, which I think is the most interesting one in the game, ‘cuz it’s somebody who doesn’t have powers, but they have like, moves that help the other player out when they get kidnapped by the monster. It’s like the Xander of the team, which I think is really fun. So there’s a bunch of cool ones, but let’s talk really quick about your characters. Or should we talk about the world first…?
+
+
+Travis: Well, my character’s named Magnus Burnsides… [Clint laughs]
+
+
+Griffin: Ok, great.
+
+
+Travis: [crosstalk] He’s a fighter?
+
+
+Clint: Why don’t we talk about the world first?
+
+
+Justin: Yeah, I think we talked too much, in our last episode I think we might’ve talked too much about our characters, rather than letting them… Although, that said, we didn’t have a ton of time to like, get into a lot of the [crosstalk] backstory stuff…
+
+
+Griffin: [crosstalk] Yes. And that said, we’re going to- because we had this question during The The Adventure Zone Zone, when we did that at PodCon, and it got me thinking… the question was something like “Do you think that it harmed something, that you had your characters way more fleshed out for way fewer episodes than you did in Balance, where, like, their evolution was sort of more natural?” And I think there’s a middle ground there, and that middle ground is like, I don’t want to know everything about your characters? I don’t want to, in fact, at this point, we have not all talked together about our characters at the same time, there may be things that we need to, like, workshop here, in this episode, but I don’t- I don’t want us to overextend ourselves, I just wanna know, like, broad sort of things about your character, what inspired you to make this character and, like, what we absolutely need to know about them before we get into the first episode.
+
+
+Clint: Ditto, why don’t you give us the setting first?
+
+
+Griffin: Yeah, so, I wanted to— 
+
+
+Travis: And also the tone. Give us the setting and the tone.
+
+
+Griffin: Yeah. The tone is, like, really- I’ve, in talking to you guys about your characters, I feel like I’ve been sort of… impossible in talking about the tone. ‘Cause I- you may be listening to this and thinking that I’m wanting to do, like, a straight up-and-down, like, horror story? And that is not really what interests me… about this game. So, the game is going to take place in a fictional ski town on the eastern edge of West Virginia, in the Monongahela National Forest— by the way, did you guys know it’s pronounced like that,  and not Mon-un-galia?
+
+
+Travis: I thought it was Mon-un-galia!
+
+
+Griffin: Well, it’s- there’s a Monongalia County in West Virginia, and that’s where, like, Morgantown is, and apparently they just, like, spelled it wrong once and were like “Cool, that’s the name of the county,” but it’s Monongahela. There’s a- real quick, I don’t wanna go too deep down the rabbit hole, but there’s a real place in West Virginia called Green Bank, is where there is a thing called the Green Bank Telescope, which is actually the world’s largest, like, movable radio telescope? And, it’s in West Virginia, and it’s in this thing called the United States National Radio Quiet Zone, which covers a pretty, actually, huge section of West Virginia and Virginia and Maryland, where you, like, can’t- there’s, like, five radio stations for the whole area, and there’s restrictions on Wi-Fi, and the idea of this, like, highly advanced sort of thing in the middle of very, very low population… area of West Virginia was really interesting to to me. So, Kepler’s kinda close to that—
+
+
+Clint: 304, baby!
+
+
+Travis: Alright.
+
+
+Clint: Okay, that’s not- I’m tryin’ to get started.
+
+
+Justin: That’s also 681, now.
+
+
+Griffin: Yeah, there’s a lot of actually different area codes.
+
+
+Clint: Shit.
+
+
+Griffin: So Kepler is, like I mentioned, a ski town, but in the fiction of this story, it’s kind of like a- that part of the once-thriving economy of Kepler is now, like, dying off because of Snowshoe, which is another actual town in West Virginia that is more, like, resort-y and nice and people now go there, not Kepler and so… like, that part of the economy is kinda fading away, and so the residents of Kepler kind of banded together to try to find some way to keep the town alive, and there’s lots of different ways to do that, like, it’s a very, like, it’s a very pretty, very scenic place, and so there’s hiking trails and stuff like that. But, there’s also sort of a part of the population that, in an effort to save Kepler, sort of turned it into a cryptozoological destination? There- it’s- there are real places in West Virginia, and Justin, I feel like you have more experience with this, where it’s just like, “Oh, come on down to… y’know, the Sasquatch Zone! Come on down to-” there’s places—
+
+
+Clint: Point Pleasant has… [crosstalk] the Mothman.
+
+
+Travis: [crosstalk] The Mothman.
+
+
+Clint: The Mothman.
+
+
+Griffin: Yeah, there’s—
+
+
+Clint: Larry Mothman.
+                                
+Griffin: There’s a lot of, like, cryptid activity, and I feel like that’s interesting and the causes for it are so interesting, but, also, what if it was all real? And that is sort of what this story is loosely gonna be based on. I have a lot of stuff here about, like, the geography of Kepler? It’s a ski town, there’s like a funicular connecting, like, the top side of town where there’s, like—
+
+
+Travis: Bunnicula?
+
+
+Griffin: Fun- funicula? Funicular?
+
+
+Justin: Bunnicula.
+
+
+Clint: [singing] Funicu-lee, funicu-laaaa!
+
+
+Justin: Travis and I are making a lovely Bunnicula joke.
+
+
+Griffin: Okay. [crosstalk] There’s a cable car—
+
+
+Justin: [crosstalk] “Joke” is a very strong word.
+
+
+Travis: [crosstalk] Yeah! And I have to warn you, here’s a li’l spoiler, it’s not the only Bunnicula reference I’m gonna make in this episode!
+
+
+Justin: [sarcastically] Wow, looking forward to that!
+
+
+Griffin: Wow. Well, I have to make sure not to even come close to setting you up for that! But yeah, if you’ve ever been—
+
+
+Justin: So anyway, the celery stalks at midnight, and— [Travis and Clint laugh]
+
+
+Griffin: Um, if you’ve ever been to, like, a ski town, like… imagine that. Like, kinda small, I don’t have, like, an exact population in mind, but, like, sort of alpine—
+
+
+Travis: Two.
+
+
+Griffin: Two people. Uh, like alpine-inspired architecture, but just, like, not very active? Like, there’s probably some shuttered, Swiss-inspired chalets, that just, like, nobody goes in anymore? There’s also an inn in this town that is going to be kind of the focal point for the story, but I won’t go too much deeper into that, but… to circle back to, like, the tone, I wanted to tell a story about, like—
+
+
+Justin: [sarcastically] Griffin, you can’t just tease me like that, let me know there’s an inn in this story! [crosstalk]And not give me any more. All these sexy details you’re trickling out!
+
+
+Clint: [crosstalk] I know!
+
+
+Griffin: [crosstalk] There’s a very fateful inn.
+
+
+Justin: [sarcastically] Hold on guys, the new Starlog magazine just showed up, [Clint laughs] front page cover, there’s a [sic] inn with a question mark on it! [crosstalk] Tell us more!
+
+
+Clint: [crosstalk] “Inn?”
+
+
+Griffin: I could say more about the inn, I just didn’t wanna spoil it.
+
+
+Justin: [sarcastically] Whoa, don’t, no, I can’t handle it right now, Griffin, I need to get on my blogs! [Clint laughs] Like, we’re havin’ a lot of fun speculating over here!
+
+
+Clint: I wonder what Mark Hamill says about the inn.
+
+
+Griffin: Back in the ’80s, he was like “It’ll never be an inn! I’ll never do an inn!” [Clint laughs] and then he does an inn.
+
+
+Clint: “We told our story, it’s had an ending, that’s it!”
+
+
+Griffin: I wanted to tell a story, like, about, like… community and sort of rural communities and the banding together that they sometimes have to do against, like, actual, real forces, whether it be, like, y’know, predatory entities trying to take advantage of them or, y’know, ruin their town… but also have that be, like, what if monsters was that. So, that is kind of- obviously it’s also kind of, like, an idealized rural life. Like, I want this to be a very nice community, a very good community, because I also think that in putting monsters in that particular kind of community, like, it gives you a little bit more to… fight for. Not necessarily Bedford Falls, but, y’know, gettin’ there. So—
+
+
+Travis: Is it—is the town itself a little spooky, like Twin Peaks, or is it like—
+
+
+Griffin: Maybe in the way that Twin Peaks is spooky, which is to say that I think if you just look at Twin Peaks and remove all the music and all the creamed corn from it, it actually looks like just a nice place. Um, there are lots of pine trees in Kepler, so I guess it maybe has that in common with it—
+
+
+Travis: How much creamed corn?
+
+
+Griffin: I mean, the good kind. Just regular creamed corn, not garmonbozia. 
+
+
+Travis: Okay.
+
+
+Clint: Are there poplar trees in Kepler?
+
+
+Griffin: Mostly pines. Mostly pines.
+
+
+Clint: Ah. ‘Cuz poplar are the most popular in Kepler, I was gonna say, but—
+
+
+Griffin: [crosstalk] Aw, Jesus.
+
+
+Justin: [crosstalk with Griffin] I knew you were gonna say that, and you still did.
+
+
+Clint: Oh I did, didn’t I.
+
+
+Griffin: Um, there’s also like a biome diversity, like there’s, y’know, a ski mountain and the Monongahela woods on the edge of town, and the Greenbrier River to the south, and—
+
+
+Travis: A biodome.
+
+
+Griffin: A sort of biodome, if you will. Also the—
+
+
+Clint: Oh god, Pauly Shore’s not there, is he?
+
+
+Griffin: Uh, maybe. Also the U.S. National Radio Quiet Zone gives me a way to write out cellphones [Clint: Yeah, that’s great] from the story, which is gonna be sort of helpful for creat—I feel like a lot of stuff back in like, Buffy days would’ve just been like, “Oh, well, just call them,” and now all the dramatic tension’s gone—
+
+
+Travis: [crosstalk with Griffin] “Don’t go in there, there’s a vampire.”
+
+
+Griffin: Yeah. Uh, so yeah!
+
+
+Clint: Aw shit, how am I gonna play Solitairica?
+
+
+Griffin: Yeah, well you can play that, just without, y’know—
+
+
+Travis: You just gotta download it before you go.
+
+
+Clint: Oh, good good good good good.
+
+
+Griffin: Oh, by the way, because this is a former ski town, I am profoundly disappointed that none of you made, like, a snowboarder bro, named like, Jake Cool-Ice, [Clint laughs] who just came here to carve shit up.
+
+
+Travis: Well it’s not too late!
+
+
+Clint: You can create NPCs, dude!
+
+
+Griffin: Oh yeah, I mean like, Jake Cool-Ice is gonna be there episode one. Um—
+
+
+Clint: [doing a cool guy voice, I guess] To the extreme!
+
+
+Griffin: That is it—
+
+
+Justin: [crosstalk] Wow, that’s a really good Jake Cool-Ice impression.
+
+
+Clint: Thank you. [laughs]
+
+
+Griffin: Uh, there’s a lot more but I do not want to— uh, for the first time, like, I used one big wordpad document to organize everything for Balance and now I’m using Scrivener, so it’s like, I actually have—I feel like I have the whole world at my fingertips, which is very exciting, but I don’t wanna go too much deeper, ‘cuz I think that we should talk about your characters now.
+
+
+Travis: Who wants to go first?
+
+
+Clint: I will!
+
+
+Justin: Okay.
+
+
+Clint: I’m going with the Crooked. The, uh, the Crooked is basically a criminal. A former criminal.
+
+
+Griffin: Sort of the— it doesn’t have to be a criminal. It’s sort of like the shady, rogue-like class.
+
+
+Travis: You’re, uh, what’s-his-face from Fringe.
+
+
+Griffin: Yeah!
+
+
+Clint: Peter, Peter.
+
+
+Travis: Yeah, Peter, who, y’know, has like, been a con-man in the past, or maybe straight-up a thief, or something along those lines.
+
+
+Clint: Right. Well, my character is um… Is Edmund Chicane. He goes by Ned, and Ned owns a roadside cryptid museum. Kind of a tourist trap-y kinda place. It’s called, he’s named it the Cryptonomica. [Griffin starts clapping] Crypt-onomica.
+
+
+Griffin: That is— aw Dad, that is like fuckin’, I feel like I just ate a big spoonful o’ honey listenin’ to that. That is the tastiest shit ever.
+
+
+Clint: He hasn’t lived here very long, but he’s lived here for a couple of years. I think he’s, uh—and when I picture him, I’m picturing probably the greatest actor who ever lived, and that of course is Mr. Brian Blessed. He’s kind of a big guy, kind of a barrel-y kind of—
+
+
+Griffin: Did he play the Ghost of Christmas Present?
+
+
+{{27:49}}
+
+
+Clint: He was King Vulco on Flash Gordon.
+
+
+Travis: Oh, of course.
+
+
+Justin: [sarcastically] Sure, yeah. Everybody remembers that… 
+
+
+Griffin: There’s literally nothing except— I’m going through this IMDB. Folks listening at home trust me, I’m on your side, I’m going through the IMDB trying to find— oh he was in, he played Boss Nass. Well wait, that was a big alien though. You couldn’t really see him, I don’t think.
+
+
+Clint: If you look at Brian Blessed’s IMDB, he’s a great character, and that’s kind of what Ned is, so Ned—
+
+
+Griffin: Big bushy beard?
+
+
+Travis: Big bushy beard!
+
+
+Justin: He was Colonel Gonville Toast on Toast of London, Trav.
+
+
+Travis: Oh yeah, yeah, yeah, yeah.
+
+
+Griffin: That’s nothing to so many people. He played the voice of Santa Claus in The Amazing World of Gumball. [sarcastically] You all know! You all know!
+
+
+Justin: He’s Grampy Rabbit on Peppa Pig.
+
+
+Griffin: Okay. You avoided the question about the big bushy beard.
+
+
+Clint: Um, yeah! Let’s go with big bushy beard.
+
+
+Griffin: I mean I’m just looking at pictures of Brian Blessed. He doesn’t not have a beard in any of them.
+
+
+Travis: He’s the voice of Clayton in the Disney Tarzan.
+
+
+Griffin: Okay, we’re done talking about Brian Blessed’s storied career.
+
+
+Clint: Brian Blessed, now you know. And so, Ned has this museum all about cryptids. The cryptids in the area, and that’s all I’m ready to say about him right now.
+
+
+Griffin: Just to— I do want to talk about the playbook. So the playbook gives you basically a couple more moves usually on top of the basic stuff, but they are very situation-specific things. So which— so for the Crooked there are like, crime backgrounds that kind of give some flavor to your character like—
+
+
+Clint: Ned is a grifter.
+
+
+Griffin: Okay. I was assuming he wasn’t an assassin [chuckle], which is one of them.
+
+
+Clint: No, there is a certain level of uh… sham built into this whole museum thing. Not that it wouldn’t be useful, but it may be full of all kinds of helpful stuff, but he doesn’t know it.
+
+
+Griffin: I love that. When you told me this angle like, that is what stood out to me as the best shit, is there’s a guy who runs a curio museum that he thinks everything in it is bullshit, when actually some of it is real. [crosstalk]
+
+
+Clint: [crosstalk] Right, and that’s kind of what’s going on with Ned. He knows all about it, because, y’know, it’s not like they’ve got a lot of entertainment options, so he’s actually read every book in the place, and he’s looked at all the stuff. He just doesn’t believe it, and he doesn’t know what’s powerful or not powerful.
+
+
+Griffin: I also love, like, I talked about, like, Kepler has these different sort of things that people are doing to try and keep the town going since nobody really comes there to ski and stay in their resorts or anything anymore. And I like this idea of like, there are some people in town who are just like, “Come to Kepler, we got beautiful river trails you can walk down. You can hike through the woods, and rest up in one of our nice places,” and then there’s also a group of people who are like, “We got Bigfoot!” 
+
+
+Clint: [laughter]
+
+
+Griffin: And the friction between those two who are like, “Hey, can you please stop telling everybody we have Bigfoot, because we’re trying to get people to come and hike in the woods and stuff.”
+
+
+Clint: Like the people who probably work at the Roswell Art Museum.
+
+
+Griffin: Yeah, like, “Come on—”
+
+
+Clint: “Will you guys shut up, will ya?”
+
+
+Griffin: So there’s also moves. Every class has got, like, special moves—
+
+
+Clint: I got one I picked. I want driver.
+
+
+Griffin: Driver, okay.
+
+
+Clint: I want him to be a driver, because I figured there are gonna be times maybe where we need to travel, maybe not much, but I had this— I already figured out, I want him to drive a 1958 Lincoln Continental Mark 3.
+
+
+Griffin: You know I’m going to have to Google that.
+
+
+Clint: Oh, Google it! Because it is the most trunk space of any American-made vehicle in history—
+
+
+Griffin: Oh Jesus Christ, this car.
+
+
+Clint: I’m looking with all this trunk space—
+
+
+Griffin: Is this a drop-top convertible?
+
+
+Clint: They came in both a hard-top and a convertible. Rag-top and a hard-top. So, we can figure that out, but I want him tooling around in this gigantic car, with this humongous trunk to haul stuff in. And, according to the game, since I get to pick out two vehicles—
+
+
+Griffin: You do get two vehicles if you go with driver.
+
+
+Clint: I have a second vehicle, and so, [laugh] he’s gonna have an Alpina Superclass 1.2. It’s got a 12-valve engine—
+
+
+Justin: 1.2 what?
+
+
+Clint: I don’t know, it says 1.2 VVTs [crosstalk]
+
+
+Griffin: [crosstalk] Gigahertz... of power…
+
+
+Griffin: This is a snowmobile that has three seats on the back. Which is a lot.
+
+
+Clint: It hauls a three-seat trailer and has three seats on the main thing. It goes up to 40 miles an hour.
+
+
+Travis: Jesus, dad, why didn’t you just get like, an invisible jet?
+
+
+Clint: So he’s got these two vehicles. I figure he can do a lot of tooling around and be the chauffeur. And the other one I really wanted to go with was artifact.
+
+
+Griffin: Okay, yeah, I think that makes the most sense.
+
+
+Clint: The thing is, if he has an artifact, he just doesn’t know it.
+
+
+Griffin: So this is a magic artifact, and you get to basically build it from a list, so you can give yourself protective armor, or a skeleton key that opens any magically sealed lock. It’s like a bunch of different effects, but you don’t know that it does these things probably.
+
+
+Clint: That’s it. In keeping with Ned’s story, he does not know that it has the powers.
+
+
+Griffin: That’s very good. This is going to be like, this is the character that has me like, excited for all the different ways to have you interact with [Kepler]. This feels the most lived in, you are a resident of this town, and there’s like a lot of different friction and stuff between you and the town. Like, I think this is going to be really cool.
+
+
+Clint: So just remember, just visualize Peppa Pig’s grandfather.
+
+
+Griffin: Yes.
+
+
+Travis: Perfect.
+
+
+Griffin: Travis, you go next.
+
+
+Travis: My character, she is a Spell-Slinger named Lady Flame.
+
+
+Griffin: Well, what’s her real name?
+
+
+Travis: Her real name is Aubrey Little. She is a magician—
+
+
+Griffin: Lady— Pronounce it. Is it [separate, with emphasis] Lady Flame or [faster, as one phrase] Ladyflame?
+
+
+Travis: It’s “The Lady Flame.” Y’know, I’m trying to look at it as much more magical— it’s not, y’know, she’s the Lady—
+
+
+Griffin: Travis wanted to play a magical one, and so he picked the most magical class, and made it the most magical magic that could possibly magic. This is Travis’ repressed, like, desire to use magic in a game, sort of manifest.
+
+
+Justin: Anyway, she runs the local pet salon—
+
+
+[All laugh]
+
+
+Travis: So she is a magician, up and coming.
+
+
+Clint: Like a stage magician?
+
+
+Travis: Yes, stage magician.
+
+
+Griffin: I was really hesitant about allowing you to do this, because again, I wanted more grounded characters and a more real world feel. But then I remembered when we were at MaxFunCon East in that resort in the Poconos, there was a magician who like, was playing in the lobby. Like I feel like that’s not that weird when somebody’s on the starting circuit, that they’re not doing big shows, they’re like, playing in the lobbies of hotels and stuff.
+
+
+Travis: Also, her style is very like, goth punk-y magician, and I think that, my concept for it is that it’s a little off-putting to people who expect like, a female magician to be kind of in like, tights and a sparkly vest, y’know?
+
+
+Griffin: Yeah, not that there’s anything— I mean, that is a specific style of performance. It feels weird to like… slam that in any way? [crosstalk] Because it is like, a specific way of performing.
+
+
+Travis: [crosstalk] Oh I’m not at all. She just isn’t that. [Griffin: Yeah] Yeah. And so, she’s kind of goth punk kind of look, with just a sick undercut. You know what I mean? Just a really cool, like pompadour undercut. Her hair is amazing. She’s got some facial piercings in there. Really cool, really badass.
+
+
+Griffin: We should make one thing kind of clear, is that, and this is something that we talked about, and I don’t know where you are at on it now, but this pilot arc is kind of going to be like, “Uh oh, my magic is real.”
+
+
+Travis: Yes, absolutely. Currently, she does not know that she has access to any kind of actual magic. So her magic is all like, sleight of hand. She specializes in, like, pyrotechnic sleight of hand.
+
+
+Griffin: So like, Gob with just lighter fluid shooting out of somebody’s shirt?
+
+
+Travis: Yes, very much so. Basically, what I pictured was, she has these gloves that very much like the flame alchemist in Fullmetal Alchemist have, y’know, kind of a flint kind of thing. So she can snap her fingers to make— so basically, there’s a reason for this. One of the moves of the Spell-Slinger is tools and technique, so you have four options: consumables, foci, gestures, and incantations, and you have to have access to three of them, or you take a penalty.
+
+
+Griffin: Yeah, your spells get fucked up. This is a really elegant way of doing something that we never did in D&D, which is, in D&D, you remember that there were somatic spells, and verbal spells, and you had components, and you had different— like, this is that same thing but boiled down to like, “Oh you can cast it, but if you don’t have one of your things then you take a penalty to it.”
+
+
+Travis: So, that’s why like, her gloves are her foci—
+
+
+Griffin: Okay, I’m into that.
+
+
+Travis: —and like, the consumables are the flammable liquid, and, y’know, certain shavings of very flammable metal, that kind of thing. And her gestures are all of the things that she has worked in: the flourishes, the sleight of hand, all of that. So I’m basing what will eventually be her actual magic around those same things. She is a— her combat magic is blast-based.
+
+
+Griffin: Okay, I wanted to talk to you about this. So you get to basically build your main combat spell when you go as a Spell-Slinger. You went with blast and fire, and I think you did that just so you could get the most damage out of attacks, because—
+
+
+Travis: No, that was just my style of— because it’s also very— so the different attacks have different qualities, so like, hers is obvious and loud, and that just made the most sense to me of like, the character I was building. And also, right now, especially, I was thinking, because she’s going to have so little control over it, fire magic inherently has a lot of glitches and stuff that go with it, of it being very dangerous.
+
+
+Griffin: It spreads, and— this is, keep in mind, every time Travis attacks with this stuff he’s going to roll, and him basically creating a controlled explosion of fire every time he attacks, if he ever fucks up, is going to put a huge, flaming arrow in my quiver, that I can, and — fair warning — absolutely will use against you guys.
+
+
+Travis: Yeah, so basically, I’m trying to think a lot of like a character in which, like, entropy and chaos springs forth, both in personality and in her combat style.
+
+
+Griffin: I’m also very into dropping a character like that into a quaint, rural, like, town. I think, again, there’s some friction there that I think can be very cool. I think we’ll have to work to make sure that it never gets sort of, tonally weird.
+
+
+Travis: Yes, absolutely. My thinking was, just to justify it, I think that her family is not necessarily from the area of Kepler, but like, somewhere in the Virginia, West Virginia, Kentucky region.
+
+
+Griffin: I’m thinking of this character as sort of the audience surrogate, at least in the pilot, in that she is the only character, as far as I know, who doesn’t like, live in Kepler, and is not from Kepler.
+
+
+Travis: Correct, yeah, she’s like, just gotten there.
+
+
+Griffin: So like, I can introduce the town to the audience through Aubrey.
+
+
+Travis: And, most importantly, I think, is that her travelling companion is a 10-pound New Zealand rabbit named Dr. Bonkers.
+
+
+Clint: [laughter]
+
+
+Griffin: Alright, and what class is Dr. Bonkers?
+
+
+Travis: Dr. Bonkers is a white rabbit with red eyes, very much like Bunnicula.
+
+
+Griffin: Okay, excellent.
+
+
+Clint: Ah, there it is!
+
+
+Griffin: He is of the Wronged playbook. [crosstalk] His whole family was murdered by vampires.
+
+
+Travis: [crosstalk] Yeah, he is Monstrous.
+
+
+Griffin: Don’t give me that. I’ll use that. You know I’ll use that.
+
+
+Travis: He is formerly a laboratory experiment rabbit that she rescued through semi-questionable means, perhaps. And Dr. Bonkers, his first name is Harris. Dr. Harris Bonkers—
+
+
+[someone snorts]
+
+
+Travis: —travels with her now. And there’s nothing special about him, other than the fact that he’s awesome.
+
+
+Griffin: I’m going to make the rabbit something.
+
+
+Travis: Maybe someday, but right now [crosstalk] he’s just Dr. Harris Bonkers.
+
+
+Griffin: [crosstalk] No, very quickly. I’m going to give the rabbit superpowers.
+
+
+Travis: Okay, well he has a PhD in Philosophy.
+
+
+Griffin: Justin, you wanna start talking about your character and interrupt Travis?
+
+
+Justin: Yeah, so my character’s named Duck Newton. And he is the Chosen.
+
+
+Griffin: Justin, you’re so fuckin’ good at naming characters, that’s very good!
+
+
+Travis: I tried so hard, I went with The Lady Flame, and I was like “Ah, got it!” and then you’re fuckin’ Fig Newton or whatever.
+
+
+Griffin: Duck Newton. Juice Newton!
+
+
+Justin: Duck Newton is— Duck’s his nickname— the, he’s the Chosen, and Griffin initially sort of tried to ward us off from this, because—
+
+
+Griffin: Yeah, there were two playbooks I didn’t want you to use, and it was the Chosen and the Wronged, because the Wronged was so grimdark, like, it literally is “Your family’s murdered and so now you’re this rebel without a cause!” and that feels way off-tone. But—
+
+
+Justin: Yeah, so Duck’s a, Duck’s the Chosen, but he— the thing about Duck is he didn’t, I guess. He started having these— when he was a younger man, he started having sorts of visions and nightmares that sort of led him to— what his sort of, like, destiny was, to fight back some unnamed evil, and he ran from that destiny, he avoided it at all costs, he wanted to— he was scared, basically, and he— so he manifested some sort of, y’know, whatever abilities you wanna call it, but he decided not to use them and instead became a park ranger at the Monongahela National Forest and he sort of decided to make a quiet life doing that. So that is where we sort of find him when the story begins.
+
+
+Griffin: The Chosen has some, like— I wanna be clear when we’re talking about the Chosen, in that I do not wanna set up a— this is why I didn’t wanna do the Chosen, I don’t wanna set up a dynamic between your three characters, where Duck is the, The Chosen One, Hero of Legend, Buffy, while everybody else is Duck’s supporting cast. [crosstalk] I’m—
+
+
+Justin: [crosstalk] Right. (Justin says this sheepishly, agreeing with Griffin) That’s certainly how it’s designed—
+
+
+Griffin: [crosstalk] That is how it’s designed and I’m not interested in that, narratively or, like, I don’t think it’s fun for you guys, ‘cause then you are literally— you are supporting cast members in this, which I think is not a cool way to do this— this show.
+
+
+Justin: That said, the system is sort of flexible enough that I was able to not bend the rules and just sort of make a character that, like, fits this, I think, but is not— y’know, the Chosen, just keep in mind, when we say “the Chosen” it is a, it is the name of the class, not necessarily narratively, [crosstalk], um power— 
+
+
+Griffin: [crosstalk] I’m thinking about it this way, you were chosen, by something, and I kind of have an idea of what that could be, just in the world fiction, like I have an idea. That doesn’t mean that you are the only thing that matters, y’know what I mean?
+
+
+Justin: Duck’s not the Chosen, he’s [crosstalk] a Chosen.
+
+
+Travis: [crosstalk] A Chosen. [laughs]
+
+
+Griffin: He was chosen.
+
+
+Justin: Right.
+
+
+Travis: He’s like a high school football star, and somebody was like “Hey! You’re gonna come play in the NFL!” and he was like “No.”
+
+
+Griffin: There’s some really- we haven’t—
+
+
+Travis: I really like this idea of a Chosen that’s just like [crosstalk] “No, no thank you!”
+
+
+Griffin: [crosstalk] “No, thanks.” I mean, that’s very, very, very cool from, like, my perspective, because then I have ways of, like, trying to tempt you into- we talked about this not going to be an ongoing, like, every episode Duck’s like “Ehhh, I dunno!” like, this is a story about this coming to a head. I wanna talk about about the moves really, really, really fast just to, like, highlight a couple of them in Duck’s, like, category, ‘cause this is what sold the game for me, were the playbooks and the special moves, ‘cause they are so perfectly tailored to hit this genre, and try to take the things that you, like, love about the characters in this monster of the week genre and turn them into game mechanics. So, like, the Chosen has a move called “The Big Entrance” where you make a showy entrance into a dangerous situation and, if you roll really good, everybody has to stop and listen to your speech. [Clint laughs] Like, it’s a way of, like, setting up different scenes in the way that you want them. There’s…
+
+
+Justin: I didn’t pick that one.
+
+
+Griffin: Okay.
+
+
+Justin: That sounded like a lot of pressure. [laughs]
+
+
+Griffin: It does sound like a lot of pressure. But there’s stuff, like, you get a thing called Destiny’s Plaything, where, at the beginning of each mystery, you roll some dice, and on a success, you get, like, a vision of the future, which is, like, y’know, dreams, like Buffy’s dreams of, like- which, I think, kind of stopped being a thing after, like, season one or two. But yeah, there’s some really, really- [crosstalk] that’s the kind of, like, flavor that I love.
+
+
+Justin: [crosstalk] I actually gave him- that move rolls against a skill called Weird, which is basically, like, magical stuff in this world and to sort of set the table considering where he has been and what has been happening, I actually gave Duck a -1 skill in Weird.
+
+
+Griffin: So your visions aren’t gonna be the best.
+
+
+Justin: So the visions aren’t great ‘cause he’s like been purposefully out of touch with this side of himself.
+
+
+Griffin: Yeah. [crosstalk] That’s cool.
+
+
+Travis: [crosstalk] Love that. Can I just say one more thing about this game, that I love, just to like sell the game. As I was reading through it, the different classes and stuff, as someone who’s, like, grown up and fallen in love with all these different monster of the week kind of shows, like literally every class, one they give great examples for, but two every class I read was like, “Oh I wanna play that. Oh I wanna play that.” And like the reason I went with Spell-Slinger is that one of my favorite book series is the Harry Dresden, The Dresden Files.
+
+
+Griffin: Which is also- they list this in this book [Travis: Yes!] as an inspiration.
+
+
+Travis: Exactly! I saw that and was like, “Oh shit, yeah, this,” and so like it’s such a love note to monster of the week like, I mean obviously. But in a way that’s like, I’m so excited to play and match the tone of that and the feeling of it and like— ah, I’m really excited about this.
+
+
+Justin:  Now here’s my question before we move on, and I don’t know if this is something we wanna do in the first episode or not, but there is a mechanic for history in the game.
+
+
+Griffin: I’m not— this feels like four people sitting around a table playing it not for… a podcast. Which is not to- I don’t mean to sound like I’m diminishing that. It’s that- I mean we can talk about this [crosstalk] absolutely. 
+
+
+Justin: [crosstalk] Now the pushback I would have against that is that I do think that it’s worth coming to a consensus on the relationships of these characters, because I don’t necessarily want to do another story where we’re starting ya know [crosstalk] from square one.
+
+
+Griffin: [crosstalk] Sure. Yeah that’s a good- then this is a good middle ground. I would assume that you all don’t have a relationship with Aubrey just because you’re not from here, necessarily.
+
+
+Travis: Well-
+
+
+Justin: I was thinking that maybe- when he was talking about fire, uh, I was thinking it might be fun if maybe Aubrey has tried to use the forest to practice before and Duck has had to chase her off. So he has like a little bit of a relationship there and I thought that was kinda fun but I don’t know if that, like, jives with you, Trav.
+
+
+Travis: No, I think that works. Let’s say that it was, like, on her way to Kepler, like she camped out in the forest one night, and was practicing and Duck came and reprimanded her and made her dump out her beer- a thing that has happened to me before in a national forest. [laughter]
+
+
+Justin: So you’re just drawing on your real life experiences. I watched it y’all, it was so sad.
+
+
+Clint: ‘Cause being drunk and campfires go so well together.
+
+
+Justin: Travis had this grand plan about camping by himself for, like, a couple days and when we got there, he was just, like, dumping out a beer while a ranger looked on disapprovingly. [Clint laughs] It’s like- you could tell, like, “Aw, you’re not gonna be out here for the long haul, huh Scraps?”
+
+
+Travis: It was not great.
+
+
+Griffin: You called me to come up the first night.
+
+
+Travis: It gets real dark and scary out there, y’all!
+
+
+Griffin: Yeah, yeah, yeah, yeah. Alright, I like that. I’m curious what the- because you all- do you, does Duck live in Kepler?
+
+
+Justin: Yeah.
+
+
+Griffin: Ok. So, I think Duck and Ned-
+
+
+Clint: Wait a minute, and is Duck a forest ranger, did you say? So he’s not gonna have that much- I mean, right? I mean, wouldn’t he be at the station most of the time?
+
+
+Justin: What do you mean?
+
+
+Clint: The forest station, I mean.
+
+
+Justin: [crosstalk] Yeah, I think that’s-
+
+
+Griffin: [crosstalk] Yeah, but he lives in Kepler.
+
+
+Travis: And then you have to worry about, like, if you’re not there, then it’s deforestation.
+
+
+Griffin: [exasperated, leans away from the mic] Jesus, Travis.
+
+
+Justin: I think it’s fun if he and Ned are friends. I think that that’s something we could have.
+
+
+Griffin: I would love that so much more than “They kind of dislike each other.”
+
+
+Justin: No, I think it’s kind of, like, they’re complimentary people, but I think that, like, it makes sense that they would be friendly.
+
+
+Clint: And I think that brings a nice dichotomy because if Ned is kind of a shady, somewhat crooked character and Duck is kind of an authority figure, it has kind of a nice feel to it.
+
+
+Travis: I would like to play with knowing- I mean, I think it’s interesting, right? Because this game has this mechanic of everybody knows each other, which is weird to try to force into it, but I do like this idea, especially considering that Ned has some sort of shady background. And I don’t know what the connection is yet, but if there is something where maybe in his previous existence, Aubrey has encountered him before.
+
+
+Griffin: If you like that and Dad likes that, let’s do that and literally stop now and don’t say anything else to try to firm it up, but you know something about Ned’s history that maybe you don’t even know that you know it. Like, I think that could be something great.
+
+
+{50:56}
+
+
+Clint: I have a little something, too. And this might not be something you- I don’t know if you want this in there, but what if something in the Cryptonomica triggers Aubrey’s powers.
+
+
+Griffin: I mean, something triggers Aubrey’s powers in episode one, and there’s a big thing that I haven’t really talked about yet that is sorta like the reason why monsters are here that is probably going to fill that need? But, I mean, it’s all connected. Like, the things in the Cryptonomica are also kind of from this source. Also, Justin, do you want to talk about the cool connection we thought of for the Cryptonomica?
+
+
+Justin: Yeah, you also have my weapon. The Chosen gets a weapon and you have my weapon, and I- maybe I gave it to you? ‘Cause, like, it seemed like the safest thing ‘cause you deal in stuff like this—
+
+
+Clint: Hide in plain sight.
+
+
+Justin: Yeah, that you could sort of keep it, y’know, safe for me. [Clint laughs]
+
+
+Griffin: This is a big thing for the Chosen, that you, like, build a weapon from a form and a business end and a material, and I don’t know if Justin’s firmed that up yet, but I love the idea—
+
+
+Justin: Oh yeah, I did! [crosstalk] It rules.
+
+
+Clint: [crosstalk] Oh yeah, he did.
+
+
+Griffin: [crosstalk] What is it? What is it?
+
+
+Justin: What?
+
+
+Griffin: Ok, I guess we don’t have to talk about it.
+
+
+Justin: You want me to tell you about the weapon? Or you want me to wait ‘til the show?
+
+
+Clint: [crosstalk] No! No, no, no, no, no!
+
+
+Griffin: We’ll save it, we’ll save it.
+
+
+Travis: Okay, shit, ‘cause I just thought of what had been my plan for Aubrey and the thing- okay, I have a way to connect Ned and Aubrey that I will tell dad about later. [Clint laughs]
+
+
+Griffin: Okay.
+
+
+Justin: I’m gonna show Dad the video of my weapon after.
+
+
+Clint: Okay.
+
+
+Griffin: [intensely] There’s a video? Okay. So, I guess- I think that’s about it, I think that’s all you really need to know. I think the playbooks are free, a free resource. If you are interested in Monster of the Week, you can go check those out and sort of get an idea of what the different stuff is. But I’m really excited about this game—
+
+
+Justin: You can read ours in about five minutes if you’re interested in a little more context. You can read the playbooks for our characters, just the three of ours.
+
+
+Griffin: It’s gonna be really- I’m really excited about- I’m nervous about it ‘cause there’s- I cannot prepare as much as I prepared in Balance. The game will not work if I try to make things try to follow a path the same way that I kinda tried to make it do in D&D. This is a game where things are gonna go wrong constantly and we all have to improvise together to figure out where it goes next, which is cool for me in a, like- it’s not going to be as hard to prep this stuff, but it’s also going to be a little bit tougher to make sure things have, like, satisfying conclusions and cohesive narrative arcs and stuff like that. But I’m so, so, so excited to get started, which is gonna be next Thursday. Yeah, anything else y’all wanna talk about before we hop off here?
+
+
+Travis: Well, Dr. Harris Bonkers attended Vassar. [Clint laughs]
+
+
+Justin: Ok.
+
+
+Clint: Hats off to Michael Sands by the way, the writer and creator of Monster of the Week. And our friends at Evil Hat Productions, who also were involved with the Fate system, too.
+
+
+Griffin: Yeah, it’s a beautiful game, and there’s a lot of really, really cool Powered by the Apocalypse games that I was interested in doing, but this one seems like such a, like—
+
+
+Justin: Maybe we’ll dip back into one of those, ‘cause it would be nice to not have to start from square one every time, mechanically.
+
+
+Travis: I actually- I was telling Griffin before we recorded, I really like this system, I might end up doing my arc in it. Maybe not Monster of the Week, like a Powered by the Apocalypse-style system, but—
+
+
+Griffin: If you didn’t love The Stolen Century, I would encourage you to give these episodes a shot because, while I did try to model those rules after that, it was not nearly as fleshed out or codified as these rules are, to wit, like, I didn’t necessarily do a great job handling, like, mixed successes, which is a really interesting thing in this system where, “Yeah, you get to do the thing, but there’s a cost.” In this game, like, the costs are laid out and very, very interesting. [crosstalk] There’s a lot more weight.
+
+
+Travis: [crosstalk] That’s one of the things I love ‘cause, like, the Investigate a Situation, right? You can’t just say like- you can’t ask, “Why is this?” There are specific- there’s this loose specificity to this game that I really love.
+
+
+Griffin: And it is perfect for what we’re trying to do. It’s perfect for playing a game but also creating a story that you are presenting to other people, which is such a tricky needle to thread. And as much as I love D&D, like, that was a thing that we bumped into a lot because those rules are not necessarily made for, what, like, third-person presentation to other people, but I think these rules are gonna fit that a lot better.
+
+
+Clint: I think it sounds awesome, I can’t wait. Let’s start now.
+
+
+Griffin: Alright. No. We’re gonna—
+
+
+Clint: It was a dark and stormy night. [laughs]
+
+
+Griffin: It might be, but you’ll have to wait ‘til next week to find out.
+
+
+Justin: And all the shit was so creepy and weird.
+
+
+Clint: Everything was really weird.
+
+
+Griffin: [crosstalk] Oh nooo.
+
+
+Travis: [crosstalk] And then things got stranger and stranger.
+
+
+Griffin: Bye, everybody!
+
+
+[Theme music (The Adventure Zone: Amnesty Theme by Griffin McElroy) plays]
+
+
+[Next episode]

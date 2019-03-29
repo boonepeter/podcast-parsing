@@ -1,0 +1,4886 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Griffin McElroy
+Magnus Burnsides: Travis McElroy
+Merle Highchurch: Clint McElroy
+Taako: Justin McElroy
+
+Episode 1: Here There Be Gerblins - Chapter 1
+(part of TAZscripts on Tumblr)
+  
+Griffin: Hey everybody, this is Griffin McElroy, your dungeon master and sweet babiest brother; and thank you very much for tuning in to The Adventure Zone. What you are ‘bout to hear is the pilot episode for the show. If you listen to My Brother My Brother and Me, you may have already heard it. It was our experimental D&D episode, an experiment that a lot of you really loved, and told us that you wanted more of. So thank you so much for, for that outpouring of that uh, support. We really wanted to do more of this and release it as a show, and you guys definitely made it known that you wanted that too.  
+
+
+Griffin: So that is the plan, we are going to do this as a regular thing. The plan now is to do them bi-weekly? I think that’s right. Every other week, every other Thursday here on MaximumFun.org and on iTunes, you will be able to find new episodes of the show, and we’re gonna keep it going. So, if you could do us a favor and tell any nerd friends that you might have that you think might enjoy the show about it, and spread the word, leave a review on iTunes, just to help us sort of get it going. We would, of course,  really, really appreciate it. I’ve talked enough, it’s time for the campaign to begin. So… [clears throat, applies voice changer that makes his voice deeper and more intense]
+
+
+Announcer: Strap on your fantasy seatbelts and brace your asses for… THE ADVENTURE ZONE.
+
+
+[Theme music: “Déjà Vu” by Mort Garson]
+
+
+Griffin: So, you guys ready to make some dudes?
+
+
+Travis: Yeah.
+
+
+Griffin: How— so, I guess we should make the— use the pre-rolled dudes, or else we’re gonna be here all day. Like, I can tell you guys about, like, statistical ranges that you’re gonna be using? For your strength and your dexterity. I can talk to you all about vocations, I can talk to you about evocations, all kinds of shit.
+
+
+Justin: What about sponsors? Heheh.
+
+
+Griffin: I can talk about sponsorships. Basically, if you and a handsome teenager fall in love—
+
+
+Travis: Mhm.
+
+
+Griffin: —and play it up, then you get, um, you’ll get potions that’ll help you out. I should mention just off the bat that we are playing a Hunger Games role playing game. And it’s not an officially licensed product, but it’s of my own division. So—
+
+
+Travis: I call Katniss!
+
+
+Griffin: Okay. That seems obvious.
+
+
+Travis: Oh, is that like playing Oddjob?
+
+
+Griffin: Yeah, it’s, uh, yeah she has— She’s very tiny. She’s very hard to hit. Let’s… I mean let’s talk about our D&D experience, because I think we’re all pretty uncomfortable right now, and it seems like a pretty good icebreaker.
+
+
+[Clint laughs]
+
+
+Travis: I’m, um, I played—
+
+
+Griffin: Travis, you played some Fourth Edition, right?
+
+
+Travis: Yes, I— I have played Fourth Edition, and only Fourth Edition, but I have played it… I don’t know, I didn’t have a regular game, like I haven’t played a lot, but I’ve played… I don’t know, six or seven times?
+
+
+Griffin: Jesus.
+
+
+Travis: What?
+
+
+Griffin: We just, I… Maybe you’re not ready for this.
+
+
+Travis: Well, I mean—
+
+
+Griffin: [Laughing] Maybe you’re not— maybe you’re not ready for the D&D acumen that I’m bringing to the table.
+
+
+Justin: I played one time, twice.
+
+
+Griffin: Okay. So the two times, then.
+
+
+Clint: I’ve never played in my entire life.
+
+
+Griffin: You’re the biggest goddamn nerd I’ve ever met!
+
+
+Clint: I know, and how did this happen?
+
+
+Griffin: I don’t know, you should—
+
+
+Travis: Was it something you actively avoided? ‘Cause that’s what I did for a while, where I was—
+
+
+Griffin: Yeah.
+
+
+Travis: I just wasn’t willing to take that step.
+
+
+Clint: I just never had anybody who was interested in it besides me.
+
+
+Griffin: But you, like, came up in the Gygax era! You—
+
+
+Clint: Oh yeah.
+
+
+Griffin: You were in the—
+
+
+Clint: I’ve actually met Gygax.
+
+
+Griffin: Did you really?
+
+
+Clint: Yeah, at a San Diego Con.
+
+
+Justin: I bet that’s a, that’s a fucking awkward conversation. “So what’s your thing again? Dungeons & Dragons?”
+
+
+Travis: [Laughs] “That sounds really good, can’t wait to play it, Gary.”
+
+
+Griffin: “I know of those ideas as separate entities, but—”
+
+
+ Justin: “Keep plugging at it, Gar.”
+
+
+Travis: [Laughing] “You’ll get ‘em.”
+ 
+Justin & Griffin: [At the same time] “You’ll get there.”
+  
+Griffin: “Keep it up.”
+
+
+Justin: Um, I—
+
+
+Griffin: “Keep it up with your roleplaying, James.”
+
+
+Justin: I think for a lot of people Dungeons & Dragons was the last bastion of nerd-dom: the nerdiest thing you could do.
+
+
+Griffin: Yeah, yeah.
+
+
+Travis: Mhm.
+
+
+Justin: And it was like, the failsafe, like, emergency, “Well, at least I don’t play Dungeons & Dragons.” But the good thing is, now LARPing is a thing.  So— 
+
+
+Griffin: Yeah, so you can— We can say, like, someday, there will be like… live action slash fiction.
+
+
+Travis: Mhm.
+ 
+Griffin: And then LARPing will be, like, passé. And then we can finally, finally, finally indulge in that.
+
+
+Clint: Well, we’re getting there with The Quest on ABC, so, I mean…
+
+
+[Dog barking] 
+
+
+Justin: Yeah, it’s true.
+
+
+Griffin: Yeah, it’s true. Travis, I need you to shh. Make that dog be quiet.
+
+
+Travis: I—
+
+
+Clint: Aww!
+
+
+Griffin: Is your dog playing?
+
+
+[Travis tries to interject]
+
+
+Griffin: Is your dog playing?
+
+
+Travis: Yes, she is.
+
+
+Justin: She’s part of the adventure.
+
+
+Clint: She is Princess Buttercup.
+
+
+Travis: She’s playing as my direhound Lady.
+
+
+[Clint laughs]
+
+
+Griffin: Okay.
+
+
+Justin: Trav, uh, can— can we just—
+
+
+Griffin: You will have a direhound if and— if and when I decide that you’ve earned one. Do you remember how when you got Nessie, you had to, like, do chores and stuff to show you’re responsible enough?
+
+
+Travis: Uh-huh. 
+
+
+Griffin: I will give you a fake in-game dog, but you have to show me that        you can take care of it. And you can feed it, and take it for walks.
+
+
+Travis: I rolled my own character and I wrote him a backstory.
+
+
+Griffin: That’s, you’re… That’s a step in the right direction, man.
+
+
+[Clint laughs]
+
+
+Justin: I named… I have a name.
+
+
+[Pause]
+
+
+Griffin: So, well, let’s talk about the classes we’re playing. So, we’re only playing with three people, which is tiny, it’s pitiful. Based on—
+
+
+Travis: We’re gonna get just demolished.
+
+
+Griffin: Yeah, you’re gonna get wrecked. I’ll be dungeon mastering, which I’ve never done. I actually did it once, for a pickup game.
+
+
+Justin: [Quietly] Tell that to Nirvana.
+
+
+Griffin: What am I telling to Nirvana?
+ 
+Justin: [Laughing] That three people is tiny.
+
+
+[Griffin and Travis laugh]
+
+
+Griffin: Sure. But you—you guys will be facing the horrors that I throw at you, and you’ll be playing… I think we’re keeping it pretty traditional, yeah?
+
+
+Travis: Yep.
+Griffin: We got, uh… Travis, you’re gonna be a fighter.
+
+
+Travis: I’m playing a human fighter named Magnus Burnsides.
+
+
+Griffin: I love that. Magnus… Burnsides?
+
+
+Travis: Correct.
+
+
+Griffin: Is he, uh… Is he, I mean, Magnus. Is that, is that Greco-Roman in nature? Is he— is he real historical fantasy? What’s the deal?
+
+
+Travis: [Sarcastically] Yes, Magnus Burnsides is a real person that I based this on.
+
+
+[Griffin and Clint laugh]
+
+
+Griffin: Okay.
+
+
+Justin: Uh, I’m— I’m playing a wizard.
+
+
+Griffin: ‘Kay.
+
+
+Justin: His name is spelled “T-A-A-K-O”.
+
+
+Travis: So like “tay… tay-ko?”
+
+
+Griffin: So like “tayko…”
+
+
+Justin: “Tahk”… Well, I mean, the… It’s two A’s so…
+
+
+Griffin: Is your wizard named… Are you naming your goddamn wizard “Taco”?
+
+
+[Laughing]
+
+
+Travis: His name is Taako.
+
+
+Justin: [Laughing] It’s a family name, it’s not pronounced like—
+
+
+Griffin: [Also laughing] Is it short for something?
+
+
+Travis: Taco Bell?
+
+
+Clint: He’s actually, he’s actually “Taako the Lesser.”
+
+
+Justin: My father, Taako the Great.
+
+
+Griffin: Taakobel.
+
+
+Travis: Taako Supreme.
+
+
+Griffin: Please, please, can it be Taakobel.
+
+
+[Giggling]
+
+
+Griffin: Uh, I live in a cabana. I guess it’s okay, Justin, because like, in the infinite world of fantasy I’m about to craft for you, maybe tacos don’t exist already. And it’s just a nutrition in the traditional sense. The taco is not realized. It doesn’t mean anything.
+
+
+Justin: Oh my god my, my whole goal… My goal for this adventure is for to invent the taco.
+
+
+Griffin: [Laughing] Sure!
+
+
+Clint: Roll for salsa.
+ 
+Griffin: You might… You might need to roll for salsa. I don’t
+ know. It… You could take any number of checks. It could take a peppers check, a sauce check, a consistency check—
+
+
+Justin: A zesty— a zesty check?
+
+
+Griffin: A zestiness check.
+
+
+Justin: A freshness check?
+
+
+Travis: A soft or hard shell check.
+
+
+Griffin: I love it.
+
+
+Justin: Picante check?
+
+
+Griffin: I— I’m going to be so deep in-game that your name’s not even gonna be ridiculous. What is a taco?
+
+
+Justin: Roll for zestiness.
+
+
+Griffin: Roll for going and thinking outside the bun. Daddy, what do you, uh… You’re a cleric, right?
+
+
+Clint: I made… I’m a dwarf cleric—
+
+
+Griffin: ‘Kay.
+
+
+Clint: —named Merle Highchurch.
+
+
+Griffin: Merle?
+
+
+Clint: And that’s “M-E-R-L-E.”
+
+
+Griffin: See, that’s a goddamn name.
+
+
+Clint: Yeah!
+
+
+Travis: I’m sorry— Magnus Burnsides?
+
+
+Griffin: No no no, Magnus is a great name. I’m saying all three… I’m saying we’re batting a thousand here. With three great names.
+
+
+Travis: Justin, what was your race?
+
+
+Griffin: Including Taako.
+
+
+Justin: Uh, white.
+
+
+[Laughing]
+
+
+Griffin: Why does it matter? No, it does actually matter. For— there are statistical implications.
+
+
+Justin: High elf. I’m a high elf.
+
+
+Griffin: Okay, terrific. Do you have a last name, Taako?
+
+
+Clint: Supreme?
+
+
+Travis: The Wizard. 
+
+
+Griffin: No, for… I’ll give you Taako, I’ll let you—
+
+
+Justin: It’s actually, it’s actually Taako again, but spelled differently.
+
+
+[Laughing]
+
+
+Griffin: Taako Tacco.
+
+
+Clint: “T-A-C-C-O”.
+
+
+Justin: I do have a last name, but it’s a secret that will only be revealed later in the adventure.
+
+
+[Laughing]
+
+
+Clint: That’s power!
+
+
+Griffin: I love it. So Merle, Taako, and Magnus. Uh…
+ 
+Clint: Sounds like The League on FX.
+
+
+Griffin: No, it’s fantastic. So, uh… thank you for plugging our FX sponsorship, Dad.
+
+
+[Laughing]
+
+
+Griffin: I was surprised that they would step in to support us, to give us that trust before we even started, but um… cool. So these three sheets here… Travis, I know you went off-book to do your own thing—
+
+
+Travis: It’s why I love the game, Griffin.
+
+
+Griffin: I guess I’ll be checking your math as we play?
+
+
+Travis: Uh, he is invincible and it’s— he— I rolled 20 somehow.
+
+
+Griffin: Okay.
+
+
+Travis: So…
+
+
+Griffin: So he’s Level 20?
+
+
+Travis: Everything’s 20s across the board.
+
+
+Griffin: Oh, I see, he can’t roll below a 20. 
+
+
+Travis: He can’t roll below… It’s just +20s on all of his skill checks.
+
+
+Griffin: Interesting.
+
+
+Travis: And he has a magic sword that kills people in one hit. And a direhound.
+
+
+Griffin: Okay. But the only, the only thing is, is that he’s got a disease.
+
+
+Travis: Mhm. 
+
+
+Griffin: That will kill him in 15 minutes.
+
+
+Travis: That is correct.
+
+
+[Justin laughing]
+
+
+Griffin: He’s too beautiful. He’s too perfect to live.
+
+
+Travis: His face is just one more hand. And he can’t see anything, can’t smell anything…
+
+
+[Laughing]
+
+
+Griffin: You would think that would factor into his name, but no. Does he ha—
+
+
+Travis: Well, his parents didn’t know he was gonna have one more hand for a face when he was born, it was something he developed. I wrote a whole backstory about why he has a face for a hand. Or a hand for a face?
+
+
+Griffin: So does he have sideburns?
+  
+Travis: No, full beard.
+
+
+Griffin: But Burnsides…
+
+
+Travis: But the sideburns are twice as bushy as the rest of the beard.
+
+
+Griffin: That’s a weird look.
+
+
+Travis: Well he started to have sideburns, and then he just stopped, you know what I mean?
+
+
+Griffin: Okay,
+
+
+Travis: But he didn’t trim them down.
+
+
+Griffin: He let it grow out, I understand.
+
+
+Travis: But he does carry, he carries a vanity mirror with him, because someday he will decide to just take it back to the sideburns and he wants to be ready.
+
+
+Griffin: I understand. So Magnus, I assume, is like, ready to roll. I assume— I’ll be checking your math as we go along for any, you know, cheating.
+
+
+Travis: Yes, I believe I have caught everything and I’m ready to go.
+
+
+Griffin: Okay. You want to give us a brief overview of what he’s all about?
+
+
+Travis: So he’s a protection style fighter.
+
+
+Griffin: Okay.
+
+
+Travis: Which means that he gets, uhh, he gets +2 while carrying a shield… now I have to double check my thing, hold—
+
+
+Griffin: Okay, +2 to AC? 
+ 
+Travis: …Which allows a fighter to, oh here it is— “protection style fighting allows the fighter to impose disadvantage on an enemy attacking you or a target within 5 feet.”
+
+
+Griffin: Okay.
+
+
+Travis: If you are using a melee weapon and a shield.
+
+
+Griffin: Okay, I can explain what all of those words meant, Dad. And Justin, probably? And Travis, okay I should point out that we’re playing Fifth Edition which the starter kit is out for, the player’s handbook isn’t out, so we’re all kind of learning this together all at the same time. So I can explain some of those concepts to you as we go along, but that’s basically: you stand in the way of shit and you help people not get hit.
+
+
+Travis: Yeah, I also come— my background is that of a carpenter? 
+
+
+Griffin: Oh!
+
+
+Travis: Who has become a folk hero, and one of my special abilities is called Rusti—
+
+
+Griffin: You built a. You built a tight chair once.
+
+
+Travis: Yeah.
+
+
+Griffin: You built a chair once and the whole village came around.
+
+
+Travis: I built an army out of wood.
+
+
+Griffin: Uh-huh. 
+
+
+Travis: I have a special skill called Rustic Hospitality, which means um—
+
+
+[Clint and Justin burst out laughing]
+
+
+Justin: So we’re on a team with Paula Deen.
+
+
+Travis: Which means I make really great gravy—
+
+
+Griffin: [Kindly southern grandma voice] “Come on in sugar! Come on! Come on in to the Burnside Estate.”
+
+
+[Laughing]
+
+
+Travis: And the Rustic Hospitality means that, “Because I come from the ranks of common folk, you fit among them with ease, you can find a place to hide, rest or recuperate among other commoners unless you have shown yourself to be a danger to them. They shield you from the law or anyone else searching for you, although they are unwilling to risk their lives for you.”
+
+
+Griffin: So poor people love Magnus, is what you’re saying.
+
+
+Travis: That is correct. 
+
+
+Griffin: He’s uh—
+
+
+Justin: He’s the Larry The Cable Guy of our team!
+
+
+[Clint laughs]
+
+
+Griffin: He’s the Cheetos of people.
+
+
+Travis: Listen, I reach out to real America, real America loves Magnus, they don’t get Taako—
+
+
+Griffin: Well, real Faerûn or Forgotten Realms or wherever the hell we are.
+
+
+Travis: Real Faerûn, you know the real down home Faerûn, they love me.
+
+
+Griffin: Yeah.
+
+
+Travis: Uh, couple other special things, my flaw is that the tyrant that I stopped will stop at nothing to see my end—
+
+
+Griffin: Oh, shit—
+
+
+Travis: I believe in fairness, no one is above the law.
+
+
+Griffin: Yeah yeah yeah.
+
+
+Travis: And if someone is in trouble I will stop at nothing to help them, and thinking is for other people, I’m all about action.
+
+
+Griffin: Okay you’re, you’re lawful, I’m assuming?
+
+
+Travis: Lawful good.
+
+
+Griffin: Lawful good, okay, sounds good, cool, yeah you sound, you sound pretty set up. So let’s move on to Justin because you, I think, have the next in order of experience.
+
+
+Travis: Because you played once, twice.
+
+
+Griffin: Because you played once. Which is infinity times more than Dad, zero.
+
+
+Justin: Right?
+
+
+Clint: Actually, mathematically speaking that would still be zero.
+
+
+Travis: Hey, hey, shut up old man!
+
+
+Griffin: Um… we’re playing games.
+
+
+Travis: I’m sorry about that, I love you.
+
+
+Griffin: We’re playing games, not maths.
+
+
+Justin: Uh I got— Taako’s a wizard.
+
+
+[Travis laughs]
+
+
+Griffin: Yep, I—
+
+
+Justin: I got, spellcasting abilities—
+
+
+Griffin: You didn’t even… I mean that was redundant to— I assumed that your wizard was capable of—
+
+
+Justin: [Laughing] I have a book that I can look at to get, to just relax a little bit and just get, get back in my zone.
+
+
+Griffin: [Laughing] What is the book?
+
+
+Justin: [Laughing] What?
+
+
+Griffin: What, is it The Secret? Is it—
+
+
+Justin: It’s, no it’s a book that I carry around with me, it’s uh, The Seven 
+Habits of Highly Effective People.
+
+
+Griffin: Fantastic.
+
+
+[Travis laughs]
+
+
+Justin: Like a family tome—
+
+
+Travis: Taako needs a minute—
+
+
+Justin: It’s a record of my life’s work so far, The Seven Habits of Highly Effective Elves— and I carry it around with me, and it helps me— 
+
+
+Griffin: [Still laughing] What are the, can I ask, what are two of the habits? I imagine “looking at trees” is one of them.
+
+
+Justin: Yeah, “long hair,” that is one—
+
+
+[Travis laughs]
+
+
+Griffin: Managing your flaxen ‘do— okay I think I get it—
+
+
+Clint: Hacky sack, don’t forget hacky sack.
+
+
+Justin: Yeah, hacky sack.
+
+
+Griffin: Is that, is that flavor? Or does that have, does that have a mechanical context?
+
+
+Justin: Yep, it does have a mechanical effect, I can rest once per day and recover expended spell slots, with a combined level equal to or less than half of my level.
+
+
+Griffin: So spell slots is a, sort of a new concept. Well I mean it’s an ancient, old concept that they’ve sort of brought back for Fifth Edition, and— and, Dad, it applies to you too as a cleric, both of you have a type of spell called cantrips, and you can basically use those whenever. They— some of them may carry a resource or component cost, but I’m not really concerned with maintaining that element of the role playing. Because I don’t want to give you guys like, in-game fake shopping lists for bat wings and shit. 
+
+
+So these cantrips you can do whenever you want, as many times as you want, per day. So Justin, Taako should have a few written down there. I don’t know if you want to go shopping around in the guide to switch those out? Do some comparison shopping to find the spells that are right for you. There’s some solid ones in there already. Mage Hand, it’s basically telekinesis, essentially, you can pick shit up and move it around from a distance. Prestidigitation is a sort of distracting spells, minor illusions—
+
+
+Justin: So how many do I start with? 
+
+
+Griffin: You have four cantrips and they’re listed in that box sort of in the middle there, of your… of your character sheet. 
+
+
+Justin: Oh, okay. 
+
+
+Griffin: You also got Ray of Frost, which is the one you’ll most commonly use in combat probably. It’s a damaging… ray of frost that you use to hurt and slow enemies—
+
+
+Justin: I have two first-level spell slots that I can use to cast my prepared spells.
+
+
+Griffin: Right, so aside from your cantrips, if you’re going to use at will at any time, you have this concept of spell slots. So, of your list of spells that you have memorized, which if you look down at the spellbook part of that box, Juice, they actually have picked some out for you already—
+
+
+Justin: Perfect, I love these.
+
+
+Griffin: Which again, if— okay yeah, no, they’re good. They’re—
+
+
+Travis: Well I mean you got Magic Missile, what more do you need?
+ 
+Griffin: You got Magic Missile, you got Shield, which can protect you in a pinch. You got Mage Armor which increases your AC—
+
+
+Travis: You got Sleep if you’re having a hard time catching some Z’s.
+
+
+Griffin: Yeah. You got Sleep if your doctor refuses to refill your Ambien prescription.
+
+
+Clint: Hey! That’s not funny.
+
+
+[Travis laughs]
+
+
+Griffin: I suppose it’s not. You got Burning Hands, you got the hits, right? But to use those you’ll have to expend a first-level spell slot. Because they are first-level spells.
+
+
+Travis: So you can only use them once.
+
+
+Griffin: You can use each individual spell as many times as you want, but each time you do, you burn one of those spell slots. So you have two first-level spell slots, and when you use one of those spell slots, you burn one of those up, and you can use one other thing from that first-level spell list, and then that will use another spell slot. And with your recovery, you can recover those on a short rest, which is any rest that takes, like, an hour. Basically, you can do that between fights, you drink a Capri Sun, and just like—
+
+
+Travis: Eat a powerbar!
+
+
+Griffin: Yeah, eat a powerbar, eat a LUNA bar, get your electrolytes so right. And when you want a short rest, you can do whatever, on a long rest you basically start back from zero, you get all your spell slots back, you’re fully healed.
+ 
+Justin: So… I also can see in the dark.
+
+
+Griffin: Oh, you have darkvision?
+
+
+Justin: Yeah, I can see in the dark, just like it’s bright light, um, I can only see shades of gray, though.
+
+
+Griffin: Hm.
+
+
+Clint: Oh wow, 50 of ‘em.
+
+
+Griffin: Ain’t that the way. 
+
+
+Justin: Yeah, 50 whole shades. I can have an advantage of saving throws against being charmed?
+
+
+Griffin: Okay.
+
+
+Justin: And magic can’t put me to sleep.
+
+
+Griffin: Except, oh, that is— What a curse! You can’t use your own sleeping spell on yourself to get those good Z’s. Maybe you’re taking a trip tomorrow and you’re nervous—
+
+
+Justin: Actually elves don’t sleep, Griffin. You should know that. They meditate deeply.
+
+
+Griffin: …Fantastic.
+
+
+Justin: Yeah, and I got a Shelter of the Faithful, so I’m a servant of Omec.
+
+
+[Laughing]
+
+
+Travis: Nope!
+
+
+Justin: “I command the respect of those who share my faith and I can perform the rites of Omec, and you and your companions,” that’s you guys, “can expect to receive free healing and care at a temple, shrine or other established presence of Omec’s faith.”
+
+
+Travis: I like the way they phrase that, like, “you can expect to get” like you roll in like [explosion noise] “Heal me!”
+
+
+Griffin: “What’s up. Need heals.”
+
+
+Justin: Okay I’m really dying to, like, actually play, so can, can Dad go—
+
+
+Griffin: We’ll get there, um—
+
+
+Justin: Can Dad go now? 
+
+
+Griffin: I should point out that your divine patron is called Ogma, not Omec. He’s like an actual guy. He’s the god of knowledge—
+
+
+Justin: Well, he’s not an actual guy, Griffin, how deep in are you, buddy?
+
+
+Griffin: I’m pretty deep—
+
+
+Justin: He’s made up for the game.
+
+
+Griffin: I’m pretty deep in. But you’re a wizard! I was confused by this at first, because you’re a wizard, which you typically don’t really think of them as especially devout people, but this is a god of wizardly shit, and so maybe that is what—
+
+
+Travis: It’s also important to keep in mind that where my character’s background is folk hero, his background is acolyte. So that’s why he’s a member of a temple.
+
+
+Griffin: A temple dedicated to getting better at wizard shit, which makes sense. I—
+
+
+Travis: Juice, what’s all your— what’s all your shit, your ideals.
+
+
+Griffin: Well, personality traits and ideals and bonds and flaws are prewritten, and I don’t want you to feel like you have to use the stuff that came with the box. I figure a lot of that stuff is gonna— We’re gonna figure that out as we go along.
+
+
+Justin: Yeah, it’ll emerge.
+
+
+Travis: Alright, Dad, go!
+
+
+Clint: Uh, Merle is a— I’m sorry, I am a—
+
+
+Griffin: No, Merle.
+
+
+Clint: Merle is a hill dwarf. [Clint will later retcon this and say Merle is a “beach dwarf”] Neutral good, used to be a soldier, he was a mercenary soldier.
+
+
+Griffin: Okay.
+
+
+Clint: But the life was just too hard on him. Comes from a big family. All with names like… Nundro Rockseeker, Gundren and Tharden.
+
+
+Griffin: Yeah yeah, sure.
+
+
+Clint: He was not asked to go along with the dwarves in any of the Hobbit movies, and he’s kinda pissed about that.
+
+
+Travis: Mhm.
+
+
+Clint: Cleric. His domain is affiliated with… Marthammor Duin—
+
+
+Griffin: Oh shit.
+
+
+Clint: The dwarf god of wanderers, travelers, and outcasts.
+
+
+Travis: [Stage whispering] Psst, Dad, the interesting stuff is on the front of the page.
+
+
+[Griffin laughs]
+
+
+Clint: Oh! Sorry! Ah, let’s see, he’s a lot of fun at parties, he’s a good dancer, he has that smile that just makes you want to talk about yourself.
+
+
+Griffin: What is his party skill? How hard does he party? You may not have—
+
+
+Clint: He parties like it’s 1999.
+
+
+Justin: Okay.
+
+
+Griffin: Roll to— he has ONE-THOUSAND NINE-HUNDRED AND NINETY-NINE party points?
+
+
+[Everyone giggles]  
+
+
+Clint: What is a party point?
+
+
+Griffin: Why do we even need to play?
+
+
+Clint: What is a party point?!
+
+
+[Intermittent plinking noise]
+
+
+Griffin: Dad already won Dungeons & Dragons with his pre-rolled, broken character! I thought Travis’ was—
+
+
+Justin: Oh my god, who is sorting coins in a jar?! 
+
+
+Travis: I’m sorting out my dice!
+
+
+Griffin: Oh Jesus, you’re getting ahead of the game a little bit. So— so Dad, as the cleric you are, you are, um, healing—
+
+
+[Noise gets louder and faster]
+
+
+—You are going to be healing, but if you look at stuff like— Travis you do need to be quiet this time.
+
+
+Travis: Okay I’m done I’m done I’m done.
+
+
+Griffin: It’s like you’ve made a maraca—
+
+
+Travis: I put them in a glass mug, which, in retrospect, that’s bad podcasting right there.
+
+
+Griffin: Yeah that’s just 101 bad sound. Um—
+
+
+[Handful of dice falls on table]
+
+
+—OH JESUS, PUT THEM DOWN. Set them still.
+
+
+Travis: Okay I’m done now.
+
+
+[Justin cackles]
+
+
+Griffin: Dad, you have a pretty high armor class, which makes you pretty hardy. You also have a warhammer that can deal a lot of damage, so you’re not this frail, weeping, weeping, uh, shrinking… what’s the phrase?
+
+
+Clint: Shrinking violet.
+
+
+Griffin: You’re not that. You can get into the shit—
+
+
+Clint: I plan on it!
+
+
+Griffin: And I imagine that you will.
+
+
+Clint: It’s like when I was in ‘Nam.
+
+
+Griffin: You also have cantrips, like Justin, that you can use at will without burning through anything, you have Light, which casts a light on things, you have Sacred Flame, which is sort of a ranged attack spell, you have Thaumaturgy — I think I’m saying that right — which can be used to shut or open a door, for example? It has a lot of different implications. Here’s what sucks, is they have not picked out your spells for you, like they did for Justin. I guess they knew that you hadn’t played before and they wanted to make this as hard on us as is humanly possible.
+
+
+Clint: Well, I actually have a couple in mind, now I pick… two to pre-prepare?
+
+
+Griffin: So as, I will say as a disciple of life, which is— every cleric has like a specialization? Yours is the life tree, which is basically healing—
+
+
+Clint: Right.
+
+
+Griffin: It’s about being hardy, that is why you have this heavy armor specialization. It’s because you are a disciple of life. Basically, a disciple of not dying. So as a disciple of life, you automatically have Bless and Cure Wounds, you already have those memorized—
+
+
+Clint: Oh, okay.
+
+
+Griffin: You don’t have to spend your time memorizing those, you got those in the bag, basically.
+
+
+Clint: Okay, so, if I— do I need to tell you right now the two I do wanna load up?
+
+
+Griffin: You, you can have— you have four prepared, right? And then when you use one of them it uses up one of your spell slots, but you don’t have to pick the two way, way in advance.
+  
+Clint: Alright, okay, that’s good.
+
+
+Griffin: So, then I think we’re— I think we’re more more or less good to go… I guess just as sort of an overview of how Dungeons & Dragons works, because Dad, you’re literally starting from scratch here. You can see all over your sheet you have different modifiers. Different numbers, different stats, the basic mechanic of Dungeons & Dragons is you say what you wanna do, if it’s something like “I’m going to attack that person,” that’s pretty easy, you just roll your 20-sided die, and then you add a relevant modifier to it, and if it beats their armor, you hit ‘em. That is— That’s sort of the basic idea of Dungeons & Dragons, if you wanna get more creative with it, then there are rules in place that will help me sort of interpret your action and make it something that happens in the game. But almost always it’s going to be: roll a d20, you add a modifier to it, and then if it beats a target then you, you can… you can do it. And you did it, and I’m proud of you. 
+
+
+Clint: Cool, thank you.
+
+Griffin: The only other big thing, and it’s new for Fifth Edition, is the idea of Advantage and Disadvantage, which can be conferred in any number of situations, maybe Justin helps Travis— or sorry, Taako helps, uh, Magnus… Travis, I almost feel like your name is gonna be hard to remember, next to Taako, um, it’ll stick—
+
+Travis: Because I wasn’t creative enough?
+
+
+Clint: Let’s call him Maggie!
+
+
+Griffin: Maggie— [Travis sighs] So Justin, you, Taako, could help Maggie— with a shot, he could restrain an enemy, that would give Magnus an Advantage on his attack, that means you roll two d20 instead of one, and you get to keep the higher result. Um, so—
+
+
+Justin: So that’s like a special power I’d use?
+
+
+Griffin: I mean, no, it is a mechanic that can be used in any number of situations, if you had a surprise attack on an enemy, maybe you jump out of the branches of a tree and attack them from above, I would—
+
+
+Travis: You’re flanking them.
+
+
+Griffin: I could choose if you’re— well that’s… that I guess has gone by the wayside—
+
+
+Travis: Oh really?
+
+
+Griffin: Yeah, if you do sweet shit, and I feel like it, I’ll give you advantage on the attack. Maybe you’re bound, maybe you can’t see an enemy so good, because you got, um, mud in your eye? It doesn’t all have to be about mud, that’s just where I’m at right now— you will have Disadvantage on the attack, which is the same idea, you roll two dice, but you have to take the lower result.
+
+
+Justin: Interesting, okay.  
+
+
+Griffin: Which is bad, you rarely want that.
+
+
+Travis: Ditto, I’ve got a question.
+
+
+Griffin: Yeah, please.
+
+
+Travis: I don’t have any spells, do I have any like, special attacks?
+
+
+Griffin: So let’s talk about that, because you’re coming from Fourth Edition, and in Fourth Edition, everybody had… powers, right?
+
+
+Travis: Uh-huh.
+
+
+Griffin: The idea was, powers, you had at-will powers, you could use at any time, you had encounter powers which you could use once per fight, and daily powers you could use once per day, everybody had that. And they were basically, uh, everybody was a wizard, right?
+
+
+Travis: Mhm.
+
+
+Griffin: Like, everybody had abilities that, “I can shout at you really loud from far away and it does 2d6 damage,” so like—
+
+
+Travis: Yeah.
+
+
+Griffin: So that idea is gone. The rules as they stand now are getting back more to the idea of playing your class. So as a fighter, you are gonna get fucking super good at fighting. You are going to be able to fight, in a melee contest, a lot better than these other two chumps, here.
+
+
+Travis: So that’s why my attack bonus is so high, like I have +5 to attack on all this shit.
+
+
+Justin: Griffin, one other question, there’s a little box that says “Equipment,” is that the stuff that I have right now?
+
+
+Griffin: Yeah, you have those things.
+
+
+Justin: …’kay.
+
+
+Griffin: Did you not like your equipment, do you need to go shopping?
+
+
+Justin: No, it’s all fine… there’s nothing about clothes in here but I figure I’ll have ‘em.
+
+
+Griffin: [Laughing] No you’re actually… no you’re all actually—
+
+
+Travis: No, it says “set of common clothes” at the bottom!
+
+
+Griffin: No, sorry, I’m taking that away from you now. A dragon comes and bites all your clothes off. Mm.
+
+
+Travis: Wait, I like where this game is going. And then what happens?
+
+
+Justin: “Hello, my name is Taako and this is my dick, can I come into your town?”
+
+
+Griffin: “I can save it—”
+
+
+Clint: “Got some gold?”
+
+
+Griffin: “I can save it from goblins and stuff.”
+
+
+Griffin: Yeah, no, you have that. So, basically, if you look on the back of your sheet, it’ll sort of tell you how your characters can develop through the first five levels, which is really all the starter kit covers. The fighter, for instance, is going to get Healing Surge, which is something that everybody had in Fourth Edition, in this edition only fighters get it. Basically, it allows you to heal yourself in battle, you can also—
+
+
+Justin: That’s in the book you said, Griffin? Or on the sheet?
+
+
+Griffin: That’s on the sheet. That’s just what Travis gets, as a wizard you’re gonna unlock more powerful spells, you’re gonna unlock more spell slots, so you can use your stronger spells more frequently in combat—
+ 
+Justin: Okay.
+
+
+Griffin: And everybody gets some cool stuff, but it’s not regimented like powers, it’s not like regimented, “Here is a thing that you will be able to use once in a battle, and it’s gonna create, like, a square of fire” or something. It’s— the rules of Fifth Edition are a lot more about improvising. They’re all about, like, letting you guys roleplay and come up with clever solutions to challenging situations, because where Fourth Edition was more like a war game, like a tactics game, right?
+ 
+Justin: Mhm.
+ 
+Griffin: Fifth Edition is very old school, in the sense that if you just tackle problems by attacking them, by getting in fights every time you see enemies, and— and just like rushing head in? You’re gonna die. Because, like, you, think about it realistically, if you fight everything you see then you’re gonna get the shit kicked out of you. You’re gonna be fighting against things that are gonna be stronger than you, one of you will probably die at some point—
+
+
+Clint: Wait wait wait, what?!
+
+
+Griffin: I’m saying this is, this is very old school D&D, where like your character is very vulnerable. And there’s a lot of things, I’m not gonna like, pull any punches, because frankly I think it’s more entertaining when bad things do happen to you. So you have to be smart, and you have to come up with clever stuff, there’s a resource called Inspiration. That is not actually on your character sheet— they may phase that out of the game, but it’s in the basic rules online. Basically, if any of you roleplay good or comes up with a clever solution to a situation that works for you, I can give you Inspiration, which you can then spend to give yourself Advantage on any roll, so—
+
+
+Clint: Okay.
+
+
+Griffin: If you do think outside the box, I will definitely reward that.
+
+
+Travis: But, but try to think outside the box within the context of what your character would do.
+
+
+Justin: Sure.
+
+
+Griffin: Right, which is a lot more— you have a lot more freedom. And in Fourth Edition, what your character could do is basically what’s printed on these cards.
+ 
+Travis: Mhm.
+
+
+Griffin: That somebody printed out for you—
+
+
+Justin: That sounds more up my alley.
+        
+Travis: Now we gotta be creative and shit.
+ 
+Griffin: Nah, you’re gonna love it, I bet.
+
+
+Travis: Okay.
+
+
+Griffin: I don’t know! I’ve never played this, I’ve never really DM’d before.
+
+
+Travis: Um, I also, I forgot to mention that I, uh, also rolled for a trinket when creating my character—
+                
+Griffin: Oh boy.
+
+
+Travis: And so I have a knife that belonged to a relative.
+
+
+Griffin: Like a butter knife?
+
+
+Travis: It’s like a pocket knife. It’s like a, Swiss army knife, it’s got a toothpick in it, uh—
+
+
+Griffin: Is it like a +8 knife? That you’re not actually—
+
+
+Travis: Well the only description it says is—
+
+
+Griffin: You roll like five d10s on a hit—
+
+
+Travis: When you make your character, you can roll once on the trinkets table to gain a trinket, “A simple item, lightly touched by mystery.”
+
+
+Griffin: No. It’s not lightly touched by killer magic though. I’m gonna say it’s a shitty knife.
+
+
+[Justin and Clint laugh]
+
+
+Travis: No, I don’t think my thing has any magic in it so much as it’s just a tiny—
+ 
+Griffin: Okay, well thanks for stopping the flow of the podcast to let us know that you have a shitty knife.
+
+
+[Justin laughs]
+
+
+Travis: It’s gonna come back into play! I think as we build the story and the character, my tiny knife will come back into play—
+
+
+Justin: [Still laughing] I’m gonna force him to sell it, to pawn his peepum’s knife to buy me out of jail or something.
+
+
+ Griffin: If a fucking— if a fucking skeleton rips your arms off, you’re not gonna be like, “But then, a dragon comes out of my knife and it was there the whole time and he loves me.” That’s not how, that’s not—
+
+
+Travis: “And then he sews my arms back on!”
+
+
+Clint: Man, why didn’t I name myself Peepums?! [Smacks table] 
+
+
+Griffin: Oh god.
+
+
+Clint: Ah well, too late.
+
+
+Justin: Alright, is this the game?
+
+
+Travis: Yeah, this is the game, we won!
+
+
+Griffin: Are you guys ready?
+
+
+Griffin: I’m gonna take you all into the infinite fucking Imagisphere here, are you ready? I’m nervous, like I’m not… I’m not psyched about saying things like “Neverwinter” and “Gundren Rockseeker.”
+
+
+[Justin laughs]
+
+
+Clint: Hey, you knew the job was dangerous when you took it, Fred.
+
+
+Travis: Hold on one moment. Hold on one moment, I’m gonna grab a bag of chips—
+
+
+Griffin: Oh shit,
+
+
+Clint: Oh, this should be good.
+
+
+Justin: Oh, this should make for some good audio.
+
+
+Travis: —and then munch in the microphone.
+
+
+Clint: And then play with your die while you’re doing it.
+
+
+Griffin: Yeah, Travis, you’re not just gonna… you’re not gonna eat chips while we… He’s already gone, he’s—
+
+
+Justin: I’m gonna get some chips too.
+
+
+Griffin: Oh, Jesus.
+
+
+[Various shuffling noises]
+
+
+Clint: Oh, great. So, Griffin, How are ya?
+
+
+Griffin: Pretty good. You nervous, Dad? You’ve never, uh—
+
+
+Clint: No, I got nothing to lose here. I mean, everybody knows that I have absolutely no skill in this game and so I can come in and everybody says “Oh, poor old man, he’s not gonna—”
+
+
+Griffin: You know this is… you know we’re playing… We’re in the demon’s domain right now, right? This is… This is Satan’s territory, essentially.
+
+
+Clint: Cool. I will draw upon my years of reading doorstopper fantasy books and…
+
+
+Griffin: Yeah.
+
+
+Travis: I honestly believe that Dad is going to be the best one at this game. I mean, skill? You gotta roll a dice and not blow it.
+
+
+Griffin: Yeah.
+
+
+Travis: It’s really hard to, like, get skill at rolling a dice better.
+
+
+Griffin: Travis, I’ve just realized, I can’t see what dice you roll. I assume that Dad and Justin are gonna keep each other honest—
+ 
+Travis: Why would I lie?
+
+
+Clint: Because… you’re you?
+
+
+Travis: That’s fair.
+
+
+Griffin: Don’t lie, because honestly it’s so great when you guys fuck up and then have to get yourselves out of—
+
+
+Travis: I’m not gonna lie! I don’t— no! I won’t lie!
+
+
+Justin: I’m back and I made no-bakes!
+
+
+Travis: I just gotta decide what dice to roll, I have like six different dice sets.
+
+
+Justin: Dad and I have no-bakes!
+
+
+Griffin: Do you wanna give us a quick review?
+
+
+Clint: [Chewing] Hmm… they have a certain, um, a certain quality to them that makes you think of wintertime and, uh, and hugs.
+
+
+Griffin: Goddamn. Dad should be DMing this.
+
+
+[Laughing]
+
+
+Justin: All right—
+
+
+Griffin: I wish you. I wish you knew anything about this so you could take this responsibility from me—
+ 
+Travis: Alright let’s do this!
+
+
+Griffin: I’m just saying I wanna have fun, I’m not—
+ 
+Clint: I believe in you, Griffin.
+
+
+Griffin: I’m just saying I’m not gonna have fun playing D&D! Um, DMing.
+
+
+Clint: Well that’s alright, as long as we have fun.
+
+
+Travis: Sounds like a good way to start!
+
+
+Griffin: Cool, so if you guys step in the Imagisphere here—
+
+
+Travis: Okay. [Hovercraft noise]
+
+
+Griffin: [Laughing] That’s the sound of—
+
+
+Clint: I didn’t know we had to do sound effects.
+ 
+Griffin: Yeah, no it’s hovering. So our story actually starts with the three of you— and, you guys can establish, if you want, how Magnus and Taako and Merle know each other.
+
+
+Travis: Craigslist.
+
+
+Griffin: [Laughing] Craigslist—
+
+
+[All laughing]
+
+
+Justin: Which is actually— which is actually a list that a gnome named Craig puts up on a tree every day.
+
+
+Griffin: At a tavern, perhaps, uh—
+
+
+Justin: [High voice] “Wanna make friends? Join my list!”
+
+
+[Griffin laughs]
+
+
+Justin: “Pen thy name here!”
+
+
+Griffin: [Same voice] “M for M, I’ve got a huge… I’ve got a hungry butt! A hungry butt over here, looking for a young stud, a young dryad,” [regular voice] Oh, fantastic.
+
+
+Justin: “Any of you dryads down to clown?”
+
+
+Griffin: Uh, so you find each other on Craigslist, maybe you’ve been doing some odd jobs around, the economy’s in the shitter. And you have a hard time doing work that does not involve goblins and/or skeletons.
+
+
+Travis: Shit.
+
+
+Griffin: Uh. Travis, your carpentry is… Nobody wants chairs nowadays. People are more into ironrought things.
+
+
+Travis: You know iron’s gonna go out—
+
+
+Griffin: Yeah.
+
+
+Travis: It’s gonna go out of fashion, people’ll be back into wicker.
+
+
+Griffin: Bronze Age has gotta end sometime, right?
+
+
+Travis: Mhm.
+
+
+Griffin: And then it’s gonna get retro, back into wood. So the three of you have done a few jobs together, probably. Over drinks one night with Merle’s cousin, whose name is, shit, his name is Gundren Rockseeker— who I assumed is just named that so you know from the start here, that we are now playing Dungeons & Dragons.
+
+
+[All laughing]
+
+
+Travis: His name is Steve Smith.
+ 
+Griffin: His name… these names are uh, outta control. I may eventually shed the booklet I’m going out of. Which I’m really hoping you guys didn’t read, because I bought all of you starter kits, and you could’ve just cheated and read ahead in this adventure. Gundren Rockseeker comes to you guys in a bar. Maybe you’ve had a few drinks, maybe not, I don’t wanna make assumptions. Maybe you’re all straight-edge. Maybe you don’t like to party.
+
+
+Travis: Magnus has had about six ciders.
+
+
+Griffin: Six? Um?
+Travis: But he can— no he can hold his own. It’s pretty weak as apple ciders go, like 3.2.
+
+
+Griffin: Regular apple ciders or virgin? We know that Merle possesses nearly 2,000 party points, so he’s— I imagine he’s been crushing it.
+
+
+Justin: He’s the Andrew W.K. of D&D.
+
+
+Griffin: You’re right. Over cider he talks to you guys about an exciting opportunity. He seems pretty straight-laced. He seems like he’s not giving you no bullshit, and he promises, in a low Dwarven grumble, which I’m not going to do, that—
+
+
+Justin: Do it or I walk.
+
+
+Travis: Griffin, it’s not fun if you don’t do the voices.
+
+
+Justin: Seriously, I’m gonna do a voice.
+
+
+Clint: [Deep grumble] Come on, do the voice, Griffin.
+
+
+Griffin: [Unintelligible grumbling] Ehh [Normal voice] He says that in a— 
+
+
+Clint: There you go.
+
+
+Travis: No wait, hold on!
+
+
+Griffin: No that’s just— that’s how he sounds, you are interpreting these low grunts [sickly groan] basically Slingblade.
+
+
+Travis: “French-fried taters”
+
+
+Clint: “I’m glad we’re gonna go looking for rocks.”
+
+
+Griffin: You interpret from his Slingblade-esque grunts that he has to offer you what he calls the last job you’ll ever need to take. Which you take at face value to mean riches, and not that you’ll die. Not that you’ll be murdered on this journey. But first he wants to know, maybe he’s doing it as a favor to you, Merle, maybe he knows that you’ve had some hard times lately and— 
+
+
+Clint: Yeah, religion business is not good.
+
+
+Griffin: No, people are not crazy about fantasy Jesus. I forget, who’s your— who’s your god?
+
+
+Clint: That would be Marthammor Duin.
+
+
+Griffin: I’m just gonna go with Duin.
+
+
+Clint: Which is Portuguese for Jesus.
+
+
+Griffin: [Laughs] But before he will let you into this exciting opportunity that you tried to press him on and he refused to tell you any more about, he basically wants to audition you, to see if you are capable of handling—
+
+
+Travis: So is this like a two contrasting monologues or?
+
+
+Griffin: Uh, yeah, he wants one that shows excitement, one that shows impotent rage. No, he wants a—
+
+
+Clint: And a two-minute song.
+
+
+Griffin: He was thinking more along the lines of slaying. Protecting. Guidance.
+
+
+Justin: Ah, got it.
+
+
+Griffin: Adventuring, essentially.
+
+
+Justin: [proto Taako voice: nasally and crisp] Excellent.
+
+
+Griffin: So he has asked the three of you to escort a supply wagon from the town of Neverwinter, where the three of you are currently held up, to the town of Phandalin. Which none of you have actually been to, but maybe you know a thing or two about it. If you want, you can make a history check to see if you know anything about it, and since this is your first check, I guess I’ll explain how that works. If you look on your sheet, you’ll see a history stat there in the skills. So you roll yourself a d20.
+
+
+Travis: Mine is +0 because I’m not very intelligent.
+
+
+Griffin: It’s actually a wisdom-based roll. So what basically—
+
+
+Justin: History?
+
+
+Griffin: Yeah, history is a wisdom. No that is intellect, you’re right.
+
+
+Justin: Can I roll?
+
+
+Griffin: Everybody can roll, sure.
+
+
+Justin: I got a… 12.
+
+
+Travis: I got an 18.
+
+
+Griffin: Eighteen raw?
+
+
+Travis: Yeah.
+
+
+Griffin: Dad, you wanna? Merle you wanna give it a shot?
+
+
+Clint: I got a nine.
+
+
+Griffin: You rolled a nine or with your mod—
+
+
+Clint: My modifier is 0 in history.
+
+
+Justin: This is our first roll in our fanta— this magical fantasy world and we’re basically using it to fucking MapQuest something.
+
+
+[Laughter]
+
+
+Justin: We’re basically using it to Yelp this shitty town.
+
+
+Travis: Siri, tell me about [mispronounces Phandalin] Phaladuin.
+Griffin: Um, it’s Phandalin.
+
+
+Travis: Whatever.
+
+
+Griffin: You guys might want to get some notebook paper.
+
+
+Justin: I wrote it down. I wrote it down.
+
+
+Griffin: Oh you did, fantastic!
+
+
+Justin: So did Dad.
+
+
+Griffin: So Travis, you know, given that you’re pretty goddamn dumb—
+
+
+Travis: Thank you.
+
+
+Griffin: You still know, which the other two should be ashamed that they couldn’t pull this out, that Phandalin is a old mining town. That used to be very very prosperous. They had a very productive mother lode operation going on there. But the town was ransacked by—
+
+
+Travis: Do we know what they were mining?
+
+
+Griffin: Actually, they were mining magical ores. They found a deep magical vein within the earth and sort of the creation of magical items and the— the mining of ores that could be used inside those items sort of turned it into a extremely profitable town very very quickly. But it was basically destroyed by a wave of orcs that swept over the land. It’s on the up and up now. It’s sort of being rebuilt—
+
+
+Clint: So the vein is still there, right? The vein of magical ore is still there?
+
+
+Griffin: It is long since been lost. This was long ago. They don’t have that economy anymore, but the town is being rebuilt by enterprising individuals. It’s more rugged, imagine like Deadwood but shittier. Shittier than Deadwood, which already wasn’t super great.
+
+
+Travis: Got it.
+
+
+Griffin: And Gundren—
+
+
+Travis: And the name of that town one more time was?
+
+
+Griffin: Phandalin.
+
+
+Clint: Phandalin.
+
+
+Griffin: Phandalin.
+
+
+Travis: Phandalin… 
+
+
+Griffin: Gundren seems to have a vested interest, him and his family. His immediate family. Merle, you aren’t so involved in Phandalin’s reconstruction. But Gundren seems very invested in that town. 
+                              
+Clint: Okay. 
+
+
+Griffin: And its growth. So he has asked you to basically bring a supply run from Neverwinter to Phandalin. It’s about a two, three day ride on a uh, on a wagon. 
+
+
+Travis: Is he expecting trouble? 
+
+
+Griffin: Uh, no. Not really. 
+
+
+Clint: Well he’s gonna get it!
+
+
+Griffin: Well, you don’t—
+
+
+Travis: No, he’s giving us the job. 
+
+
+Griffin: He’s giving you a job right now. 
+
+
+Clint: Yeah.
+
+
+Travis: Listen—
+
+
+Clint: Not a good employee. 
+
+
+Travis: —listen up, Merle. 
+
+
+Griffin: Uh. He has asked you, basically, to transport a wagon full of goods, maybe a few of his personal effects—
+
+
+Travis: Mhm.
+
+
+Griffin: —from Neverwinter to Phandalin. 
+
+
+Clint: Great.
+
+
+Griffin: Uh. And it sounds like a pretty easy job, but you never know—
+
+
+Justin: Can I ask a question?
+
+
+Griffin: Yeah, please.
+
+
+Justin: Is this entire adventure dictated through exposition, or—
+
+
+Griffin: No no no, we’re gonna get—
+
+
+Justin: —or right now. 
+
+
+Griffin: This is, this is stage-setting.
+
+
+Justin: Is this a game— is Dungeons & Dragons listening to you do exposition? 
+
+
+Griffin: No. Not for the most part.
+
+
+Justin: Okay.
+
+
+Griffin: I got— this is me planting the seed. I’ve actually already planted the seed, and now I have to cover it in soil and nurture it for a bit. And then it’s gonna, I’m just gonna blow on it and that’s it. 
+
+
+Justin: Okay.
+
+
+Travis: I do know Justin, from my limited amount, what always makes D&D better is questioning how long it’s taking. 
+ 
+Griffin: Yeah.
+
+
+[Clint and Travis laughs]
+ 
+Griffin: Uh. He has offered you a— 10 gold pieces apiece.
+
+
+Clint and Travis: Each?
+
+
+Griffin: Each, yes.
+
+
+Travis: Nice. 
+ 
+Griffin: Which, um, I mean, I’m not your boss, but that’s not a lot of money. But hey—
+
+
+Travis: Is he open to negotiation? Can I roll for intimidation to see, or?
+
+
+Griffin: You could—
+
+
+Justin: This was in the past I thought— I thought we weren’t playing yet. 
+ 
+Griffin: Uh, this actually did happen in the past, yeah.
+
+
+Travis: Aw. 
+
+
+Justin: Okay.
+
+
+Griffin: Payment on arrival, maybe you can try and negotiate? But yeah, he has offered you to do the supply run. The payment’s not great, but the promise that the last job you'll ever need to do certainly, um, did it for you. So. Uh.
+
+
+Travis: Gotcha.
+ 
+Griffin: You are now, you’re all on the road! This is where we find our heroes. Right now. 
+
+
+Travis: Am I driving the cart? ‘Cause I actually, I have a proficiency in vehicles.
+ 
+Griffin: Do you really?
+
+
+Travis: I do!
+ 
+Griffin: Okay. You can be driving the car, so we can say— it’s basically like a covered Conestoga wagon—
+
+
+Travis: Mhm.
+
+
+Griffin: Covered by a canvas tarp over it, and led by two oxen that, um—
+
+
+Justin: Did uh, did he give us a map?
+
+
+Griffin: You have a map, yeah.
+
+
+Justin: Do we know how long of a ride it is, to Phandalin—
+
+
+Griffin: It’ll be about two days.
+
+
+Justin: ‘Kay.
+
+
+Griffin: …There’s a lot of like, game shit about— about having to stop and forage, and how much money are you spending on food and— but I hate all that stuff, like, I’m gonna leave it out.
+
+
+Travis: No, F that S.
+
+
+Clint: Is he, is he along with us, is it just the three of us?
+
+
+Griffin: So, Gundren is actually going up ahead of you guys.
+
+
+Clint: Okay.
+
+
+Griffin: With a fighter escort, named Sildar Hallwinter, whom you’ve never met, he was not actually at the tavern last night. 
+
+
+Clint: Mixer?
+
+
+Griffin: [Laughing] He was not at the wine mixer, where you guys uh—
+
+
+Travis: And his name one more time?
+
+
+Griffin: Uh, Sildar Hallwinter.
+
+
+Justin: Yeugh.
+
+
+Griffin: Um. Yeah.
+ 
+Travis: It sounds disgusting.
+
+
+Clint: I’m just gonna call him Silly.
+
+
+Griffin: Barry… Barry Bluejeans. Uh.
+
+
+[All laughing]
+
+
+Griffin: I can call— that’s what I'm saying—
+
+
+Travis: Griffin—
+
+
+Griffin: This is our game, we can do whatever we want. I can start calling these creeps Barry Bluejeans, and, uh—
+
+
+Clint: You’re good.
+
+
+Griffin: Okay. 
+
+
+Justin: I’ll leave that to you. 
+
+
+Travis: Sildar Hallwinter does not stick in my head but Barry Bluejeans I’ll never forget.
+
+
+Griffin: Okay, Barry Bluejeans it is! That’s his name now. 
+
+
+Travis: So, when you say they’re up ahead, like, a day ahead, 20 yards ahead…
+
+
+Griffin: Uh, he left that night. You guys are taking off in the morning. About a half-day ahead.
+
+
+[Justin snickers]
+
+
+Griffin: He’s very excited to get there, so he bounced. He took off. 
+
+
+Justin: [Laughing] Did I bring the ingredients to create, what people of our world—
+
+
+[Griffin bursts out laughing]
+
+
+Justin: —would refer to as a taco. 
+
+
+Griffin: There’s a problem, there’s no cultured milk, at this point in the world. 
+
+
+Justin: Okay.
+
+
+Griffin: You’re gonna have a hard time with a soured cream.
+
+
+Justin: Alright. 
+
+
+Griffin: Once you can crack that fucking riddle man—
+
+
+[Justin chuckles]
+
+
+Griffin: —I’ll give it to you. 
+
+
+[Justin and Travis laugh]
+
+
+Griffin: I will shower you with riches. As the taco magnate. 
+
+
+Clint: Cast—
+
+
+Justin: Okay, got it. 
+
+
+Clint: —cast Lactose Intolerant.
+
+
+Justin: Did we bring food? 
+
+
+Griffin: Yeah, you have food. Don’t worry about it. 
+
+
+Clint and Justin: Okay.
+
+
+Griffin: Um…
+
+
+Travis: We eat the oxen.
+
+
+Griffin: You eat the oxen. No, don’t do that. I mean it’s funny, you guys are travelling with a lot of general store goods—
+
+
+Travis: Mhm.
+
+
+Griffin: Maybe a— a bunch of parcels of light leather armor, um, some tiny, almost like blasting caps? Uh, like powder kegs? 
+
+
+Justin: Are they ours, or are we just like hitching a ride?
+
+
+Griffin: They are what you’re taking to a storefront in Phandalin, called Barthin’s Provisions. Um, and upon receipt, they will give you your payment. But you got those— you got some armor, some blasting caps, some food, basically—
+
+
+Justin: Is this the gig we’re doing for 10 gold apiece? 
+
+
+Griffin: Yeah.
+
+
+Justin: Just dropping off some supplies?
+
+
+Griffin: Well, traveling with it. 
+ 
+Travis: And we arrive safely?
+
+
+Griffin: And we’ve got their—
+
+
+Travis: And we’ve done another successful adventure—
+
+
+Griffin: Well not yet. 
+
+
+Travis: Everyone gets 2,000— ok.
+
+
+Griffin: Um. There’s a small leather chest that you’re traveling with that belongs to Gundren. Also travelling with you is Gundren’s pet dog— [Travis gasps] Who is—
+
+
+Travis: A direhound?
+
+
+Griffin: No. It’s a—
+
+
+Travis: Aw.
+
+
+Griffin: —it’s a bulldog, tiny bulldog, not— doesn’t look especially threatening, doesn’t look scrappy, sorry Travis. It’s the ugliest dog you’ve ever seen. It’s basically two butts. With some legs in the middle there. It’s basically butts all over.
+
+
+Travis: Like a reverse CatDog. 
+
+
+Griffin: Yeah. It has been pretty tame on your journey, sleeping most of the time among the provisions. But yeah.
+
+
+Travis: Does the bulldog have a name? 
+
+
+Griffin: Uh, the bulldog’s name is… Ruby. Just made that up!
+        
+[Momentary silence]
+
+
+Travis: Got it. 
+
+
+Justin: You’re such a good DM.
+
+
+Griffin: Thank you. The dog’s name is Ruby. 
+
+
+Clint: Okay. [Clears throat] 
+
+
+Griffin: So you have a lot of stuff that you are traveling with, you— So much so that you couldn’t really take it and get out and walk. But that doesn’t matter because you have this oxen-led wagon. You can establish where you guys are on this wagon, maybe one of you is keeping a lookout from the rear? Maybe one of you is riding on top like Teen Wolf?
+
+
+Justin: I’m in the— I’m in the back with the goods.
+
+
+Griffin: Okay. 
+
+
+Travis: And I’m driving. 
+
+
+Griffin: Are you getting high on your own supply? Are you maybe eating an apple? Maybe eating an apple you shouldn’t be eating?
+
+
+Justin: No. Not yet.
+
+
+Griffin: Okay. Alright. Travis, you’re driving the oxen, you said?
+
+
+Travis: Yes.
+
+
+Griffin: Okay.
+
+
+Travis: With my vehicle proficiency, I am driving quite well. 
+
+
+Griffin: [Laughing] I don’t know how to interpret vehicle proficiency—
+
+
+Travis: Everyone is very impressed with how well I’m driving—
+
+
+Griffin: I’m not gonna— you’re not gonna hit a fucking ramp— 
+
+
+[Justin bursts out laughing]
+
+
+Griffin: —with your oxen.
+
+
+Travis: [Laughing] Listen, if we gotta get away from Boss Hogg, I’m the guy you want at the front of the wagon.
+
+
+Griffin: Yeah, sure he does. Uh, Merle? Where are you, what are you doin? What’s your seat?
+
+
+Clint: I am probably studying my cantrips.
+
+
+Griffin: Okay. Just prioritizing—
+
+
+Travis: [Laughing] Just say masturbating, dad. 
+
+
+[Everyone bursts out laughing]
+
+
+Clint: I’m deep in thought—
+
+
+Travis: Don’t come in mom, I’m studying my cantrips!
+
+
+Clint: —‘cause something about this whole thing stinks to me. I’ve never liked Gundren—
+
+
+Griffin: [Laughing] I, uh—
+
+
+Clint:  —and I think there’s something up. 
+
+
+Griffin: I guess, I guess like, why can’t he do both? Why can’t he masturbate and also cast Ethereal Light onto things? 
+
+
+Clint: I don’t see a roll for that. 
+
+
+Travis: [Giggling] Roll to masturbate! Let’s do it!
+
+
+Clint: Sleight of hand! Sleight of hand, maybe? 
+
+
+[Griffin and Travis laugh]
+
+
+Justin: Hey listen. Can I do things yet? 
+
+
+Griffin: Uh, yeah. So you guys have just made the brunt of the journey, about a day and a half after leaving Neverwinter. You’ve basically turned off the high road that connects the major cities on the coast. You’ve taken the off-ramp that will lead you to Phandalin, and things definitely are not as well maintained. Lot of potholes.
+
+
+Travis: Don’t worry, I got this.
+
+
+Griffin: Not a lot of great infrastructure. So as you’re traveling a few… say about 30, 40 miles out from Phandalin? I want you all to make a perception check, which you can see the modifier there. I will explain what this is, for people who are listening, basically all the skills… have a defining action next to it.
+
+
+Travis: I rolled a critical 20.
+
+
+Griffin: Oh, shit. So you did very well. Perception is a wisdom skill, so you roll your wisdom modifier, which is in that row on the left— and then if you are proficient in that skill, which is, if it has a little circle next to it, that means you’re just a little bit better at it. So you add your proficiency bonus, which is at the top of the page there. And that factors into a lot of stuff. Spellcasting, attacking, your proficiency bonus plays a hand in a lot of rolls that you make. 
+
+
+Justin: I got a, uh, eight. 
+
+
+Griffin: Eight total?
+
+
+Justin: Yeah.
+
+
+Griffin: And Merle? 
+
+
+Clint: Pshew. Wow. Uh… six.  
+
+
+Griffin: And what’d you get, Travis?
+
+
+Travis: I got a crit 20, so that’s 23?
+
+
+Griffin: Twenty-three. Okay. You see the shit out of everything. 
+
+
+Travis: Mhm.
+
+
+Griffin: Travis, you see about 200 feet up— lying in the road two figures that with your incredible perception check, you can actually tell, with your eagle eyes, that they are two dead horses. Lying in the middle of the road.
+
+
+Travis: Seems fine. [Laughing] Nothing seems strange at all. 
+
+
+Griffin: As the driver of the wagon, you can I guess decide—
+
+
+Travis: Yeah, I’m gonna stop the wagon. 
+
+
+Griffin: Okay. You bring it to a stop, about 200 feet out—
+
+
+Travis: And I motion silently, to get the attention of Merle and Taako, and  kinda pull them up towards the front of the wagon. 
+
+
+Griffin: Okay. You have a few moments there where you warn them that shit has gone south. I’ll use that same perception check, you notice a few figures crouching in a part of the shaded wood, sort of off to the side of the road. 
+
+
+Travis: Do they seem to have noticed us? Like are we in bright sunlight?  
+
+
+Griffin: They have actually noticed you, and two of them are charging your wagon as you speak. So because you notice them, they did not get a surprise round on you, which would have been very, very bad. But I do need all of you to roll initiative. 
+
+
+Travis: Yay!
+
+
+Griffin: So initiative, father, is the thing that you roll before a fight starts, and it determines who goes when. 
+
+
+Clint: Alright.
+
+
+Griffin: So you have—
+
+
+Clint: Just rolled an eight. 
+
+
+Griffin: Give me— give me a second.
+
+
+Travis: Ugh. I got a five altogether. 
+
+
+Griffin: You— five altogether.
+
+
+Clint: I rolled— I rolled a 14.
+
+
+Griffin: So Travis got a five—
+
+
+Justin: Actually I have a 10. All day. 
+
+
+Griffin: And what did you get?
+
+
+Clint: Fourteen.
+
+
+Justin: Minus.
+
+
+Clint: Minus, oh I’m sorry, minus—
+
+
+Justin: Minus one. 
+
+
+Clint: Thirteen. 
+
+
+Justin: Thirteen.
+
+
+Griffin: Oh, so you have a minus, okay. Then I will roll for the goblins, here, that are storming you. I’m gonna start you out with goblins because it seems like comfortable territory. You guys are familiar with the concept of a goblin. So it’s my first time ever doing this. Oh, they rolled a critical miss! So they are going to go last, I assume. 
+
+
+Travis: So, Dad and Justin, so you guys know, cause we’ve mentioned crits now twice. If you roll a 20, a natural 20, it is the best you can do. If you’re doing—
+
+
+Griffin: It’s the best you can do if you’re doing—
+
+
+Justin: No shit. [Laughs] 
+
+
+Griffin: [Laughing] If you do it in a fight, you get to deal bonus damage, essentially. With your weapon or your spell.
+
+
+Travis: And you automatically hit.
+
+
+Griffin: And you automatically hit if you roll a 20. You don’t have to add anything to it. If you roll a 1, that’s a critical miss— or a critical shit— and that means you missed no matter what. 
+
+
+Travis: And usually you like, fall in a cowpie or something. 
+
+
+Griffin: Yeah, there’s always a cowpie, [laughing] I summon up a cowpie in front of you, for you to fall into—
+
+
+Justin: Okay.
+
+
+Griffin: Hysterically. 
+
+
+Justin: How many are there?
+
+
+Griffin: There are three: two of them are rushing the group, one is pretty heavily obscured by the brush, probably about 40 feet out, sort of between you and the horses laying in the middle of the road. So yeah, the goblins are getting… they got pretty close, before this fight started. They moved, before anybody moves or takes any actions, we will start at the top of the order, which is Dad. Merle. So if you look inside of the rulebook that came with the starter kit, I don’t know if you have that in front of you or anything, it has a list of actions you can do.
+
+
+Travis: Okay.
+
+
+Justin: What section, under?
+
+
+Travis: Actions and combat, Page 10.
+
+
+Griffin: Yep. Essentially, on your turn, the two basic things you can do are move, which you can do up to your speed, which is on your sheet there. It typically… in D&D Fourth Edition you had a game board where you could track position. Here it’s not as important, I kind of fudge a lot of it. And I try to keep in mind like, who is where, who’s fighting whom… so yeah, you can take a movement, up to your speed, you can—
+
+
+Clint: Do I have to take a movement? 
+
+
+Griffin: You do not, no. 
+
+
+Clint: Okay.
+
+
+Griffin: You can also take an action. Those actions might include attacking with one of the weapons you have, casting one of your spells, be it a cantrip or a first-level spell, maybe you want to drop a Sacred Flame on one of these guys? You have a lot of other actions you can do, other than just fighting. You can try and grapple an enemy, you can aid one of your teammates, you can try and do another perception check to search the area for other dangers. You can… You can basically do anything—
+
+
+Clint: Okay.
+
+
+Griffin: —And there will be a rule to interpret that idea. 
+
+
+Clint: Well. I— I know what I want to do.
+
+
+Griffin: Okay.
+
+
+Clint: I wanna cast—
+
+
+Griffin: So where were you—
+
+
+Justin: Can I ask one quick question?
+
+
+Griffin: Yeah yeah yeah.
+
+
+Justin: Are we definitely sure that these are bad guys?
+
+
+Griffin: They have weapons drawn and are rushing at your cart.
+
+
+Travis: [Laughing] And saying “Welcome!”
+
+
+Justin: Would it— would it spend like a turn if Dad was like, “Whoa whoa whoa kemosabes— You cool? Hey, you cool?”
+
+
+Travis: I— Most of the time, just kinda general rule of thumb… when your DM tells you to roll for initiative, you’re in combat.
+
+
+Justin: Okay.
+
+
+Griffin: You’re in combat, but, but! You can, as a free action, you can speak, because speaking does not take up action.
+
+
+Justin: Okay.
+
+
+Griffin: There are a lot of things that can be considered free actions, be it drawing your sword— that doesn’t take your action, or else that would be shitty! Talking to somebody? Not an action. Sometimes using an object, like, maneuvering a complicated like device? That will take an action. It’s kinda up to my discretion what does and doesn’t take up an action.
+
+
+Clint: Okay, I—
+
+
+Griffin: So if you want to, if— if you wanna, you could also make an insight check for free, to see if these guys mean business or not. Or you can talk to them— they probably won’t know… the language you’re speaking.
+
+
+Clint: Well I think what I’m gonna do is cast—
+
+
+Justin: Hurt them.
+ 
+Clint: I wanna cast Bless—
+
+
+Griffin: Okay.
+
+
+Clint: On, uh, on the uh, members of the party.
+
+
+Griffin: So as, just to give you— sort of explain what’s going on— you only have, I think, two spell slots. So if you use Bless right now, at the beginning of the first fight—
+
+
+Clint: But I thought Bless was one of the ones that I have… that I don’t have to use a slot for?
+
+
+Griffin: No no no, Bless…means— that just means that you have it memorized, you didn’t have to learn it. But if you cast it, you are going to eat up—
+
+
+Justin: Unless it’s a cantrip, cantrips don’t use slots.
+
+
+Griffin: Exactly. So you could cast Light, or Sacred Flame, or Thaumaturgy— Sacred Flame is really your combat cantrip. If you wanted to do that.
+
+
+Clint: But it’s not a buff, right?
+
+
+Griffin: Or you could get— No, it is a debuff, in the sense that you set their asses on fire.
+
+
+Clint: Alright. I’ll—
+
+
+Griffin: That is, yeah. Or you could run up to them and smash them with your warhammer.
+
+
+Travis: And we’re still above them, right, because we’re on the cart?
+
+
+Griffin: Uh—
+
+
+Travis: They’re on the ground?
+
+
+Griffin: Travis, you are sort of in the saddle, driving the cart— all three of you are sort of towards the front of the cart, where Magnus summoned you up to, to warn you, “Hey, dead horses.” So you are all basically towards the front of the cart and could easily hop down, it’s not especially high up.
+
+
+Clint: Okay, so, there is not really a buff at this level that I can throw on you guys to help you in combat.
+
+
+Griffin: Not without burning through one of your spell slots.
+
+
+Clint: Okay.
+
+
+Griffin: Which, I will, out of character tell you, these goblins probably don’t merit the caution—
+
+
+Clint: Okay.
+
+
+Griffin: That you’re putting into it.
+
+
+Clint: What was the, the bolt thing you told me about before?
+
+
+Travis: Sacred Flame.
+
+
+Griffin: You have Sacred Flame.
+
+
+Clint: Sacred Flame? Alright, I will uh, hit ‘em with a Sacred Flame.
+
+
+Griffin: Sacred Flame… Hopefully Dungeons & Dragons will come up with an application that will keep you from having to look up your spells as you cast them. So Sacred Flame you cast upon one creature that you can see, it’s got a range of 60 feet, which is— you got it. You’re looking out the front of the wagon, so you can obviously see him, and they make a dexterity saving throw or they take 1d8 radiant damage. So eight plus five— okay so I think the formula for saving throws is eight plus whatever your spellcasting modifier is, which is +5, so they have to beat a 13, or else they’re gonna be set on fire.
+ 
+Clint: Okay…
+
+
+Griffin: A 10, plus two is 12, so—
+
+
+Justin: Griffin, it says in the spell description here that the target has to succeed on a dexterity saving throw.
+
+
+Griffin: Right, that is what they’re attempting to do—
+
+
+Justin: Okay, right, right, got it.
+
+
+Griffin: They rolled a 12, so they barely miss— so you roll 1d8, you roll the eight-sided die, and that will establish how much damage they take.
+
+
+Clint: Okay. [To Justin] Is this…?
+
+
+Justin: [Checking the die] Yeah… is it?
+
+
+Clint: [Quietly] Yeah, yeah, okay—
+
+
+Travis: It’s the one that doesn’t have any numbers higher than eight.
+
+
+Clint: I rolled a six!
+
+
+Griffin: That is pretty— That’s very very good. So you attack, you launch some fire onto the goblin closest to the wagon, and with that, he looks, like, upon death’s door. And the other goblin that you can see, the one that’s not in the brush somewhere, just sorta stops in his tracks and is like “Aww, shit.” And that is… where he’s at. Next in order is Justin.
+
+
+Travis: Blast that one in the brush!
+
+
+Justin: I’m gonna…Uhh. How far away is the one in the brush, Griffin?
+
+
+Griffin: Uh. The one out in the brush is about 40 feet out.
+
+
+Justin: Okay, now, question.
+
+
+Griffin: Yeah.
+
+
+Justin: Do I see the one in the brush?
+
+
+Griffin: You actually do not. Travis is the one who spotted him.
+
+
+Travis: Oh okay.
+
+
+Justin: Um—
+
+
+Griffin: You can search for the, you know, sort of the general direction? If you tried to cast a spell at him right now you’d have Disadvantage. Because you don’t… exactly know where he is. If you wanna do a perception check it would take up your turn, but you could get a pretty good idea of where this person is.
+
+
+Justin: No, I’m gonna blast the one that Merle hit, with a Ray of Frost.
+
+
+Griffin: A popular— popular skill.
+
+
+Justin: Thank you.
+
+
+Griffin: Break off Ray of Frost for me, what’s it do?
+
+
+Justin: It’s “A frigid beam of blue-white light streaks towards a creature within range. You make a ranged spell attack against the target—”
+
+
+Griffin: Gotcha.
+
+
+Justin: Okay.
+
+
+Griffin: Your attack bonus when you make an attack with a spell is +5, so you roll against their AC.
+
+
+Justin: Alright, so they need a th—
+
+
+Clint: So when I did mine last time, I should have added five—
+
+
+Travis: No, that’s what your 13 is.
+
+
+Clint: Okay, gotcha, okay.
+
+
+Griffin: …Uh, what did you roll, Juice?
+
+
+Justin: What do I roll, a d20?
+
+
+Griffin: You roll a d20, and you add five.
+
+
+Justin: Okay. Alright.
+
+
+Clint: Whoa!
+
+
+Justin: So, that’s a 24.
+
+
+Griffin: Holy shit, yeah you blast that thing. And you were attacking the one that Merle just hit? Or the one Merle hasn’t—
+
+
+Justin: The one Merle just hit, yes.
+
+
+Clint: Hey, at least you put him out, he was on fire.
+
+
+Griffin: Okay, uh, you gotta roll your damage now, which is…
+
+
+Justin: It’s a d8.
+
+
+Griffin: d8.
+
+
+Clint: Nice!
+
+
+Justin: Uhh, six.
+
+
+Griffin: You don’t add anything to that, it’s just—
+
+
+Justin: Right.
+
+
+Griffin: Okay. You freeze him instantly, you flash freeze him, and he sort of topples to the ground and shatters.
+
+
+Justin: Yeah! It’s our first kill!
+
+
+[Clapping]
+
+
+Clint: Yeah!
+
+
+Griffin: It’s your first kill!
+
+
+Justin: So, why am I so horny?
+
+
+[Laughter]
+
+
+Justin: I’m broken inside!
+
+
+Griffin: It’s the horrible thing, if you had talked to them you would have realized that they’re part of a Hug Committee. They were running forward to hug you, to give you a hug— Uh. Travis, you’re up.
+
+
+Travis: So, here’s what I’m trying to decide, other team members, do I jump down—
+
+
+Justin: If you’re talking to us, you need to talk in character, and it needs to be a free action.
+
+
+Travis: Okay.
+
+
+Magnus: [No change in voice] So, Taako, Merle—
+
+
+Griffin: Do a voice, son of a bitch.
+
+
+Magnus: [Exaggerated deep voice] Taako! Merle! Do I jump down—
+
+
+Griffin: Ah, don’t do a voice, don’t do a voice, don’t do a voice.
+
+
+Travis: Okay, great.
+
+
+Magnus: [Normal voice] Should I jump down and smash the other one running towards us, or should I—
+
+
+Travis: Well, I can’t get to him if he’s 60 feet away— Do they have charge in this game?
+
+
+Griffin: So not as a… ability where you get to move double your movement and attack. You can dash as an action, which is basically, you get to move again. You doubled your speed essentially—
+
+
+Travis: Mhm.
+
+
+Griffin: But no. You can move and do a ranged attack. And you have— you’ve spotted these guys, you know where the other one is in the brush, so you could ostensibly do that.
+
+
+Travis: Unless I can throw my battle-axe… I do not have a ranged attack.
+
+
+Griffin: You should, you should ha— Oh I guess you rolled your own guy so I don’t know—
+  
+Travis: Yeah I went for, um, a wooden shield instead of a buckler, and didn’t take a ranged— I mean, I could—
+
+
+Griffin: Okay. You could throw your shield at him, Captain America. Probably wouldn’t go so great.
+
+
+Travis: Well, so, then that’s the question, is I feel like I lose… I lose— should I take out the one closest to us?
+
+
+Justin: Yes!
+
+
+Travis: Okay great. I’m gonna jump off the cart and try to kinda— so I can swing my battle-axe double handed if I haven’t drawn my shield yet off my back—
+
+
+Griffin: Okay, but keep in mind that your armor’s going to be lower as a result of that.
+
+
+Travis: Yes.
+
+
+Griffin: Okay!
+
+
+Travis: I have to do that. But for right now I’m going to jump off the cart and try and come down on top of him, swinging my battle-axe two handed.
+
+
+Griffin: Okay. What does that mean—
+
+
+Travis: Which I assume grants me advantage.
+
+
+Griffin: If you do a leaping strike from the wagon, down… down onto the domepiece of this—
+
+
+Travis: Mhm.
+
+
+Griffin: Of this gorblin, is what you’re telling me.
+
+
+Travis: That’s what I’m trying to do.
+
+
+Griffin: The gorblin is probably about 15 to 20 feet away from you, he’s not right next to the wagon so that’s a, that’s a—
+
+
+Travis: [Laughing] Well, Magnus has a vertical leap of 18 feet.
+
+
+Griffin: I’m gonna make you— I’ll let you do it, but you have to make a very low athletics check. If you’re just jumping, that’s athletics.
+
+
+Travis: Terrific, I have +5 athletics.
+
+
+Griffin: Alright, we’ll say you need to beat a—
+
+
+Travis: So that’s 16.
+
+
+Griffin: Yeah that’ll do. That’ll do pig—
+
+
+Travis: Great.
+
+
+Griffin: So you are allowed to make this stupid attack that you’re making.
+
+
+[Justin laughs]
+
+
+Travis: So, doing the battle-axe two handed means my damage is 1d10 instead of 1d8—
+
+
+Griffin: Okay, but you have to actually roll the attack.
+
+
+Travis: Yes, I realize this—
+
+
+Griffin: Okay. And you have advantage, so you can roll 2d20.
+
+
+Travis: Great. So I rolled a 20 right there, so I’ll roll again—
+
+
+Griffin: You rolled a crit?!
+
+Travis: No—
+
+
+Griffin: Okay.
+
+
+Travis: It was a 15 plus five, and then a nine, so I— a 20, was my highest—
+
+
+Griffin: Okay, yeah, that’ll— that’ll do it.
+
+
+Travis: And I’m gonna roll 1d10… is that this one? Yeah…So that’s 10 plus three, 13.
+
+
+Griffin: You rolled max damage.
+
+
+Travis: Yes.
+
+
+Griffin: You cut the thing in half, longways. You cut the thing in half—
+
+
+Travis: The knave to the chops.
+
+
+Griffin: In like the direction that, if you had your choice, you would least like to be cut in half, I would say.
+
+
+[Laughter]
+
+
+Travis: Got it.
+
+
+Griffin: You have— the least survivable halving that could possibly be conceived. So you guys are moving through this much faster than I thought you would. Um… shit! So the other goblin that’s out in the brush pops up, almost like “Yeah, guys, get ‘em— Oh no, no God no—” he sees—
+
+
+Travis: [Laughing] “Not my friends!”
+
+
+Griffin: He sees, he says,
+
+
+Goblin: Wait, I thought there were only two gorblins out there, why are there— why are there three over there OH JESUS, JERRY NO.
+
+
+[Laughter]
+
+
+Travis: “He just had a kid!”
+
+
+Griffin: He is uh…
+
+
+Travis: “Oh Jerry…”
+
+
+Griffin: He is horrified, and draws a… what does he draw… draws a short bow and takes an arrow out of his quiver, and seems to fidget with it for a bit. And then you see him light the arrow on fire, and—
+
+
+Travis and Justin: Aww.
+ 
+Griffin: —launch it—
+
+
+Justin: Crap.
+
+
+Griffin: —in the direction of… we’ll say Magnus? Um. Since you are actually— actually, who’s still on the wagon?
+
+
+Travis: Both of them are still on the wagon.
+
+
+Justin: Merle and Taako are still on.
+
+
+Travis: I fell off the wagon.
+
+
+Griffin: Let’s see… Let’s say he launches it at Taako. So he makes a ranged attack. He rolls a five plus five, which is…
+
+
+Justin: [Whispering] Ten. It’s 10.
+
+
+Griffin: Uh, I’m sorry, plus four. Five plus four is nine, which I assume is not gonna do it. Doesn’t do it.
+
+
+Travis: So Justin, that would be against your armor class, which is 12.
+               
+Griffin: That would be against your armor class, what is your AC, Juice?
+
+
+Justin: Twelve.
+
+
+Griffin: Yeah. So nine doesn’t cut it, it sort of twangs into the side of the canvas of the wagon instead.
+
+
+Travis: Oh no! Is it setting our— is it setting our canvas on fire?
+
+
+Griffin: It has actually begun to set the canvas on fire, and it almost seems like he’s satisfied with that result. And as you guys are distracted by the flames, he turns around and starts to hoof it. His speed is 30 feet, so he gets pretty good distance into the the cl— the brush. 
+
+
+Clint: So he’s how far away? From the wagon?
+
+
+Griffin: He was 40 feet away when you started your turn, and then he moved in a little bit to see how terrible things were, and then ran off. So I’ll say about 50 feet away, and moving into the brush.
+
+
+Clint: Okay. How bad is the fire in the canvas?
+
+
+Griffin: Not bad!
+
+
+Travis: [imitates “Danger High Voltage”] Fire in the canvas!
+
+
+Clint: Okay.
+
+
+Griffin: I mean, not bad yet, you know, historically, canvas is a very burnable material—
+
+
+Clint: Alright.
+
+
+Griffin: Uh. So— so, so it could get relatively rough, really fast—
+
+
+Travis: I’ll take care of it ‘cause I’ve got— I’ve got no distance.
+
+
+Griffin: That was his turn, and we’re back to the order, top of the order— Merle.
+
+
+Clint: Uh. I’m going to leave the fire up to somebody else.
+
+
+[Justin laughs]
+
+
+Clint: And throw my handaxe—
+
+
+Griffin: You need to— you’re gonna move in the direction of…?
+
+
+Clint: Can I move before I throw?
+
+
+Griffin: Yeah, yeah yeah sure, you can— you can split your movement up, you can move however you want—
+
+
+Clint: All right—
+
+
+Griffin: You can move 10 feet and then do your attack and do the rest—
+
+
+Clint: Alright I have a maximum of 25 feet. So I’m gonna move—
+
+
+Griffin: Okay, so from the wagon you get about half distance to where he is, you are throwing your handaxe into some brush, so he’s gonna have partial cover. Which basically means—
+
+
+Clint: Okay.
+
+
+Griffin: His AC is going to be improved. His armor class is already pretty decent, so you need to um— you need to roll real well.
+
+
+Clint: What am I rolling?
+        
+Griffin: Uh, so on your paper, in the little thing in the middle there there should be a handaxe thing, and that’ll tell you what your mod is.
+
+
+Travis: So roll a d20.
+
+
+Griffin: Roll a d20, you’re gonna add…
+
+
+Clint: Okay… Fourteen and I add four so that’s 18.
+
+
+Griffin: Eighteen? He would’ve had 17 with that cover so yes, you just barely, you throw it into the woods, you can’t exactly see— you see like a, branches rustling, and you throw your axe in that direction and you hear:
+
+
+Gerblin: AH!
+
+
+[Travis laughs]
+
+
+Griffin: And, so you know you probably connected and got some meat in there, so roll 1d6+2, and that’s your damage.
+
+
+Justin: [Quietly, checking which is the d6] Yep.
+
+
+Clint: Okay. It’s a six, plus two
+
+
+[Griffin gasps]
+
+
+Clint: …is eight.
+
+
+Griffin: After you hear that “AH!” you don't hear anything, ever again, from that guy. 
+
+
+[Clint laughs]
+
+
+Griffin: He never makes another sound, ever again. 
+
+
+Travis: At which point we quickly put out the fire.
+
+
+Griffin: Yeah. It is uh, it is so small.
+
+
+Justin: Wait, I was gonna use Prestidigitation on it!
+
+
+Griffin: Okay. Justin uses his Prestidigi— Taako, Taako maybe says a magic word? Maybe says—
+
+
+Justin: I have the ability to instantly light or snuff out a candle, torch, or small campfire. So I think that'll work here.
+ 
+Griffin: Yes. Definitely. Uh. It’s not bigger than a small campfire, so. 
+
+
+Justin: Pff. 
+
+
+Griffin: Do you say some tight shit when you—
+
+
+Justin: Yes.
+
+
+Clint: Yeah. Say the— say the incantation—
+
+
+Travis: [Laughs] he certainly does.
+
+
+Justin: [Imitating Taco Bell dog] Yo quiero!
+
+
+Griffin: [Laughing] You can’t! That can’t be his—
+
+
+Justin: Yo quiero…
+
+
+Travis: He says “I want”? “I want”…
+
+
+Griffin: I don’t think, like…. Can you do me a favor and look at, I believe it’s your other proficiencies in languages section?
+
+
+Justin: ‘Kay.
+
+
+Griffin: And what it says under there.
+
+
+Travis: I’m looking at his annd it does in fact say “yo quiero.”
+
+
+Griffin: You guys… Just won your first fight! With fucking… aplomb.
+
+
+[Everyone cheers]
+
+
+Clint: One kill each!
+
+
+Griffin: Yeah, you didn’t take a lick of damage
+
+
+Travis: Hey, let’s search these fools.
+
+
+Justin: Yeah, I wanna go searching. 
+
+
+Griffin: Oh, I don’t know… how to do that.
+
+
+Travis: Is there anything on the gerblins?
+
+
+Griffin: You’re not allowed to search.
+
+
+Taako: Let’s search them.
+
+
+Griffin: Um…
+
+
+Clint: Well, one broke into a thousand pieces… one’s halved, so he’s covered with goo. We can’t find the other one in the weeds.
+
+
+Justin: The ice one’s probably a non-starter, but—
+
+
+Clint: Don’t you think we ought to check in on Gundran and… silly sack?
+
+
+Travis: Oh shit!
+
+
+Griffin: One of them actually has a collection of small coins— coppers, silvers. They have a lot of them, though? Which equals out to about 20 gold pieces— 
+
+
+Clint: Yeah!
+
+
+Griffin: —which you can split them up however, however you want.
+
+
+Travis: Well, for right now, I’ll just, I’ll just go and hold onto it.
+
+
+Griffin: Sure.
+
+
+Travis: Split it up once we—
+
+
+Taako: Ah, no, I should think, uh— 
+
+
+Clint: Trust the cleric, I’m the— I’m the religious one.
+
+
+Travis: Okay, how about we each get… So, I felt like the cleric and I did most of the work there…
+
+
+Taako: Alright, listen… Let’s, let’s, here’s what I suggest— we each take six, we put the rest into a pool that we’ll split later.
+
+
+Clint: Good idea.
+
+
+Travis: Everytime one of us dies, we’ll add five more into it. Last one alive 
+gets it.
+
+
+Taako: Excellent, so… so we’ll just take six…
+
+
+Clint: So it’s a tonEtine.
+
+
+Taako: Excellent.
+
+
+Griffin: So, uh, yeah that’s— that’s what you find on them—
+
+
+Clint: Yay us!
+
+
+Griffin: Yeah, you guys did great, and—
+
+
+Justin: Yeah we did it— hey, wait wait wait, what are you doing? [Thumping noise] My dad was stuck to the chair…
+
+
+Clint: My butt’s stuck to the chair.
+
+
+Griffin: Oh boy.
+
+
+Justin: Okay, he’s unplugged his headphones too—  what are you doing?
+
+
+Clint: I’m just getting up!
+
+
+Justin: Why were you getting up, you’re plugged in!?
+
+
+Clint: I’m going to dance!
+
+
+Justin: Oh no…
+
+
+Travis: This podcast is not an inherently visual medium!
+
+
+Justin: He’s gonna do a celebration dance on our podcast.
+
+
+Clint: Murder dance! Murder dance! Now I’m gonna eat this last shrimp…
+
+
+Justin: Oh, now he’s gonna eat my shrimp… I’m in hell. This is the worst game ever.
+
+
+Clint: Alright, now what do we do?
+
+
+Griffin: You tell me! I’m done telling you what you do.
+
+
+Travis: But I want to find out what’s up with those horses.
+
+
+Clint: We gotta go check, we gotta go check…
+
+
+Justin: Can we please figure out some sort of order to this? 
+
+
+Travis: I feel like—
+
+
+Justin: Right now, we’re all just shouting, so can we take turns?
+
+
+Travis: I feel… that, um… that Merle may be right, and we need to check on the horses, and see if we can find any indication that those were Gundren’s and Barry Bluejeans’.
+
+
+Griffin: The horses are covered in, well not covered, they have a few obviously mortal holes in ‘em. Arrow holes, you recognize them as. But somebody’s taken the arrows back, a very prudent archer—
+
+
+Clint: They’re dead? They’re not asleep?
+
+
+Travis: Ooh, by the way, can I take that short bow from that dude so I can actually have a ranged weapon?
+
+
+Griffin: You can, it’s not great.
+
+
+Travis: That’s fine, it’s better than what I’ve got now, which is nothing.
+
+
+Griffin: It’s not a great… short bow. Uh, If you want to look at the guide and see how short bows work, you can go for that. 
+
+
+Clint: Travis is a good looter.
+
+
+Griffin: You are. Also assume there was a quiver of arrows you can use. Make sure you pay attention to whether or not you are proficient in bows. I assume you are? I think fighters are typically pretty good at just weapons in general.
+
+
+Travis: Yeah, I’m proficient at all martial and common weapons— or simple weapons.
+
+
+Griffin: These were… That was sort of the crown jewel of the weapons they were using, the other two didn’t have long bows, they basically had shitty swords that aren’t worth your time. 
+
+
+Clint: Do I need to go recover the handaxe?
+
+
+Griffin: I… we’ll just assume that you did. 
+
+
+Clint: Okay. Got it.
+
+
+Griffin: Unless something happens to you, where like you are spirited away somehow before the end of the fight, you recover all of your arrows and weapons and stuff like that.
+
+
+Clint: Okay, alright.
+
+
+Griffin: Again, that’s like another D&D thing of like, I don’t want you to have to go in town and be like “Welp, off to the arrow store!”
+
+
+[Travis laughs]
+
+
+Griffin: ‘Cause that sucks.
+
+
+Clint: Although for some people, that would work, that’s what some people play for.
+
+
+Griffin: No, that’s… Some people do it that way, but it’s just not what I’m into.
+ 
+Clint and Travis: Okay.
+
+
+Griffin: So yeah, you got these two horses, they are… they are dead as shit. There are a few empty bags and containers lying around…
+
+
+Justin: Are they cold?
+
+
+Griffin: The horses? 
+
+
+Justin: Yeah.
+
+
+Griffin: They are actually a little bit warm. This was not a— this did not happen last night, as soon as they left. You assume maybe they made camp after leaving the tavern last night, and… this may have happened within a matter of hours. And, in fact, why don’t you guys make an investigation check, if you want, and I can tell you what you can discern. So, I’ll explain the difference between investigation and perception. Perception is basically when you can’t see something and you’re trying to find out if something is there— that’s perception. If you know something is there and you want to know more about it, that’s investigation.
+
+
+Travis: I rolled a two. I can’t find my own butthole.
+
+
+Griffin: You’re like, “Wow,” you’re like, “Look at these big dead dogs.”
+
+
+[Justin laughs]
+
+
+Travis: I could see it from far away, and then I knew nothing about it.
+
+
+Justin: Alright, 17.
+
+
+Griffin: Seventeen investigation, okay. Merle?
+
+
+Clint: What do I add to it, Justin?
+
+
+Justin: Uh, the investigation number. Next to investigation.
+
+
+Clint: Okay, so I rolled an 11.
+
+
+Griffin: Okay. Merle and uh, Magnus, you are sort of clueless, you notice the horses—
+
+
+Travis: [Foolish voice] Horses?
+
+
+Griffin: Justin, among the containers, you notice an empty map container. Maybe a tube that a roll of parchment could be secured inside— what you might ship a poster in, but fantasy like. Which you actually recognize from the tavern last night as something that Gundren did have on him at the tavern. It has been uncapped, uncorked, it is empty, but you do take it to mean that these two horses did belong to— to Gundren and Barry Bluejeans.
+
+
+Justin: Now, I’m sorry, didn’t Gundren give us his map?
+
+
+Griffin: No, he didn’t. He didn’t give you his… this was a different map. This was not a map that— it’s a map that… it’s not a map that gets you from Phandalin to Neverwinter, that map doesn’t deserve a container. That’s a shitty map, that’s a dumb map of a route that anybody should know.
+
+
+Travis: So this may be the map to this lost ore mine.
+
+
+Griffin: Possibly.
+
+
+Clint: I think it’s playing into my suspicions that he… he’s trying to pull something over on us.
+
+
+Travis: Yeah, he’s got ulterior motives.
+
+
+Clint: Yeah, yeah, he had something else going on.
+
+
+Griffin: A map— cartographically based shenanigans is what you’re saying.
+
+
+Travis: Do we see anything as far as, like, any other tracks— is there any indication that they were also killed here?
+
+
+Griffin: Make a perception check. Looking for, I don’t know, blood or viscera.
+
+
+Justin: Uh… 23.
+
+
+Griffin: I need you guys—
+
+
+Travis: I rolled a one!
+
+
+Clint: Twenty… 23? 
+
+
+Justin: Twenty-three.
+
+
+Clint: Justin rolled a 23.
+
+
+Griffin: Y’all gotta make these checks so much faster.
+
+
+Clint: I rolled…
+
+
+Travis: Dad and Justin are sharing a dice.
+
+
+Justin: Can’t we just assumed that if I got a 23, then like—
+
+
+Griffin: Yeah yeah, they… So, Taako, you don’t see any blood or anything on the ground. I mean, there is a lot of horse blood, and it’s really hard to tell— I mean, obviously it’s more beautiful than human blood? More perfect.
+
+
+Travis: More silvery.
+
+
+Griffin: It’s silvery, but you don’t see a lot of, like… there’s not a Sildar [Barry] shaped pool of blood on the ground.
+
+
+Justin: Got it.
+
+
+Griffin: Or maybe he was dissolved, and I’m—
+
+
+Clint: Can I make an observation?
+
+
+Griffin: Yeah, yeah.
+
+
+Clint: I think it’s wonderful that you continue the MBMBaM tradition of killing horses on this show.
+
+
+Griffin: I didn’t do it. I didn’t do it! Gerblins did it!
+
+
+Clint: Okay.
+
+
+Travis: Those evil gerblins!
+
+
+Griffin: You don’t see any blood or anything, but you do notice with your keen perception, you do notice a— a pattern in the dirt that suggests that they were perhaps dragged into the brush around the area where the one gerblin shot his fiery arrow at you. And then Dad threw an axe into the darkness and snuffed him out.
+ 
+Justin: Can we go back to the brush and explore that again?
+
+
+Griffin: Yeah, sure, in fact, with your—
+
+
+Travis: Now hold on, hold on, if I may. Magnus raises his hand for a minute.
+
+
+Griffin: Yeah?
+
+
+Magnus: I’m not an intelligent man, but we’ve got a cart, like, packed to the brim with goods sitting here. Should we just be wandering off away from that cart?
+
+
+Justin: Okay, well, I’ll tell you what…
+
+
+Taako: Eh, I’ll tell you what. Um. [Snotty inhale and exhale] Magnus, you stay with the cart, uh, what with your superior—
+
+
+Travis: Yeah, that’s good, I’m the only one that can deal damage…
+
+
+        Taako: —superior perception, I’ll investigate the brush.
+
+
+Griffin: You could also hide your cart in the brush.
+
+
+Taako: Sounds like quite the production. No, I like my plan.
+
+
+Griffin: Now you’re splitting up—
+
+
+Clint: [Laughing] Now you’re Andrew Lloyd Webber!
+
+
+Griffin: I will also say that splitting up the party is the leading cause of—
+
+
+Travis: Okay, we’ll cover it up with some branches.
+
+
+Clint: Wait, wait wait… Splitting up the party is what?
+
+
+Griffin: It’s the leading cause of death. In Dungeons & Dragons, it is— it is ahead of heart disease, it’s— 
+
+
+Travis: I will say that I use my vehicle proficiency to hide the vehicle.
+
+
+Griffin: Yeah, sure, I’ll buy that, yeah. Maybe you take it down the path a little bit, it’s—
+
+
+Travis: We bury the goods.
+
+
+Griffin: You take it into the hole in the brush that you can see the drag marks going through, and you sort of park it in the brush in a way that—
+
+
+Travis: Oxen, keep an eye on the cart!
+
+
+Griffin: It is fully, fully covered from the road, so you are— you have more or less secured the wagon.
+
+
+Travis: Let’s head into the brush, headlong!
+
+
+{1:19:06-1:29:20}  [Ad break]
+
+
+Griffin: So you follow these drag marks down the trail, and they’re pretty easily followed. Gundren’s kind of a big guy for a dwarf— he’s big in terms of diameter, so his trail left a definite impression in the loam, to the mouth of a cave that a sort of natural stream is flowing out of. Pretty wide stream, not especially deep—
+
+
+Travis: Is it beautiful?
+
+
+Griffin: It’s the most goddamn beautiful thing you’ve ever seen.
+
+
+Travis: Hmm, that’s nice.
+
+
+Griffin: It is— All of you get 20 points of inspiration just from seeing it, you are deeply inspired…
+
+
+Justin: Yes!
+
+
+Griffin: No, you don’t get that.
+
+
+Justin: Aw, crap.
+
+
+Griffin: It’s the mouth of a cave. Along sort of the stream, you can sort of see into the cave a little ways. You can see basically— The cave is comprised of a path along the right side of the mouth of the cave that leads in alongside of the stream, basically running perpendicular—
+
+
+Travis: How far into the cave can we see?
+
+
+Griffin: Maybe about 20 feet? One of you will probably have to light a torch. This might actually be a good chance for maybe a light-causing spell? 
+
+
+Travis: Yeah, wizard, you got something?
+
+
+Clint: I have Light?
+
+
+Griffin: I mean, there it is, I mean, you got it.
+
+
+Clint: Now two out of three of us can see in the dark though, right?
+
+
+Griffin: That is true.
+
+
+Travis: I cannot, but I do have a candle.
+
+
+Griffin: That’s not gonna be especially luminous.
+
+
+Travis: Okay.
+
+
+Griffin: That’s not gonna do a great job, but Dad, you can cast Light for free since it’s a cantrip, onto—
+
+
+Clint: Okay.
+
+
+Griffin: —maybe a nice stick that you found on the ground and give that to a fighter who can’t see super great in the under-earth. 
+
+
+Clint: Is— Travis, is your weapon one-handed or two-handed?
+
+
+Travis: It is either, it is versatile.
+
+
+Clint: Okay, so I could give you a torch and you’d still be able to use your weapon.
+
+
+Travis: You could also just cast Light on my axe.
+
+
+Griffin: That— that might look bitching.
+
+
+Clint: Alright, let’s go with the bitching effect of casting Light on your axe.
+
+
+Griffin: Okay, [makes boosh sound effect] Travis now has this—
+
+
+Clint: What do I do, do I roll?
+
+
+Griffin: No, that’s fine. You’re not attacking his axe.
+
+
+[Travis laughs]
+
+
+Griffin:  “Take this, you bastard. I hate you, axe!” Travis—
+
+
+Justin: He’s attacking the darkness.
+
+
+Griffin: He is attacking the darkness, essentially. Travis, you now have this axe that you can use to see by. Dad, at will— Merle, you can turn it off just by clapping, or by not believing anymore in your magic. If you stop believing—
+
+
+Travis: By giving it all up.
+
+
+Clint: It’s fairy magic!
+
+
+Griffin: Yeah. So— so keep that in mind. Magnus can now see pretty easily, so can the two of you. But, Merle, you have darkvision as well?
+
+
+Clint: I have darkvision, 60-foot radius.
+
+
+Griffin: Okay, so you guys, you don’t really need light, you can maybe see a little bit further if you had a torch, but 60 feet— this cave isn’t going to get much wider than 60 feet, at any point, so—
+
+
+Travis: I’ll lead the way with the light.
+
+
+Griffin: Okay, you are leading the way. Not too far into the cavern, you feel the path branch off to the right— I guess you see it ‘cause you have this beautiful light axe. And in fact, as you sort of get within distance of that entrance, that the light of your axe from your, the light from your bitching axe, pours into it, you hear rustling in there, you hear the sound of metal sort of clinking together almost like a chain being moved, lifted off the ground—
+
+
+Travis: Uh-huh.
+
+
+Griffin: So—
+
+
+Travis: Does it sound like a happy chain or a scary chain?
+
+
+Griffin: Uh, chains aren’t typically— these are not magic chains that are imbued with emotions.
+
+
+Travis: Okay.
+
+
+Griffin: So, it’s up to you how you want to handle this.
+
+
+Travis: I guess let me put this in a different way—
+
+
+Justin: Okay, so the chain is off to the right?
+
+
+Travis: Does it sound like a big chain, or just a regular human-sized chain?
+
+
+Griffin: The passage goes on ahead of you, but there’s basically a natural sub-cavern sort of splitting off to the right there that you have not really moved in front of, but you can hear the sounds of rustling and chains. Not like a lot of chains? It’s not like a— it’s not like there’s a WWE backyard wrestling match happening in there, but…
+
+
+Travis: Listen, Magnus—
+
+
+Clint: Like a Jacob Marley kind of rustling!
+
+
+Travis: Magnus believes that thinking is for other people, and I tend towards action, so I’m going down that chain hallway.
+
+
+Griffin: I like that, I am actually going to give you a point of Inspiration for that.
+
+
+Travis: So I head down the hallway, towards the chains.
+
+
+Griffin: Okay… do the two of you follow him? Or are you more just…
+
+
+Justin: Yeah, Taako chills.
+
+
+Griffin: Taako just kind of chills.
+
+
+Travis: Because I think there’s a chance that maybe Sildar [Barry] and Gundren are chained up down there.
+
+
+Griffin: Oh, listen to that. Okay.
+
+
+Travis: So I’m going to help.
+
+
+Griffin: You head in. Merle, what’s your position on uh, vis-a-vis that?
+
+
+Clint: I call out—
+
+
+Merle: You fool! Wait for us!
+
+
+Griffin: [Laughs] You shout— [Someone shushes] —you shout loudly down the cave, it bounces down the halls of the cave and—
+
+
+Justin: Oh cool.
+
+
+Griffin: You don’t hear any response to that—
+
+
+Justin: Now they def—
+
+
+Taako: Now they definitely know we’re here.
+
+
+Griffin: A wave of bats—
+
+
+Taako: Excellent.
+
+
+Griffin: —comes pouring out.
+
+
+Justin: A wave of gas?
+
+
+Griffin: Bats.
+
+
+Justin: Bats.
+
+
+Griffin: Bats.
+
+
+Justin: Bats.
+
+
+Travis: Baseball bats.
+
+
+Justin: Do the bats have gas?
+
+
+[Clint and Griffin laugh]
+
+
+Griffin: They definitely do, yeah.
+
+
+Justin: Roll a perception check to see if the bats look gassy.
+
+
+Clint: Okay, I guess I follow them.
+
+
+Griffin: Okay. Well, well, Taako is actually—
+
+
+Justin: I am chilling, there is no them to follow.
+
+
+Griffin: Taako’s on team hang out. 
+
+
+Travis: Well, I only go about 25 feet, like I’m not gonna get too far away, I’m just gonna—
+
+
+Griffin: Well, no we’re not in combat, so you… there’s no order, so.
+
+
+Travis: Okay, well, I don’t wanna get too far away from them, so— listen,  I’m foolhardy, but I’m not stupid. 
+
+
+Griffin: Yeah, you’re not—
+
+
+Travis: So I’m gonna go down the hall the 60 feet that they can still see me and I can still see back.
+
+
+Griffin: Okay. You space yourself out a little bit, and you just sort of turn the corner into this cavern, and sort of wave your axe around, hoping to cast some light on the things that you see in there. Inside, you see a decent sized cavern… no furniture, no furnishings to speak of whatsoever. There are, uh…  g… Stalactites— Which is the one that comes up out of the ground?
+
+
+Travis: Stalagmites.
+
+
+Clint: Mites.
+
+
+Griffin: Are you sure about that?
+
+
+Clint: Stalactites… 
+
+
+Travis: It goes towards the middle.
+
+
+Clint: Stalactites… stalactites are from the ceiling…
+
+
+Griffin: You see some bitching— bitching cones of rock…
+
+
+Clint: Pointy rock things!
+
+
+Griffin: —built into the the earth, and coming out of them are these big metal rods, connected to chains, connected to wolves. Three wolves…
+
+
+Travis: Kill the light, kill the light, kill the light!
+
+
+Griffin: You can, but…
+
+
+Justin: Dad, you have to say “kill the light.”
+
+
+Griffin: If the natural—
+
+
+Clint: Well, they’re chained what are they gonna do?
+
+
+Griffin: —if the sounds you’re making as you’re moving down the cavern didn’t disturb them, the shout of, “Hey, you, be more careful!” definitely, definitely woke them up. But they’re not… they’re not, like growling. They’re not— they don’t seem especially violent right now.
+
+
+Clint: Aww
+
+
+Travis: I actually have animal handling skill pretty good.
+ 
+Clint: Well of course you do.
+
+
+Travis: I do! My… My folk hero nature— I’m a farmer. … Carpenter.
+
+
+Clint: What’s your animal handling? What is your animal handling…
+
+
+Travis: Plus three.
+
+
+Clint: Well so’s mine.
+
+
+Travis: Okay, well, fuck you.
+ 
+Clint: Every father wants to hear that from his son.
+
+
+Travis: I’m gonna, I’m gonna, uh…
+
+
+Griffin: You’re not his father right now, are you? You’re his adventuring companion.
+ 
+Clint: Oh, that’s right.
+
+
+Travis: I’m going to cautiously but confidently approach the wolves.
+
+
+Griffin: If anything is more important, when you’re dealing with wolves, you gotta be confident, ‘cause they can smell that on you. 
+
+
+Travis: Exactly, I don’t wanna appear weak, because their— the predator-prey behavior is gonna kick in. Listen, I know about animals.
+ 
+Griffin: With every passing step that you draw closer to them, they seem more agitated. Couple of them are snarling at you now. They are—
+
+
+Travis: But there’s nothing else in the room other than these wolves?
+
+
+Griffin: Um, make a perception check?
+
+
+Travis: Uh, 20.
+
+
+Griffin: A 20… You notice, actually, in the back of the room, you see a crevice. Almost perfectly in the back of the room, across from the entrance that leads upwards. Almost like a natural chimney, kind of built into the cave there that leads up to another chamber. It’s very very very tight quarters, about 25 feet up—
+
+
+Justin: It’s straight up though? Like we wouldn’t be able to shimmy up it?
+
+
+Griffin: It is straight up. I mean, you might be able to spider-climb your way up there, but it would be very very difficult.
+
+
+Travis: But that’s the only— so the wolves and this crevice are the things in this room?
+
+
+Griffin: And the crevice, yeah.
+
+
+Travis: Okay, so I’m gonna back— back away from the wolves—
+
+
+Justin: Why does Travis always go first?
+
+
+Travis: ‘Cause I rushed into the room.
+
+
+Griffin: He said he wanted to!
+
+
+Justin: Alright, fine.
+ 
+Griffin: Listen, that’s gonna be great every time but once, and then you’re gonna need a new brother.
+
+
+Taako: I’m still chilling out here, if anyone’s curious.
+
+
+Griffin: Okay. Magnus—
+
+
+Justin: That was in character.
+
+
+Travis: Wait, you’ve got— Do you have Illusion?
+
+
+Justin: Hmm?
+
+
+Travis: Do you have something that you can use…?
+
+
+Justin: You can’t ask me that, I’m not in there with you.
+
+
+[Travis sighs]
+
+
+Griffin: He’s right.
+
+
+Clint: Alright.
+
+
+Travis: You’re crap.
+
+
+Justin: I’m tired of play— I wanna play Dungeons & Dragons, and I’m tired of asking questions about Dungeons & Dragons—
+
+
+Travis: Great. I’m gonna head back up, and I’m gonna say, “So there’s some wolves down there, it doesn’t seem like it’s worth it, let’s keep going.”
+
+
+        Taako: Excellent, well, I trust your judgement.
+
+
+Griffin: Okay, I’m into that.
+
+
+Clint: Off we go.
+
+
+Griffin: I’m into that— yeah, sure. Alright, so you can continue down the cave. It’s getting very dark, basically the natural light that was coming in from the mouth of the cave is… it was providing quite a bit, so you can see until now basically, and now you need your light axe, your mag-light, to really get around. Merle and Taako… I almost forgot your name, impossibly. You are… you don’t need it. You don’t— you can see basically just fine down here. 
+
+
+Um, so as you are moving down the cave alongside this stream, you notice across the stream to the left is a another passageway but this one is just like covered in rubble. It seems like it’s collapsed down a ways. And make also a perception check. Looking down the length of the cavern, in the direction you’re moving.
+
+
+{1:28:07}
+
+
+Justin: Uh… nine for me.
+
+
+Travis: Twelve.
+
+
+Clint: Fourteen.
+
+
+Griffin: A 14? Okay. 
+
+
+Clint: Mhm.
+
+
+Griffin: Merle, you actually see up ahead the outline of a overhead bridge, an overpass that is— that is suspended in the air, it’s connected to two entrances on the second story level. It looks like it’s connecting two passageways higher up in the cave, a second story of this cave.
+
+
+Travis: Oh, you know, I bet that— that shimmying up chimney thing would have really helped us here… probably would have put us on that second level.
+
+
+Griffin: Maybe. You also see the outline of a figure sitting on top of the bridge.
+
+
+Justin: I’ll uh, call out to him.
+
+
+Taako: Hello, friend!
+
+
+Griffin: You’re using Common I’m assuming to do that?
+
+
+Justin: No, Elvish.
+
+
+Griffin: Oh. Elvish… 
+
+
+Travis: [Laughing] Just in case there’s some underground elves.
+
+
+Griffin: You hear a questioning grunt, like “Huh?” and then—
+
+
+Justin: I try again in—
+
+
+Magnus: No! Shh shh shh!
+
+
+Travis: Shut the fuck up—
+
+
+Justin: I try again in Gorblin!
+
+
+Griffin: You try to get a— You don’t know Goblin, so you kind of yell—
+
+
+Justin: Yes I do, it’s one of my languages.
+
+
+Griffin: Is it really?
+
+
+Justin: I know Common, Elvish, Draconic, Dwarvish, and Goblin.
+
+
+Griffin: Okay, what do you yell?
+
+
+Taako: Hello, friend!
+
+
+Gerblin: Who’s there?
+
+
+Taako: Hail and well met!
+
+
+Gerblin: I… you don’t sound like, uh, anybody I know.
+
+
+Taako: We’re just exploring, we’ve taken a wrong turn.
+
+
+Gerblin: You certainly have. I would actually heartily recommend you turn around, this is not a great place for tourism.
+
+
+[Travis laughs]
+
+
+Taako: Where have we found ourselves?
+
+
+Griffin: He does not know how to handle that situation.
+
+
+Gerblin: Come a li’l bit closer, show yourself to me.
+
+
+Taako: Come closer? Did you say?
+
+
+Gerblin: Come closer to the overpass.
+
+
+Travis: This is a good time, if you’ve got any illusion magic.
+
+
+Taako: I will warn you, we’re very dangerous, though we mean you no harm. I would not suggest launching an attack on us.
+
+
+Gerblin: How dangerous are you— how dangerous we talking?
+
+
+Taako: Level… Level 1.
+
+
+Merle: Go ask the goblin cut in half how dangerous we are!
+
+
+[Desperate shushing]
+
+
+Gerblin: You cut— You cut a gerblin in half?!
+
+
+Travis: Yeah, but he wasn’t cool like you—
+
+
+Taako: Oh, excellent, excellently— well played, I was just trying to establish a rapport.
+
+
+Travis: Now to be fair, to be fair— Merle doesn’t speak Gerblin, and neither do I.
+
+
+Griffin: Okay.
+
+
+Justin: Oh, that’s right.
+
+
+Griffin: You just hear, [Gerblin noises] “Blar blar blar blar blar.”
+
+
+Taako: So… Do you have gold? In here?
+
+
+Gerblin: Sorry?
+
+
+Travis: Bold. Bold question.
+
+
+Taako: Sorry, sorry… Where are we?
+
+
+Gerblin: You’re in our— you’re in our hideout… you’re making me extremely uncomfortable, I don’t know who you are, what you’re doing.
+
+
+Travis: Hey Dungeon Master—
+
+
+Gerblin: We recently got new recruits, but, like, seeing you is certainly part of the interview process.
+
+
+Clint: Tell him we’re looking for Gun—
+
+
+Travis: Dungeon master—
+
+
+Taako: My name… My name is Taako. A friend of ours was taken, and his horses were killed. We’re searching for our friend.
+
+
+Gerblin: Oooh shit, yeah, we… did that. Hey, guys! Someone’s here! Guys, it’s the guys from the horse thing!
+
+
+Travis: Use Mage Hand! Use Mage Hand, push him off!
+
+
+Griffin: I need the three of you—
+
+
+Justin: Wait, how close— how close am I, Griffin?
+
+
+Griffin: You are— you managed to get about 20 feet in there, but as he yells, he readies his weapons, so go ahead and roll initiative.
+
+
+Travis: Push him off the thing with your Mage Hand.
+
+
+Justin: I— oh my god.
+
+
+Griffin: How did you do?
+
+
+Justin: I got a four.
+
+
+Travis: Seventeen.
+
+
+Griffin: Dad, you got— Merle got a four, or Taako?
+
+
+Clint: I got a 10.
+
+
+Griffin: Okay.
+
+
+Clint: I got a— Merle got a 10… and Taako got a…
+
+
+Justin: Four.
+
+
+Clint: Four.
+
+
+Griffin: Yikes.
+
+
+Travis: Is that with your modifiers?
+
+
+Justin: Yes, we’re just going to give you the numbers with the modifiers from now on.
+
+
+Travis: Yeah, I got 17.
+
+
+Griffin: Oh, Jesus, okay, that’s very good. That’s a two… plus two, equals… four. Okay. So you have this one goblin on the overpass, and after his word of warning, nobody’s really rushed to his aid. Either by the two entrances the overpass connects, or from the depths of the cave that you’re facing. You do hear, in the distance down the length of the cave, an extremely loud racket. You hear voices saying something — Taako, you can understand as one of them says — two voices talking. You hear one say “Really?” and the other says “You heard ‘em.” And then you hear a banging, almost like, um… somebody’s hitting something against something else? You can’t exactly, unless you see it, you can’t really tell what the— what the noise is, but you hear a pretty terrible sound coming from down there. And top of the order is Magnus.
+
+
+Travis: So, I am gonna hole up in that— they’re coming from behind us?
+
+
+Griffin: They are coming from— nobody’s coming, you can’t really determine— the voices you heard are actually coming from in front of you. Behind the overpass, the overpass is in front of you. Behind that is deeper.
+
+
+Travis: Okay, great. I’m gonna post up and move to in front of that overpass— the entrance in the overpass. I’m gonna ready an action.
+
+
+Griffin: Where are you… Where are you moving, underneath the bridge?
+
+
+Travis: I’m moving to the opening, wherever it is that the voices are coming from. I wanna be ready for whoever’s coming.
+
+
+Griffin: Okay, so you sort of position yourself in front of— you move under the underpass to the other side, waiting for whatever’s coming down.
+
+
+Travis: Yeah, and I’m gonna ready an attack action. 
+
+
+Griffin: For what? If something—
+
+
+Travis: The first person to come down that hallway.
+
+
+Griffin: You’re just gonna melee attack them.
+
+
+Travis: Yeah.
+
+
+Griffin: Okay! So—
+
+
+Travis: And I— and by the way, I’ve got my shield and my— my axe.
+
+
+Griffin: Okay! So to explain— you can ready an action as an action. You basically have to say what you’re going to do and what’s gonna trigger it. So, maybe you’re not like in a position to do something right now, but you will be if somebody moves closer to you. You can ready that action, and then use it basically as soon as the trigger pops. So you post up there. Okay, next in the order is… Merle?
+
+
+Clint: I’m gonna cast Shield of Faith…
+
+
+Griffin: Okay.
+
+
+Clint: —around— around Magnus.
+
+
+Griffin: Okay. Can you explain what that does?
+
+
+Clint: Uh, Shield of Faith, “A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.”
+
+
+Griffin: Okay.
+
+
+Travis: Baller.
+
+
+Clint: Yeah.
+
+
+Griffin: And… are you gonna move or do anything else? I guess that’s your action. 
+
+
+Clint: That was my action.
+
+
+Griffin: Okay, Travis, you have +2 to AC.
+
+
+Travis: Yeah.
+
+
+Griffin: And Dad… I think you just expended one of your spell slots.
+
+
+Clint: Yeah.
+
+
+Griffin: Okay, cool. Then the order moves to the goblin on the overpass. He sees you put a magic beautiful shield around this already heavily shielded fighter in the front, so he sort of turns his attention off of Magnus. He’s pretty sure he can’t penetrate all that, and he’s actually going to aim at Merle with a shortbow, and he rolls a… Ooh, Jesus, a 21 versus AC. What’s your armor class?
+
+
+Clint: Eighteen.
+
+
+Griffin: Eighteen, so 21 beats your 18, so he hits you. A four.
+
+
+Clint: Okay.
+
+
+Griffin: Four plus two, so six piercing damage.
+
+
+Clint: Okay. And what does that come off of?
+
+
+Griffin: You are hit—
+
+
+Travis: You have 11.
+
+
+Griffin: You have hit points. 
+
+
+Clint: Ahh, alright… I am down to five.
+
+
+Griffin: You are down to five.
+
+
+Clint: Okay.
+
+
+Griffin: Okay. That’s it for him. Nobody else really shows up in that round. It’s on to Taako.
+
+
+Justin: Uh, I’m going to cast Ray of Frost. On that fool.
+
+
+Griffin: The goblin on the bridge?
+
+
+Justin: [crosstalk] The one that’s 20 feet away from me.
+
+
+Clint: [crosstalk] The one up on the overpass?
+
+
+Justin: The overpass goblin.
+
+
+Griffin: Okay.
+
+
+Clint: Ooh.
+
+
+Justin: Ooh, 24.
+
+
+Griffin: Twenty-four? That is a hit.
+
+
+Justin: Just to make sure, where am I getting— yeah, okay.
+
+
+Travis: Now— I’m sorry to interrupt, are you sure it’s not just a… a saving throw—
+
+
+Griffin: Yes.
+
+
+Travis: —just like it is when Dad used one?
+
+
+Griffin: No. Some ranged attacks, uh, some ranged spells are ranged attacks. Some are a saving throw. Think of it like if it’s coming down on like an area, they make a saving throw to get out of the way of it. If it’s uh, something is firing sort of like an arrow, then it’s a ranged attack.
+
+
+Travis: Gotcha, so Justin hit him.
+
+
+Griffin: Yeah, you gotta roll damage.
+
+
+Justin: Coming up! We got… eight damage!
+
+
+Clint: Nice!
+
+
+Griffin: Eight damage… he takes all of that. It sort of knocks him back a little bit, but he maintains his footing on the overpass. He looks like he’s about to kick it. He looks real bad. So that is the end of the round. From the back of the hallway that Travis just ran up very valiantly to defend, you hear [creak, crash], almost like something has just fallen over, and then immediately after that, you hear the… The telltale sound of rushing water.
+
+
+[pause]
+
+
+Travis: Tits.
+
+
+Justin: Okay.
+
+
+Griffin: It is… It is back to Magnus, the heavily shielded, very— very brave fighter.
+
+
+Travis: I’m suddenly very worried about the wolves in the back, they’re going to drown!
+
+
+Griffin: That passageway actually goes up, so don’t worry about those wolves.
+
+
+Travis: Ah, phew!
+
+
+Griffin: I would worry more about, yourself… Your body.
+
+
+Travis: Gotcha. Well, it seems pretty limited in what I can do, so… I’m gonna—
+
+
+Griffin: The stream next to you has also, when that happened, just sort of picked up a little bit, sort of got kinda fast.
+
+
+Travis: I’m gonna step to the side.
+
+
+Griffin: To what side?
+
+
+Travis: So, what we’re looking at here is kind of an opening underneath the bridge, and that’s what I’m standing in front of, correct?
+
+
+Griffin: You’re basically… a little bit in front of being under the overpass, it’s about 10 feet up. 
+
+
+Travis: Great. I’m gonna head back… 
+
+
+Griffin: Okay.
+
+
+Travis: To where my buddies is. And then I’m gonna shoot the little goblin with my short bow.
+
+
+Griffin: Umm… okay.
+
+
+Travis: Unless there’s something else I can do.
+
+
+Griffin: No! You’re— you’re just gonna sort of stand there?
+
+
+Travis: Yeah, um, 23.
+
+
+Griffin: Twenty-three, that is a hit.
+
+
+Travis: Okay, great. And then, d6, plus three, five.
+
+
+Griffin: You hit him square in the chest, and he says: 
+
+
+Gerblin: Wow, you guys weren’t kidding. 
+
+
+Griffin: And then he falls off the, the bridge. Limply. Into the stream.
+
+
+Justin: That’s the same one that I had been attacking?
+
+
+Griffin: Yep.
+
+
+Travis: Yes.
+
+
+Clint: Yeah.
+
+
+Griffin: It was the— it was the only one. 
+
+
+Travis: Kudos all around, high fives, we’ve done it again.
+
+
+Griffin: So there are no more monsters, but we are still in initiative order. We will move on now to Merle.
+
+
+Clint: Do we have… are you saying we no longer have access to the chamber with the wolves in it?
+
+
+Griffin: That chamber was back a ways? You couldn’t dash back there.
+
+
+Clint: Alright. Then I say we need to cross the o— I’m gonna cross the overpass.
+
+
+Griffin: Okay. You— you aren’t on level with it, it’s about 10 feet up.
+
+
+Clint: Oh I see, so it, the, oh, okay. So it does not come to our level and then overpass, I got you.
+
+
+Griffin: Gotcha.
+
+
+Clint: Well, obviously we need to… move forward and get out of the way of the water.
+
+
+Griffin: Forward is the direction the water’s coming from.
+
+
+Justin: Hmm.
+
+
+Travis: Does there seem to be any way to get up to the overpass level?
+
+Griffin: I mean, you can climb.
+
+
+Travis: Well then, let’s climb.
+
+
+Griffin: Well, you are… already acted. Merle can—
+
+
+Clint: Alright, I will climb— I will climb. What do I need to do?
+
+
+Griffin: You will make a—
+
+
+Clint: I’m gonna try to climb up, to the overpass.
+
+
+Griffin: Okay. To climb, you make an athletics check. To basically scale up the wall. You’re not climbing that high, and there is like a rocky craggy surface, so—
+
+
+Clint: Okay.
+
+
+Griffin: It’s not an especially difficult check, actually, to get up there. The bridge is relatively rickety, it’s of goblin construction, so it’s not amazing, but it looks like it’ll hold your weight.
+
+
+Clint: Okay. So I roll a 20-sided die?
+
+
+Griffin: You roll a 20-sided die, and you add your athletics.
+
+
+Clint: All right… I rolled a three, so my athletics is four, that makes it seven.
+
+
+Griffin: That is not… sufficient. You start to climb up the rocks, they’re a little bit wet from the moisture in here. You slip off— you don’t take any damage ‘cause you’re probably only a few feet up, and you’re not a very tall person, so I mean, that is a significant distance, but you do land on your ass. And you’re embarrassed. You take 10 embarrassment points.
+
+
+Clint: [Muffled] Ow.
+
+
+Travis: [Laughing] You take 10 psychic damage.
+
+
+Clint: And I, I peed a little. [Quieter] I peed a little.
+
+
+Griffin: Okay. You peed a little bit. You might be advanced in years, maybe you pee a little bit every time you take any damage. 
+
+
+Clint: I don’t remember saying anything about my age.
+
+
+Travis: Alright, Taako, hurry, we gotta do this.
+
+
+Griffin: It’s on to—
+
+
+Taako: Merle,
+
+
+Griffin: Yeah.
+
+
+Taako: Merle, don’t forget to— You look damaged, if you have some sort of, way of healing yourself, be sure to—
+
+
+Clint: Oh gosh, that’s right.
+
+
+Taako: —explore that. You’re, you’re injured. I will attempt the same climb that felled my friend Merle.
+
+
+Griffin: Okay.
+
+
+        Taako: I have no athletics, here we go. 
+
+
+[Everyone laughs] 
+
+
+Justin: Four, fourteen.
+
+
+Griffin: What’d you roll?
+
+
+Clint: Fourteen!
+
+
+Justin: Fourteen.
+
+
+Griffin: Fourteen, that’ll do it.
+
+
+Taako: [Garbled] Oh, luck of the, lucky— first timer’s luck, huh?
+
+
+Griffin: You scurry up the rocks, and you… you manage to climb on top of this bridge. You feel it sway, and shake a little bit underneath you as you get up there, but it holds fast. That is the end of the round. Suddenly, a horrifying wave of water, a wall of water, comes hurtling down the cave. Basically blasts into our heroes that are on the ground level. First, it hits Magnus, and then shortly thereafter collides with Merle, who is still on his ass. It starts to sweep you away. However, you both are sort of close to the craggy cave wall. So you can make a dexterity saving throw to try and not get flushed by this wall of water that’s rushing at you. So basically you’re going to roll a d20 and add your dexterity modifier to it. And you want to beat a… target, that I’m not going to tell you.
+
+
+Travis: I got a 13.
+
+
+Griffin: You got 13 total? Merle?
+
+
+Travis: Yep.
+
+
+Clint: I got a 16.
+
+
+Griffin: Okay! So both of you manage to grab onto the wall just as this wave of water hits you, and tries to pull you away, unsuccessfully. There was a lot of water though. So you are sort of having to fight against the stream, holding onto these rocks. So I need you both to also make a strength saving throw, to make sure that you can hold onto this rock. The whole time, Taako, you’re just sort of watching this charade, take place from your safe perch. 
+
+
+Justin: Laugh—
+
+
+Travis: I got a thirtee—
+
+
+Griffin: You’re not laughing, but you are amused to see how it goes.
+
+
+Travis: I got a 13.
+
+
+Clint: I got seven.
+
+
+Griffin: Both of you get flushed. In the torrent of water.
+
+
+Travis: Oh, no.
+
+
+[Clint makes bubbling noises]
+
+
+Griffin: You weren’t really, like hit by the wave of force that this thing brought with it at first, but you are dragged down the cave back into, sort of the first antechamber. Go ahead and take 1d4, both of you.
+
+
+Clint: 1d4…
+
+
+Griffin: As you’re uh, sort of, uh pachinko’d around the rocks. 
+
+
+Travis: Wait, uh, even with my special shield?
+
+
+Griffin: Well, the water wasn’t attacking you, as much as it was, dragging you and raking you against rocks.
+
+
+Clint: I got a three.
+
+
+Griffin: You got a three?
+
+
+Travis: I got a three as well.
+
+
+Griffin: Okay. So you both took three damage.
+
+
+Clint: [To himself] I’m down to two.
+
+
+Griffin: And that is the end of combat—
+
+
+Taako: [Interrupting] I’m fine!
+
+
+[Laughing]
+
+
+Taako: Don’t worry about me!
+
+
+Merle: [Yelling from a distance] You okay, Taako?
+
+
+Taako: I’m fiiine! Don’t worry about Taako!
+
+
+Travis: But that was the end, now that the water is past.
+
+
+Griffin: [overlapping] That’s the end, yeah. That was the end, you are out of combat. You actually hear, Taako, from down the cavern, in Goblin. You are primed to hear this, Taako… the other two are sort of too far away, and also they don’t speak Goblin, so they wouldn’t hear it but. You hear:
+
+
+Gerblin: Did we get ‘em?
+
+
+Travis: Answer in Goblin, Taako.
+
+
+Taako: [Laughing] N— No!
+
+
+Travis: No, no, yes! Tell him yes!
+
+
+Clint: Tell him yes! Tell him yes!
+
+
+Taako: Oh, sorry, let me try again— Yes!
+
+
+Gerblin: Which one is it, make up your mind!
+
+
+[Justin laughs]
+
+
+Taako: No, we definitely got them!
+
+
+Gerblin: Oh, thank god. Should we come down there, or— is it, is it cool?
+
+
+Clint: [Quietly prompting Justin] No!
+
+
+Taako: No, I got—
+
+
+Gerblin: Is it— Do their drowned bodies look kinda cool?
+
+
+Clint: Tell ‘em it’s a— tell ‘em there’s water everywhere, it’s freezing here—
+
+
+Taako: I got too horny from the killing, and I— I’m jerking o—
+
+
+Gerblin: Aw, Jesus, not again. We’re actually gonna— stay up here, thanks though.
+
+
+Taako: Don’t come in! Don’t come in here, it’s private!
+
+
+Griffin: You hear them shuffle off. You hear the sound of footsteps moving away from you. And you think that, using your clever ruse, you have scared them off.
+
+
+Travis: Yes… “ruse…”
+
+
+[Theme song plays]
+
+
+[Next episode]

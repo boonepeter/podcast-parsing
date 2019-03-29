@@ -1,0 +1,3670 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Griffin McElroy
+Magnus Burnsides: Travis McElroy
+Merle Highchurch: Clint McElroy
+Taako: Justin McElroy
+
+Episode 2: Here There Be Gerblins - Part 2
+(part of TAZscripts on Tumblr)
+
+
+Griffin: Previously, on The Adventure Zone:
+
+
+Travis: I’m playing a human fighter named Magnus Burnsides.
+
+
+Griffin: I love that.
+
+
+Justin: I— I’m playing, uh, a wizard—
+
+
+Griffin: ’Kay.
+
+
+Justin: His name is spelled T-A-A-K-O.
+
+
+Griffin: Are you naming your goddamn wizard Taako? 
+
+
+[Laughing]
+
+
+Justin: His name is Taako. 
+
+
+Griffin: Daddy, what are you, you’re a cleric, right?
+
+
+Clint: I’m a— I’m a dwarf cleric—
+
+
+Griffin: ’Kay.
+
+
+Clint: Named Merle Highchurch… 
+
+
+Griffin: Over drinks one night with Gundren Rockseeker, he has to offer you what he calls the last job you’ll ever need to take.
+
+
+Griffin: So he has asked the three of you to escort a supply wagon to the town of Phandalin—
+
+
+Clint: Okay.
+
+
+Griffin: With a fighter escort, named— Barry Bluejeans. 
+
+
+[Laughter]
+
+
+Griffin: They are two dead horses… lying in the middle of the road. 
+
+
+Travis: Seems fine.
+
+
+[Laughter]
+
+
+Travis: Doesn’t seem strange at all!
+
+
+Griffin: So you follow these drag marks down the trail… to the mouth of a cave. From the back of a hallway that Travis just ran up very valiantly, you hear the telltale sound of rushing water. 
+
+
+Travis: Tits.
+
+
+[Laughter]
+
+
+Griffin: Both of you get flushed, uh—
+
+
+Travis: Ah, no!
+ 
+Griffin: In the torrent—
+
+
+[Clint makes bubbling noises]
+
+
+Griffin: Of water.
+
+
+Goblin: Did we get ’em?
+
+
+Travis: Answer in Goblin, Taako.
+
+
+Taako: I got too horny from the killing, and I— I’m jerking—
+
+
+[Travis laughs]
+
+
+Goblin: Ah, Jesus, not again.
+
+
+Taako: Don’t come in here. It’s private. 
+
+
+{1:20}
+
+
+Announcer: What otherworldly horrors will the McElroys face this week? Let’s find out together… in THE ADVENTURE ZONE!
+
+
+[Theme music: Déjà Vu by Mort Garson]
+
+
+Griffin: So the three of you have… You have regrouped at the mouth of this cave where Merle and Magnus just got flushed to… Taako, you just sauntered back to the mouth of the cave to rest up. I imagine you’ll want to take a short rest to recover those precious HPs that you lost…  Especially you, Merle, if my math is right, you’re like—
+
+
+Clint: One.
+
+
+Griffin: You’re one years old.
+
+
+Clint: I have one point— 
+
+
+Travis: Yeah let’s rest up.
+
+
+Clint: One life point.
+
+
+Griffin: So you guys are gonna take a short rest, and the way that you do that is… You roll your hit die, which should be on your character sheet somewhere. You basically spend a hit die to roll whatever your die is, it’ll be a d6… Taako I think you have a d6. You’ll roll that.
+
+
+Travis: I have a d10.
+
+
+Griffin: You have a d10? Oh wow. Okay. So you—
+
+
+Travis: I want to say it’s because I’m a human or a warrior, it’s one of those—
+
+
+Griffin: Okay.
+
+
+Travis: It’s a d10.
+
+
+Griffin: So you roll that, you add your constitution modifier, and that’s how many hit points you get back. 
+
+
+Travis: I mean, I— I gained back 13, but I’m only down three, so… I guess I just go back up to— 
+ 
+Griffin: Did you roll a critical 10?
+
+
+Travis: I did. 
+
+
+Griffin: Okay. Good— good work. 
+
+
+Clint: Hmm.
+
+
+Griffin: Merle— 
+
+
+Clint: Interesting.
+
+
+Clint: I rolled— 
+
+
+Travis: [Crosstalk] I’m wondering— Should I be like, documenting these things— 
+
+
+Clint: [Crosstalk] Yes!
+
+
+Travis: Because I feel like you guys never believe me— 
+
+
+Griffin: [Crosstalk] You— I mean I’m just saying you’ve rolled extremely well, I can’t see what you’re doing, and— 
+
+
+Clint: [Crosstalk] You rolled nothing but 20s last time.
+
+
+Griffin: Yeah.
+
+
+[Pause]
+
+
+Travis: Well, I’m rolling into the cardboard box.
+
+
+Clint: [Crosstalk] Oh. 
+
+
+Travis: I don’t know if that helps.
+
+
+Griffin: Alright—
+
+
+Clint: I rolled an eight, plus two constitution, so I recovered 10. 
+
+
+Griffin: Cool. And Taako, I don’t think you’ve taken any damage, have you?
+
+
+Justin: I have not taken any damage, so I’m just getting some, I’m just getting my grounding. 
+
+
+Travis: [Chuckling] Just some R&R.
+
+
+Clint: Are we not gonna get the Taako voice this episode?
+
+
+Griffin: We actually got a lot of complaints about the Taako voice.
+
+
+Clint: [Laughing] Oh no!
+
+
+Justin: Oh no, really?
+
+
+Griffin: It was— People said it was like really racist. And I don’t know which— 
+
+
+Griffin and Justin: Race— 
+
+
+Griffin: It just sounded— 
+
+
+Justin: Yeah.
+
+
+Griffin: It sounded like the kind of thing that would be racist.
+
+
+Justin: Well we’ll see how the reaction is— 
+
+
+Clint: People are so Elvish.
+
+
+Justin: I’ll probably go in and out of it. But I also wasn’t— I’m talking— I’m not talking to you guys. I’m talking… to Griffin, which is like God. I’m like praying— 
+
+
+Travis: Hmm, no I gotcha. 
+
+
+Justin: And in my— When I pray I don’t have an accent. 
+
+
+Travis: Is Taako there? Can we talk to Taako?
+
+
+[Clint and Justin laugh]
+
+
+Griffin: So you guys are, you’re healthier. I don’t know what your— I’m not going to keep track of your HP, because honestly I couldn’t give a shit, but we’ll just assume that you’re right as rain. Dad— 
+
+
+Justin: Uh, Griffin, I have a prob— uh, question. 
+
+
+Griffin: Yeah?
+
+
+Justin: Do we get like, experience?
+
+
+Griffin: Yeah, I’ll— I mean, I’m keeping track of that. Y’all are— Y’all are about halfway to level two.
+
+
+Justin: Sweet!
+
+
+Griffin: And you’re gonna get a lot of great stuff, and you’re gonna love it. And you’re gonna be better people because of it.
+
+
+Justin: Mm, delectable.
+
+
+Griffin: So you guys get the impression that you probably shouldn’t wait too long, because they are going to notice that one goblin is missing. You watch him very lazily float down the river, super dead, by you. He’s moving at a snail’s pace— 
+
+
+Travis: It’s like Poohsticks! 
+
+
+Griffin: Comically, comically slow. So you guys have recovered, and I’m assuming you want to make your way back into the cave. You can go back to town, you can do whatever the fuck you want to do.
+
+
+Clint: [Crosstalk] I say we— I say we go join… Taako up on that overpass— 
+
+
+Taako: Come on up.
+
+
+Clint: ’Cause that’s gonna put us at a higher elevation.
+
+
+Griffin: Okay, both of you— 
+
+
+Taako: [Crosstalk] Come on—
+
+
+Griffin: Uh— No, please say the thing that you were gonna say.
+
+
+Justin: Okay, let me say the thing— 
+
+
+Taako: Come on up!
+
+
+[Clint laughs]
+
+
+Griffin: Now why does that sound funny? 
+
+
+Justin: [Crosstalk] Because of the character!
+
+
+Griffin: [Crosstalk] Because of the racism?
+
+
+[Laughter]
+
+
+Justin: There’s no racism!
+
+
+Griffin: Alright, Merle and Magnus you guys can make a— Uh, it would be an athletics check? Just to get up this rope. It would be a very low check though.
+
+
+Clint: Okay, so— 
+
+
+Travis: I rolled an eight.
+
+
+Clint: Am I rolling an eight again? 
+
+
+Griffin: What are— 
+
+
+Clint: What am I rolling, a 20? 
+
+
+Griffin: You’re rolling a 20. Whenever you do a skill check it’s always a 20.
+
+
+Clint: Okay, and then I add to it what?
+
+
+Griffin: Your athletics bonus. Which is on your sheet.
+
+
+Clint: Okay, I rolled a 20.
+
+
+Griffin: Okay.
+                                                                                                                                                                                                                                                                                                                         Clint: And a four.
+
+
+Justin: Oh my God. 
+
+
+Clint: Twenty-four.
+
+
+Griffin: You— you hover, just like— You were at the bottom of the thing, and then you were like, at the top of the thing. And pe— everyone got super scared. ’Cause that shouldn’t happen like that. [Clint laughs] Travis, you rolled an eight?
+
+
+Travis: Yeah.
+
+
+Griffin: Yeah, you got up there. You weren’t as effortless— In fact, it took you 35 minutes to get up the rope.
+
+
+[Laughter]
+
+
+Griffin: It was embarrassing. It was like the first episode of The Biggest Loser. 
+
+
+Travis: It’s like gym class. Everybody’s at the bottom going like “Just give up!”
+
+
+[Clint laughs]
+
+
+Griffin: “You’ll never do it.” But you do make it to the top, and everyone’s really proud of you. 
+
+
+Clint: Yay!
+
+
+Griffin: Not as proud as [laughs] Dad, who just sort of displaced himself to the top of the— 
+
+
+Justin: [Laughing] I was very proud of him.
+
+
+Clint: Yeah, let’s remember that.
+
+
+Griffin: So— so— from— 
+
+
+Justin: I look around!
+
+
+Griffin: Well, I mean; you have two directions. It’s a bridge. From one direction you hear the sound of rushing… water? And that’s about all that you could hear coming from that end. It’s louder than the— louder than the stream that is below. The stream by the way has actually started to dry up a little bit, since the initial flood and— and the water that you hear coming from one end sounds more like a— a waterfall.
+ 
+Justin: Hmm.
+ 
+Griffin: Something along those lines. From the other end you hear some low voices talking, the smell of roasting meats, that’s—
+ 
+Travis: Mmm!
+ 
+Griffin: That you might consider delicious.
+
+
+Clint: Or you might consider our buddies.
+
+
+Griffin: [Chuckling] Or you might consider friends. 
+
+
+Travis: Listen, Magnus doesn’t judge.
+
+
+Griffin: So yeah, you have— you have two directions.
+
+
+Taako: I say we head towards the meat.
+
+
+[Laughing]
+
+
+Travis: If there’s one thing I know about Magnus, he loves a majestic waterfall.
+
+
+Justin: Now the— the decision—
+
+
+Clint: If I’m the tie-breaker, I say we go investigate the— the meat, the smell and the voices.
+
+
+Griffin: How do you wanna do this?
+
+
+Justin: Who’s the sneakiest of us?
+
+
+Griffin: You see if— going down that sort of hallway, it stretches in about— I mean, it’s a cave, not a man-made thing. But it goes in— the channel there goes in about 20 feet? And you see some lights, some dim firelight coming from there, and you definitely hear [crosstalk] some voices talking.
+
+
+Clint: I— I say whichever one of us has night-vision, Taako or— 
+
+
+Justin: Oh yeah, I— [switches to Taako voice mid-sentence]
+
+
+Taako: I’ll go, uh, take a look.
+
+
+Griffin: [Crosstalk] I think both of you— Both of you do except for Magnus.
+
+
+Travis: Nope, and I’ve also got stealth disadvantage! [Sing-song] Clunk clunk clunk clunk clunk!
+
+
+Taako: [Laughing] I’ll take— I’ll go take a look!
+
+
+Clint: I have stealth disadvantage too. What’s your stealth?
+
+
+Taako: Good. Stay quiet. 
+
+
+Travis: Not bad!
+
+
+Taako: Not bad, it says!
+
+
+Clint: Plus two.
+
+
+Griffin: Okay.
+
+
+Taako: Plus two!
+
+
+Merle: Taako, would you go investigate?
+
+
+Taako: Gladly.
+
+
+Griffin: By him— So you’re, you’re sending him up by himself while the two of you hang back on the bridge?
+
+
+[pause]
+
+
+Travis: I— 
+
+
+Taako: Yeah, I’ll be— It’ll be better by myself.
+
+
+Clint: Well yeah, because if we’re trying to be stealthy, it’s always better to have smaller numbers.
+
+
+Griffin: Okay. So if you’re gonna have a stealth check—I’m guessing just to move to the end of this channel and just sort of peek— peek around the corner to get an idea of what’s going on in this room—you’ll make a stealth check, and I will contest it with a perception check.
+
+
+Justin: Okay.
+
+
+Griffin: So we roll, and then whoever wins, wins the— 
+
+
+Justin: Okay.
+
+
+Griffin: The contest.
+
+
+Justin: So I roll… uh, 19!
+
+
+Clint: Add two plus your stealth.
+
+
+Justin: Oh. So 21.
+
+
+Griffin: Okay. You, you manage to soundly, uh, beat them.
+
+
+Clint: [Quietly] Stealth!
+
+
+Griffin: You— You look around the corner into this room. You see a fairly large chamber that is sort of split into two sections. There’s a sort of a ground level where you see three goblins — gerblins — all sitting around a fireplace, roasting, the leg of something— it’s bestial in nature, it’s not like a dude— not like a dude foot or something. And then— 
+
+
+Justin: This room that I’m in— 
+
+
+[pause]
+
+
+Griffin: Yeah.
+
+
+Justin: Would you say it’s spooky… or beautiful— 
+
+
+Griffin: Uhm, it’s— 
+
+
+Justin: Or beautifully spooky— 
+
+
+Griffin: If you— 
+
+
+Justin: Or spookily beautiful?
+
+
+Griffin: If you were a gerblin, you would actually find it like a pretty chill den, to like, throw out in.
+
+
+Travis: So is this like the break room?
+
+
+Griffin: It— yeah, it’s the— It’s the gerblin break-room.
+
+
+Travis: There’s some— There’s some like, OSHA posters up. Something like, “Make sure to wash your hands, it’s cold and flu season!”
+
+
+Justin: Ugh, Danny’s been microwaving mutton in here, gross!
+
+
+[Laughter]
+
+
+Clint: Alright what’s the second— What’s the second— 
+
+
+Griffin: So then there’s a sort of natural stone staircase leading up to an escarpment— a stage, about 10 feet off the ground. It’s not an actual stage, but there is a second level — a loft, if you will — in this room. And up there you see another goblin that’s just sort of sitting around, rummaging through a crate. And next to him, almost on the edge of this stage, you see an unconscious human man. 
+
+
+Clint: Okay.
+
+
+Griffin: And the three goblins are talking to each other, dicking around. The goblin that’s up on the stage is just sort of ignoring them and rummaging through this crate.
+
+
+Clint: Do we have access to that stage? I mean, is there— 
+
+
+Griffin: There is a— there is a natural staircase that’s leading up onto it, yeah.
+
+
+Justin: I have a question. Is the room — I’m trying to visualize it — is the room such that if we were to interact with the goblins on one of the levels, the other ones would definitely be like, be aware of what we were doing?
+
+
+Griffin: Oh, sure, yeah yeah, they are not that far away.
+
+
+Travis: Is it— Is it lit by anything but the campfire?
+
+
+Griffin: There are some— there are some torches on the wall. Fatty torches. You know, those torches that are like, they have like fat, that burns from the top of it— 
+
+
+Travis: No, I got you.
+
+
+Justin: So, just to— How many gerblins are, are— 
+
+
+Clint: Three on the floor— 
+
+
+Griffin: Three on the floor— 
+
+
+Clint: One up with the captor. Captive.
+
+
+Justin: Oh, what’s the captive? 
+
+
+Griffin: There’s a sleeping human man.
+
+
+Justin: Ohh!
+
+
+Clint: Now is that on the level above us, or below us?
+
+
+Justin: Now see, what celebrity does he most resemble?
+
+
+Travis: Good question!
+
+
+Griffin: He looks a lot like…
+
+
+Clint: [Whispering] Say John Goodman!
+
+
+Griffin: John… No.
+
+
+Clint: [Whispering] Say John Goodman.
+
+
+Travis: Say John Stamos! 
+
+
+Griffin: He looks a lot like Tom Arnold.
+
+
+[Laughter]
+
+
+Clint: So John Goodman!
+
+
+Travis: Well it’s, actually, that’s the exact middle [laughing] between John Stamos and John Goodman! 
+
+
+[Laughter] 
+
+
+Griffin: That’s the median— That’s the mean of John Goodman and John Stamos. So yeah. Please don’t make me describe any more shit in this room.
+
+
+Justin: Okay.
+
+
+Clint: Wait, wait, so I just want to know. You said— So we have access from where we are, in that passageway, to that stage area, right?
+
+
+Griffin: The passageway opens up onto the… floor level. Then there is a slope that leads up onto the stage.
+
+
+Clint: Okay.
+
+
+Travis: So I assume— Has Taako come back and relayed all of this to us?
+
+
+Griffin: I mean, he would have to— 
+
+
+Justin: It’s up to Taako.
+
+
+Griffin: Yeah. Yeah.
+
+
+Justin: You gotta let Taako be Taako.
+
+
+Griffin: You guys— so, whenever I am explaining a scene like this, where one of you has split off, the others— You guys need to understand, you don’t possess this knowledge.
+
+
+Travis: Gotcha.
+
+
+Griffin: Right? You can’t rush in there and like, blindly, like, throw a shot at a character that you don’t know is there, but Taako does.
+
+
+Justin: Okay.
+
+
+Clint: Gotcha.
+
+
+Justin: I’ll wave them over.
+
+
+Griffin: Okay. They are going to, uh— 
+
+
+Travis: We’re not so stealthy!
+
+
+Griffin: They are also gonna need to make stealth checks. ’Kay?
+
+
+Justin: That’s fine.
+
+
+[Laughter]
+
+
+Clint: Alright. 
+
+
+Travis: Putting a lot of faith in us, here!
+
+
+Clint: Seventeen on mine.
+
+
+Griffin: Well you have disadvantage— 
+
+
+Travis: You’re at stealth disadvantage, yeah.
+
+
+Griffin: So you need to roll again and use the lower result.
+
+
+Clint: Okay. Eleven.
+
+
+Griffin: ’Kay.
+
+
+Travis: Ten, was my lower.
+
+
+Griffin: Okay. You actually all three manage to beat — I’m using my original 
+check, which was not so great — so you all three manage to beat it. The three of you are sort of on this uh, the precipice of this room— 
+
+
+Justin: Now, okay. So since we have the drop on these guys right now— 
+
+
+Griffin: Yeah.
+
+
+Justin: Do we still have to roll for initiative?
+
+
+Griffin: So you do, but in a scenario like this, you can get what’s called a surprise round. Where— when you can actually manage to do what you guys have done, which isn’t easy, you get to take a round of combat. Everybody who has surprise gets to take a round of combat before the regular, like, combat order begins.
+
+
+Travis: So here’s what I would like to do. 
+
+
+Griffin: ’Kay.
+
+
+Travis: I have an idea. And I motion to Taako— I use, uh, intricate hand signals to relay that what I want to do— is I wanna rush in, past the goblins on the floor, to underneath the edge of this stage thing… And see if I can get in position where he could Mage Hand the human off the edge and let me catch him.
+
+
+Griffin: I think Mage Hand can only interact with about 10 pounds. And, um— 
+
+
+Justin: Yes.
+
+
+Griffin: Tom Arnold, as you guys can probably intuit— 
+
+
+Justin: More than that.
+
+
+Travis: Uh-huh.
+
+
+Griffin: Weights significantly, sig— I don’t wanna call the dude overweight— 
+
+
+Clint: No.
+
+
+Griffin: ’Cause it seems like he works really hard to maintain— [pause] that…
+
+
+Clint: And he did look good on Running Wild with Bear Grylls.
+
+
+Griffin: He looked amazing on Running Wild with Bear Grylls.
+
+
+Clint: I— I have a slight amendment. I think Travis’ plan is good, but how ’bout if we attack the guys on the floor, giving him a chance to…
+
+
+Justin: My only worry is— My only worry is that if we don’t eliminate the— the guy holding Tom Arnold prisoner, that he might do s— I don’t know what the situation is there— 
+
+
+Travis: Yeah, we got a hostage— 
+
+
+Justin: I don’t want him to take a shot at Tom Arnold, or have Tom Arnold as a bargaining chip.
+
+
+Clint: If I go first, if I attack, and distract them, giving Travis a chance to get there in one move— 
+
+
+Justin: Why don’t I just shoot the guy holding Tom Arnold prisoner with Magic Missile?
+
+
+[Pause]
+
+
+Clint: There you go! That works too!
+
+
+[Laughter]
+
+
+Justin: How about I’m just gonna shoot him with Magic Missile now?
+
+
+Travis: All in all, I like all three parts of this plan. Taako, Magic Missile. Merle, guys on ground. I’m gonna run up to the precipice. 
+
+
+Griffin: Okay.
+
+
+Justin: Perfect. 
+
+
+Griffin: I want the three of you to go ahead and roll initiative then, and we can get into it. 
+
+
+Clint: Alright.
+
+
+Travis: Mine is— 
+
+
+Justin: Eleven.
+
+
+Travis: Nineteen.
+
+
+Clint: [Chuckling] Mine is zero. 
+
+
+Griffin: You rolled a…
+
+
+Clint: Rolled a one! 
+
+
+Griffin: Okay.
+
+
+Clint: With a minus one initiative.
+
+
+Justin: [Laughing] Dad’s like myself after— right after I graduated college. 
+
+
+Travis: [Laughing] Dad— What we don’t know about Merle is he has narcolepsy— we just look back and he’s sleeping.
+
+
+Griffin: Uhh, okay— 
+
+
+Justin: Is Merle holding a bong? [Laughing] Is that a bong?
+
+
+Travis: Merle, put down the burrito!
+
+
+Griffin: Top of the order is… Magnus. What would you like to do?
+
+
+Travis: So, in this surprise round… I can wait and let the two of them go first, and then do my action?
+
+
+Griffin: So if you do that, you are permanently moving yourself back in the order. 
+
+
+Travis: Oh, really? It’s not just for the first round?
+
+
+Griffin: Right. There is an established order of play now. If you wanna delay your turn you can do that and pop it back in wherever it is, but then that’s just where you are from that point on.
+
+
+Travis: Okay. Well, I guess since we’re on a surprise round I’m not worried about them doing anything. I’m just gonna run for the precipice.
+
+
+Clint: But we have surprise. Why don’t you move yourself back in the order like he said, Trav, and let the two of us… do— You know, launch Magic Missile and let me attack the guys, and then you’ll be able— 
+
+
+Justin: If I can eliminate that guy with Magic Missile, you may not even have to worry about Tom.
+
+
+Travis: Okay, fair. Yeah, I’m gonna let Taako go first.
+
+
+Justin: Okay.
+
+
+Travis: So I do a very polite, like, “after you” gesture.
+
+
+Griffin: So who the fuck is going, and please do it.
+
+
+Justin: I— I’m going, and I’m using Magic Missile. 
+
+
+Griffin: Okay. So you sweep around the corner and levy a shot— Magic Missile, you don’t actually need to attack with that, right? You’re just burning a spell slot to use it?
+
+
+Justin: Uhh… I create three glowing darts. “Each dart hits a creature of your choice within range, that you can see. A dart deals 1d4 plus one force damage to its target.”
+
+
+Griffin: Okay.
+
+
+Justin: “They all strike simultaneously, and I can direct them to hit one creature or several.” I’m gonna have them— all three of them hit the fool holding Tom Arnold prisoner. ’Cause I don’t fucking cotton to that. 
+
+
+Clint: Yeah!
+
+
+Griffin: Okay.
+
+
+Travis: You lay off of Mr. Stupid!
+
+
+Justin: Listen, here’s the amounts: four, two, two.
+
+
+Griffin: Alright, so eight damage.
+
+
+Justin: Yeah.
+
+
+Griffin: Okay. Uhh, he is— Consider him surprised.
+
+
+[Laughter]
+
+
+Clint: Yeah!
+
+
+Griffin: He immediately stops what he’s doing— Clearly, ’cause you just knocked him back a bit. And he rallies and gets up on his feet, and yells something in Goblin-ish. You— uh, you speak Goblin, right, Taako?
+
+
+Justin: Yeah, what does he say?
+
+
+Griffin: He says, uh…
+
+
+Goblin: Ow!
+
+
+Griffin: So, uh…
+
+
+[Laughter]
+
+
+Clint: Quite the wordsmith, our little goblin!
+
+
+Griffin: So uh, yeah. Who’s next?
+
+
+Travis: Well I’ll go.
+
+
+Clint: Well wait a minute, wait a minute. That didn’t kill him?
+
+
+Justin and Travis: No.
+
+
+Justin: He’s not dead.
+
+
+Travis: But since I can’t get up on the stage— I’m gonna shoot it with my shortbow.
+
+
+Clint: Okay. Alright.
+
+
+Travis: So same dude.
+
+
+Griffin: Okay.
+
+
+Travis: Uh, crit 20!
+
+
+Griffin: Holy shit. Really?
+
+
+[Clint laughs]
+
+
+Travis: Yeah! I’m really good at D&D!
+
+
+Griffin: Okay.
+
+
+Clint: Yeah! Got those all-20 dice I see.
+
+
+Griffin: So on a crit— This is our first crit attack, I believe, you basically roll your damage dice twice. 
+
+
+Travis: Oh! Terrif! But I don’t get the automatic, like— 
+
+
+Griffin: No.
+
+
+Travis: [Quietly] Okay, great.
+
+
+Griffin: And you add your modifier, but you only do that once.
+
+
+Travis: Okay. So I just need to— If it’s 1d6 plus two, I’m gonna roll 1d6 twice.
+
+
+Griffin: Yeah.
+
+
+Travis: So three… and six, plus two… So 11.
+
+
+Griffin: Eleven?
+
+
+Travis: Yeah.
+
+
+Griffin: Okay. He, uhh, he… falls over the edge and dies.
+
+
+Travis: Yeah!
+
+
+Clint: Alright. I’m going after the guys on the floor. I’m going after the one on the left, the one that was, uh, eating… off the haunch.
+
+
+Griffin: Yeah yeah yeah. Well I mean it was, it was on the spit, so—
+
+
+Clint: Well he was reaching for it!
+
+
+Griffin: Yeah yeah yeah.
+
+
+Clint: He was reaching for it!
+
+
+Griffin: Yeah.
+
+
+Clint: The greedy bastard.
+
+
+Griffin: He’s got a powerful hunger.
+
+
+Clint: Greedy, greedy bastard. And I’m going after him with my warhammer.
+
+
+Griffin: Okay.
+
+
+Clint: So that’s 17.
+
+
+Griffin: Okay, yeah, that’s a hit.
+
+
+Clint: Okay, and then I roll for how much damage? With an eight, correct?
+
+
+Justin: Whatever it says there on the sheet.
+
+
+Clint: Well, I did three.
+
+
+Griffin: Okay.
+
+
+Justin: What happens, Griffin?
+
+
+Griffin: He is, uh, fazed— He is not unfazed by that. He takes the hit and immediately sort of stands back up. And he’s a little bit imposing now. 
+
+
+Justin: Oh my.
+
+
+Griffin: ’Cause you know— This is, I think, the first time you haven’t one-hit-killed somebody, so you don’t know what’s gonna happen next. One of you might be attacked. Wouldn’t that be novel.
+
+
+Travis: What?
+
+
+Griffin: Uhh— 
+
+
+Clint: Gee, I wonder who that’s gonna be.The guy that made him drop the haunch, maybe?
+
+
+Griffin: Maybe. Uhh— 
+
+
+Travis: [Deep voice] “My haunch!”
+
+
+Justin: “It was the best haunch!”
+
+
+Travis: “Aww, man!”
+
+
+Justin: “I have so— I have so few pleasures in life!”
+
+
+[Laughter]
+
+
+Travis: “That was my grandfather’s haunch! He gave it to me!”
+
+
+Griffin: [Laughs] We’re moving back to the top of the order. It’s actually the goblins’ turn, since Travis delayed. Uh, there are— 
+
+
+Travis: What did they—
+
+
+Griffin: Three goblins. The one that actually did just take that hit is going to swing right back at you, Merle— 
+
+
+Clint: Yeah, hmmm.
+
+
+Griffin: And they are going to roll… fucking clown shoes. Nine? Is that gonna do it?
+
+
+Clint: I have an Armor Class of 18. 
+
+
+Griffin: So— 
+
+
+Travis: So no. 
+
+
+Griffin: And that’s half of it, so clearly not. [Laughter] Okay yeah, they— their attack is buffeted away by your heavy hide. 
+
+
+Clint: Yeah. Grr.
+
+
+Griffin: One of them is going to rush at Magnus and try and attack him. That is a 19 plus— that’s a 23.
+
+
+Taako: Dang.
+
+
+Travis: Yeah, that’s gonna hit.
+
+
+Taako: Ow.
+
+
+Griffin: And they do… Four plus two… They do six slashing damage.
+
+
+Travis: Six slashing damage, you say…
+
+
+Griffin: One of the other goblins is going to try and scurry up the wall towards Tom Arnold. 
+
+
+Justin: [Whispering] No.
+
+
+Griffin: A 15, plus their— What would that be?
+
+
+Justin: I don’t think you need to tell us these rolls. I think that kind of ruins the illusion.
+
+
+Griffin: Okay. He scurries up the wall towards Tom Arnold. And grabs him by the scruff of the neck and hangs him over the edge of the stage. And says— 
+
+
+Goblin: Put your weapons down.
+
+
+Justin: Damn it.
+
+
+Griffin: [Crosstalk] …This goblin’s actually— 
+
+
+Justin: [Crosstalk] But only I know that he said that, right?
+
+
+Griffin: He’s actually speaking in Common, so the three of you can understand it.
+
+
+Justin: Whoa. Does he look like Common?
+
+
+Griffin: He looks exactly like Common. But—
+
+
+Clint: Well that’s a badass goblin, right there.
+
+
+Travis: Gotcha.
+
+
+Griffin: He looks super cool. He says, and— 
+
+
+Goblin: The three of you strike me as… businessmen. Is that a fair assumption?
+
+
+Griffin: He sounds like Kelsey Grammer. And he looks like Common. He’s a— one hell of a goblin.
+
+
+Taako: [Laughing] I love business.
+
+
+Goblin: I don’t think anybody in this room wants to get stabbed any more than we already have. [Laughter] I have a, a proposition for you.
+
+
+Justin: Uh, okay.
+
+
+Taako: Hit us!
+
+
+Goblin: I will let you leave this cave, with your Barry Bluejeans, alive and unharmed, if you do me one small favor.
+
+
+Taako: Eh, what is it?
+
+
+Goblin: I want you to depose our current employer, whose name is Klaaaarghh…
+
+
+[Laughter]
+
+
+Griffin: He says: 
+
+
+Goblin: I want you to help me help you help me.
+
+
+Travis: “What will it take to get you to murder my boss today.”
+
+
+Goblin: I need you to murder Klaarg for me. And I know you’re wondering, “What’s in it for me?” I’ve already told you this, it is Barry Bluejeans. I will give you Barry Bluejeans alive and well.
+
+
+Justin: I— I ask the other two people in the group if they have any idea who Barry Bluejeans is, or care.
+
+
+Travis: I’m almost certain he was, uh, what’s-his-face’s buddy.
+
+
+Clint: He was. That was the mercenary he hired.
+
+
+Justin: Okay. Ohhh. Right, right.
+
+
+Clint: So he’s a mercenary.
+
+
+Griffin: Uh—
+
+
+Magnus: Now, excuse me, sir. Goblin, sir.
+
+
+Goblin: Yes!
+
+
+Magnus: What— Why—
+
+
+Goblin: I’m sorry, what is your name? I, I— How rude of me!
+
+
+Magnus: Uh, Magnus Burnsides, “The Hammer.”
+
+
+Goblin: Wh— The— Now, hold on.
+
+
+Magnus: [Laughing] I picked up a nickname since last week.
+
+
+[Clint laughs]
+
+
+Goblin: In this cave, you picked up a nickname. In the cave.
+
+
+Magnus: No. I just remembered it, from a long time ago. Like a— [laughter] Flashback.
+
+
+Goblin: Fantastic. Uhh, yes—
+
+
+Magnus: And what is your name, sir?
+
+
+Merle: My name— My name is, of course—
+
+
+Magnus: No, not you!
+
+
+Merle: Oh, sorry.
+
+
+Magnus: I know your name.
+
+
+Goblin: You can call me— You can call me Yeemick.
+
+
+Merle: Yeemick?
+
+
+Yeemick: Yeemick, the Gerblin.
+
+
+Magnus: Yeemick, why— Why do you want us to depose Klaarg? Is it a power grab?
+
+
+Yeemick: Uhh, let’s call him a new hire? A tr— A transfer from, uh…
+
+
+Merle: The home office?
+
+
+Yeemick: The home office, yes. Let’s just say that there are certain gerblins, in— in this uh, in this institution, who are not Klaarg’s biggest fan.
+
+
+Griffin: And the other two goblins on the floor are like:
+
+
+Goblin(s): Yeah, fuck that guy. For real though. For real though.
+
+
+Magnus: Cool, cool.
+
+
+Taako: Uhh, I have a question. I hate to interrupt.
+
+
+Yeemick: Yes?
+
+
+Taako: Is it far away?
+
+
+[pause]
+
+
+Yeemick: Oh, no, it’s— it’s in this very cave. Uhh, in a— in a lofty antechamber.
+
+
+Magnus:  Wh— where were you educated, sir? You are very well-spoken.
+
+
+Yeemick: I went to Harvard.
+
+
+[Laughter]
+
+
+Magnus: Excellent.
+
+
+Justin: Fucking patronizing. He’s gonna see right through that—
+
+
+Travis: No, I’m respectful!
+
+
+Yeemick: On the— on the other side, we could continue this fight, and I will drop Barry Bluejeans to his death.
+
+
+Magnus: I— Frankly, I see this as win-win for everyone.
+
+
+Yeemick: I agree wholeheartedly.
+
+
+Justin: [Laughing] Especially Barry!
+
+
+Magnus: [Chuckling] Especially Barry. It seems like you get what you want, and we’ll get what we want.
+
+
+Griffin: You can see Barry Bluejeans, now that he’s sort of holding him over the edge, you can see him illuminated by the fire a little bit. And he— he is just—
+
+
+Clint: Is he alive?
+
+
+Griffin: He is breathing, but he is beat to shit. He— he looks real messed up.
+
+
+Taako: I just don’t see what we get out of this.
+
+
+Magnus: Well, it’s what we were gonna do anyways, right? We were gonna take out the— the Boss Man, and… Uh, and we, it seems like we—
+
+
+Taako: I thought we were just delivering something!
+
+
+Magnus: But we need Barry Bluejeans to find out what happened to the other dude!
+
+
+Yeemick: You do need—
+
+
+Magnus: Oh that’s—
+
+
+Yeemick: Everyone— Everyone needs a Barry Bluejeans.
+
+
+[Laughter]
+
+
+Merle: Alright, I say we agree to his terms.
+
+
+Taako: Oh… ohhh eurgh…
+
+
+Magnus: But first, before we agree to anything, I am gonna need Barry Bluejeans brought back over—
+
+
+Merle: Yeah.
+
+
+Magnus: —the edge. I need some— some indication that this is not a trap.
+
+
+[pause]
+
+
+Yeemick: I pr— I’m not going to murder Barry Bluejeans.
+
+
+Taako: Pull him back over—
+
+
+Yeemick: Unless—
+
+
+Taako: Pull him back from over the edge, and we can talk about this.
+
+
+Merle: And will he be of any use in our, you know, our efforts against Klaarg?
+
+
+Justin: Not at this point.
+
+
+Griffin: Oh, he’s not— he’s not in scrapping shape yeah. He’s—
+
+
+Merle: Well then, just leave him on the stage there and come on down and join us, big fella!
+
+
+Griffin: He rests him on the edge of the stage. He’s no longer hanging over it, but he is, he is right there. He could be kicked over fairly easily.
+
+
+Magnus: What happened to Barry’s traveling companion?
+
+
+Yeemick: Uhh… I wouldn’t [laughing] know anything about that.
+
+
+[Laughter]
+
+
+Yeemick: I’m pretty sure he was alone. Riding two horses, astride two horses. He’s a mountain of a man, as you can tell.
+
+
+Clint: Okay. Alright. Now, now, Dungeon Master—
+
+
+Griffin: Yeah.
+
+
+Clint: Do I need to heal Taako, or will we rest and he will naturally heal?
+
+
+Justin: I’m not hurt.
+
+
+Travis: No, I’m hurt. I’m good.
+
+
+Clint: I meant— I meant, I meant, uh, Magnus.
+
+
+Travis: No, I’ll be fine.
+
+
+Griffin: It’s up to you guys. If Magnus spent his hit dice, he probably doesn’t have any more. I don’t know— You can spend one of your, your spell slots to heal him, if you wanna do that.
+
+
+Clint: What do you say, big fella? You okay?
+
+
+Travis: Yeah, I’m— I’m good.
+
+
+Clint: Alright, screw it.
+
+
+Magnus: Ummm… Yeemaw? Meemaw?
+
+
+Yeemick: Uh, Yeemick.
+
+
+Magnus: What was his name?
+
+
+Clint: Meemaw!
+
+
+Yeemick: Yeemick.
+
+
+Magnus: Yeemick. Um, may we rest by your fire and partake of some of this delicious looking haunch [Clint laughs] before we move on to kill Klaarg?
+
+
+Yeemick: No. I am going to need you to, ah, to get this show on the road, as they say. As we say at Harvard.
+
+
+[pause]
+
+
+Merle: I brought Haunch Helper!
+
+
+Magnus: What’s in the box?
+
+
+Yeemick: Uhh, stuff. Go fucking kill Klaarg.
+
+
+[Laughter]
+
+
+Merle: Alright, where do we go? 
+
+
+Griffin: Uhh—
+
+
+Yeemick: Oh, you can find him across the overpass. We had that overpass put in earlier this year. Been a little bit of cave renovation. It’s quite nice, don’t you think?
+
+
+Justin: Alright, fine, let’s go.
+
+
+Clint: I say we go back over the overpass—
+
+
+Justin: Yeah—
+
+
+Clint: Into the other chamber—
+
+
+Justin: Yep.
+
+
+Clint: Where we heard the waterfall. Maybe we’ll have an angle on him.
+
+
+Justin: Sure. That’s what we’re talking about, right?
+
+
+Travis: Selling it.
+
+
+Griffin: Okay.
+
+
+Yeemick: Goodbye! Have fun! [pause] Have fun! Bring me his head.
+
+
+Travis: So when we get back on the overpass…
+
+
+Griffin: Okay.
+
+
+Travis: I’m gonna turn to Taako and Merle and say,
+
+
+Magnus: I don’t trust this situation.
+
+
+Taako: Yeah, no shit!
+
+
+[Laughter]
+
+
+Magnus: Okay, cool. I just wanted to make sure we’re all on the same page—
+
+
+Taako: Great job, Angela Lansbury! [Laughter] I don’t know how you pieced that one together; he seemed so nice! [Clint laughs] Really Columbo-d that, that one.
+
+
+Magnus: Is there some way for us to kill both Klaarg and this dude—
+
+
+Merle: Oh yeah, we’re going to.
+
+
+Taako: Yeah, my dude we’re killing everybody.
+
+
+Travis: Okay, cool.
+
+
+Merle: Totally.
+
+
+Taako: I thought that was implied!
+
+
+Travis: Okay, great. Listen, Magnus—
+
+
+Taako: I hope we hit Level 2 by killing the other guy—
+
+
+Merle: Soon as— soon as he turns— soon as Y— M— Neemawk turns his back—
+
+
+Yeemick: Yeemick!
+
+
+Clint: Yeah, whatever!
+
+
+Justin: [Laughing] Did he hear that?
+
+
+Merle: [Laughing] We’re gonna snuff him.
+
+
+Yemick: [Muffled] It’s Yeemick!
+
+
+Travis: Okay, cool.
+
+
+Clint: The voice of god [laughing] just yelled his name.
+
+
+Griffin: [Daws Butler-esque voice] Stop talking about murdering me!
+
+
+[Laughter]
+
+
+Travis: Listen, Magnus is all about— Magnus is about action, not planning.
+
+
+Griffin: Yeah.
+
+
+Travis: You point me—
+
+
+Clint: Well, thank god you’ve got us.
+
+
+Travis: I am brute force. I am a blunt weapon. You point me in the direction.
+
+
+Justin: Let’s go in that other room and go kill—
+
+
+Clint: Alright. The direction of the waterfall. Go.
+
+
+{29:30}
+
+
+Griffin: You guys move across the overpass— You move through a large chamber… You are on a ledge fairly high up on this chamber, and you look down and you can see two sort of man-made pools of water that are basically built out of giant towers of logs that are sort of arranged into walls, that are damming up where the waterfall is coming from. And then you see on the front of each pool — they are sort of back to back — a gate. And you think that that gate is what was dropped, and flooded the, uh… flooded the cave earlier. 
+
+
+Travis: Gotcha.
+
+
+Griffin: So you count your lucky stars that they didn’t drop the second gate on you and flush you out again. You see a couple of goblins down there, but they are sort of busy repairing the first gate that they dropped to flood you guys out, and they don’t really see you. So you can continue on if you want, unless you would want to like, jump down there and murder them too.
+
+
+Clint: How far is it down there?
+
+
+Griffin: It’s about— it’s about 15 feet down.
+
+
+Travis: I’m good continuing on.
+
+
+Justin: Yeah, let’s just move on— I don’t wanna—
+
+
+Griffin: Okay. You keep sort of creeping along the edge, and you come to the entrance of another chamber. You can’t see especially far inside unless you get a little bit closer, but you hear a deep baritone voice shouting orders. 
+
+
+Clint: Does he sound rather Klaarg-y?
+
+
+Griffin: [Chuckling] He sounds Klaarg-ish. He sounds like— You don’t wanna cast aspersions, and you don’t wanna judge a book by its cover, but it sounds like the voice of a creature that would probably be known as Klaarg. You can only hear that because the other sound that you can hear is the deafening roar of this waterfall that is feeding this stream.
+
+
+Justin: So we can see Klaarg?
+
+
+Griffin: The chamber is up a ways, up some ruined stairs that have seen better days. So if you’re careful — and I’m assuming you’re being careful — you can make out a few shapes. You see one figure that is absolutely massive. Much, much, much bigger than the goblins that you have been experiencing in this cavern. And that is about the only shape that you can make out. There’s a few sort of natural stone pillars in— in that room, but unless you climb up those stairs and get closer, you’re not going to be able to see much. Klaarg is facing your direction, he just can’t really make you out over this staircase.
+
+
+Taako: Okay, listen guys. Here’s what I’m thinking. What if… rather than try to fight Klaarg, we see if we can trade the information that we have in exchange for Barry.
+
+
+Merle: Like tell him that—
+
+
+Taako: Say we know that he has someone in his organization trying to— Uh, who asked us to kill him. We’ll let him in on that, but he has to promise to let Barry go with us.
+
+
+Magnus: I like that.
+
+
+Travis: Dungeon master?
+
+
+Griffin: Yep?
+
+
+Travis: So, geographically—
+
+
+Griffin: Mhm.
+
+
+Travis: The very first room we encountered when we entered, with the wolves chained up—
+
+
+Griffin: Yeah-yeah-yeah-yeah.
+
+
+Travis: And that was a chimney?
+
+
+Griffin: Yeah.
+
+
+Travis: Where would that chimney line up with the two rooms we’ve been in up here in the overpass?
+
+
+Griffin: It was on the right, and you are on the right side of the cave. So it’s a logical assumption that maybe that chimney opens up into there.
+
+
+Travis: Gotcha.
+
+
+Justin: What are you think—
+
+
+Merle: I like— I like Taako’s idea, but I think we need to work from a position of strength. Why don’t we do something that makes him think we’re real, real badasses, so he will think twice, and maybe consider the offer?
+
+
+Justin: Um—
+
+
+Clint: Like, could I use my, uh— the spell that I used before to illuminate the axe… And to, you know, like cast that spell on to something, like as a visual—
+
+
+Griffin: You think this dude’s never seen Light before?
+
+
+Clint: No—
+
+
+Griffin: The Light spell?
+
+
+Clint: But I mean if something all of a sudden starts to glow—
+
+
+Griffin: That’s what they teach kids. They teach kids Light in kindergarten.
+
+
+[Travis laughs]
+
+
+Justin: No, I think this is a good idea.
+
+
+Griffin: Yeah, I love it.
+
+
+Justin: Okay, and I’ll cast, at the same time— I’ll use a cantrip. I’ll use my— my abilities of Prestidigitation… and I’ll create a shower of sparks.
+
+
+Griffin: Okay.
+
+
+Travis: And— and I’ll build a chair with my carpentry tools.
+
+
+Griffin: Yeah, okay.
+
+
+Clint: I say you draw a bead on big boy with your short-bow.
+
+
+Griffin: Okay.
+
+
+Justin: Yeah, I don’t think he’s gonna be threatened by us; we’re level one.
+
+
+Clint: He doesn’t know that! That’s why we’re firing off the fireworks and the light!
+
+
+Justin: That’s true. Griffin, you’re not gonna tell him, are you?
+
+
+Griffin: Uhh, no. So are you guys doing this now?
+
+
+Justin: Yes. We’re doing it simultaneously.
+
+
+Griffin: Okay. The three of you, the three of you walk Magnificent Seven style, shoulder to shoulder, into this room. [Clint laughs] Dad, you’re shooting light beams all over the place like they’re in a Daft Punk concert, and Justin’s showering sparks all over the place, and Travis strikes a—
+
+
+Justin: And I’m calling out to him, I’m like, “Hello friend!”
+
+
+Clint: No, don’t call him friend!
+
+
+Travis: No, no-no-no, no, other way!
+
+
+Clint: Yo, fatass!
+
+
+Justin: Hey, stupid!
+
+
+Travis: No-no-no-no, no-no-no, somewhere in the middle!
+
+
+[Pause]
+
+
+Griffin: Uh—
+
+
+Justin: Hey, jerk!
+
+
+[Laughter]
+
+
+Griffin: Okay. And Travis, you just sort of strike an imposing pose with your shortbow drawn. And then from the left side of the cave, next to the entrance you just walked through, a wolf charges and attacks Merle. [Laughter] So let’s all roll initiative!
+
+
+Justin: Okay.
+
+
+Travis: Well that won’t work. Nineteen again.
+
+
+Clint: [Subdued] Four.
+
+
+Justin: Fourteen.
+
+
+[Die rolls three times]
+
+
+Griffin: Okay.
+
+
+Justin: Sounds like a lot of wolves.
+
+
+Griffin: Uh…
+
+
+Travis: Wolf Number 16 is gonna come—
+
+
+[Laughter]
+
+
+Griffin: So this wolf gets a surprise round on you.
+
+
+Justin: Excelente.
+
+
+Clint: Great.
+
+
+Griffin: He is attacking Merle, and he is gonna try and bite at your neck region. He rolls a… seven plus four… He rolls an 11.
+
+
+Clint: I have 18.
+
+
+Griffin: Not gonna do it. You just kind of throw him off, just using your neck muscles. It’s— it’s amazing.
+
+
+[Laughter]
+
+
+Griffin: You’re like Terry Crews.
+
+
+[Clint laughs]
+
+
+Griffin: You just sort of flex and the wolf goes flying. Okay, so that was the surprise round. Klaarg is, like, amazed, by your pyrotechnics.
+
+
+Klaarg: [Deep, cartoonish voice] Whoa!
+
+
+Griffin: He says.
+
+
+[Laughter]
+
+
+Klaarg: Klaarg is amazed by your power!
+
+
+Clint: So he is John Goodman! Alright, now we got John Goodman—
+
+
+Klaarg: I’m John Goodman!
+
+
+[Clint laughs]
+
+
+Griffin: You don’t actually— You guys aren’t entirely sure what he is. You’ve never seen anything like him. But he’s not a goblin. He’s definitely not a goblin.
+
+
+Justin: Is he humanoid?
+
+
+Griffin: He is humanoid. He is furry. He’s about six and a half feet tall, he is muscle-bound… He looks pretty badass.
+
+
+Travis: Does he look, like, more muscle-y than me?
+
+
+Griffin: Nothing’s more muscle-y than you.
+
+
+Clint: Aww, nobody’s more muscle-y than you, sweetheart.
+
+
+Griffin: You’re the most muscle-y boy, aren’t you.
+
+
+Travis: I mean more than Magnus, not more than Travis McElroy.
+
+
+Justin: Is it my turn yet?
+
+
+Griffin: Uh, it is Magnus’s turn. We’re to the top of the order now.
+
+
+Justin: Can you ask him to call off the wolves?
+
+
+Travis: Can I roll a quick animal handling check to see if there’s any possibility of like, controlling the wolves— like befriending my animal friends?
+
+
+Griffin: You wanna make an animal handling check, to see if you can call off this wolf? [pause] Um… Yeah, sure. Go right ahead.
+
+
+Travis: Or, I guess overall I should say—
+
+
+Griffin: Alright, let me explain what’s in the room. So you have this wolf that has just attacked you. There’s a fire pit sort of in the middle of the room that’s just sort of hot— hot coals and embers, that Klaarg was sort of standing behind. And then, in the corner you see this— that, the entrance to the chimney that you walked by earlier, with the wolves in it. Uh, and by that you see two more goblins.
+
+
+Clint: I— Can I make a suggestion? [pause] We’ve already tried to establish ourselves as badasses. This wolf attacked us. Kill it, Magnus!
+
+
+Travis: But I want a wolf buddy! Alright—
+
+
+Griffin: I love this— I love this narrative thread of you trying to befriend every thing [laughter] that tries to kill you.
+
+
+Travis: I— Listen, I love animals.
+
+
+Griffin: Yeah.
+
+
+Travis: Then I wanna kinda do something badass if I’m gonna take this wolf out.
+
+
+Griffin: What are you— what are you thinking about?
+
+
+Travis: Can I double attack?
+
+
+Griffin: Not yet. Maybe someday.
+
+
+Travis: Then I am going to…
+
+
+Griffin: You can try and pick him up and throw him onto the fire pit.
+
+
+Travis: Yeah, that one.
+
+
+[Justin cackles]
+
+
+Travis: Let’s do that. I’m gonna do that. I’m gonna hoist the wolf over my head and throw him in the fire.
+
+
+Griffin: Well you— the— you will have to make a couple of checks there.
+
+
+Travis: No, I’m good with that.
+
+
+Justin: Dumb check. See if it’s dumb to do.
+
+
+Travis: I prefer action, thinking is for other people—
+
+
+Griffin: I’ll make — Let me make the dumb check! Oh man, that is a critical 20. Yeah. Alright. So you will have to make a strength, let’s say a strength contest against this wolf. ’Cause this wolf is gonna try and wriggle to try and get out of your grasp.
+
+
+Travis: Gotcha. So this is just strength.
+
+
+Griffin: Uh, yeah, you— Oof. Yeah.
+
+
+Travis: Okay. I got—
+
+
+Justin: A 20, Trav? Was it a 20?
+
+
+Travis: No… It was 15 plus four, 19.
+
+
+Justin: Ah, okay. One off.
+
+
+Griffin: So yeah. You manage to hoist this wolf into the air.
+
+
+Travis: Yeah! And now what do I have to do—
+
+
+Clint: Throw him!
+
+
+Travis: Okay! I’m gonna throw him!
+
+
+Griffin: Yeah—
+
+
+Travis: I think that’s a thrown attack! [Laughing]
+
+
+Griffin: Well you’re— You’re only a few feet from this fire pit, so you manage to toss this wolf into this fire. The wolf is gonna try to land on his feet. He’s gonna make a— we’ll say a dexterity saving throw— He does. He gets a 17. So he manages to— He lands in the fire and he takes… He takes, we’ll say 1d4 points of damage… He takes three damage, and he’s uh, he is very perturbed. And it smells amazing in this room [laughter] for a second.
+
+
+Travis: As a free action I’m gonna point at Klaarg and yell,
+
+
+Magnus: Call him off.
+
+
+Klaarg: You threw my wolf in the fire!
+
+
+Magnus: And I’ll do worse if you don’t stop him!
+
+
+Clint: Ooh!
+
+
+Klaarg: But he’s my favorite wolf, and you threw him in the fire, though!
+
+
+[Laughter]
+
+
+Magnus: Then call him off or lose him forever.
+
+
+Clint and Justin: Oh!
+
+
+Klaarg: Ohh! But he’s my—
+
+
+[laughter]
+
+
+Justin: Just do it!
+
+
+Klaarg: You— you threw him in the fire!
+
+
+Magnus: He attacked my friend. I say we’re even.
+
+
+Klaarg: I attacked your friend.
+
+
+Magnus: Then you’ll meet the same fate.
+
+
+[Gasp]
+
+
+Klaarg: You can’t pick me up, I’m way bigger than the wolf was!
+
+
+Clint: And then I say:
+
+
+Merle: Fellas, fellas, fellas! We came here to talk!
+
+
+Klaarg: You should have thought about that before throwing my dog in the fire!
+
+
+Merle: Well you shouldn’t have had your dog jump up my ass!
+
+
+Travis: [Laughing] “You got your ass in my dog!” “You got your dog in my ass!”
+
+
+Klaarg: I don’t think my dog could fit in an ass!
+
+
+[Laughter]
+
+
+Travis: You haven’t seen this ass!
+
+
+Justin: I have!
+
+
+Travis: We’ve gotten off track.
+
+
+Taako: [Laughing] Listen—
+
+
+Merle: He’s not kidding around here!
+
+
+Griffin: Uhh… The wolf is—
+
+
+Justin: I have a question. Are we allowed to talk if it’s not our turn?
+
+
+Griffin: Yeah, sure. That’s a free— It’s a free action. I’m not gonna—
+
+
+Justin: So we get free actions whenever, huh?
+
+
+Griffin: Well, I mean I’m not gonna silence you guys. If you wanna crack wise I’m not gonna say shush, it’s not your turn.
+
+
+Justin: Okay.
+
+
+Griffin: Do you wanna say something to Klaarg—
+
+
+Clint: You can chime in here if you want to.
+
+
+Justin: Let me— let me try.
+
+
+[Pause]
+
+
+Taako: Pleeaase?
+
+
+Clint: Oh, good, yeah. 
+
+
+Justin: Was that good?
+
+
+Klaarg: Okay, you’ve convinced me.
+
+
+[Laughter]
+
+
+Griffin: Um, no. That’s not what happens. It’s— next in the order is the wolf. He’s going to scurry out of the fire pit. And he’s gonna tackle— He’s gonna make a running attack at—
+
+
+Justin: I just wanna say, Travis, I wish you’d just tried your animal handling, and—
+
+
+Griffin: At Magnus.
+
+
+Justin: Instead of attacking it—
+
+
+Clint: Or just killed it!
+
+
+Griffin: Yeah, I mean this wolf was actually supposed to be your pet, but you—
+
+
+Travis: Ahh, no!
+
+
+Justin: This is perfect! Now we’ve got a flaming wolf. That’s gre— that’s good. Now it’s a wolf but it’s on fire.
+
+
+Griffin: Uh, exactly.
+
+
+Travis: Actually he’s, he’s more like a smoldering wolf…
+
+
+Griffin: The wolf, uh, jumps at Magnus… He, uh, got a 16 to attack—
+
+
+Travis: Well my armor class is 17.
+
+
+Griffin: Oh. So he is unsuccessful, he is very sad. The two goblins are up next. They are each gonna pull out shortbows. One is going to fire at Magnus, one is going to fire at Taako. Magnus we’ll do you first. Uh, 19 to AC.
+
+
+Travis: Gimme one second, sorry.
+
+
+Griffin: What happened?
+
+
+Taako: Somebody was checking his fantasy football score!
+
+
+Travis: I was. No, I uh— As a protection fighter, “When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.” So I’m gonna say there’s disadvantage against the attack on Taako.
+
+
+Griffin: Okay. But this attack was on you.
+
+
+Travis: Yeah, and that hit. That hit real good. Nineteen?
+
+
+Griffin: Three plus two— five piercing damage.
+
+
+Travis: So not great. Not great for me, I’m down to two.
+
+
+Griffin: Okay. The other attack against Taako— So you’re imposing disadvantage? How often can you do that?
+
+
+Travis: As far as I know, whenever.
+
+
+Griffin: Okay.
+
+
+Travis: There’s no limit.
+
+
+Griffin: So the first attack is a crit… So good that you did that. The other attack is a 12.
+
+
+Justin: Uh, yeah—
+
+
+Griffin: Twelve versus AC?
+
+
+Justin: It’s E, equal.
+
+
+Griffin: So yeah, that’s a hit. And they do—
+
+
+Travis: But at least it wasn’t a crit hit!
+
+
+Griffin: Yeah, that would’ve been pretty bad. They only rolled a one, plus… Two… Three damage. Three piercing damage to Taako. 
+
+
+Justin: Oof.
+
+
+Griffin: That is it for the goblins. Who rolled a 14 for initiative?
+
+
+Clint: Magnus.
+
+
+Griffin: Nope.
+
+
+Travis: No.
+
+
+Griffin: It was either Merle or Taako.
+
+
+Clint: Taako.
+
+
+Justin: I had a— yeah, I had a 14, so.
+
+
+Griffin: Okay. You’re up. You got Klaarg, you got two goblins over by the chimney, and you got a dog by— over by Magnus.
+
+
+Justin: Alright, I cast Charm Person on Klaarg.
+
+
+Griffin: Okay, interesting. What do I— what do I do about that?
+
+
+Justin: I’ll tell you.
+
+
+Travis: You give Justin presents.
+
+
+Justin: You, uh— I’m gonna attempt to Charm a humanoid. “You must make a wisdom saving throw. If it fails the saving throw it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as friendly— as a friendly acquaintance.”
+
+
+Griffin: Okay.
+
+
+Travis: Nice.
+
+
+Griffin: Uh, what do I have to save against?
+
+
+Justin: Wisdom. Save against wisdom.
+
+
+Griffin: But there should be a number— There should be a number that you have that is my target to beat.
+
+
+Justin: Oh, right. The saving throw DC to resist the spell you cast is 13.
+
+
+Griffin: Thirteen. Okay. And I’m making a wisdom saving throw. This guy has plus zero to wisdom, so I need to roll a 13 or better. I roll a two… [Laughter] So consider Klaarg charmed.
+
+
+Taako: Klaarg!
+
+
+Clint: How long does this last?
+
+
+Justin: Until we attack him.
+
+
+Griffin: Okay.
+
+
+Justin: Oh no, sorry sorry sorry. It lasts an hour.
+
+
+Griffin: Okay.
+
+
+Taako: Klaarg, call them off. 
+
+
+Klaarg: [Higher, gentler voice] Call— Sorry, who?
+
+
+Travis: Uh, say what now?
+
+
+Taako: All the b— call the wolves off.
+
+
+Klaarg: Oh, oh, sure. Hey Percival, come back. Come to daddy.
+
+
+Griffin: Percival scampers back to uh, to Klaarg’s side.
+
+
+Clint: Can we put him out?
+
+
+Justin: What?
+
+
+Clint: First? Can we put him out since he was on fire?
+
+
+Griffin: Oh, he’s not on fire. He’s fine.
+
+
+Justin: Okay, good. Uh— 
+
+
+Taako: Klaarg, my name is Taako.
+
+
+Klaarg: [Chuckling] Well, it’s a— It’s a pleasure. It’s, uh, it’s really, really super-great to meet you.
+
+
+Taako: Well, I feel like we’ve known each other for ages.
+
+
+Klaarg: I feel that way too. Do you need any money or any— Can I just sort of— can I give you all of the things I have?
+
+
+Taako: There will be time for that. Listen. We have a sort of a situation we wanted to loop you in on. [Laughter] We, uh— 
+
+
+Klaarg: Do you guys want a tre— You’ve been in my cave for a while now, do you want some oolong?
+
+
+Taako: Uh, no, no oolong for us, thanks. We don’t have much time. Actually about 59 minutes, if you’re exact—
+
+
+[Clint laughs]        
+
+
+Taako: So listen. Uh, listen. We have a situation. One of your employees, uh, Yahweh, said— Told us— 
+
+
+Klaarg: I don’t think the Jewish god is, uh, under my employ.
+
+
+Magnus: I think it’s Wee-man.
+
+
+Merle: I think it’s Meemaw.
+
+
+Taako: Meemaw? Wee-man?
+
+
+Klaarg: Wee-man. Yes.
+
+
+Taako: Wee-man. He told us that— First off, he has our friend Barry Bluejeans held captive.
+
+
+Merle: You know Barry.
+
+
+Taako: You know Barry.
+
+
+Klaarg: That was— I did— Yes, I—
+
+
+Taako: I thought. We figured.
+
+
+Klaarg: I may have—
+
+
+Magnus: Water under the bridge.
+
+
+Taako: Water under the bridge.
+
+
+Merle: Let’s get past it.
+
+
+Taako: Uh, listen. Your friend wanted us to— And I know this is going to be hard to hear—
+
+
+Klaarg: Are you sure you don’t want any tea? I have a delicious Earl Grey—
+
+
+Taako: Fifty-eight minutes, Klaarg, try to stay focused.
+
+
+Merle: We’re good. We’re okay.
+
+
+[Laughter]
+
+
+Taako: He tried— He wanted us to, believe it or not, kill… [pause] Well, you. Kill you.
+
+
+[Laughter]
+
+
+Klaarg: That doesn’t sound like… Are we talking about the same Yeemick? There are, uh, sorry. I think I understand what the problem is. I employ several Yeemicks.
+
+
+Taako: Klaarg, look at me. It’s Taako. [Wheezy laughter] This is Taako talking.
+
+
+Klaarg: I—
+
+
+Taako: Would I lie to you?
+
+
+Merle: Huh?
+
+
+Klaarg: [Sighs] I guess I’ve known all along…
+
+
+Merle: Look at that face. Look at that face!
+
+
+Taako: Look at this face, Klaarg. It’s me, Taako! Listen—
+
+
+Magnus: So—
+
+
+Taako: Here’s the thing. We want Barry back. We wanna kill this bad guy… that wants to kill you. We want our friend Barry, and we want— we’d like some gold. Like some gol— like a little gold.
+
+
+Merle: For our trouble.
+
+
+Taako: For our trouble!
+
+
+Magnus: And if it’s not such a big deal, it would be great to know what happened to our other friend.
+
+
+Taako: What do you say, Klaarg?
+
+
+Magnus: Gundren.
+
+
+Taako: Gundren. Klaarg, what do you say?
+
+
+[Pause]
+
+
+Klaarg: I think that we can come to a very, uh, agreeable conclusion to this entire misunderstanding. Give me just one moment.
+
+
+Merle: Sure.
+
+
+Griffin: He goes over to what looks like a desk that a bugbear would use— [laughter] He’s a— he’s a bugbear.
+
+
+Clint: Aww!
+
+
+Griffin: And he uh— He pulls a sort of a rock out of the wall, so that there’s like a small hole in the wall, and he says uh— 
+
+
+Klaarg: Yeemick, can I see you in my office, please?
+
+
+[Laughter]
+
+
+Griffin: And he puts the rock back in. In about, uh— 
+
+
+Justin: Okay, while we’re waiting— 
+
+
+Griffin: Yeah.
+
+
+Justin: Before he comes— 
+
+
+Taako: Klaarg, just a heads-up. He’s gonna know something’s up when he sees us.
+
+
+Klaarg: Oh, tot— No, please. Listen. Yeemick talks a big game, but he really is— He’s as sweet as cherry pie. You have nothing to worry about, trust me, my friend.
+
+
+Magnus: I say we move to either side of the door.
+
+
+Merle: Oh, how about if we pretend we’re captives? Or dead?
+
+
+Justin: Oh, can we feign dead-ness! 
+
+
+Clint: Can we feign death?
+
+
+Griffin: Uh— 
+
+
+Justin: Yeah, we all lie down! I lie down on the ground!
+
+
+Klaarg: I— I tell— I’m telling you, thi— This level of chicanery is not— 
+
+
+Taako: Bleh, I can’t hear you, I’m dead!
+
+
+Clint: [Laughing] Alright.
+
+
+Merle: Come on, Taako, stay up.
+
+
+Klaarg: I do feel like you’re embarrassing yourself a little bit, but if you wanna lie on the floor and play child games it’s— 
+
+
+Taako: Tell it to my ghost!
+
+
+Klaarg: Okay.
+
+
+Magnus: Can I play with your dog?
+
+
+Clint: Oh my god, he won’t give up on the dog!
+
+
+Klaarg: Absolutely not. You did throw him in a— [laughter] Listen. I love you guys. You’re my oldest—
+
+
+Justin: You love Taako. Well, you love Taako.
+
+
+Klaarg: You’re my oldest and dearest friends. You threw my dog in a goddamned fire.
+
+
+[Laughter]
+
+
+Magnus: Uh, but yeah. That was a misunderstanding.
+
+
+Griffin: Uh, okay. So what are you— What are the three of you doing?
+
+
+Clint: Alright, let’s—
+
+
+Travis: I say we stand to the side of the door.
+
+
+Clint: Yeah, at least stay out of sight to— don’t give him a chance to—
+
+
+Justin: Oh, that’s good. Yeah yeah yeah, we’ll stand on the other side of the door so he doesn’t see us as soon as he walks in.
+
+
+Griffin: Okay. Yeemick walks in with the two other goblins that were in that room with him. They walk into the room. They do not see you as they walk in. Um—
+
+
+Justin: Is Barry with them?
+
+
+Griffin: Barry is not with them.
+
+
+Clint: He’s back on the stage.
+
+
+Griffin: He’s back on the stage.
+
+
+Travis: Where he belongs!
+
+
+Griffin: But the three goblins who walk in have their weapons drawn. And Klaarg goes uh—
+
+
+Klaarg: Oh, Yeemick. I have heard the most fascinating story about you.
+
+
+Griffin: And Yeemick draws a shortbow and fires a round off at Klaarg. 
+
+
+Travis: What— Hold on! Can I use my protection for Klaarg?
+
+
+Griffin: Yeah, sure. We’ll say that.
+
+
+Travis: Okay, great!
+
+
+Griffin: Okay, so you’re imposing— The first roll was an 18. The second roll is a 17, which hits his armor class. And he takes— He takes four points of damage. And Klaarg reels from that shot and says:
+
+
+Klaarg: Oh, so it’s true.
+
+
+Griffin: And pulls out—
+
+
+Travis: Oh, I see how it is!
+
+
+Griffin: And pulls out— Pulls out a giant morning star in one hand and a javelin in the other, and looks like he’s getting ready for business. We’re gonna hop back into initiative. The two goblins that were in the chamber before walk over behind Yeemick, and align with this seditionist movement. And, I believe the last person to go was Taako, so Klaarg is actually next in the order. He is going to bear down on Yeemick with this big, big morning star. And rolls a… 19, which hits for 2d8 plus two damage. That’s a seven…
+
+
+Travis: Real glad we charmed that dude.
+
+
+Griffin: A six… Seven plus six is 13, plus two is 15 piercing damage. [laughs] He crushes Yeemick into the ground, and the other four goblins look a little bit worried about that. And next in the order is Merle.
+
+
+Clint: Is Magnus still at only two life points? Two hit points?
+
+
+Travis: I— I mean, I’ve got Second Wind, if I can keep from getting hit. I’m feeling fine. Don’t worry about me. Action, action, action.
+
+
+Justin: Well, I don’t want you to die. We’re trying to make a podcast here.
+
+
+Travis: I’ll be fine. Magnus will be fine. Either that—
+
+
+Clint: Well then—
+
+
+Travis: Either that, or his brother Mignus will show up.
+
+
+Clint: Then how would I proceed if I wanted to leave the cave and go back to Barry Bluejeans, and try to heal him?
+
+
+Griffin: You can do that. You’d be splitting up the party…
+
+
+Travis: Don’t do that.
+
+
+Griffin: You got— You got Klaarg in here, he’s still charmed, and you’ve got four goblins left. And— 
+
+
+Clint: How much longer on Klaarg’s charm?
+
+
+Griffin: Each round of combat takes about six seconds, so, he’s— 
+
+
+Travis: We’re fine.
+
+
+Griffin: You’ve got plenty of time on that clock.
+
+
+Clint: Sorry Trav, I’m gonna— I’m gonna heal ya.
+
+
+Travis: You jerk!
+
+
+Griffin: I mean, you shouldn’t apologize!
+
+
+[Laughter]
+
+
+Travis: How dare you, you turd!
+
+
+Clint: Well, here’s the thing. Do I need to burn another spell slot?
+
+
+Griffin: Yeah. Your heals are based on— 
+
+
+Travis: You have— 
+
+
+Griffin: On your spell slots.
+
+
+Clint: So if I use heal here, does that mean I won’t be able to cast anything else?
+
+
+Griffin: Is it— Do you only have the two spell slots?
+
+
+Clint: Yeah.
+
+
+Griffin: Then yeah. Until you take a long rest, you won’t be able to cast anything else.
+
+
+Clint: Alright, well, I’m gonna cast Healing Hands. A one.
+
+
+Griffin: Okay.
+
+
+Clint: And I add five to it.
+
+
+Griffin: So Travis gets six— 
+
+
+Travis: Plus six.
+
+
+Griffin: Magnus gets six hit points back.
+
+
+Travis: ’Kay. Gotcha. [Pause] Feeling fine.
+
+
+Griffin: You feel lightly refreshed. You feel like you— you just applied some Bengay.
+
+
+Travis: Gotcha.
+
+
+Clint: And then I say triumphantly:
+
+
+Merle: You’re welcome!
+
+
+Magnus: Thanks.
+
+
+Griffin: I mean, you didn’t like, sew an arm back on. You healed him for six points of damage.
+
+
+Clint: Let’s see you heal him!
+
+
+Travis: I do appreciate it. Okay, next!
+
+
+Griffin: Next in the order, back to the top of the order, is Magnus.
+
+
+Travis: Then I’m— I mean, I’m gonna attack one of the gerblins!
+
+
+Griffin: Okay.
+
+
+Justin: Wait. Can we tell if Yahweh is dead?
+
+
+Griffin: He’s, oh, he’s super dead.
+
+
+Justin: Okay. Great.
+
+
+Griffin: And— and by the way, we shouldn’t say the sentence out loud, “Yahweh is dead.”
+
+
+[Laughter]
+
+
+Justin: Now hold on— 
+
+
+Griffin: Just for future reference, we should avoid saying that sentence out loud.
+
+
+Travis: So I would like to roll an intimidation check— 
+
+
+Griffin: Okay.
+
+
+Travis: And tell the four goblins that are left, their leader is dead, lay down your weapons.
+
+
+Griffin: Okay. What is your— what is your intimidation skill?
+
+
+Travis: My intimidation is plus three. Eighteen.
+
+
+Griffin: We’ll say you’re contesting their wisdom. That’s a crit. That is not successful.
+
+
+Travis: So no then.
+
+
+Griffin: They are not intimidated. In fact— 
+
+
+Travis: Can I still attack?
+
+
+Griffin: They look super brave. Yeah, sure.
+
+
+Travis: Okay, great. Then I’m just gonna swing one-handed battleaxe at whoever’s closest to me.
+
+
+Griffin: Okay. Uhh…
+
+
+Travis: And it kinda goes like this:
+
+
+Magnus: Lay down your weapons!
+
+
+Travis: “Nooo!”
+
+
+Magnus: Alright.
+
+
+Griffin: Okay. That’s— that would be the one on the far right there.
+
+
+Travis: Um… 18.
+
+
+Griffin: Yeah, that’s a hit.
+
+
+Travis: 1d8… plus four… 11.
+
+
+Griffin: Yeah, he is— he is cleaved.
+
+
+Travis: Cleft.
+
+
+Griffin: He is cleft.
+
+
+Travis: Cleaved?
+
+
+Clint: Cleaved?
+
+
+Travis: Clefted.
+
+
+Griffin: He’s dead. He fucking died. Okay? I’ll buy a— Listen. I’ll buy a thesaurus before we play next time. You killed a goblin, great job. You get 20 experience points. Is this what you want?
+
+
+[Travis laughs]
+
+
+Clint: Do I get 20?
+
+
+Travis: No flavor text?
+
+
+Griffin: Here’s some flavor. You killed him and you didn’t even think twice about it. You just did it, impulsively. You murdered another gerblin.
+
+
+Justin: You’re— you’re deeply broken inside.
+
+
+Griffin: Great job. Next in the order is the wolf. The wolf is going to charge at the goblin on the far left. Fifteen, which ties their armor class, so that’s a hit. 2d4 plus two. That’s a four, plus three, seven, nine. He tackles the goblin on the far left to the ground, and he stops moving. Next in the order is the goblins. There’s only two left. That is enough to intimidate them. One of them runs, turns and runs, and and sort of scurries down that chimney. Another one goes over there and— and tries to get down that chimney, but he gets stuck along the way, hilariously.
+
+
+[Laughter]
+
+
+[Travis makes cartoonish climbing sounds] 
+
+
+Griffin: So that can be it. You’ve got a goblin stuck in a hole; you got Klaarg there, still charmed; you got a wolf, he is enjoying a delicious meal. And we are out of initiative.
+
+
+Merle: Way to go, team!
+
+
+Taako: Whoo-hoo! 
+
+
+Griffin: Good work! It was a very unconventional way of tackling that, but I liked it.
+
+
+Clint: You said you liked that.
+
+
+Griffin: Yeah, sure.
+
+
+Klaarg: Boy, I wish I hadn’t needed to murder them. That was, uh— 
+
+
+[Clint laughs]
+
+
+Justin: Can I search them?
+
+
+Griffin: Uh, a— absolutely. If you wanna do that in front of Klaarg, I think, more power to you.
+
+
+Taako: Klaarg— 
+
+
+Justin: Let me talk to him.
+
+
+Taako: Klaarg, old buddy…
+
+
+Klaarg: Uh. Yeah.
+
+
+Taako: We’re— we’re— we’re gonna search them for valuables. Is that cool with you?
+
+
+Klaarg: I— You know, I suppose so. It’s going to, uh— 
+
+
+Taako: Excellent. Thanks, Klaarg, I appreciate it.
+
+
+Klaarg: Okay. Uh if you… uh… Yeah, just go right ahead.
+
+
+Justin: Okay, we do it.
+
+
+Griffin: Okay. You find in Yeemick’s pocket a… sack full of golden teeth. And you— you assume that that’s going to be worth a pretty penny. Maybe about 30 gold pieces or so.
+
+
+Justin: Do we need to sell it, or can I just put down 30 gold pieces?
+
+
+Griffin: You can put down 30 gold pieces.
+
+
+Justin: Alright. Split three ways, so.
+
+
+Griffin: Klaarg goes:
+
+
+Klaarg: Oh! I forgot, I promised you guys so much— so much money. Let me go—
+
+
+Magnus: And there was talk of tea?
+
+
+Klaarg: Oh, yeah! Is it—
+
+
+Griffin: He gets really excited about that.
+
+
+Klaarg: Do you want— I have so much! And I have a lot to share if it’s something you’re actually interested—
+
+
+Taako: You know what? A cup of oolong would be a delight.
+
+
+Klaarg: Oh, fantastic—
+
+
+Magnus: It would go down real smooth.
+
+
+Merle: Scones? Do you have scones?
+
+
+[Pause]
+
+
+Klaarg: Oh my god, no, I— Oh my god, I don’t.
+
+
+Merle: It’s okay. It’s okay.
+
+
+Klaarg: No, I— I can run out and get you some—
+
+
+Merle: No, no, I’m diabetic. I— I couldn’t eat ’em anyway. 
+
+
+[Laughter]
+
+
+Klaarg: I just feel so terrible!
+
+
+Merle: You just looked like a scone guy, is all.
+
+
+Griffin: He— he comes back, and brings you out three glasses of the— the most delicious, most aromatic oolong tea you have ever tasted. It is enough to level all three of you up to level two. [Laughter] Just drinking this incredible tea brings you up to Level 2.
+
+
+Clint: Great. How much time has passed?
+
+
+Griffin: He also— Fifty-nine minutes and 59 seconds. No, it’s— you’re fine. He also drags out a small chest that contains a lot of copper and silver pieces in it equal to… about 25 gold pieces. There’s also two potions of healing in there—
+
+
+Justin: Can you make it 24?
+
+
+Griffin: Twenty-four gold pieces, two potions of healing — I’m not gonna round that up for you — and a jade statuette of a frog with tiny golden orbs for eyes, worth about 40 gold pieces.
+
+
+Clint: Nice!
+
+
+Griffin: So 64 gold pieces and two potions of healing. The frog statuette is small enough to fit in a pocket or pouch. I’m getting that one straight from the guide book, not making that part up.
+
+
+Travis: I’m glad we don’t have to lug a [chuckling] six-foot statue around. Thanks— thanks, guide!
+
+
+Griffin: He says:
+
+
+Klaarg: That’s— that’s about all there is, guys. I— I don’t feel too bad about that. You just significantly reduced my company’s overhead.
+
+
+Griffin: And he laughs. He has a nice, good laugh about that.
+
+
+Clint: He does, doesn’t he?
+
+
+Griffin: He has a nice, hearty laugh.
+
+
+Merle: Well, just think, old buddy: just those many fewer, Christmas bonuses you’ll have to fork up.
+
+
+Klaarg: Oh yeah. Recruitment is a real pain in the old hiney, but you know it’s—
+
+
+Taako: Uh, Klaarg—
+
+
+Klaarg: Yes?
+
+
+Taako: Since we’re— we’re friends here—
+
+
+Klaarg: Absol— best friends, I would say.
+
+
+Taako: I would say that. What happened to—
+
+
+Klaarg: Lovers maybe?
+
+
+Taako: Uhh… Time will tell. What happened to…
+
+
+Merle: Gundren.
+
+
+Taako: Gundren?
+
+
+Klaarg: We… actually… gave him away.
+
+
+[Laughter]
+
+
+Merle: Gave him away?
+
+
+Magnus: Come again?
+
+
+Klaarg: I guess I can start from the beginning. We were hired— We were contracted to give — to collect, let’s say — to acquire Gundren and deliver him to The Black Spider. So that’s what we did, and that’s where he is at, I imagine.
+
+
+Taako: Okay, what’s The Black Spider?
+
+
+Klaarg: I don’t actually know. I’ve never met him. But I do know— I guess he loves… dwarves! Because he just—
+
+
+Merle: He does?
+
+
+Klaarg: I guess he just likes having them.
+
+
+Taako: Where— Do you think you can mark on my map here where you left Gundren?
+
+
+Klaarg: We took him— We actually delivered him to an envoy, to a representative for Mr.— For Mr. Spider here at this cave. So unfortunately that is not—
+
+
+Taako: Do you have a way of contacting The Black Spider?
+
+
+Klaarg: The Black Spider typically contacts me, unfortunately. I do wish I could help you out in this regard, but I do not think there is anything I can do for you.
+
+
+Taako: Okay. You don’t have any healing salves or anything, do you? Except for these potions you just gave us, right?
+
+
+Klaarg: I did just give you those potions—
+
+
+Taako: [Laughing] Yeah, okay. Listen, Klaarg—
+
+
+Klaarg: Yeah?
+
+
+Taako: This has been so great.
+
+
+Klaarg: I have had a fantastic time too. I did have to murder my employees, but I— But you know—
+
+
+Magnus: They were gonna murder you.
+
+
+Klaarg: They were going to murder me, weren’t they? You’re always right about things, Magnus. That’s why I like you.
+
+
+Merle: Now listen, before— Before we say goodbye, let’s not leave without making plans to get together again.
+
+
+Klaarg: Can we have a hug?
+
+
+Merle: No. No, not with a bugbear. No.
+
+
+Klaarg: Can one of you guys give me just a quick hug?
+
+
+Merle: I say Magnus!
+
+
+Taako: Uh, Magnus! Sounds like a job for Magnus.
+
+
+Klaarg: How about a really nice hug?
+
+
+Merle: He loves animals!
+
+
+Travis: Oh-kay. Listen. If there’s one thing I know about Magnus, it’s he loves hugs!
+
+
+Clint: Roll your hug die.
+
+
+Griffin: He, uh—
+
+
+Travis: Let’s turn this bugbear, into a hugbear.
+
+
+[Clint laughs]
+
+
+Griffin: He takes you in his arms and he cradles you. His fur is so much softer than you thought it was gonna be. [Laughter]
+
+
+Travis: Aww.
+
+
+Griffin: It’s amazing. So you share an embrace. You try to disengage. He is—
+
+
+Clint: You begin to hum gently.
+
+
+Griffin: He’s actually holding you a little bit longer than you probably wanted to be held.
+
+
+Justin: Awk-ward.
+
+
+Travis: Mhm.
+
+
+Griffin: Umm—
+
+
+Travis: But you know what? Maybe Magnus needs that.
+
+
+Griffin: He starts moving his hands in small, slow circles… [Laughter] On the top of your back.
+
+
+Taako: Okay, listen, we’ve got to be going.
+
+
+Merle: Look at the time!
+
+
+Klaarg: This is good, isn’t it?
+
+
+Magnus: Yeah.
+
+
+Klaarg: Are— are the two of you, are you sure you don’t want a piece of this action also?
+
+
+Taako: Oh, next time. For sure.
+
+
+Griffin: Okay. Time is— time is running short, you are starting to think, on this spell, and maybe it’s time to head out.
+
+
+Justin: Alright, here we go.
+
+
+Clint: Did we want to at least think about murdering Klaarg?
+
+
+Justin: No, we’re not gonna murder Klaarg, he’s our buddy.
+
+
+Travis: No, not at all. We need to get Barry Bluejeans and get out of here.
+
+
+Justin: We’re gonna get Barry Bluejeans. Can— Now, let me have a discussion with you guys. Can we leave the room first?
+
+
+Griffin: Yeah. Sure.
+
+
+Justin: Okay. 
+
+
+Klaarg: So long, friends!
+
+
+Taako: Goodbye, Klaarg.
+
+
+Magnus: Goodbye Klaarg!
+
+
+Justin: Should we…
+
+
+Clint: God, that was creepy.
+
+
+Justin: Use one of our healing potions on Barry? So we’re— It’s like, not dead weight?
+
+
+Clint: Yeah. I say— Well, why do that? Why don’t I just heal him?
+
+
+Justin: You don’t have any charges left.
+
+
+Clint: Oh yeah, that’s right.
+
+
+Justin: You used your two spell slots.
+
+
+Travis: Okay, well let’s get back in the room first.
+
+
+Justin: Yeah, let’s go check on him.
+
+
+Travis: ’Cause we left him alone with those dudes.
+
+
+Clint: I say we carry him out, if we—
+
+
+Justin: Alright. Well, let’s get in there. Is he okay, Griffin?
+
+
+Griffin: He is. He’s lying where he—he was left by Yeemick.
+
+
+Clint: Well can we—
+
+
+Travis: I wanna check the crate that Yeemick was going through.
+
+
+Griffin: Okay. There is— mostly it is some very rough leather armor, some clothing, some— some letters. You believe that these are probably Barry Bluejeans’ possessions.
+
+
+Justin: Oh, right on. Okay.
+
+
+Griffin: So you guys, uh, slap Barry around a little bit. He comes to. He is in horrible shape, but he’s not unconscious.
+
+
+Merle: What if he’s a douche—
+
+
+Travis: Like he needs to exercise more and eat better?
+
+
+[Clint laughs]
+
+
+Griffin: He is a little bit overweight. Is that what you wanted to hear me say?
+
+
+Travis: I do. [High-pitched voice] I do wanna know that Barry’s a little chubster!
+
+
+Griffin: He is— He is a solidly put-together man, in his— you’d estimate in his 50s. So he’s basically got one foot in the grave age-wise.
+
+
+Clint: Is he conscious?
+
+
+Griffin: He is conscious. And he is very, very grateful to be alive. Although he is— again, I can’t stress this enough, he is real fucked up.
+
+
+Justin: Okay, listen, I’m gonna go ahead and give this guy a healing potion. This is silly.
+
+
+Griffin: Okay.
+
+
+Justin: I heal hi— I give him a healing potion.
+
+
+Griffin: He, uh, guzzles it down. And he says,
+
+
+Barry Bluejeans: This is— This is wonderful. Thank you. Thank you, you kind soul. I will never ever forget this kindness that you have done for me. My name is Barry J. Bluejeans, and I’m ready to kick some goblin ass! Where did they go?
+
+
+Taako: Listen, all of the asses have been kicked, dear Barry.
+
+
+Barry: Where— You didn’t leave me one ass?
+
+
+Taako: No, we—
+
+
+Merle: There’s some stuff out in the weeds, if you’re really interested in it.
+
+
+Taako: We have your clothes.
+
+
+Barry: I will take those, yes. These are my favorite clothes. My name is Barry J. Bluejeans.
+
+
+[Laughter]
+
+
+Merle: Ironically, they are bluejeans, so…
+
+
+Barry: Yeah, well, yeah. No shit. How you think— Why do you think they call me that?
+
+
+Clint: Yeah, he is a douche.
+
+
+Barry: What do you— You think that this is a family name?
+
+
+Clint: Barry’s a douche.
+
+
+Barry: Oh, guys, thank you so much. And again, that healing potion. So great, so smart. Definitely the right move to make.
+
+
+[Laughter]
+
+
+Magnus: Let’s get outta here.
+
+
+Justin: Wait—
+
+
+Merle: What— What do you know about this Black Spider—
+
+
+Justin: Wait, hold on, hold on. Where are we right now.
+
+
+Griffin: You are in— You are still in the cave.
+
+
+Justin: Okay.
+
+
+Travis: Are we in the auditorium room with the stage?
+
+
+Griffin: Yeah yeah.
+
+
+Justin: We need to truck it outta the cave, because Klaarg’s gonna wake up soon and he’s gonna remember what happened, and I don’t wanna be here when that happens.
+
+
+Travis: Uh-huh.
+
+
+Griffin: Okay. Alright. Barry Bluejeans is amenable to that. He’s like:
+
+
+Barry: Yeah. Let’s get the hell outta this cave. I am not a big fan of this cave. My name is Barry Bluejeans.
+
+
+[Theme music plays]
+
+
+[Next episode]

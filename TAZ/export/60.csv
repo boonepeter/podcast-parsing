@@ -1,0 +1,883 @@
+,episode,speaker,lines
+0,60,The Adventure Zone,
+1,60,Dungeon Master & NPCs, Griffin McElroy 
+2,60,Magnus Burnsides/Reporters, Travis McElroy
+3,60,Merle Highchurch/Reporters, Clint McElroy
+4,60,Taako Taaco/Reporters, Justin McElroy
+5,60,Episode 60 - The Stolen Century Chapter One,
+6,60,(part of TAZscripts on Tumblr) ,
+7,60,Announcer," Before the day the Hunger arrived, before this… crisis. Before Wonderland, before the time-sick town and the crystal lab, before races and trains and moon bases and gauntlets, before the beach and the sizzling and the Roost… before everything I’ve told you, there was a journey beyond imagination."
+8,60,"Seven explorers lost their home to the same force that threatens us now. Their impossible trajectory carried them between wild, desolate, beautiful, deadly worlds where they faced terrible hardships, and experienced immeasurable joy. They lived, and died, and loved, and, in the end, forgot. It’s time to remember. It’s time to go back to where our story truly started. Because only then can we prepare for how it ends.",
+9,60,It’s The Adventure Zone!,
+10,60,[THEME MUSIC," ""The Unexplained"" by Mort Garson (full song on YouTube)] "
+11,60,{1,55}
+12,60,Justin," [weird supervillain-esque voice (Tim Curry impression)] I’ll finish this delectable little slice of turkey while you begin, Griffin."
+13,60,Travis, [overlapping] Let me take a sip of my LaCroix.
+14,60,Justin," Begin the game, Griffin, I am going to enjoy some turkey into the microphone."
+15,60,Clint, I’ll—
+16,60,Travis, [Louder] Begin the beguine!
+17,60,Griffin, I’m in hell.
+18,60,Justin, Oscar Mayer deli-fresh mesquite sauce—
+19,60,[mostly unintelligible crosstalk],
+20,60,Griffin, I’ve been stressing this episode for two months—
+21,60,Justin, Well I’ll be treating myself this Tuesday.
+22,60,Griffin," —about this episode, and you are elongating— "
+23,60,Travis," Mesquite you say, mmm."
+24,60,Griffin, —you’re prolonging the magic in a way that is absolutely torturous.
+25,60,Justin, What is mesquite?
+26,60,[Clint laughing],
+27,60,Griffin," Uh, you ready?"
+28,60,Justin, Yeah.
+29,60,Clint, Yeah!
+30,60,Justin," That was all in the podcast, right?"
+31,60,Griffin," Yeah, absolutely."
+32,60,Justin," Okay, good. "
+33,60,Griffin," Let me get through this intro thing and explain what we’re doing here. Um, we open up on a promotional video that is being projected onto a large screen, and we hear a woman’s voice say,"
+34,60,Woman," Everything begins, and I mean that quite literally, with the light of Creation. Imagine the power to realize anything your mind can conceive of on any scale, and then imagine that power given tangible form. It’s not the being that created our existence, but it may very well be the tool that that being used. "
+35,60,"It’s the paintbrush that illustrated the very first tree, it’s the yardstick that told the stars where to hang in the night sky. Somehow, the light of creation ended up in a place where it was probably was not intended to go", our world. The very world that it helped to shape.
+36,60,[heroic music begins to swell],
+37,60,"A year ago, the Institute of Planar Research and Exploration, the world’s premier collective of bright minds and adventurous spirits, recovered the light of creation. And in this past year, we’ve made immeasurable advancements in the fields of science and arcana, all culminating in tomorrow’s unprecedented voyage.",
+38,60,"Please, give a warm welcome to our brave explorers!",
+39,60,[music fades out],
+40,60,Griffin," And the video ends, and the lights come up on the stage, and the seven of you are greeted with a wave of applause from the massive audience congregated in front of you."
+41,60,Travis," I— Griffin, I need to know, sorry to interrupt. Is it a curtain rises, or the lights like, burst on with, like, confetti cannons?"
+42,60,Griffin," Uh, there’s no confetti cannons, it’s not a fucking Flaming Lips concert. Uh—"
+43,60,Travis, Why not?
+44,60,Griffin," Because it’s, like, a press conference for a scientific institute. "
+45,60,Travis, [overlapping] Okay.
+46,60,Clint, Have we got swag? Are we handing out swag to everybody? That’s kind of a hot thing.
+47,60,Griffin," It’s not really that type of thing, it’s not an Apple, like, unveiling."
+48,60,Clint, Okay.
+49,60,Griffin," It is over a hundred years ago. And tomorrow, the three of you, Lucretia, Lup, Barry, and Captain Davenport are all setting off on the mission that will bring you to the world that you currently inhabit, the world in which rest of the podcast has taken place. Um, and so this has—"
+50,60,Travis, I would like to state canonically—
+51,60,Griffin, Yeah.
+52,60,Travis," —that my character chooses to refer to him as Cap’n’port, kinda like Cap’n Crunch! Um—"
+53,60,Griffin, That’s good flavor.
+54,60,Travis, Yes. Thank you. ‘Cause like me—
+55,60,Griffin, [crosstalk] That’s exactly the kind of flavor—
+56,60,Travis, —Magnus loves portmanteau.
+57,60,Griffin," Absolutely. That’s exactly the type of flavor that we are going to be dealing in, because during this episode and the next episode - hi, welcome to the Adventure Zone - uh, we’re not gonna be playing D&D. We’re gonna be trying something new, because we have a lot of ground to cover and I don’t want to... belabor it? Um, this arc is called the Stolen Century, and we will be playing a game that I made that is the same title, I’ve called it the Stolen Century."
+58,60,Clint," Shit, I just got good at Dungeons and Dragons!"
+59,60,[lots of crosstalk],
+60,60,Griffin, Ah… debatable.
+61,60,Travis," Dad, you didn’t, no."
+62,60,Clint, I didn’t? Well then bring it on.
+63,60,Griffin," So we’re trying something new and it may be kinda clumsy, I didn’t fuckin’ playtest this at all because that would be a weird thing to, like, playtest with folks, so I ask that you sort of— I ask of you, Justin, Travis and Dad, and you the listener to kinda bear with it, if it doesn’t work out, sorry! We’ll be done with it in a couple of episodes and then we’ll be onto basically what I hope will be the starting point for the finale. But before we get there we have basically a hundred years’ worth of stuff to sort of clear up. If you’ll remember from—"
+64,60,Travis, So buckle in! It’s gonna be a couple episodes.
+65,60,Griffin, [overlapping] Buckle in! [laughs]
+66,60,[Clint laughing],
+67,60,Griffin," If you remember the Chalice episodes, you all had this like one hundred years of static you couldn’t remember and in the last episode we learned that, uh, you went on this mission, with the seven of you, um, the seven Red Robes, who traveled as part of the Institute that Lucretia made you forget. And, so, this will be our effort to sort of fill in that one hundred year gap. Um, one thing I wanna make clear is that even though these events are happening in the past, the events that unfold are not set in stone at all, like, I have very few... story points that are fixed. "
+68,60,"Um, your decisions will affect and design your history, but more importantly - and this is the most important thing about this game that we’re gonna play - the things that you do in the Stolen Century will impact the ending of the rest of the campaign. What you do here is going to author the finale. And I want you to keep that in mind as we play, like your decisions are gonna have a lot of weight once we, once we get into the finale. Um—",
+69,60,Travis," Grif— Griffin, I have a— I have a story question."
+70,60,Griffin," Yeah, please."
+71,60,Travis," But if you would like to, like, explain the mechanics of the thing first?"
+72,60,Griffin," Yeah, lemme explain the mechanics in like a one, a one-minute sort of overview, and then because the next thing I wanna do is sort of establish timelines, ‘cause I think we’re getting maybe a little bit complicated in that department."
+73,60,Justin, Can you give me an estimate on how many slices of mesquite-smoked turkey you’re gonna be talking for on the rolls?
+74,60,Griffin," I think maybe, um, two. Two, I— it depends on how quickly you slobber ‘em down."
+75,60,[crosstalk],
+76,60,Justin," Two, so I—"
+77,60,Clint," And, if you chew properly—"
+78,60,Justin, [interrupting] I savor them for sure. Sure.
+79,60,Clint, —which we’ve always had an issue with.
+80,60,Justin," Oscar worked long to get this mesquite-smoked flavor in here, the least I can do is just enjoy it."
+81,60,{7,45}
+82,60,Griffin," Um, I have modeled this game sort of half on the ‘Powered by the Apocalypse’ system, and half on sort of like ‘choose your own adventure’, if you haven’t played a game like Dungeon World, or, uh, the Apocalypse World or anything like that, it’s so— this is all I’ve taken from that system."
+83,60,"We’re not rolling d20 anymore, the only thing that you guys will roll, I will roll no dice at any point during this game, uh, is two six-sided dice. Uh, and you will add whatever relevant modifiers to those dice rolls based on the actions that you take, and it’ll only be— most of the time we’re just gonna be like having a conversation about what your characters do over this journey. It’s only when you say that you’re doing something that could be remotely challenging that you will roll.",
+84,60,"Uh, you only have three stats, you have Body, which you use for like fighting, or physical activity, or enduring something in any way. Uh, you have Mind, which you use for like deduction and studying and surveying and spellcasting. Uh, and then you have Heart, which is what you use for like convincing someone of something, anything like, interpersonal. And here is how all of these rolls work, it’s so, so simple.",
+85,60,{8,53}
+86,60,"After you roll your stats and you add up the two d6, if you get a six or below, you’ve failed, and something very bad will happen, you don’t get to accomplish what you were trying to accomplish. If you roll a seven to nine, you get sort of a mixed success, a limited success, you get to do what you wanna do but usually there is a cost or or some sort of side effect or maybe it’s not quite as effective as you were hoping it would be.",
+87,60,"If you get a ten or above, it’s a total success, and basically you, the player, gets to dictate what happens next. You get the reins of the story for a little bit, and tell me what happens when you do your thing good. That’s it! That’s like the only thing you need to keep in mind. Six or below is failure, seven to nine is mixed success, ten or above is complete success.",
+88,60,"I can’t see what you guys are rolling, not that I ever had, but I ask that you keep it completely honest, because this game is more interesting I think, and Apocalypse games are more interesting if like, you fuck up a lot of the times, um. The only other thing you have going on are three scores, and these scores are gonna be important in the finale, um, you have experience points, which sort of measure your personal growth throughout the game. You have assets, which are like, things, uh, objects you accumulate during the game, and you have bonds, which are sort of a measurement of your interpersonal relationships with the rest of the team and the people in the worlds that you visit throughout the game.",
+89,60,{10,11}
+90,60,"Um, assets and experience are going to be very important when we get to the finale. I'm not gonna tell you exactly what they do but you can probably intuit. Assets are special in that they will also be important at the end of the game but you can also spend one asset to upgrade a roll result once.",
+91,60,"So if you fail, you spend an asset and you can get it up to a mixed success, if you get a mixed success, you can spend an asset and get it up to a complete success, but you'll have to tell me like, how you're spending that asset, so like, the example I have in the rules is like, if you're talking to like some, uh, corrupt king and you're trying to like, free one of your teammates from their prison and you roll a failure, you could spend an asset and say like, you've bribed him with jewels or whatever.",
+92,60,"And that's the asset you're spending and then it upgrades the result and we'll deal with that in the story. That's it, that's like the whole shebang. That's the whole kit ‘n’ caboodle of what the game is gonna be. Um, the— do you guys have any questions before we hop in?",
+93,60,{11,08}
+94,60,Travis," Well the one I ha— the one I have was about, like, timeline, ‘cause that's something that I've been very curious as to—"
+95,60,Griffin, Yes.
+96,60,Travis," —like, where this falls in regards to Magnus's, like, known origin story."
+97,60,Griffin," Yeah, so let's— let's clear this up. Um, this is before everything that happened in the podcast obviously, um, it is before everything that happened in the world that this podcast has taken place in, so, Taako, this is, um, this is before Sizzle It Up With Taako, um, this is before your cooking show, um what we have for— the— this is the world you were born and raised in, though, so Taako, what we have from your childhood, um… Let's deal with Taako last."
+98,60,{11,47}
+99,60,"Magnus, the only thing we have for Magnus's like, birth and raising is there's like one scene where you were defending a dog and you got the shit kicked out of you by a bunch of kids.",
+100,60,{11,57}
+101,60,Travis, Uh-huh.
+102,60,Griffin," But this is before Raven's Roost. This is well before Raven's Roost and— and Julia, all that happened in our world. Is there anything you wanna like, tell us about like, Magnus's like… upbringing? Before, uh, he went on this journey?"
+103,60,Travis," I mean, I've always pictured him as, like, a good but kind of rebellious kid, like he was probably kind of a little bit of a turd."
+104,60,Griffin, Okay.
+105,60,Travis," Like, you know, like he— he wanted— he was a good kid, who was kinda sarcastic and kinda, you know."
+106,60,Griffin, Okay.
+107,60,Travis, I think Julia was a very positive influence on his life and made him a good man? And not just like a good person?
+108,60,Griffin, I gotcha.
+109,60,Travis, Like I’m a great man.
+110,60,Griffin," Okay, so, yeah then you, you were that, sort of a rebellious youth and then you joined the Institute, and that's where we are in this story right "
+111,60,now—,
+112,60,Travis, Kind of a Johnny Storm kinda character.
+113,60,Griffin," Gotcha, gotcha, gotcha. Um, Merle, we actually have quite a bit of stuff for you I feel like? You were born in this like druidic hippie enclave, um, you were learning the ways of Pan as they were sort of handed down by your father."
+114,60,"We had that one scene from Wonderland, where there was the woodsman who taught you battleaxe proficiency and kinda helped you see like a life outside of the enclave. But this is before you were married, this is before you had, um… ",
+115,60,Clint, Mavis and Mockie.
+116,60,Griffin, Mavis and Mookie.
+117,60,Clint, Mookie.
+118,60,Griffin," Before you sort of lived on the, on the beach and that sort of community, um, this is well before that. So you grew up in this enclave and, um, I— one thing that I kinda wanna fill in for Merle is like when did you leave that druidic enclave that you sort of came up in? Like, what were— what were the circumstances of you leaving that?"
+119,60,{13,32}
+120,60,Clint," I felt that they were, um, I felt that they were a little bit too inclusive, I always doubted religious people who are not really trying to outreach it, that are only in it for themselves like those people say ""Well I'm going to heaven, tough luck for you."""
+121,60,Griffin, Okay.
+122,60,Clint, And I didn't feel like they were doing enough to contribute to the good of mankind and they were only committed to their own religious pursuit.
+123,60,Travis, [crosstalk] So what you mean is—
+124,60,Griffin, Interesting.
+125,60,Travis, —exclusive. When you said inclusive—
+126,60,Griffin," Well, yeah. Um, yeah."
+127,60,Clint," Well, they included each other."
+128,60,Travis, Insular.
+129,60,Justin, Insular.
+130,60,Clint, Insular!
+131,60,Griffin," Yeah. Um, okay cool, so you probably left—"
+132,60,Travis," I was afraid that you were saying ""Well, what I disliked about them is how open minded they were.”"
+133,60,Griffin," [chuckling] Yeah. So you left the enclave, and just based on what you said like it sounds like you tried to do some… some good? Out in the world? Tried to like, prove them-?"
+134,60,Clint," [In a casual, unconcerned tone] Eh. Probably."
+135,60,[Travis bursts out laughing.],
+136,60,Clint, Probably. But I have a very weak will.
+137,60,Griffin, Okay.
+138,60,Clint, And I was sorely tempted by the ways of the world.
+139,60,Griffin," Okay. Taako, um, we talked a lot about your story in the Chalice, although... There's always been this— there was this missing piece in what you saw in the Chalice, which we now know was your twin sister Lup."
+140,60,{14,40}
+141,60,"You sort of talked about how you had this, um, kind of like challenging life for a bit where you were living in caravans and like cooking to make yourself kind of indispensable, um—",
+142,60,Justin, Right.
+143,60,Griffin," —how you learned magic to sort of aid in those skills. You also mentioned something about living with an aunt who kind of taught you cooking and stuff, but that— I don't think we ever drilled down too deeply into that, is there anything… "
+144,60,"I know you don't know much about Lup, but um, is there anything else sort of about your childhood that like, you can firm up here or any gaps to fill in, any holes, like, um—",
+145,60,Justin, I'm fine with—
+146,60,Griffin," This is before Sizzle It Up, this us before like a lot— this is before—"
+147,60,Justin, Right.
+148,60,Griffin, Sizzle It Up happened after the one hundred year journey.
+149,60,Justin," I'm fine sort of leaving like, the childhood stuff—"
+150,60,Griffin, Yeah.
+151,60,Justin," —about as fleshed out as it— the thing is with the— I was never really thinking, like, pretty much everything that I've ever pictured for Taako has been like, within what we would think of as adulthood."
+152,60,Griffin, Yes.
+153,60,Justin, In terms of— in human terms. Like—
+154,60,Griffin, Sure.
+155,60,Justin, Elf— Elf terms… 
+156,60,Griffin, That's a—
+157,60,Justin," You would have to back pretty far to get to something that looked more like childhood so I haven't really thought about that, I guess, he and Lup probably got passed around, I would think, that like— I feel like staying with the aunt was sort of a, more of a respite scenario than any, more, thing like, super long-term."
+158,60,{16,05}
+159,60,Griffin, Sure.
+160,60,Justin," I feel like it was something that worked for a while, and that was a— a good time for— for— I mean I guess them, I’m saying them, it feels like the caravan stuff was probably the two of them… y’know, looking out for each other, but still very much—"
+161,60,[16,13]
+162,60,Griffin," Yeah. I— I absolutely don’t want to take away like, Taako’s distrusting nature and sort of individualism by introducing this other— by introducing Lup, this other character, ‘cause I still feel like the two of you had it rough, and relied on each other, but still have this sort of distrusting nature."
+163,60,Justin, Mhm.
+164,60,Griffin," Um, one thing I kinda want to make clear— we’re gonna learn a— a lot more about Lup during this session, um, and pretty much on through the rest of the campaign, but I wanted to say as long as we’re talking about your backstory that the two of you are twins, and that Lup was assigned male at birth, but at like a fairly young age she transitioned, and identified as a female elf, and as, y’know, as Lup…"
+165,60,{17,08}
+166,60,"Which I only mention because like, we’re talking about your backstory and having kind of like a, a difficult childhood or whatever, like, I don’t really… it’s your call but I don’t want that backstory to be like you had a traumatic childhood because of your identities or whatever, ‘cause I think that would kinda be shitty, but rather just that like, it’s a tough world.",
+167,60,Justin," I— I feel it was more scrappy. I mean I feel like it was more like, “well, we’re gonna look out for each other,”"
+168,60,Griffin, Yeah.
+169,60,Justin," —and that’s the, the, that’s it.”"
+170,60,Griffin, Okay.
+171,60,Justin," We're on each other's team and we're looking out for each other, I don't think it has as much to do with our identities. Um, so we're clear and at the right— so I'm clear not to, uh, misgender Lup, can we make the assumption that the things that we are talking about probably took place after she transitioned so that… "
+172,60,Griffin," Yeah, yeah, yeah."
+173,60,Justin," Y'know, if I'm referring to Lup,"
+174,60,Griffin, Yeah.
+175,60,Justin," —as she— anytime that I'm referring to Lup, it’s—"
+176,60,Griffin, That's her— that's her pronoun. Yeah.
+177,60,Justin, That is her— okay. So that is the time period in which we're… 
+178,60,Griffin," Yeah, we're— we're— let's get back to like the Institute stuff. The three of you… I—I—I think this was kind of a tough world, like this was kind of a… as challenging as like any fantasy world is, right, where people can like, use magic to fuckin' burn down your house, or whatever?"
+179,60,Travis, [Crosstalk] There's dragons and shit.
+180,60,Griffin," Yeah, so—"
+181,60,Justin, Are we to assume that we're from the same world?
+182,60,Griffin," Yeah! Yeah, the three of you are from this purple-skied, two-sunned world that we have seen before. This is the world you all were born on and grew up in and have these, these upbringings. Merle I guess you're a little bit older at this point than the others, although I don't know [sigh] we haven't even talked about elf age and like how all that shit works but, um, uh…"
+183,60,"It's a tough world right? And so you kinda gotta jump at the job opportunities that you get and there are as— there are few opportunities that are as posh and promising as the work that you found with the Institute of Planar Research and Exploration, which I like to just kind of call the Institute from this point forward, ‘cause that's a mouthful.",
+184,60,"Um, the three of you were candidates from a pool of hundreds for this mission, but, uh, you were selected because of the unique skills that you possess that made you sort of a perfect fit for this mission. And speaking of, let's hop back into the press conference and sort of, clear things up a little bit more now. Um, Captain Davenport is speaking—",
+185,60,Travis, [crosstalk] Cap’n’port.
+186,60,Griffin," Cap’n’port is speaking up on the podium now and he's addressing some of the questions from the audience, and uh, he explains that the mission's gonna last two months, during which the seven of you will embark on a mission that will take you off this world and into the outer reaches of the planar system, hoping to kind of see what lies beyond it."
+187,60,{19,39}
+188,60,"And you'll be able to do so thanks to this ship, that, thanks to this force, this light of creation you— the— the Institute was able to put together… And this is a good opportunity I think? For naming the boat? I don't have a name for this boat and I was hoping we could come up with a name for it, a cool boat name, um, for this boat that you all are going to be travelling the world in. Or I guess—",
+189,60,Travis, Boaty—
+190,60,Griffin, No.
+191,60,Travis, —McBoatface.
+192,60,Griffin," No. Bad, bad, bad."
+193,60,Clint, Spinnaker.
+194,60,Griffin, [Simultaneously] Spinnaker?
+195,60,Justin, [Simultaneously] Spinnaker. Yeah that's a—
+196,60,Travis," That's also my DJ name, that's perfect."
+197,60,[Laughter],
+198,60,Griffin, What is a spinnaker? Is that like what a spider has on its...
+199,60,Clint," Noo, a spinnaker is a sailing ship!"
+200,60,Justin," Oh, so it's just like, boat. You just called it a boat."
+201,60,[crosstalk],
+202,60,Travis, We just named it ‘Boat’?
+203,60,[Laughter],
+204,60,Clint, Yeah!
+205,60,{20,25}
+206,60,Griffin, Can we get a—
+207,60,Clint, ‘Spinnaker’ sounds more poetic!
+208,60,Griffin, How ‘bout—
+209,60,Justin," ‘Spinnaker’ is good because they don’t— I don’t— they wouldn’t have boats anymore, once you get to space stuff it’s like,"
+210,60,Clint, Who wants to go on a boat?
+211,60,Griffin," Can I recommend putting an adjective in front of ‘spinnaker’, to make it feel more like a name and—"
+212,60,Justin, The sti— the Stinky Spinnaker?
+213,60,Griffin, Not the stinky spinnaker.
+214,60,Travis, The Laser Spinnaker.
+215,60,Griffin," Laser spinnaker is also bad! Dang, guys-"
+216,60,Justin, The hyper— the Hyper Spinnaker?
+217,60,Griffin, Still shitty! It’s kind—
+218,60,Justin, The flying s— the flying boat.
+219,60,Clint, Tail spinnaker!
+220,60,Travis, The fighting spinnaker.
+221,60,Griffin," S— I think that’s getting closer, but it’s still pretty far away from the destination—"
+222,60,Justin," You said adjectives, those are all the ones I know."
+223,60,Travis, How ‘bout Lightbringer?
+224,60,{20,59}
+225,60,Griffin, Light—
+226,60,Clint, The Gross— what?
+227,60,Griffin, Lightbringer’s more in the neighborhood of what I was hoping for. I mean I—
+228,60,Justin," I’m sorry, are you— who is, who’s the boat, like, is it our boat or is it your boat. ‘Cause it feels like you—"
+229,60,Griffin, It’s your boat.
+230,60,Justin, —really wanted us to create this—
+231,60,Griffin, I did.
+232,60,Travis, ‘Cause the Stinky Spinnaker I think is gonna win.
+233,60,Justin," The Laser Spinnaker? I feel like the Flying Spinnaker is funny because someone would be like “wait, do you mean a flying boat?” and we’d be like “exactly, bye!” "
+234,60,Clint, Yeah.
+235,60,Justin, —and we’d blast off.
+236,60,Griffin," Alright, so we’re gonna call it the Laser Spinnaker, is that it?"
+237,60,Clint, How ‘bout— how ‘bout Sky Spinnaker?
+238,60,{21,30}
+239,60,Griffin, Sk—
+240,60,Justin, Uhhhhh. Um.
+241,60,Travis, So “Sky Boat.” 
+242,60,Justin, Skyweaver. 
+243,60,Griffin, Skyweaver is better.
+244,60,[crosstalk],
+245,60,Clint," Sky weaver, that’s— "
+246,60,Travis, Stardancer. 
+247,60,Justin, Starblaster.
+248,60,[Griffin giggles],
+249,60,Travis & Clint, Starblaster! 
+250,60,[crosstalk],
+251,60,Travis, Starblaster.
+252,60,Justin, Starblaster.
+253,60,Clint, [menacingly] The Starblaster.
+254,60,[Griffin laughing],
+255,60,Justin, [through laughter] The Starblaster.
+256,60,Griffin," Alright, you can call it the Starblaster if y’all want—"
+257,60,Travis, It’s the Starblaster.
+258,60,Clint, Starblaster!
+259,60,Justin, Starblaster.
+260,60,Griffin, All right.
+261,60,Justin," I think— I feel like it’s our people’s first spaceship,"
+262,60,[Laughter],
+263,60,Justin, —that’s very much a nouveau riche spaceship name—
+264,60,Clint," Hello, people of Earth, we’re the Starblaster!"
+265,60,{22,00}
+266,60,Griffin," Alright, I love it. Um, alright, it’s called the Starblaster. Uh, this ship, um, I’ll describe it a little bit, it’s got this brilliant silver hull, it’s got the rough dimensions of sort of like a medium-size yacht? Nothing like huge and ostentatious but like, enough to house seven people and their supplies for a long journey."
+267,60,"Um, there’s a long, open deck at the top of the ship with an elevated bridge that houses the helm, near the center of the deck, uh, and that deck has sort of a field around it that can sort of support life when you guys like, for instance, fly the Starblaster into space! You won’t be destroyed.",
+268,60,{22,34}
+269,60,Travis, That’s useful.
+270,60,Griffin," And, uh… yeah, the rest I’ll let you kinda like fill in the gaps yourself, but I just wanted to kinda describe the, the size and shape of it. The most notable thing about this ship is the engine that powers it. It is this large, shimmering white ring about 12 feet in diameter that is sort of suspended and tethered to the back of the deck by some unseen force."
+271,60,"And this ring is constantly silently rotating behind the ship. And, um… I think like, a big tarp is pulled off the ship, in front of the audience, as Davenport references it, and there’s like, a bunch of pictures being snapped and like, oohs and ahhhs.",
+272,60,Clint, Oooooh. Ahhhhhh.
+273,60,Griffin," Um, and Davenport explains about that ring, on the back of the ship and he says… I gotta really work on my Davenport voice. He says, uh,"
+274,60,Davenport," This ship, the Starblaster,"
+275,60,Griffin," And there’s a round of applause, because the name—"
+276,60,Justin," And a few like, “Huh?”"
+277,60,"[Laughter, crosstalk]",
+278,60,Travis, “What? No.”
+279,60,Justin, “Star— Starblaster? Did he say— [whispering noises]—did he say Starblaster?”
+280,60,Travis, “Did a child name it?”
+281,60,Griffin," And he says, uh,"
+282,60,Davenport," It doesn’t run on any kind of fuel you’ve ever heard of. It doesn’t run on any kind of fuel at all, actually. This was the biggest discovery that the light of creation allowed us to harness. That ring powers the ship using Bonds."
+283,60,"What we discovered while studying the light of creation’s power is that any two things in existence, from the whales in the sea to the dust in the air to every individual teaspoon in your kitchen cabinets back home are connected, somehow, by Bonds. It covers any number of observable phenomena, uh, magnetism and gravity, electro and covalent bonds, but there’s infinite unobservable threads holding the matter of our universe together.",
+284,60,"In a manner of speaking, the interpersonal connections that we share are a type of Bond, too. Emotion. Sympathy. You could call this a love boat, if you wanted to be extremely reductive.",
+285,60,Clint, Oh! We didn’t think of that.
+286,60,{24,31}
+287,60,Davenport," Bonds are what propel and power this ship, and it’s what’s going to allow us to go to places we’ve never even dreamed of."
+288,60,Travis,
+289,60,"Steve Johnson, Fantasy Times"," Uh, Captain Davenport? Steve Johnson, Fantasy Times. Uh, did you say that the ship was called the Starblaster?"
+290,60,[Laughter],
+291,60,Davenport," Yes, our— our R&D team was very very excited, uh, about the name Starblaster."
+292,60,Griffin," Travis, I’m so glad you did this, because I actually wanted you guys to be, uh, reporters in the audience asking questions of the NP— the, uh, other people on this ship. Um."
+293,60,Davenport," Yeah, the Starblaster, we— we were really excited about that name and we think it’s got a lot of brand potential— [Travis laughs]— so we think after the first thirty we’re gonna call it—"
+294,60,Travis, [crosstalk] You can follow us @TheStarblaster on Fantasy Twitter!
+295,60,Davenport," Uh, a lot of Starblaster T-Shirts, um, any other questions about our journey here?"
+296,60,"Rex Reed, Hollywudd Reporter"," Uh, Captain Davenport? Rex Reed, Hollywudd Reporter— that’s H-O-L-L-Y-W-U-D-D—"
+297,60,Davenport," Oh, good."
+298,60,"Rex Reed, Hollywudd Reporter"," Um, it’s a town near Neverwinter. Umm, you’re not gonna say anything about midichlorians or anything? That— that, midichlorians were not involved in this process, were they?"
+299,60,Davenport," Um, I don’t know what you’re talking about! So, um."
+300,60,"Rex Reed, Hollywudd Reporter"," Good, good."
+301,60,Davenport, Okay.
+302,60,Griffin, Uhh—
+303,60,"Rod Peterwax, The Freedom Constitutional"," Hey, my name is Rod Peterwax from The Freedom Constitutional, thanks for Skypin’ me in."
+304,60,Davenport," Yeah, no problem— I’m glad to have you, we’re a big fan of your publication."
+305,60,"Rod Peterwax, The Freedom Constitutional"," Who’s paying for this thing? Us, the taxpayers? Yeah, that’s what I thought."
+306,60,Davenport," Good science pays for itself, who knows what we’re gonna discover out there, uh, y’know we’ve already made several exciting discoveries just in building the ship that we’re gonna be able to sort of turn into exciting products."
+307,60,"Rod Peterwax, The Freedom Constitutional"," [interrupting] A great pen! Ugh, woo-hoo! I hope this pen writes upside down."
+308,60,"Clomp Hoofman, Minotaur Monthly"," Uh, Captain Davenport? Clomp Hoofman, Minotaur Monthly, um, quick question what’s your end—? What are you hoping to discover out on the reaches of this, uh, planar— what’d you call it?"
+309,60,Davenport," Uh, just, outskirts of our planar system and that’s a great question, I’m gonna go to let our sort of science expert Barry Bluejeans up here to answer that question, Barry?"
+310,60,Griffin," And, uh, Barry Bluejeans who’s wearing his red uniform and and just, crisp blue jeans goes and stands up to the mic and says—"
+311,60,Travis, [interrupting] Are we talking that raw denim?
+312,60,{26,41}
+313,60,Griffin," Yeah dude, that good shit—"
+314,60,Travis, Nice.
+315,60,Griffin," And he says, um"
+316,60,Barry Bluejeans," Well, um, we don’t really know what’s out there beyond our planar system, so I don’t really, I don’t really know what we’re gonna find out there. There could be new forms of matter, new forms of energy, new worlds we could potentially inhabit, from a scientific perspective the possibilities are theoretically limitless and I’m just really—"
+317,60,Griffin," And as he’s talking, Lup, who’s sitting next to you Taako, kind of mutters under her breath, she’s like"
+318,60,Lup, [clears throat] Nerd alert!
+319,60,Travis, [laughs quietly] Burn.
+320,60,Griffin, And Barry gets kind of embarrassed and he’s like
+321,60,Barry Bluejeans, Um. I’m just excited about the opportunity to get out there and find the new things to— to study it’s just really exciting.
+322,60,Griffin, And he goes and he sits down.
+323,60,{27,19}
+324,60,"Cliff Clavin, Boston Messenger"," Uh. Captain? Cliff Clavin, Boston Messenger. Uh, I’d like to ask a question of the dwarf member of your crew? Can I ask him a question?"
+325,60,Travis, Are you going to ask yourself a question?
+326,60,[giggling],
+327,60,Griffin," [out of character] Yeah, yeah, sure, this is, uh—"
+328,60,Davenport," Yeah, sure, this is Merle Highchurch, our head physician and biologist for this mission, Merle. Come up to the mic."
+329,60,Griffin," And Merle, you go up to the mic."
+330,60,Merle," [lightly tapping and blowing on mic] Uh, is this on? Yeah, what’s your question?"
+331,60,"Cliff Clavin, Boston Messenger"," Uh, yeah, I thought it was really obvious—"
+332,60,"[Someone claps, Griffin giggles]",
+333,60,Travis, [crosstalk] I hate this so much.
+334,60,"Cliff Clavin, Boston Messenger", It’s really obvious you are probably the most attractive member of the crew! [Griffin bursts into laughter]
+335,60,Travis," No, no, nope, nope, nope!"
+336,60,"Cliff Clavin, Boston Messenger"," Uh, you have a rugged physique, your face is chiseled! I want to know is there anybody gonna be waiting back home for you on this mission?"
+337,60,Merle," Uh, well, uh no I’m kind of a free agent right now and besides they said we couldn’t have any kind of connections with anybody back here on, uh, on the planet just in case we d— uh,  di—, uh, die— we’re delayed."
+338,60,Travis, [crosstalk] Nobody told us that.
+339,60,Merle, They told me.
+340,60,Travis," Oh, weird."
+341,60,Griffin, There’s another reporter
+342,60,"Name Name, Publication"," Hi, Name Name from Publication, um, Merle—"
+343,60,Travis, C’mon Griffin!
+344,60,"Jeff Jeffins, The Jeff Report"," Hi, Jeff Jeffins from The Jeff Report, just [splutters] wanted to ask you Merle Highchurch, how does a man of the cloth like yourself end up on an interplanar science expedition?"
+345,60,Merle," Um, lookin’ for God! [singing] I’m looking for God in all the wrong places! Nah, I figure, y’know, this— this whole Lightness of Being stuff, maybe it’s a Being of Lightness and so I’m, I’m going along because there are more forces out there than we know to deal with, Jeff. May I call you Jeff?"
+346,60,"Wisp Blinkman, theeyeofthebeholder\geocities.com"," Uh, I have a quick question! Uh, Wisp Blinkman from The Eye of the Beholder backslash Geocities.com. [someone wheezes]  What kind of weapons is this ship— are you worried about any kind of run-ins with any kind of beings out there in the void?"
+347,60,Davenport," Uh, we—"
+348,60,Griffin, Davenport gets up there and says
+349,60,Davenport," We, we— the ship is not necessarily armed with, uh—, y’know, it’s called the Starblaster—"
+350,60,Griffin, —is it Starblaster? I’ve already forgotten.
+351,60,[crosstalk],
+352,60,Justin, Yes.
+353,60,Travis," Yeah, yeah, yeah."
+354,60,Davenport," It’s called the Starblaster but it doesn’t— it’s not equipped with blasters of any kind, however, we do have a security officer on the ship, Magnus Burnsides. Maybe you could answer this one."
+355,60,Travis, And Magnus like flips his cool guy fantasy shades and he’s like
+356,60,Magnus," Yeah, what? Uh, what’s the—"
+357,60,Travis, I can’t remember the voice!
+358,60,Magnus,"  Yeah, what’s the question? What did you want— what was it? Sorry I wasn’t paying attention."
+359,60,Griffin, … You asked it.
+360,60,Travis," Oh, yeah, I did!"
+361,60,{29,54}
+362,60,[Clint laughs],
+363,60,Whisp Blinkman from theeyeofthebeholder\geocities.com," Are there any— yes, this my regular voice— are there any weapons on board?"
+364,60,Magnus," Uh, yeah, I’m the only weapon we need, alright, next question."
+365,60,Griffin, Uh—
+366,60,"Dr. Frasier Crane, The Frasier Crane Show"," Hello, I am Dr. Frasier Crane—"
+367,60,Griffin, [crosstalk] Oh my god. 
+368,60,"Dr. Frasier Crane, The Frasier Crane Show"," —From The Frasier Crane Show, question—"
+369,60,Cliff, Frasier! I haven’t seen you since the original show!
+370,60,"Dr. Frasier Crane, The Frasier Crane Show"," Hello, such a pleasure, honestly Cliff, so good running into you. Uh, for the— Taako? I believe is what his T-shirt is identifying him as."
+371,60,[Travis laughs],
+372,60,"Dr. Frasier Crane, The Frasier Crane Show"," Taako, are you—? Did Griffin say in the last episode what you do on the ship because “chef” makes the most sense but I, uh, don’t remember. Thank you, I’ll let Ros play this in the studio while I take my answer off the air."
+373,60,Griffin," Um, I didn’t say anything but I mean I think Taako would— Taako and Lup would probably do some cooking, but like this is—"
+374,60,Justin," [interrupting] That’s a pretty cool boat that has seven people, and two are chefs!"
+375,60,[Clint laughs],
+376,60,Griffin," It’s— it’s not the only thing you guys do. Like, you guys are both skilled arcanists, like you are both skilled and this— I’ve sort of imagined the Institute as like NASA, if NASA also had like not only scientists but like dope-ass fuckin’ wizards and arcanists."
+377,60,Justin," Do you see Taako and Lup as sort of a package deal, like, they do similar stuff? Like together?"
+378,60,Griffin," Yeah, you two are just- you two graduated I think, fuckin’ high on the list at the academy. And you did fuckin’ really, really, like, you— we should be doing this as like, as like reporter conversations maybe, but you all are like, just fuckin’ really good at magic, right?"
+379,60,"And that’s not revisionist history, like, listen to the rest of The Adventure Zone. You’re fucking really— We make jokes from time to time but Taako is an incredibly competent magician.",
+380,60,Justin," I just didn’t know if— I know - no, listen, you’ll find no shade on that fact here. I was more talking about Lup, if she’s like also a bomb-ass magician, a different school maybe?"
+381,60,Griffin," [crosstalk] Yeah, you and Lup and Barry, and Davenport and Lucretia who we haven’t really gotten to yet, but like all of you are like pretty skilled wizards. Like, you’re all like—"
+382,60,Justin," I feel like we should move forward, if we’ve got a hundred years to cover and just done ONE press conference."
+383,60,Clint, [crosstalk] I have one question- one more question!
+384,60,Griffin," [crosstalk] I have actually, okay, I need questions for the other NPCs who haven’t talked yet, but okay."
+385,60,Clint, Yep!
+386,60,"Jamie Green, Bruklen Magazine"," Uh, Jamie Green, Bruklen Magazine? That’s B-R-U-K-L-E-N."
+387,60,Griffin," [crosstalk] Now, Jamie Green is what we named one of the bugbears, in, back on Earth!"
+388,60,Travis, Same person! Whooaa twist!
+389,60,Griffin," Whoa, shit!"
+390,60,Clint," Okay, uh."
+391,60,"Jamie Green, Bugbear Times"," Uh, Jamie Green from Bugbear Times. [someone (Griffin?) whispers “weird”]  Uh, can you tell us about, a little bit about the one lady in the back that hasn’t said shit yet— I’m sorry, poop yet so far in the press conference and what purpose she serves?"
+392,60,Griffin," Uh, sure, Davenport walks over to the mic and says"
+393,60,Davenport," Uh, well, Lucretia is going to be serving as our chronicler during this journey and hopefully she can get up here and talk about what that means."
+394,60,Griffin," Uh, Lucretia sort of walks up to the mic and she’s like a little bit more nervous in this environment than everybody else has been so far. Um, and she says"
+395,60,{32,58}
+396,60,Lucretia," Well, uh, hi, my name is Lucretia. I will be the chronicler on this journey which… means I’m going to write down everything that happens up there."
+397,60,"Jamie Green, Bugbear Times", That’s it?
+398,60,Griffin," Yeah, and Lucretia just kinda like shrugs and is like"
+399,60,Lucretia," I’m uh, I’m a biographer by trade. You wouldn’t know my name but I’ve almost certainly ghost-written something that you’ve read and this—"
+400,60,Griffin, And she motions back to the rest of you and the ship and she says
+401,60,Lucretia," This just, this seems like um, this seems like a story worth telling well."
+402,60,Griffin," And she goes and she sits back down. And there’s one more— I want to do one more, one of the reporter raises their hand and"
+403,60,Reporter," Hi, I’d like to get a quote from Lup as well. Lup, what made you want to, hm, are you really comfortable with leaving this world behind for such a long stretch of time?"
+404,60,Griffin, And Lup goes up and she goes up to the microphone and she says
+405,60,Lup," [vaguely Taako-like voice] Well, I, uh. I did this one already. I did this world and kind of… crushed it, so, I guess I’m excited for opportunities to expand the ol’ brand as it were. So yeah, I’m pretty psyched to get off this stink-planet and see what else is out there."
+406,60,Griffin, And she starts to walk back to-
+407,60,Travis," As Lup walks back to her seat, Magnus kind of puts his hand up for a high-five."
+408,60,Griffin," Uh, she definitely gives you the high five and then she like runs back up to the mic and grabs it and gets really fuckin’ close to it and she’s like"
+409,60,{34,28}
+410,60,Lup," ALSO! Greg Grimaldis You owe me fifteen dollars and I aim to collect! You better believe, Greg Grimaldis!"
+411,60,Griffin," And then she picks up the mic and extends her arm and you hear Davenport say like,"
+412,60,Davenport, Please don’t drop the—
+413,60,Griffin, And she drops the mic to the floor with a clatter.
+414,60,[laughter],
+415,60,Justin," Haha, LUP!"
+416,60,{34,45}
+417,60,Griffin," Um, and I think that’s it. Let’s wrap up the press conference because holy shit this may not last two episodes. Um, Davenport puts the mic back up and sort of dismisses the audience and there’s another round of applause and the seven of you—"
+418,60,Justin," [crosstalk] Movin’ that fast, huh?"
+419,60,Griffin, What?
+420,60,Justin," Do it in one? We’re gonna do it in one, that’s how fast we’re moving?"
+421,60,Travis, [crosstalk] Yeah.
+422,60,Clint, [making “ooh” “ahh” audience noises in the background]
+423,60,Griffin," Yeah, bud."
+424,60,Justin," You said it’s not gonna last two episodes, I’m just- we’re makin’ good time, then."
+425,60,Clint, [crosstalk] The crowd starts chanting. I-P-R-E!
+426,60,Griffin," Um we’re still on year— what I have in the notes as year zero, so yeah it’s taking a while."
+427,60,[Justin chuckles],
+428,60,Clint," Ah, shit."
+429,60,Griffin," You have a quick debriefing and you sort of talk about the mission tomorrow, the ship— the Starblaster— leaves at 0800 the following morning giving you sort of one last evening on home turf before you ship out. And, I guess this is like—"
+430,60,Travis, [interrupting] Time to party!
+431,60,Griffin," Yeah, this is kinda like your first prompt. I do want to know, you don’t know this at the time, but this is your last night on the world that you’re from. And I’m curious how you spend it. So like you can tell me what you do, I don’t necessarily think this is going to be something you’re going to have to roll for but, like, it can be the type of thing where I can reward you experience, assets, or bonds based on like what you tell me."
+432,60,"I don’t necessarily— I don’t want you to ever while we’re playing this game to like, think of your decisions as like “how can I get the highest score” or “how can I win the game”. Like I want you to always do the things that are narratively rewarding and cool and will flesh out this story, and I will— I’ll give you points along the way. I’m not going to like— we’re not going to finish and one of you is like in the lead or whatever. That’s not what the points are for, I want to tell a cool story first and foremost.",
+433,60,Travis, Magnus goes looking for a fight.
+434,60,Griffin, You wh—
+435,60,Clint," I say yeah. I say we go to the meanest, dirtiest, nastiest biker bar."
+436,60,Griffin, Wow.
+437,60,Clint, And we bond a little bit.
+438,60,Griffin, Okay.
+439,60,Clint, And we end up getting in a fight that Lup starts.
+440,60,{36,24}
+441,60,Griffin," So, all seven of you— you can also take individual actions, right. You’re gonna do that a lot of the time, [chuckles] but if you all want to go to a biker bar together and like get fucked up and like party and whatever that’s totally—"
+442,60,Justin," That sounds pretty good actually, yeah, that makes a lot of sense."
+443,60,Travis," [crosstalk] Yeah, I think we’re on board with that. And I think it’s that—"
+444,60,Justin," [interrupting] I don’t know about look for a fight, that seems a little not best that our planet has to offer but—"
+445,60,Griffin, Alright.
+446,60,Clint," You obviously have not watched any westerns, that’s how the group comes together!"
+447,60,Travis, [crosstalk] Or Armageddon!
+448,60,Griffin," Alright, um, let’s deal with this one at a time. Magnus, you go out  and you guys have a nice party, Magnus maybe has a— he throws back a few too many and—"
+449,60,Travis," I wanna say, I want to make it clear he doesn’t go looking for a fight, like “I want to fight somebody,” he goes looking for a fight he can step into. Y’know what I mean? Like, he wants to like kick a bad person’s butt."
+450,60,Griffin," Alright. Okay, um, there is a fight that breaks out at this like kind of seedy dive bar, you don’t want to go somewhere too big because you guys are kind of— I mean you just had a fuckin’ press conference, people would recognize you."
+451,60,"You go to a seedier dive bar and there is like a fight that breaks out and Magnus steps into it. Roll 2d6 plus body. And this will be your sort of like way of, like, getting into the fight.",
+452,60,Travis," Uh, I got 8 total."
+453,60,[dice rolling],
+454,60,Griffin," Okay, so an 8 is between a 7 and 9 so you get a mixed result, I think you break up the fight and you kick the ass of the aggressor but then they get in a blow on you, and you just like— when you leave the next morning, you have a black eye. Which is kind of like—"
+455,60,Travis," Yeah! That’s what I wanted to happen, huzzah!"
+456,60,Griffin," [crosstalk] Okay, yeah, you got a black eye."
+457,60,Justin, Taako and Lup do the same thing they do at every bar they go to which is hustle people at pool.
+458,60,Griffin," Okay, um, I think this would be plus mind? I think like the two of you are being clever."
+459,60,Justin," Yeah, that’s what I was thinking. Uh, that’s an 8."
+460,60,Griffin," Alright, um, yeah at this bar you hustle this other— these two folks in a game of nine ball and win the best of five sets and really kick their ass, you get something from them. Like you win like some wager, uh what, can you tell me what it is? It could just be money if that’s what you want it to be."
+461,60,Justin," Um, no their sh— [laughs] here’s the thing uh, their shoes."
+462,60,Griffin, Okay.
+463,60,[Travis laughs],
+464,60,Justin," We don’t have any use for money ‘cause we’re leaving, we just want to punish them, so it’s their shoes and their shoes are ours now, they have to walk around without shoes."
+465,60,Griffin," Okay, they’re really nice shoes and they’re actually, um, one of them is an adventurer so they have a magic enchantment on it. So these are like actually pretty fuckin’ cool shoes and you decide to take them with you. Take one asset and, um, Magnus—"
+466,60,Justin," [interrupting] Is the asset specific? Or is it, like, plus one asset?"
+467,60,Griffin," No, this is one thing I want to drive through. It is— from the moment you get an asset it is abstract, at that point."
+468,60,Justin, Okay.
+469,60,Griffin, You can spend that asset later and it could be a fuckin’ magic sword or it could be a hundred dollars or it could be whatever.
+470,60,Justin, Okay.
+471,60,Griffin," So like when we get into this adventure it’s not gonna be like you have a list like “magic shoes, etc, etc”. Magnus, also, I should have mentioned this take one experience for getting in this fight. Um, Merle, how do you spend your night at this bar?"
+472,60,Clint," Well, the way the fight breaks out is Lucretia is busy writing all this stuff down. Uh, just because as the chronicler and so—"
+473,60,Griffin," And also she’s, she’s a little bit of a wallflower I think, like she’s kinda shy. She’s kind of nervous."
+474,60,[39,32]
+475,60,Clint, Yeah she’s off in the corner right next to the skee-ball game and she’s—
+476,60,Griffin, A cool bar!
+477,60,Clint," She’s writing it down and so I uh— so one of these bikers sees her writing it down and thinks that stinks. That’s actually how the fight starts, so Merle takes her and kind of squirrels her away down behind the bar, so she’ll be protected."
+478,60,Griffin, Okay.
+479,60,Clint," And then he kind of stands on the bar, so he’s eye level with the bikers."
+480,60,Griffin," Roll plus heart, ‘cause this is you like, this is— thank you boys so much for this fucking tutorial level. This is you all sort of like, this is you trying to like, tell these bikers to fuck off while also like, trying to soothe- soothe Lucretia."
+481,60,Travis," Are we to picture that— because I love this— that’s she’s just writing the whole time. Like, bottles are flying around and breaking and like-"
+482,60,Griffin," [crosstalk] I li- I’m down with that, yeah."
+483,60,Travis," -People are throwing each other into a table and she’s just like complacently not even noticing. This isn’t even like you defending her so much as it’s like “oh, go over here.”"
+484,60,Clint, [crosstalk] It’s not.
+485,60,Griffin, How’d you do?
+486,60,Clint," Well, I rolled a 7 plus 2 heart that’s 9."
+487,60,{40,28}
+488,60,Griffin," Okay, so it’s a mixed result, um, I think that Lucretia is like fine. She’s just like chilling under the bar as this fight breaks out, and you’re trying to tell these guys like “hey calm down, get out of here, you don’t want any of this” and, uh,—"
+489,60,Clint, [interrupting] And ‘cause she keeps popping back up to see what’s going on.
+490,60,Griffin," Yeah, she wants to write the clearest account of this. Uh, and everything’s— the situation diffuses pretty well, although like in the melee, you’re kind of in the outskirts of it, somebody throws a bottle and it just nicks you and so you, you have a little cut that starts on your forehead and goes up into your hair. It’s not a serious one, just a sort of superficial cut on your forehead."
+491,60,"This is great by the way, this is very good stuff. One thing about Lucretia while she’s taking notes that’s like just kind of cool flavour but also will kinda come back later, um, she’s writing with both hands into two different journals. And she’s writing simultaneous accounts with like a redundancy, she’s keeping—",
+492,60,Travis, Are the books floating? Are they enchanted books?
+493,60,Griffin," Nah, they’re just fuckin’ Moleskines."
+494,60,Travis," Then how’d she hold them, Griffin?"
+495,60,Griffin, They’re sitting on a table? Y’know how there’s tables sometimes that can hold—
+496,60,Travis," Oh, damn it. Fuck! Alright you win!"
+497,60,{41,36}
+498,60,[Clint laughs],
+499,60,Griffin," Um, you’ve never really seen anything like it. Like it must require this— a mental sort of like gymnastics."
+500,60,Travis, [laughs] To be fair it’s just gibberish.
+501,60,Griffin," Yeah. No, it’s good. It’s- she’s an excellent writer. Um, so Merle—"
+502,60,Travis, She draws that thing that’s like the dude’s nose like poking over the line and he’s got with like spiky hair.
+503,60,Griffin, Yeah.
+504,60,[Clint chuckles],
+505,60,Griffin," Merle, Lucretia like she really appreciates this. She’s just sort of a, um, a— what’s the word I’m looking for?— reclusive person? I don’t think, you’ve talked—"
+506,60,Travis, [interrupting] Introvert.
+507,60,Griffin," Introvert. She’s very introverted so you guys like have probably talked in the workplace, but like she didn’t— she wasn’t expecting you to come and kind of like help her out like this. So take one bond that kinda reflects like, you and Lucretia got a little bit closer. This is your fuckin’ social link leveling up."
+508,60,{42,24}
+509,60,Clint, Alright. 
+510,60,Griffin," That was great, you all did each of the three individual actions and scored each of the individual scores and I appreciate you doing that."
+511,60,Justin," So, how far have we gotten now? What year is it now?"
+512,60,[crosstalk],
+513,60,Travis," Yeah, what year— ten now?"
+514,60,Clint, How many years?
+515,60,Griffin," Let’s get to that. The next morning comes with less fanfare than the apocalypse deserves. You arrive early to the Institute and there are nerves, and there are final checks, and there’s coffee and cake, and you put on your—"
+516,60,Travis, [interrupting] A lot of coffee for Magnus.
+517,60,Griffin," You put on your uniforms which are crisp and bright red, um, some of you have jackets, some of you have robes. That’s up to you."
+518,60,Clint," I get a jacket, I get a jacket."
+519,60,Griffin, I figure Magnus is sort of a jacketed dude.
+520,60,Travis," Magnus is a jacket dude, maybe no shirt underneath either, maybe just jacket."
+521,60,Griffin, Taako?
+522,60,Justin," Both, don’t even trip. Jacket on top of robe."
+523,60,Griffin," Stylish, very stylish."
+524,60,Clint," By the way, I am cosplaying this in the next time we do a live show."
+525,60,Griffin," Yeah, for sure."
+526,60,Travis, Hell yeah.
+527,60,Griffin," Each of these, each of these uniforms have the emblem sewn into the left breast pocket that has the twelve planes, with IPRE stitched into them in the left breast pocket."
+528,60,"And the seven of you climb aboard the Starblaster, and you wave and smile for the crowd below, which looks equal parts excited for your departure, but also nervous, because there is this storm hanging overhead, and it is motionless.",
+529,60,{43,45}
+530,60,[Music fades in],
+531,60,"And if you hadn’t been so focused and nervous about this mission, you may have noticed the unnatural stillness of this darkness in the sky or the way that the colors seem to be slowly draining from the world around you, but you didn’t notice and you carried on with the mission, and standing on the deck, you watched as Davenport took the Starblaster up and through the storm and into the stars and past the stars, and as the ship’s bond engine, as that big ring kicks on, and pulled you out of the Prime Material plane, that’s when you see it, and that’s when the panic kicks in.",
+532,60,"You see the Hunger. You don’t call it that yet, but you see it reaching down and into your world, you see it’s dark tendrils sort of reaching around your ship to the world you’re flying away from, and Davenport tries and fails to contact the Institute, and he makes the call.",
+533,60,"You’re escaping, and you’re regrouping, and you’re going to return when the time is right, when things are safer, and he makes evasive maneuvers to dodge those tendrils, and you fly far, far away, and you watch as the planes, and this entity that is attacking them, starts to shrink behind you. And out here, like, away from the planes, space is acting kind of strangely.",
+534,60,"The void between the planes is, um, well you don’t like you probably don’t know much about this space, it’s like where your expedition was supposed to take you from, but you know it probably shouldn’t be, like, jiggly. And, as your home is consumed behind you, you pass through a threshold that you cannot see or comprehend, and time comes to a stop.",
+535,60,{45,25}
+536,60,"And you feel yourself being torn apart. Like, you see these projections of yourself, all frozen in place on the deck of the Starblaster all sort of firing outward from you in all directions, just thousands of Taakos and Merles and Magnuses and Lups and all of you, just bursting away from yourselves, frozen in place.",
+537,60,"And then with a flash, they’re all pulled back in, and you’re unstuck, and you’re flying back to the planes. But that thirteenth plane is gone now. The planar system’s in front of you and after a few hours of cautious observation, during which time you’re still out of communication with the Institute, Davenport takes the Starblaster back down, and into the Prime Material Plane.",
+538,60,"But it doesn’t take long for the seven of you to realise that this is not the world you left, this is not the reality you left. This is a different reality altogether, the first of many that you’re going to encounter during this mission.",
+539,60,"And now, we’re on Year One.",
+540,60,{46,21-5421 - commercial break}
+541,60,Travis, I also just want to go on record and say Magnus brought a bunch of hard candy with him.
+542,60,Griffin, That’s excellent. I’m glad that we’re getting to that now.
+543,60,Clint, Jawbreakers?
+544,60,Travis," Okay because I’m going to reference it later and I didn’t want people to be like wait, where did he get the hard candy?"
+545,60,Justin," Wait, he didn’t say he brought hard candy."
+546,60,Travis, Yeah but he did. A two month's supply of hard candy.
+547,60,Griffin," So um, we’re onto the first cycle now and I really am starting to think this may last longer than two episodes now, because I don’t want to rush it. I hope folks are into it, but basically the process from this point forward is, I am going to set up these cycles. I’m going to set up these worlds that you go to, I’m going to tell you things about them, I’m going to give you some flavor and you are going to tell me the action that you take in this world."
+548,60,"This action is meant to represent— and this will also be kind of abstracted— how you spend your year. And- it’s important to remember, like if you say like, “I spend the year like training or whatever.” It doesn’t mean you do fucking push-ups for a year straight, you do other stuff, that’s just the action that we’re honing in on. And the action that you are paying particular attention to during that year.",
+549,60,"There will also be times where it’s like, “I wanna go talk to this guy.” That won’t take a year, we can deal with that scene then move on and then try to figure out, together, what your abstract year long action is and we’ll have to sort of come to an agreement of what that is and figure it out together but that is sort of the structure of the game. And then once that year is over, we will have the resolution of what happened.",
+550,60,"And um, your objectives— I highli- I sent you guys some rules— your objectives sort of broadly speaking are to find out what the Hunger is, to keep the Hunger from getting stronger, to learn how to stop the Hunger, and to make yourselves strong enough to stop the Hunger. So it’s all about improving and keeping the Hunger from, like, outpacing you, while also like, you guys don’t know anything about the Hunger at this point and this is- during this journey is where you kind of learn about it.",
+551,60,"One last thing, is we’re not going to do a hundred of these cycles. We’re not going to cover what happens in each of the one hundred years because that would be awful, that would not be fun after a while we’re going to do one and then we’re going to hop forward quite some time and then we’re going to do one and we’re going to keep going like that until we get through all of them. So with that in mind, let’s get to this first cycle and we’ll sort of play it by ear.",
+552,60,(music begins),
+553,60,"You notice it immediately upon your descent into this prime material plane as you approach the- the sort of main planet. The continents and oceans are just different shapes so immediately you are like Oh, this is not right. The world is far more verdant than the one you just left. There’s thick forests just, like, pretty much everywhere so Davenport doesn’t really know where to bring the ship. He brings it down sort of close to this large forested area just north of the- the planet’s equator.",
+554,60,He flies low for a while and you all spend a couple of days just surveying the land and this is what you learn about this first world. The big thing," there’s no people. No people in this world at all. There’s no elves, or humans or tieflings or just anything like that. This world is entirely populated by animals and you saw them kind of congregating during one of your flyovers. They don’t seem to be following the natural order of the world that you are from."
+555,60,{57,44}
+556,60,"For one thing, they’re all herbivores, like, wolves and pigs are just like chilling and all the animals speak like, this common primal language. It’s just sort of like, all in different registers obviously because they're different animals with different ways of speaking but it’s just like “[low-voiced"," Ugh, Ugh”] just like grunts. God, that just sounded like fucking Home Improvement. And so these animals are all congregating together in these natural settlements. It’s not cities, and the animals aren’t bipedal, there’s no Zootopia thing going on here."
+557,60,"The animals are just sort of, they congregate their dens fairly closer together. Like there’s bear caves near, you know, rabbit hutches near you know, a bird nest and the animals just sort of live close to each other. They have these cross-species civilizations, they seem to have some system of trade. Like, they use their natural abilities to harvest things from the environment that they just seem to share with each other like boars dig up these root vegetables that they trade with bears for honey and so on.",
+558,60,"So, that’s what the world is like and after a couple of days after arriving in this world, your sort of flyover reconnaissance is interrupted by a peculiar event. You see a bright light streak down from the sky and plummet downward to the west and you recognize it immediately. It’s the Light of Creation. It has found its way into this plane and Lup tracks its heading so that maybe you can try and triangulate its location later.",
+559,60,"Several days after the light arrives, there’s another event in the sky. The bright like day that is around you immediately turns dark for a moment and the sky is filled with these burning white eyes all looking down at the world below and you fear, momentarily, that the force that you just saw consume your homeworld, like a week ago at this point, had invaded this world too but after a few moments, this event passes.",
+560,60,{59,40}
+561,60,"So the seven of you set up camp in a secluded clearing in the woods, right near your ship and you settle in for your year in this strange, animal-run world. What do you do? At this point, we’re going to sort of get into these abstract year-long actions and I want you to base your actions around what I have told you in that last section, in the set-up section.",
+562,60,"But at any point in any of these cycles you can also do one of three other actions. You can train, which you will roll for experience, if you just want to get yoked, you can do that. I just want you to tell me like, specifically, what kind of training you do. You can, what’s the word I used, you can salvage, which basically means you spend a bunch of time exploring the world looking for treasure or anything that can like, help you out in your journey and you will roll to claim assets.",
+563,60,"Or, you can socialize, which is you pick a member of the crew that you want to get to know better or just a person in this world that you want to get to know better and you spend some time with him and we’ll zoom in on that scene and conversation and you will get bond. You won’t roll for that, I’ll just give you an amount of bond based on how good the scene is essentially. So if you don’t—",
+564,60,Clint, I have a motivation question.
+565,60,Griffin," Yeah, shoot!"
+566,60,Clint, Why a year? Why don’t we just get back on the ship and take off and go somewhere else.
+567,60,Griffin," I think that’s an interesting question, I think you try that actually. I think you that you get down into this world and it’s like what the fuck? There’s like all animals. Things are calm though, the Hunger’s not here."
+568,60,"Davenport is like let’s go back, he actually issues a command, like, let’s go back but as you fly out, like away from the planar system, it’s not jiggly. It’s not like, you can’t seem to pass through whatever threshold you passed through to get to this reality. So at this point, you can’t seem to go back, so you return to the world below.",
+569,60,Justin, Can I start?
+570,60,Griffin," Yeah, sure! "
+571,60,Justin, I think… And can I dictate for Taako and Lup? Or what would be… Does that make sense?
+572,60,Griffin," Um, I think dictate for Taako. And I think the other characters will definitely go along with you and assist you but you just have control over Taako. What were you thinking?"
+573,60,Justin, Okay.
+574,60,Clint," But if you have an action that involves her, then just bring it up."
+575,60,Griffin," Yeah, if you want to spend your socializing with Lup, like obviously you can do that or if you want to go out, just tell me your action, I’m not gonna—"
+576,60,Justin," It seems like what I would most like to do is work with Lup to try to decode this animal language and try to uncover from them sort of like, what they’ve— I’m trying to think of how to phrase this— changes that have come to their world, by which I mean like, do they remember creatures like us, humans, I mean—"
+577,60,Griffin, Okay!
+578,60,Justin," Things like that. Or like, has anything changed or even through like legends, y’know, that kind of thing, to see if we can find any sort of overarching things. [Griffin Cool] So I’d say like, the first few months-"
+579,60,Griffin," Yeah. Well, this, this-"
+580,60,Justin," I would think to get the basic comprehension but they’re good at languages. We just don’t have a druid with us, unless, do we?"
+581,60,Griffin," No, you don’t."
+582,60,Justin, We don’t. [mumbled]
+583,60,Griffin," So this is your action for the year, and it’s a good one and it’s going to cover a lot of stuff. This is how quickly I want to move. I think this is you and Lup do go out— and I think Barry wants to go with you too. Barry is sort of the most scientifically minded person here and so he fucking just— Barry’s very very curious and wants to know also about this."
+584,60,"So the three of you go out. And what, um— I think the animals are nervous, I don't think you can- I think it takes you a long time to find some animals that don’t just fucking run away as soon as they see you because they’ve never seen people. What is— what’s like the community like, the animal community that you sort of first find success in and start this communication with?",
+585,60,Justin, I feel like—
+586,60,Clint, There’s no predators.
+587,60,Griffin," Yeah, I did take that one from Zootopia."
+588,60,Justin," The first— we make a lot of attempts and nothing is really, like- working until we find a family of mongooses."
+589,60,Griffin, I was so hoping.
+590,60,Justin, And they were the first ones that like are able to- we are able to talk to.
+591,60,Clint," Rikki, Tikki and Tavi."
+592,60,Griffin," This is- this is great. So this is just like, they’re not necessarily part of a bigger community, I think that maybe this family is just like a little more reclusive and so they don’t run away. Maybe they have a baby mongoose that’s really curious. And so when the pare—"
+593,60,Justin," Well, they also know they can handle their shit like—"
+594,60,Griffin, Right.
+595,60,Justin, -if they need to. They’re not like super intimidated.
+596,60,{64,20}
+597,60,Clint, And would it not be mongeese? 
+598,60,Griffin, No one’s quite sure. 
+599,60,Travis," [crosstalk] No, it wouldn’t."
+600,60,Griffin," So when this family of mongeese sees this younger mongoose hanging out and sees that y’all are cool, y’all are sweet, they don’t run away and so it takes you a really— it takes you awhile, you build trust with them just through like, through feeding them and hanging out with ‘em and they seem to really like Barry, although Barry, I think, is scared of mongeese."
+601,60,"I mean they’re vicious, they can be very vicious animals, but even he kind of warms up and so the three of you spend a while with this mongoose family which eventually leads to you sort of um, you don’t scare away every animal that comes to you.",
+602,60,"And you do start to try to learn this language. I think this is going to be… I’ll leave this up to you and obviously you are better at mind than heart, I think you have a plus two in mind. Do you think that this is a mind roll of you trying to decode this language or is this a heart roll of learning this language and trying to communicate and get things from these mongeese?",
+603,60,Justin," No, I think— this feels much more like an exchange of information."
+604,60,Griffin," Okay, so I’ll let you roll mind."
+605,60,Justin, They’re curious about us too. So I feel like it’s a talking to them about our world and culture and vice versa.
+606,60,Griffin," But I think what the angle of what you’re trying to decode, I think mind works. So roll—"
+607,60,Justin, Yes.
+608,60,Griffin, So roll 2d6 plus mind.
+609,60,[Sound of dice rolling],
+610,60,Justin, Seven.
+611,60,Griffin," Okay, so that’s just good enough. Now you do have an asset, you do have those magic shoes you could spend that to make a complete upgrade. With a seven, I’ll let you get some of the stuff that you wanted, but I won’t give you everything that you wanted. That’s basically what a limited success is."
+612,60,"Or you could hold onto the asset. You could spend the assets in the manner I’ve explained but I also wanna make clear that the more assets you have at the end of the game, the better off you are ‘cause it’s still a score. So, it’s up to you, do you wanna—",
+613,60,Justin, No.
+614,60,Griffin," No, okay. So with a seven, you all spend, it takes months and months and months but eventually, you can speak this language of grunts and sure enough, every animal speaks it and you and Lup and Barry learned it. I think we actually have some scenes of you three grunting at each other over dinner while the other four folks on the journey go “What the fuck are you guys saying?”"
+615,60,{66,29}
+616,60,"But you use it and you talk to these mongeese and talking to them, like, there’s some history, there’s some lore that this world possesses like they don’t have recorded history but it’s all like story based and communication based. There’s never been people here. People just like, didn’t evolve here or whatever. It’s always just been animals. And eventually just like, meat eating and predatory instinct just like, kind of, phased out. ",
+617,60,"They just kind of learned like, wouldn’t it just be better if we lived together and were cool with each other. So they don’t remember humans necessarily. You learn that there is a court, a high court. There’s a very sort of loose governmental structure here where there are three beasts that rule over essentially everything. They’re called the royal beasts and each one represents sort of an aspect of beastial nature.",
+618,60,"There is a bear that represents power, a snow owl that represents wisdom, and a wolf that represents, sort of, instinct. They— their court is out to the west. You also ask them about the light of Creation which you saw like come down, see if they know anything about it and they don’t. They don’t really know anything about that.",
+619,60,Travis, Can I go?
+620,60,Griffin," I think as a result of this action, you take plus one bond as you become buddies with this mongoose family. And I think that also the three of you can now serve as translator to the others if they also want to also do stuff with these animals."
+621,60,Travis," Uh, Griffy, I’m torn because there’s two things I really wanna do but I don’t— I wanna be able to do both and I don’t know how long they will take."
+622,60,Griffin," Alright, tell me what you wanna do and we’ll figure it out."
+623,60,Travis," On the one hand, I’d like to investigate the light of Creation but on the other hand, I’m now super intrigued to train with this bear of power."
+624,60,Griffin," Okay, so you—"
+625,60,Clint, We can split up right?
+626,60,Griffin," Yeah, all of your actions will be individual I’m assuming. I don’t necessarily think that two of you will ever do the same thing because you all have such limited time in these worlds that it doesn’t really make a lot of sense."
+627,60,Clint," Well, I too had thought about— since I already stated Merle’s curiosity with the light of Creation, and theological stuff."
+628,60,Travis," Cool dude, all yours."
+629,60,Clint, Why don’t I go check that out while he does bears.
+630,60,Griffin, Yeah sure!
+631,60,Travis, Perfect.
+632,60,Griffin," Let’s do the light of Creation thing then first, Merle. Um, I think in order for you to figure out— here’s, here’s how the light of Creation’s gonna work, it’s gonna be kind of, the football? In most of these cycles. You— you— it will be very good. It is a bonus essentially, if you can find the light of Creation, it’ll be a very good thing for you. Um, but you have to do just that. You have to find it. You saw it fall from the sky, you have no idea where it is except that it’s west. Uh—"
+633,60,Clint," Lemme, lemme establish this. My, my, my motivation is not necessarily to become one with the light of Creation whatever, but, I’m curious on how we’re, you know, how we can escape this planet—"
+634,60,Griffin," [crosstalk] Sure, yeah."
+635,60,Clint," —if we need to. And continue our search, so I wanna find out how it got down here."
+636,60,Griffin," So tell me— you tell me how you find it. Like, what, what do you, just fuckin’... set out? Do you like, go on an expedition and like go looking for it?"
+637,60,Clint, Yeah.
+638,60,Griffin, Do you go talking to people?
+639,60,Clint, Yeah. I’m goin’ on a—
+640,60,Griffin, [crosstalk] You could take the ship and fly around.
+641,60,Clint," [crosstalk] I’m gonna have me, a fuckin’ quest—"
+642,60,Griffin, [laughing] Alright.
+643,60,Clint, —what do you think about that?
+644,60,Griffin, I feel pretty good about that.
+645,60,{69,58}
+646,60,Clint," Uh, I think I would ask— you know, see if anybody wants to go with me, but, you know, I— I think… you know if I have to go off by myself I’ll go off by myself, but uh, thought I’ll just start wading through the forest, after, uh, Lup, and, uh, and Taako do that uh, triangulation thing they talked about."
+647,60,Griffin," So, I think Lup, Taako, and Barry are spoken for so they, they can’t— they won’t go with you. Um, I th—"
+648,60,Clint, Magnus is wrasslin’ with a bear.
+649,60,Griffin," We’ll— we’ll get to what Magnus does with the bear in, in a little bit. Magnus you just, you really wanna train with this fuckin’ bear then, this Power Bear."
+650,60,[1,1050]
+651,60,Travis, Yeah. Yes I do.
+652,60,Griffin, Okay. We’ll get— we’ll get to that.
+653,60,Travis," I found out there’s a Bear of Power? Yes, yes, Griffin that’s exactly what I wanna do."
+654,60,Griffin, Um—
+655,60,Clint, Well then how about if me and Davenport head out.
+656,60,Griffin," Yeah I think Davenport would— I think Davenport would go with you. Um, Lucretia’s gonna—"
+657,60,Clint," I mean he’s— he’s— he’s a navigator, he knows about flight, and everything else."
+658,60,Griffin," I think Lucretia’s like more than happy to stay back at the ship, and like, write and take notes and do little, little like scouting things so like go out and like draw pictures of the weird plants in this world, um, because she wants to, she wants to like consume and save everything in these, in these journals."
+659,60,"So, yeah Davenport says he'll go out with you. So, um, I'm trying to think of what the best roll would be to, like, represent you and Davenport, like, taking a bunch of fucking camping gear, taking a bunch of rations, and just like rolling up your sleeves and like going out in the world. Because I wanna say—",
+660,60,Clint," Oh, I think we're gonna live off the land."
+661,60,Griffin," Yeah I wanna say— I'll let you make the argument. It could be body, um, like you just trying to like get out there and actually like the act of you walking around, the physical labor. Or we can do mind, of you like going out and trying to like, uh, you know, make maps and shit of this world to like try and find your way to the Light. I think it’s one of those two. Body or mind, and I leave it up to you to sort of make the call. Is this more of like a physical activity thing or is this more of, like a finding your way and like deducing where it is?"
+662,60,Clint," I thought of it like a walkabout, so it’s almost spiritual in nature, but you’re not gonna let me get away with it."
+663,60,Griffin," No, it’s not a heart thing, although if you—"
+664,60,[Clint chuckles],
+665,60,Griffin," Uh… it’s not a heart thing, but why— why don’t you roll Mind. It’ll be you, like, mapping this place,"
+666,60,Clint," Yeah, I’ll roll mind."
+667,60,[Sound of dice rolling],
+668,60,Clint," Uh, 1 and a 5, that’s 6, plus 1 is 7."
+669,60,Griffin," Okay, and you don’t have an asset, I think, if you wanted to upgrade it, I don't know if you have an asset yet."
+670,60,Clint," No, I don’t."
+671,60,Justin," Assets will just take it to the next rank, Griffin—"
+672,60,Griffin, Right.
+673,60,Justin, —so it’ll take a failure to— to a- almost failure-
+674,60,Griffin," —to a mixed failu— to a mixed success, or a mixed success to a complete success. Uh okay, so, with a 7, you, um, you find where the light is, it takes you a long time, and it fell near that high court, that the three royal beasts sort of reside in, with a 7, though, you don’t like… gain access to it."
+675,60,"You know where it is, but you’re not able to like… get into that court and like, you’re not able to like secure it or anything like that, you aren’t able to like, make the connection, you aren’t able to be brought before the court. And this journey takes you a super long time? I think also with a mixed success, like this is, it almost takes you to go there and get back to the ship, takes you and Davenport like a pretty, a pretty long time.",
+676,60,"But as a result, you and Davenport spend a lotta time together, and you kinda like realize you actually have a lot of shit in common, takes a lot of time for Davenport to let down his walls, because like while he is like, a gnome, which you could write off as like a goofy, sort of culture, or whatever, like he’s a very serious captain, because he feels like he has to be, to like, maintain control of this situation, or whatever, um—",
+677,60,Clint, Okay.
+678,60,Griffin," —but those walls come down from time to time, like over campfires and shit like you guys like, talk about y’know, old war stories and eat fuckin’ beans from a pot, and like camp out together and become closer, so I think take, take 1 bond from that."
+679,60,{73,52}
+680,60,Clint, Can we do— can I have a Blazing Saddles scene with him?
+681,60,Griffin," Yeah, sure! [Crosstalk of disagreement]"
+682,60,Travis," No, he wants to fart a bunch, no—"
+683,60,Griffin, You’re eating these beans and—
+684,60,Justin, Don't let him fart a bunch.
+685,60,Griffin," If dad— if he wants to far— you’re eating these beans, and Davenport says like,"
+686,60,Davenport," Y’know, I’m having a lot of fun out here with you, Merle—"
+687,60,Merle," [makes an extremely long, sputtering, drawn out fart noise] Pffffffffffffffffff—"
+688,60,Justin, I’m like oh—
+689,60,Clint," HAH HAH HA AH [A giant, pure, hearty pirate laugh]"
+690,60,Justin," [Muttering] the levels, are just… the levels are just… "
+691,60,Clint," Okay, That’s out of my system."
+692,60,Travis, Cool.
+693,60,Griffin," [laughing] Geezers (pronounced like “Jeez-ers”). Ok, um, Magnus."
+694,60,Travis," So, I, so with these 2 bits of information I have going forward, can I challenge the power bear for access to the Light of Creation?"
+695,60,Griffin," Ooh boy. Yeah, I mean I like this a lot. You know where the— You know where the royal quarters are, um, I think you— Let's say you spend the year kind of like training around the ship before you go to the bear for training and that's sort of how—"
+696,60,Travis, And eating hard candy.
+697,60,Griffin," You're eating hard candy, uhm, and sort of like, I think maybe you're defending the ship, right? Like you don't know what to expect and so you're still the security officer. So you stay near the ship and hang out—"
+698,60,Travis," I’ll also include in there, I'm checking the hull for any, like, you know damage from—"
+699,60,Griffin, Okay.
+700,60,Travis," —avoiding the tendrils. Making sure that whatever shielding is in place, both from heat and damage—"
+701,60,Griffin," It's all good, yeah. Um, and I think you also spend some time with Lucretia, although I'm not going to necessarily give you bond on that. But, like, you two do like— You're the only ones left at the ship at this point and so you do spend some time together. I’ll— You know what, I’ll actually let you roll for it. Roll a— roll 1d6."
+702,60,[The sound of dice],
+703,60,Travis, It's a 2.
+704,60,Griffin," Yeah, no. She's— she's— You spend some time together but I don't necessarily think you, um, move up to the next social [laughing a little bit], uh, rank. I think you— I think just like, you learn a little bit more about her, and you're impressed by her— her writing and note taking abilities and stuff like that. She's still got some— um you two don't necessarily become best, best buds."
+705,60,{75,44}
+706,60,Travis, Cool.
+707,60,Griffin," So you train around the ship, and then when Davenport and Merle return and tell you about this, like, this big cool powerful bear you're like, I'm gonna go fuckin' find this one and go train with him. So you— you, I think, take the ship and go to the high court and you go and you are, um. How are you brought before— like these are the three rulers of this world. Like, how do you get in front of them?"
+708,60,Travis," Um, well that's a good question. I feel like, just from what we've learned and what I know about animals and what Lup and Taako and Barry have told me, I feel like it's a matter of, like, if they're representing these things, the person that I would want to see I would have to demonstrate—"
+709,60,Griffin, Okay.
+710,60,Travis, —that I'm kind of worthy of that attention. So it feels like there'd be some kind of test of strength.
+711,60,Griffin," And also we've kind of established you're kind of a rough neck, so like I think you go to this fuckin' village and you're like, I’m- where's the fuckin' power bear."
+712,60,{76,38}
+713,60,[crosstalk],
+714,60,Travis, Like clinking bottles together. [Calling out in a funny voice] Power bear!
+715,60,Clint, Does that mean one of the three translators went with him?
+716,60,Griffin," Did one of the three translators go with you, or is this like a Magnus—"
+717,60,Travis," Well I mean, do they want to go with—? like that’s the question. I feel like Barry, a science officer, would be pretty into this."
+718,60,Griffin, Yeah ok.
+719,60,Travis, Like Spock would go with Kirk—
+720,60,[crosstalk],
+721,60,Justin, Taako definitely— Taako would not.
+722,60,Griffin," We could also say this. Are all seven of you back together? And like, at this thing? Because if so, like we're— this is the last turn so we're going to get to the resolution soon."
+723,60,Justin," I don't feel like we ever went too far, so like we could, you know—"
+724,60,Griffin," Yeah, sure."
+725,60,Justin, We didn't go on a long journey.
+726,60,Griffin," Alright, then we'll say all seven of you are together and Magnus is like, “I'm gonna go see the fucking power bear”, and maybe some of you are like, “please don't go fight the power bear”."
+727,60,Magnus," I'm gonna get access to the Light of Creation, and I'm gonna fight a power bear, and it's gonna be awesome."
+728,60,Griffin, Okay so—
+729,60,Merle, Go get it!
+730,60,Griffin," I think Magnus, like, causes a scene, and you are essentially arrested by some fuckin' boar, or something. And you are brought into— the seven of you are brought into this high court. It's also, like, weird. You guys are people, you're people, and they don't know how to deal with people, so they bring them in front of the— the ones who are in charge."
+731,60,Travis, Dun Dun. Dun.
+732,60,Griffin," Yes, um."
+733,60,Travis, [TV voice like on The People's Court] This is The Animal's Court.
+734,60,Griffin, You are—
+735,60,Travis," With Judge Hopner, and he's a rabbit!"
+736,60,Griffin, Oh shit!
+737,60,{77,54}
+738,60,Clint, [laughs]
+739,60,Griffin," This court, to the West, is different than the other, sort of, settlements that you’ve seen, the other like natural settlements. It’s in this big, shaded grove of serene willow trees, and, something is off here. Namely, animals, like, all the animals, are using tools."
+740,60,"There’s like, um, they’re not living in caves, and trees, and holes in the ground, like, you see some foxes, like, working together to stick posts in the ground, like, framing a small building?",
+741,60,"You see a nearly finished structure that some squirrels are working together to craft, like, a sod roof for. These advanced buildings are, like, new. We’re towards the end of the year now, and, like, it looks like the kinds of buildings some animals would’ve built maybe over the course of a year.",
+742,60,"This kind of looks like a, a person’s settlement, like a settlement that, like, orcs and elves and humans and gnomes put together. But it’s all animals, like, using these tools, um, and you’re brought through the settlement and you’re brought to the, the court, and you see the three royal beasts.",
+743,60,"Um, you see a large— you see a brown Kodiak bear, that is the aspect of power, you see a white snow owl, that is the aspect of wisdom, and you see this gnarly-looking, grey, one-eyed wolf, that is the aspect of instinct, and these royal beasts are fucking gigantic.",
+744,60,Travis, Yeaaah!
+745,60,Griffin," Think, like, like, like if you’ve played the Dark Souls games, like Great Wolf Sif, like the wolf is, like, bigger than you all considerably. Um, and their court is in the middle of this advanced city, and there are, there’s this throng of attendees at their court, who’re all sort of kneeling in deference to these three gigantic creatures. And Magnus, what do you do?"
+746,60,Travis," I want to do some kind of feat of strength, um, tell me about the attendees kneeling around the big bear."
+747,60,{79,53}
+748,60,Griffin," Uh, I mean, there are all kinds, there are rabbits and turtles, and there are deer, lots of deer, there are, um—"
+749,60,Travis," You know what! Here’s what I’m going to do, Griffin. Here’s what I’m going to do. In a moment of wisdom, I see this fucking giant bear, I’m going to say that this is a— maybe one of the first humble moments since getting the shit kicked out of him over rescuing a dog, where, like, I was, like, charging out, picture me charging out of the entryway of the ship, like,"
+750,60,Magnus, I’m going to fight this bear!
+751,60,Travis, And then I get there and it’s like a fucking two-story bear.
+752,60,{80,30}
+753,60,Griffin, Okay.
+754,60,Travis," And then I just kinda look way up, and I kind of turn and look at Lucretia, with like a “uhhhh” look on my face, cause as you said, we’ve been hanging out for the last couple months."
+755,60,Griffin," Yeah, sure."
+756,60,Travis," Maybe not best buddies, but. I just kinda look at her, and, like, shake my head a little bit."
+757,60,Griffin," What are you trying to, like, get across here?"
+758,60,Travis," Like, “I shouldn’t do this, right?” I’m looking at her for like, “You’re smarter than me.”"
+759,60,Griffin," Yeah, she looks at—"
+760,60,Travis," “I shouldn’t do this, right?”"
+761,60,Griffin," She looks up at the size of the bear, and, kinda like, sizes them up, and looks back at you, and like, “Uehhhh,” and grits her teeth like, “Eeeeh, no, probably not.”"
+762,60,Travis, I kneel before the snow owl.
+763,60,Griffin," Uh, you kneel, like, they’re all sitting up on this dais that you probably wouldn’t be able to approach, so like, you kneel before all of them."
+764,60,Travis, Yeah.
+765,60,Griffin," And they start to grunt. And the others translate, um, and they ask, and the bear asks what you’re doing here, and, what are you?"
+766,60,Magnus, I am Manimal.
+767,60,Griffin, They look at each other. “Manimal?” “Manimal?”
+768,60,Taako," We’re called, “Taakos.” Uh, we’re a different species."
+769,60,(Three quick claps of joy.),
+770,60,Griffin," Yeah, I think you can all talk, but Magnus is going to be the one that, like, does the roll here, because this is technically his action, but they look,"
+771,60,Animals, Taakos. Taakos?
+772,60,Griffin," Uh, the wolf is like,"
+773,60,Wolf," Taakos, I see. Taakos."
+774,60,Travis, Well.
+775,60,Taako, Yes.
+776,60,Travis," I kind of look at Taako like, “Alright.”"
+777,60,Clint, Can I cast a spell?
+778,60,Griffin," Uh, yeah, sure."
+779,60,Clint, Can I cast Enhance Ability?
+780,60,Griffin, To do what?
+781,60,Clint, On Magnus. To increase—
+782,60,Griffin," Here— these rolls are so close that, I feel if I let you do this, we could do it every time, and then you could get bonuses on everything, and, like, because we’re talking about bonuses not, like, the nines or tens, like they’re ones and twos, I don’t think that would be fair."
+783,60,Clint, Okay.
+784,60,Griffin, Let’s let Magnus kinda carry the weight here though.
+785,60,Clint, Okay.
+786,60,Travis," Um, so I say that, we come—"
+787,60,Magnus," We come from far away, we’ve really travelled a great distance to be here, um, and I recognize, I see the three of you, and I recognize proud, brave, strong, intelligent warriors. Warriors like myself. And, one of the strongest things a warrior can do—"
+788,60,Griffin," When you say, actually I’ll interrupt you, when you say, “Warriors like myself,” the big brown Kodiak bear fucking laughs, and he’s like,"
+789,60,Kodiak Bear," You’re nothing like us. You, you’re tiny, you’re not furry, you don’t have fangs or claws, I’m not—"
+790,60,Magnus, Fuck. Off.
+791,60,[1,2321]
+792,60,Griffin," Uh, alright. Yeah, I think, yeah, alright. I think we just had sort of a Marty McFly chicken moment there. Uh, I think when you say that, a bear from the audience charges you."
+793,60,{83,09}
+794,60,Travis, Cool.
+795,60,Griffin, Cause you’ve just disrespected— roll plus Body.
+796,60,[Gentle tinkle of dice rolling],
+797,60,Travis, That is an eleven.
+798,60,Griffin, Alright. What do you do?
+799,60,Travis," Well, a nine plus two."
+800,60,Justin," No matter what the game, Travis rules at it."
+801,60,[Joyous laughter],
+802,60,Griffin," Um, so, what do you do when this bear fuckin’, this bear is coming at you to kill you."
+803,60,Travis," Well, since I’m, I assume, a little bit smaller, I’m going to do like—"
+804,60,Griffin," This is not, this is not, sorry, this is not the Royal Beast Kodiak bear, this bear is, like, bear sized."
+805,60,Travis," But I assume still slightly bigger than me, I’m going to do, like, some judo shit, and use their strength and momentum against them and kind of do a crouching throw. So like, I go with their movements and throw them over me."
+806,60,Griffin, Okay.
+807,60,Clint, Did you learn that from the other bear?
+808,60,[Griffin does a single chuckle],
+809,60,Travis," No, I just know that shit, that’s judo, man. You use their own strength and weight against them."
+810,60,Clint," Alright, man."
+811,60,Griffin," When you do that, the royal bear stands up, like, with a start. And it’s—"
+812,60,Magnus," Oh, are you next?"
+813,60,Griffin," Uh, no, he’s not like standing up to fight, he’s like, kind of, he’s kind of impressed. Um. And the bear’s going to, like, the bear continues to kind of come at you? Do you, like, kill it? Or? What— do you subdue it, or? What do you do?"
+814,60,Travis," Um, I don’t want to kill it. I love animals. I would like to subdue it."
+815,60,Griffin," Alright, you fucking choke out— with an eleven, like yeah, you choke out a bear. If you—"
+816,60,Clint, How about a bear hug?
+817,60,Griffin," So to kind of give you an idea, if you had rolled a mixed success, I wouldn’t have allowed you to make that choice, you would have killed the bear, and things would have probably been bad. Uh, but alright, you subdue-"
+818,60,Travis," Nah, Magnus doesn’t kill animals if he can help it."
+819,60,Griffin," Sure. Um, you subdued the bear though, and, uh, the— with that, the Royal Beasts are a little bit more impressed. They’re also impressed that, like, that you can talk and you can speak, so you explain to them that you want this, uh, you want the Light of Creation, but they do want a little bit of time to, sort of, like get to know you, to know if, like, you can be trusted with this thing that they found, that they know, like, they can use to learn how to use tools and, like, this thing is like a source of discovery, and curiosity and intellect, so like, in an animal’s hands, they learn how to use tools and build buildings and invent things."
+820,60,"Um, so they are like, drawn to this thing, but when you explain like, “It’s ours,” they have this sense of right and wrong, so they’re willing to give it to you, they just want to know that you are going to be responsible with it, so yeah, Magnus, actually, the bear, the Royal Bear does want to spend some time with you. He is, like, taken a particular fondness—",
+821,60,Travis, Sick. 
+822,60,Griffin," With you, and I think you spend a few months training with it. Uh, roll… What’s the thing for training?"
+823,60,Travis, Body? I mean-
+824,60,Justin, You can roll for it—
+825,60,Griffin," Oh, it’s a—"
+826,60,Griffin and Travis,  Roll a d6.
+827,60,Griffin," Roll a d6, yeah."
+828,60,Travis, That’s a five.
+829,60,Griffin," Okay. On a roll of one to five, you take two XP. If you rolled a six, it means  you just, like, really fucking train super good that year and you take three XP. Um, but— so take two XP, but also, like, as a result, like, you are in— all of you are kinda in there now with these Royal Beasts, and so, resolution time."
+830,60,{86,05}
+831,60,"Year has passed, and you, um, you have come close to these animals and I think you’re brought before the Court once again, um, and the three of them are arguing, they don’t know if they should give you the Light or not. Um, and it’s been a year now, since you’ve been here. After this time you’ve spent sort of bonding and training and getting to know this animal kingdom, while you’re in this court, the sky goes dark. And you see that motionless storm.",
+832,60,"And you see some of the color leave the trees in this grove, and you see it leave the grass below your feet, and you see that dark force above you once more, only this time? It’s the real deal, it’s not some sort of “scout.” Uh, it’s the Hunger. And tendrils of shimmering darkness start to descend while these three Royal Beasts are still, sort of, arguing about whether or not they want to give you the Light of Creation or not, um. ",
+833,60,"I can kind of leave this to you or I can take the reins here, but is there anything you do as you react to seeing the Hunger appear while you’re in this sort of final deliberation about whether or not you should get the Light?",
+834,60,Travis, I mean—
+835,60,Clint, We ought to tell them to get to cover!
+836,60,Travis," The only thing I can think to do is to draw their attention to it and say, like, “Time is of the essence.”"
+837,60,Griffin," Yeah, they don’t seem to understand, but they do see, that like, one of these tendrils is coming down, like, fucking right for this court, and I think it actually smashes down into this court. And you see these shadowy figures start to, uh, come out, and… hm. I’m trying to think of what to do here."
+838,60,"I think when it smashes down, it comes down right on top of the three royal beasts. And the owl was holding the Light when it did, and these three are just kind of gone. And as soon as, like, they see this, Davenport is like it's “It's time to bug out. It's time to fuckin'— it's time to fuckin' go.”",
+839,60,Justin," Taako, and I'm assuming Lup, are, like, gone-zo."
+840,60,Griffin," [Smiling] Yeah, okay."
+841,60,Justin," You do not— they do not need to debate this question, they are like, so out."
+842,60,Clint," [Chuckles] We turn around and like, little puffs of smoke."
+843,60,Travis," I'm checking on, like, bear cubs and telling people to get to cover and trying to help. Is the— is the Light just gone then, Ditto?"
+844,60,Griffin," The Light is gone, yeah. Um, so—"
+845,60,Justin, [starts to interrupt] Griffin—
+846,60,Griffin," This is— no, this is good. Taako and Lup—"
+847,60,Justin, I have a question.
+848,60,Griffin," Yeah, sure."
+849,60,Justin," I have a question about Lup though. Is Lup— Taako is the sort that would bolt. Is Lup the sort that would would bolt and like, judging by what she did at the press conference, is Lup the sort that would, like, take pot shots at it as she was running away with Taako? Or would she just like—"
+850,60,Griffin," [interrupting] Fuckin' yeah. So Lup's specialization is evocation magic, um so, I think yeah for sure she is like blasting, trying to give everybody cover to, like, get the fuck out of this court. So she is launching fireballs at these shadowy creatures. She's actually the first one of you to, like, kill one of these things."
+851,60,"Uh, and these shadowy creatures, like I mentioned in the— the last episode are different shapes and sizes, they are different species, different things, but they are all made of this, like, material that is dark with these bright red, blue, and yellow, and green like, flashes of color inside of it. Which, like, I wanna— the— the canonical sort of aesthetic of these is what a black opal looks like. Which, connect the dots from the Crystal Kingdom thing where you found the black opal mirror, like that's kind of what I envisioned, where it's not just pitch black. It is dark, but there's also this, like, wild technicolor happening inside of it. Which, you're going to say Griffin did you steal Dormammu? [from Doctor Strange] No. I had this shit two years ago! Fuck that shit! But, anyway.",
+852,60,{89,39}
+853,60,[Clint laughs],
+854,60,Griffin," So, yeah, Lup is— Lup is like giving everybody cover and blasting shit as she runs backwards back to the ship."
+855,60,Clint, And Merle's enhancing everybody's speed as much as he can.
+856,60,Griffin," Okay, yeah. Merle is also seeing everybody sort of escape back. Barry is kind of sticking close to— to you, Taako and Lup, as you all make your exit. Magnus, if you want to stay behind this is— this is— that's fuckin' great and I would encourage you to do so. If you want to like make sure fuckin' bear cubs get where they need to get."
+857,60,Travis," I mean- yeah I'm— I'm ushering bear cubs to cover, and I'm helping hatchlings, and I'm helping wolf cubs and shit."
+858,60,Griffin, I’m gonna—
+859,60,Justin, Fuckin’ Pee-wee in Pee-wee's Big Adventure.
+860,60,Travis, Yeah.
+861,60,Justin, —just like running back into the pet store.
+862,60,Clint, [In a Pee-wee Herman voice] Ah! Snakes!
+863,60,Griffin," I'm gonna call— I'm gonna call— I'm gonna call it, for interactivity, and I'm gonna take the reins and walk us out of this cycle, because this is great."
+864,60,Travis," I— I also, just to picture it, whatever tools are around, Magnus is like making use of whatever's there."
+865,60,Griffin," Sure, okay. Magnus is— roll a— roll a plus body for me."
+866,60,Travis," 6, 9, 11."
+867,60,Griffin," Okay, so you, the 6—"
+868,60,Travis, That was 6 plus 3 plus 2.
+869,60,Griffin," Gotcha, gotcha, gotcha."
+870,60,Travis, Okay.
+871,60,Griffin," Taako, Merle, and Lup, and Lucretia, and Daven— Cap'n'port make it back to the ship, but it's like— it's chaos getting out of this city, it's like, a very populous city, and there’s like, a bunch of animals and shit just like, running for cover. And there are these shadow beings that you all are fighting off as you get back to the ship. Um, and you lose Magnus. You don't see Magnus."
+872,60,"And Davenport like, tries to stick around and wait for him, but can't wait that long and so you all leave. Magnus you— you do a lot. You take out a bunch of these things. You're picking up fuckin' shovels and like, smashing shadows over the head. And, you're like— you pick up a big pike and you drive it through a few of them, and you fight them off, and you get some baby bear cubs to safety, some wolf pups to safety. But, eventually like, you're left behind and you only, sort of, outlast the Hunger for so long before you are killed.",
+873,60,"And you are taken down. The rest of you are on this ship, and— you’re on the Starblaster —and you’re dodging these inky columns as you fly away from this plane; and as you leave this plane, and you fly away from this planar system, sure enough, the void between the planes is all wobbly again. And you pass through the threshold between realities.",
+874,60,"And as you pass through that barrier, time stops once more, and this time, you feel your body, well, for lack of a better verb, you feel yourself sort of shifting to a different position on the deck, and not only that, you see something peculiar, you see these white threads of light begin to encircle the ship, and these threads get caught up in the ring bond engine in the back of the ship, and they interweave there, kind of like in a loom, and when they finally work their way to a position, uh, on the deck, all of these threads converge, and they stitch back together Magnus.",
+875,60,"And, he’s got a black eye. And Merle, you’ve got a cut on your forehead. And everybody is in the exact positions and in the exact state that they were in when you first left your home world. Everyone is, everyone is back together, and everyone is alive again, and everyone is safe.",
+876,60,{93,02}
+877,60,"The last thing you see of this animal kingdom reality before you leave it, before you pass through that threshold, is the Hunger descending, and as it sort of reaches out these long tendrils that start to surround the plane you were just on, you see a flash of light from within the Hunger, and when that light flashes, things move very quickly as the tendrils retract and they pull that entire plane out of orbit, out of the planar system it was in, and pulls it into the Hunger itself.",
+878,60,"And when it does, it disappears. And you see those colors, those kind of muted colors inside of the Hunger’s body, they flash, and there’s an explosion of light and reds and neon blues and yellows and greens as it is folded in. And the diameter of the Hunger, you see just ever so slightly, expands.",
+879,60,"The Hunger is stronger now, because that’s what happens when the Hunger feasts. ",
+880,60,[THEME SONG PLAYS OUT],
+881,60,[Next Episode],

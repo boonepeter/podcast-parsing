@@ -1,0 +1,658 @@
+,episode,speaker,lines
+0,67,The Adventure Zone,
+1,67,Dungeon Master & NPCs, Griffin McElroy
+2,67,Magnus Burnsides, Travis McElroy
+3,67,Merle Fucking Hightower Highchurch, Clint McElroy
+4,67,Taako Taaco, Justin McElroy
+5,67,"Episode 67 - Story and Song - Finale, Part One",
+6,67,(part of TAZscripts on Tumblr) ,
+7,67,Griffin," Previously, on the Adventure Zone "
+8,67,"You also do not remember The Hunger. You are being assailed by some invisible force. You can't cast magic anymore; and you like— you don't— but your magic comes from Pan and Pan's gone, Pan's not with you, Pan’s not connected to you anymore, so your source for your magic that you tap— it's gone. Merle is completely disconnected from his Divine source.",
+9,67,Justin, [sarcastically] But who will heal us?
+10,67,Griffin," Where Lup went… she didn’t intend to end up there, and she certainly didn’t intend to spend as much time away as she did and all you had to go on was a note that she left behind on that kitchen table Back soon."
+11,67,Lucretia," We came from another world, another reality, we were— we were pursued by a destructive force beyond measure or comprehension. When we came to this world, the seven of us, we… we made the relics to try to hide the Light that they contained from the Hunger that would consume us but it was a mistake. I fed a record of our mission to the Voidfish and I made you all forget. I made the world forget. "
+12,67,Griffin," You see massive half-mile wide tendrils of living darkness worming  out of the sky above and colliding with the ground below to form thick, swirling pillars. And from those pillars, The Hunger's armies have begun to manifest, marching outward to raze the world below. It's the end of the world, again."
+13,67,Announcer," You're ready, ready for the final piece of our story, ready for the end to begin. It's the Adventure Zone!"
+14,67,[THEME MUSIC," ""Déjà Vu"" by Mort Garson (full song on YouTube)]"
+15,67,{02,23}
+16,67,[Story And Song starts playing] ,
+17,67,Griffin," When people talk about that day they call it, well… some of them call it lots of different things. The Apocalypse, The Cataclysm. Some simply call it The Attack. Religious types, the— the ones who felt abandoned by their absent Gods in those moments, they call it Judgment Day; a sort of punishment for the world's wicked ways. One particularly poetic title some use is The Day of the Unseen Invasion, though, I take umbrage with that one. After all, there were those who knew something was coming."
+18,67,"The reaper known as Kravitz in his kingdom of death, he knew because he could see it all around, choking the astral plane, cutting it off from the rest of the system. He was safe but only just safe, he needed out. He needed to fulfill his Sacred Duty back in the living world, and so in that place filled with those who'd profaned the laws of life and death that he swore to uphold, the reaper known as Kravitz struck a deal.",
+19,67,"The medium, Paloma, saw it too, in a manner of speaking. In the morning, her crystalline prophecies which hung for decades from the ceiling of her humble hut in the town of Refuge, fell and shattered in unison. Her home was flooded with visions of the two catastrophes this day could bring"," a world of darkness or a world of ash. When the visions cleared, Paloma surveyed her ruined home; her livelihood was gone, save for one prophecy that stayed suspended. Carefully, she cut it down and gathered the citizens of this once time-sick village. They would travel east to the time and place where they were required."
+20,67,"The scientist Lucas Miller couldn't see The Hunger, but in his gemstone windows to the worlds outside he could see the chaos it inflicted, the troubled currents of the Elemental Planes, the explosive disruptions of the Plane of Magic, the outright panic in the bustling cities of the Plane of Thought, and here, in his world, the damage was… indescribable. Months ago, he had made a promise to atone for his past sins by doing some measure of good with his life. Today, he would see that promise fulfilled.",
+21,67,"And Istus, the Goddess of Fate, well, she sees everything. While the other deities toiled and conspired to find a way out of this Celestial Plane in which they were trapped, Istus continued her divine and meticulous work. The tapestry she wove would tell the story of this day, but the tapestry was incomplete; she didn't know the shape of it, not yet. That simply wasn't how it worked. In time, the full arc of her efforts would be revealed to her, but for now all she could see was its origins"," a dome-shaped room where a family that once wandered through existence for a century were reunited, truly reunited, at last."
+22,67,[Music fades],
+23,67,Griffin," In the sixty seconds that passed since your memories returned, a lot of stuff happened. So here's the scene in the center of this main dome of the Bureau of Balance Headquarters are you, Taako and Merle, and you're struggling to stay standing after the weight of the revelations that were just sort of bestowed to you. In front of you, near the dais at the back of the room are Lucretia, who is still inside of her semi-transparent bubble, channeling the final portion of the Light of Creation out of the Animus Bell and into her staff; and Davenport, who is kneeling just with his face in his hands."
+24,67,"Magnus, you're on your knees near the entrance to this dome and Barry is helping to keep you upright. Uh, when you entered, he scrambled to you and helped you get inoculated, and sorta sent you down the same Century's worth of memories that your teammates just explored moments ago.",
+25,67,"Near the Relic disposal chamber, that great white spherical room where all the relics were seemingly destroyed, uh, is Killian and Carey. And Carey's helping to bandage up Killian's wounded arm, and she just keeps nervously kissing her forehead over and over. And Barry throws them the flask of ichor after inoculating you, Magnus, and tells them to drink, and after reading the room a little bit, they oblige. NO-3113 has her robotic arms outstretched and she's barring the door into this dome, while Angus is magically levitating some furniture to build a wall, uh, in front of the entrance to the room, and outside through the glass walls of the dome you can see Bureau members running for cover, and a horde of Shadows just pounding at the entrance to this dome. And above, you see The Hunger, and for the first time in a long time you truly appreciate the fact that the Apocalypse is happening here and now.",
+26,67,What do you do?,
+27,67,{7,47}
+28,67,Justin, I pull out the Umbra Staff and I point it at Lucretia.
+29,67,Griffin," Um, she’s just kind of staring you down-"
+30,67,Taako, [voice cracking] Ten. Nine.
+31,67,Griffin," She says,"
+32,67,Lucretia," Taako, I know you’re upset—"
+33,67,Taako, Eight.
+34,67,Travis, I pull the Flaming Raging Poisoning Sword of Doom and point it at her.
+35,67,Lucretia, Listen -
+36,67,Taako, Seven.
+37,67,Lucretia," Please listen to me, please. "
+38,67,Taako, Six.
+39,67,Lucretia, Please stop— okay.
+40,67,Clint," I look at the other two and say,"
+41,67,Merle, What the hell are you doing?
+42,67,Taako, Five.
+43,67,Magnus, The chance to explain yourself was… mmm about a dozen memories ago.
+44,67,Taako," And honestly, 7 seconds ago, I’m doing this cool countdown. [shouting] You fucking took everything from me!"
+45,67,Lucretia," I know that things went wrong, I know I shouldn’t have kept you all in the dark for as long as I did. I swear, I had no idea how arduous a task this was gonna be, I know I have a lot for atone for. But please, just— I’m begging you let me finish this and then we can talk about it."
+46,67,Taako, [defeatedly] …Fine.
+47,67,Merle, [slight hysterical laugh] What are you finishing?
+48,67,Griffin," She says,"
+49,67,Lucretia, I’m gonna cast my barrier around this world and stop The Hunger once and for all!
+50,67,Merle," Uh, aren’t they already here?"
+51,67,Griffin," She says,"
+52,67,Lucretia," It’s not— it’s not too late, I can still— I can still keep them out."
+53,67,Griffin," And Barry turns to— towards Lucretia and he says,"
+54,67,Barry," Lucretia, you can't do this! We told you why the barrier’s not gonna work. It's going to sever every bond this world’s ever had. Please, I— I know why you did what you did, but you just— you can’t do this!"
+55,67,Taako," [brokenly] You know, honestly—do whatever you want. I don’t care anymore."
+56,67,Griffin," Lucretia says,"
+57,67,Lucretia," Taako, please just trust me. It’s— what we did to this world, it— you know it wasn’t right. We made a promise almost a hundred years ago -"
+58,67,Magnus," [crosstalk] Lucretia, do you realize that - you remember that Taako just realized he lost his sister. This isn’t the time for you to explain yourself! Taako, listen. I know this is tough but— you found her! Maybe not how you expected to, but when you weren’t looking you found her. That’s the connection— that’s how strong your connection is to Lup. She’s still helping you, you’re still working together! And she wouldn’t want you to give up!"
+59,67,Taako," [steadily] I appreciate what you’re trying to do. And I’m on board for whatever the plan is. But understand this I have nothing, and I don’t give a shit. The world is ending, and I. Don't. Care."
+60,67,Griffin," Lucretia says,"
+61,67,Lucretia," I— this is going to be hard to hear but remember almost a century ago, Lup made us promise that we would never again put a world in danger just to thwart The Hunger's plans. And that is exactly, exactly, what we did to this world! And— and that’s why I took steps to fix it. What makes you think she wasn’t out there trying to do this exact same thing when she disappeared?"
+62,67,Griffin," And Davenport turns towards Lucretia and kinda looks up from his kneeling position and he says,"
+63,67,Davenport," …where’s the ship, Lucretia? We need to leave before it’s too late. This plan, it didn’t work, so we leave here and we— we try again. We leave here and—"
+64,67,Griffin," And he turns to you, uh, Taako, and he says,"
+65,67,Davenport," Barry, Taako, we leave here and Lup comes back."
+66,67,Taako, What?
+67,67,Merle, Oooooh. Okay…
+68,67,Davenport," We leave here and we start a new cycle and we’re all back together again. That’s how it works, remember?"
+69,67,Merle," Okay ya’know, we can’t run away this time, dude! [laughs a little] I mean! I mean, Taako’s life has gone to shit, okay that’s fine! But I got kids! And you know— Magnus, we got all these people relying on us."
+70,67,Griffin," And you hear Angus speak up from the door he says,"
+71,67,Angus," Sirs, please don’t… don’t… don’t go! Don’t leave us to this. Please."
+72,67,Griffin," And Davenport says,"
+73,67,Davenport," I’m sorry, kid, but it’s… it’s— this is— this is the end of everything if we get caught up here. We just— Lucretia, where’s the Starblaster?"
+74,67,Griffin," And Lucretia doesn’t answer, she just keeps channeling this spell."
+75,67,Merle," I’m sorry, you guys can do what you want, but I’m not runnin’ this time. Can’t do it! I’m too old for this shit. I’m gonna hang around, you guys do what you think best!"
+76,67,Magnus," Well, uh, here’s the good news as far as that plan goes only one of us needs to take the ship, the rest of us can stay and fight!"
+77,67,Griffin," Carey says— actually Killian speaks up first. She says,"
+78,67,Killian," Uh hey, Merle? Uh, I could really— I could use a heal over here, bud, if you can break me one off."
+79,67,Merle," [Laughs humorlessly] Yeah, that would be awesome, wouldn’t it? Wouldn’t that be great if I could do a heal! Sorry, kiddo, I’ve been cut off from the source! Pan ain’t answering my calls!"
+80,67,Griffin," Carey stands up after fully bandaging up Killian’s arm and she says,"
+81,67,Carey," Listen, running? Away? That’s not how we do things here in the fuckin’ B.O.B. Now everybody just stop and just explain what the fuck is going on so we know how to -"
+82,67,Griffin," Taako and Merle, make a dexterity saving throw."
+83,67,Justin, Hell yeah! Dungeons & Dragons is back!
+84,67,Griffin," We’re back, and we’re rolling dice and these dice have 20 sides on ‘em."
+85,67,Clint, Yeah! And we’re rolling dice!
+86,67,Griffin," It got 20 sides and 20 numbers, it’s great."
+87,67,Clint," Oh, that one, okay…"
+88,67,[Dice roll],
+89,67,Clint, 2!
+90,67,[Sound of another dice roll],
+91,67,Justin," Wow, good— whoa, I got a 2 as well. [snickers] An ignoble start."
+92,67,Griffin," The ceiling above you explodes in a shower of glass and you hear something that sounds like a— a deafening roar, like a train speeding by you, um, and Taako and Merle you sort of dive backwards, um, but you are a little bit too slow. Um, both of you take— wow, uh, 16 points of damage as these big shards of glass fall and, uh, cut you as they smash down to the floor. [Justin Hachi machi.] Um, and you hear this noise and you’re, uh, uh, cut by this glass as the ceiling explodes as a thick, black opal tendril smashes down through the dome and fastens itself to the floor with a splat of inky slime. Let’s roll initiative."
+93,67,[Dice rolling],
+94,67,Justin," Ah, of course, now I have my natural 20. [laughs]"
+95,67,Travis, 16 plus 2… 18!
+96,67,Clint," Uh, 19— no, I have a 19."
+97,67,Griffin," And… give me a second, because I have a lot of shit to roll for here."
+98,67,Travis," [sarcastic] Oh, cool."
+99,67,Justin, [sarcastic] Great.
+100,67,Travis," Oh yeah, I guess you got a lot of NPCs in this battle, don’tchya."
+101,67,Griffin, Sure do.
+102,67,[Clint laughs],
+103,67,Travis," How’s your Re’lar, Griffin?"
+104,67,Griffin," Really good. Uh, I need to cut it into fucking 9 parts for this one."
+105,67,[Justin giggles],
+106,67,[Music begins],
+107,67,Griffin," Five figures step out of the column in the center of this room. All of which are comprised of the same black opal material that comprises the rest of The Hunger. The first is a massive four-armed skeleton that leaps out of the column towards Carey and Killian, the latter of which rolls out of the way and readies her crossbow, and she yells,"
+108,67,Killian, Dibs!
+109,67,Griffin," And the second figure is a centaur, which I promise I had prepped before we recorded this last episode of MBMBaM, um, and he’s holding a massive battleaxe. Uh, and the centaur springs out of the column towards Lucretia, but he bounces awkwardly off of her barrier and crashes on top of Davenport. And Barry, seeing this, he runs to the aid of his Captain. And finally, three figures step out of the column and towards the three of you. Uh, the first is an enormous, floating hand, that is facing you with an open palm, and its fingers are waving maliciously in the air. Uh, the second is a tall, slender humanoid figure, with an odd cylindrical-shaped head, and it’s holding two deadly-looking scimitars. And the third figure is a fucking rhinoceros."
+110,67,Magnus, Dibs!
+111,67,Griffin," And as you grab your weapons and prepare for battle, Taako, you  feel something brush up beside you. It’s Angus, who’s taken position next to you with his wand held in the dueling position you taught him. And he looks up at you and, without speaking, just nods. Taako, you’re up first."
+112,67,Travis," Wait, Griffin, I need— I need you to edit this, uh ‘cause I said the wrong word and I don’t want to hear about it on Twitter. It’s alar, not Re’lar. And I’m— I’m gonna say it now, so you can edit it later."
+113,67,Griffin," Well, no, you’re— I’m gonna leave all this in, and people are just gonna [crosstalk] sort of dunk on—"
+114,67,Travis," No, Griffin!"
+115,67,[Clint laughs],
+116,67,Griffin," No, you’re going to get dunked on."
+117,67,Travis, No!
+118,67,Justin, [Crosstalk] That’s life.
+119,67,Griffin," The way I have this broken down is that those first two enemies I described are not going to be your sort of purview. Um, the three of you and Angus are going to be taking on these other three enemies. Uh, Taako. You’re first in the order. You have Hand, you have Swordsman, and you have Rhinoceros."
+120,67,Justin, I spin towards the hand.
+121,67,Griffin, ‘Kay.
+122,67,Taako, Give— Hey! Give me five!
+123,67,[Clint laughs],
+124,67,Justin, I cast—
+125,67,Griffin," Starting off with one of these, huh?"
+126,67,Justin, —Immolation.
+127,67,Griffin, Okay.
+128,67,Justin," Uh, you gotta make a dexterity saving throw."
+129,67,Griffin," Uh, 15."
+130,67,Justin," [amused] Well, no, sir, that’s not going to beat 18. Which is the new shit you gotta beat."
+131,67,Griffin," Oh yeah, let’s talk about this real quick. Uh, sorry I should have started this fight by talking about this. So, sorry for the interruption, folks at home, this fight is going to be— rad; but I had you all before we recorded this episode spend the experience points that you earned in the Stolen Century. [sound of Justin rolling dice in the background] Um, and I sent you a table of, uh, how you could spend them to either level up or unlock stat points or unlock feats, which is like a D&D 5th Edition thing that we have never ever touched on. They’re like special abilities and special properties that you can add onto your character when you level up instead of taking on stat points. Um, and so I sent you a table on how to spend these. I think Taako, you had a shit ton of experience at the end of it, um and Merle and Magnus had a little bit less. Uh, so how did you all level up? If you could give me just like a little bit of flavour on how your characters have changed, that would be awesome."
+132,67,Clint," I went up three levels. I had six experience points. So I went up three levels, so I went to fifteen!"
+133,67,Griffin, Did you get any new shit?
+134,67,Clint," Uh, get back to me!"
+135,67,Griffin, [laughing] Alright! 
+136,67,Clint," Let the other guys go first, I feel like I’m hogging all the mic time."
+137,67,Travis," I’ll go. Um, so remembering my training on the animal planet, um, my strength, my, my— the cunning I learned training with the bear, um, I have gone up two levels."
+138,67,Griffin, [amused] Okay.
+139,67,Travis, To become a level twelve fighter and a level two rogue.
+140,67,Griffin, You were watching a bunch of Jackson Galaxy My Cat From Hell on Animal Planet and you unlocked these hot memories.
+141,67,Travis," That’s right. So now my strength is maxed at twenty, uhhh, and my constitution went up. So that’s good. Umm, also— uh, so let’s see. That gives me uh, another extra attack. So now I attack three times per turn. Umm— let’s see, what else did I do? Um, and then I used my remaining experience to pick up another ability point in constitution and I used my last two experience points to pick up the feat Dual Wielder. Um, so now I can uh— hold a weapon in both hands and gain +1 bonus to AC when wielding separate melee weapons in each hand."
+142,67,Griffin, Shit.
+143,67,Travis," Um, you can use two weapon fighting even when the one-handed melee weapons you’re wielding aren’t light, and you can draw or stow two one-handed weapons when you would normally be able to draw or store— stow only one."
+144,67,Justin," I— mainly through remembering the bond I had with Lup and all the times that we had practiced together, I went up four wizard levels."
+145,67,Griffin, Jesus.
+146,67,Justin," I’m basically the dopest fucking wizard on Earth. I have twenty intelligence, um— I, uh, I’m just the best at casting spells and I know all of them basically, pretty much, except for level 9, which like I could learn? But I'm just not going to. Should I talk slower so everyone that’s been complaining about us not playing D&D has time to nut? Or should I—"
+147,67,[All laugh],
+148,67,Justin, How— how’s everyone enjoying this great compelling audio?
+149,67,Griffin," Um, alright and— cool. I think at level fourteen you unlock something called an Arcane Tradition feature?"
+150,67,Justin," Yes, that is uh. Yeah, got that for sure. And my Transmutation Stone got way doper too."
+151,67,Griffin," Oh, that’s right. I forgot you had that."
+152,67,Justin," Yeah. That’s what that was by the way, the Arcane Tradition feature was the transmutation shit that I learned. The Transmutation Stone, it can do a lot of crazy stuff now."
+153,67,Griffin, Alright.
+154,67,Clint," Uh, well if I’m at level fifteen, I now can uh, destroy undead."
+155,67,Griffin, At a higher level?
+156,67,Clint, Up to level— up to three.
+157,67,Griffin," Okay. Well, you will when God starts answering your calls."
+158,67,Clint, If. If and when God starts answering me.
+159,67,Griffin," Uh, cool. Alright so, Immolation. I failed my roll, what’s it do?"
+160,67,Justin," Uh, you’re gonna take 20 points of damage—"
+161,67,Griffin, Yipes.
+162,67,Justin," —of burning damage. Uh, and then you are going to— you’re on fire. The hand’s on fire. So uh—"
+163,67,Travis," So like, don’t even."
+164,67,Justin," And at the end of each of its turns, it’s going to repeat the saving throw."
+165,67,Griffin," Okay, [crosstalk] what happens if it doesn't?"
+166,67,Justin, And it’s going to take— it takes 3d6 fire damage.
+167,67,Griffin," Jesus Christ, that’s a good fire you made on this hand."
+168,67,Justin," Yeah, I think it’s a pretty good fire on your— on that hand."
+169,67,Griffin," Next up is the hand, uh, which doesn’t look great after that hit. Uh well, this hand is going to attack you, Taako, because you just set it on fire. Uh, and it is going to try to grab you. Just like float over and fucking like grab you in a clenched fist. Um, make a dexterity save."
+170,67,Justin," Uhhhh, 19."
+171,67,Griffin," Wow, Jesus. Yeah, yeah, alright. You uh, very nimbly, uh, flip wizard your way out of its, uh, grasp, right as it tries to crush you. Uh, and then it rolls a d20 to save. Uh, that is a 21. Which is… sufficient."
+172,67,Justin, That’ll do it.
+173,67,Griffin," The hand is doused. Next in the order is Merle. Now Merle, you can’t cast spells but you can still attack and do other things to sort of make yourself valuable here."
+174,67,Clint," Alright, well… "
+175,67,Griffin," I forget which weapon you have though, because you gave up— did you give up the wrench in Wonderland?"
+176,67,Clint," Yeah, but I still have uh… Lil’ Smusher, my uh— "
+177,67,Griffin, Okay. 
+178,67,Clint, —my warhammer. 
+179,67,Griffin, Alright. 
+180,67,Clint, So I guess with these limited options I’m just gonna whack the swordsman with my hammer. 
+181,67,Griffin," Okay! Uh, go ahead and roll an attack roll."
+182,67,Clint, 15!
+183,67,Justin," Plus… that’s a 20 then, because you add 5. Your proficiency bonus is 5 now."
+184,67,Griffin," Okay. Yeah, that is a hit on the mark— on the swordsman, and roll a uh, a d8 plus I think 5?"
+185,67,Clint," Uh, isn’t it 2d8?"
+186,67,Travis, No.
+187,67,Griffin," No, it shouldn’t be."
+188,67,Clint, Okay.
+189,67,Travis," If so, you'd be a more powerful fighter than me."
+190,67,Clint," 4 and 5, so that’s 9."
+191,67,Griffin," Okay! Uh, you— the swordsman like tries to dodge out of the way, tries to parry your attack as you swing this hammer in but, uh, the weight of your hammer is a little bit too much for its scimitars to— to cushion. So it takes the hit in the side. Um, next in the order is… uh, Carey and Killian. So this four-armed skeleton grabs onto Killian, and Carey just like runs up its back and, uh, starts just sort of like bashing it in the skull, uh, with the flat side of one of her daggers. Um, next in the order is Magnus."
+192,67,Travis, I am going to jump onto the back of the rhinoceros.
+193,67,Griffin," [exasperatedly] Of course you are. Uh, go ahead and roll uh… I guess acrobatics?"
+194,67,Travis, Are you sure it’s not athletics?
+195,67,Griffin," Um… I think it could be athletics. Yeah, sure. Athletics describes sort of non-flip based jumping."
+196,67,Travis," [crosstalk] Okay, cool! Then that’s an 18. 9 plus 9."
+197,67,Griffin," Uh, alright! You are up on top of the rhinoceros’ back."
+198,67,Travis, Uh huh.
+199,67,Griffin," I think if you actually want to try to like do something up here, I’m going to roll a strength contest as this thing [crosstalk] tries to like buck you off."
+200,67,Travis," [crosstalk] Well Griffin, I’m going to use my animal handling proficiency which I’ve never actually used."
+201,67,Griffin, [amused] Okay.
+202,67,Travis," Um, so it’s a wisdom check to control the mount when you attempt a risky maneuver, which I would say that this is."
+203,67,"[Justin and Clint laugh, Justin says something inaudible]",
+204,67,Justin," [laughs] [inaudible] … Chaining it in the head, yes!"
+205,67,Griffin," Uh, okay. Uh, yeah. So paint me a picture of like— do you have like some sort of belt or something you're fucking like throwing across this thing’s neck to try to get some sort of steerability? Or are you like grabbing the horn? Or like tell me how— [rest inaudible]"
+206,67,Travis," Oh, I’m not grabbing the horn! I’m not dumb."
+207,67,Griffin, Okay.
+208,67,Travis," I— maybe I’m like throwing my rope, uh— like you know, under its belly. [crosstalk] To hogtie myself to it, to tie myself down."
+209,67,Griffin, [crosstalk] Okay. Alright.
+210,67,Travis," You know, it's all about knee pressure, Griffin."
+211,67,Griffin, Sure.
+212,67,Travis," Really, a great rider like myself, like Magnus, doesn't need all that fancy tack and saddle stuff."
+213,67,Griffin," Sure. Um, alright, so is that it for your turn?"
+214,67,Travis," Well, no. I’m— I’ve got to roll the wisdom check, I’ve got to do a bunch of stuff. Do you not remember me saying that I now have like nineteen attacks on each turn?"
+215,67,Griffin," Uh, sure, but I mean— jumping up there and getting control of this thing is technically an action. So—"
+216,67,Travis," Correct, yes."
+217,67,Griffin," —um, I’m tempted to just kinda like have that be your thing, and if you are successful in doing it, you’re in charge of the rhino, but that’s your turn."
+218,67,Travis," [skeptically] Hmm, okay!"
+219,67,Griffin," Uh, so go ahead and roll animal handling."
+220,67,Travis," So, I also went back and did a lot of inventory management and I have something called the Champion’s Belt?"
+221,67,Griffin, Okay?
+222,67,Travis, And the Champion’s Belt lets me substitute once a day— substitute my strength modifier for wisdom or charisma modifier. So I’m going to do that here.
+223,67,Griffin, Alright. 
+224,67,Travis," Uh, that’s a 14 plus 5, 19."
+225,67,Griffin," [amused] Yeah, I think it’s more interesting if this works. So yeah, you manage to, uh, get a hold of this rhinoceros. Uh, on its turn, I think it’s going to have to spend an action to buck you off. Um, and if it can do that it’ll knock you off, but that’ll be its action. Otherwise, I don’t know, [amused] I guess we’re going to do some mounted combat. Um, next in the order is the swordsman, who is going to keep fighting you, Merle. Uh, it takes one of its scimitars and swings it down at your neck. Um, and he rolls a 17 versus AC?"
+226,67,Clint, 18?
+227,67,Griffin, 17?
+228,67,Clint," My armor class is 18, right?"
+229,67,Griffin," Okay. Uh, you manage to, uh, take that hit, and it just sort of bounces off of your armour. And then it takes its other scimitar and swings that down at you. Um, that is a 21 versus AC. That one’s gonna hit. Uh, and he hits you for 17 damage [crosstalk] as he sort of catches you across the stomach with its scimitar."
+230,67,Justin, [crosstalk] Oof.
+231,67,Griffin," Uh, next in the order is Davenport and Barry. I think Barry helps Davenport up off the ground and right as this centaur is about to attack, uh, Davenport uses his illusion magic and just flashes this bright flash right in his eyes, uh, and sort of dazes this, uh, this centaur. Next up is the rhino. I think— let’s just do a strength contest. [crosstalk] I think that’s the best way to see whether or not you stay onboard."
+232,67,Travis, [crosstalk] Okay.
+233,67,Griffin," Uh, that’s a 16."
+234,67,Travis," Okay, I got a 19."
+235,67,Griffin," Okay! You are still on top of this rhinoceros. I think it charges, um… it rears up and sort of runs, uh, kinda close to where N0-3113 is? Cause she's like blocking the door still? Um, but you sort of yank it back at the last second and now it’s still kind of just running around the room."
+236,67,Magnus," Shhh, shhhh, shhhh. Shhh, shhhh, shhhh. Good rhino. Shhh, shhhh, shhhh."
+237,67,Griffin," [laughing] Uh, next in the order is Angus, who uh… points his wand at the hand and Angus casts Lightning Bolt. Uh, and the hand, uh, just barely dodges out of the way as this crackling bolt of electricity shoots out of his wand. Oh, but he still takes half damage. Uh, he takes 12 points of damage as he gets caught by one of the forks of lightning coming off this bolt. Um, and the bolt keeps going and a corner of this room catches this bolt and uh, uh, some of the furniture back there is— is caught up in flames. Uh, we’re back up to the top of the order. ‘S a nice fast fight. Taako?"
+238,67,Justin, How close are they together?
+239,67,Griffin, Uh— the hand and swordsman are fairly close together. You and Merle are kinda side-by-side fightin’ these two things out. And Angus is by you too.
+240,67,Justin," Um… are they in a l— uh, okay. Hah. I’m going to cast Wall of Fire."
+241,67,Griffin, [amused] Okay.
+242,67,Justin," In a straight line, I’m gonna make a wall that’s up to 60 feet long, but just enough to get all three of ‘em in it is fine. And it’s 20 feet high and one foot thick."
+243,67,Griffin," Uh, okay! So you’re not gonna make it 60 feet long, right?"
+244,67,Justin," No, I’m gonna make it as long as it needs to to get all of ‘em. That’s why I was asking about the positioning."
+245,67,Griffin," Um, when the wall appears, each creature within its area must make a dexterity saving throw. Okay! I’ll go ahead and do that. Uh, the swordsman crits. And, uh, dashes forward out of the way of the spell. The hand… gots a 3. The hand gots a 3. That’s not good."
+246,67,[Travis and Justin chuckle],
+247,67,Taako," Hey, hand, down low!"
+248,67,Griffin, Okay.
+249,67,Justin, Okay.
+250,67,Griffin," Uh, gonna take 5d8 fire damage, huh?"
+251,67,Justin," Yup. Hold on one second, I’m gonna cook that up for you real quick. Uh, 16."
+252,67,Griffin," Jesus. Alright, this hand’s lookin’ pretty bad."
+253,67,Taako, Too slow.
+254,67,Travis, [snickers] Nice.
+255,67,Griffin," Uh, next in the order is the hand. Um -"
+256,67,Justin," Wait did I get the other idiot? Oh, I guess Magnus is on the rhino. I did not make it hit the rhino. [laughs]"
+257,67,Griffin, Okay good. Although I will make this rhino run— how long does the wall last?
+258,67,Justin," [crosstalk] Uh, a minute."
+259,67,Griffin," [crosstalk] Uh, I guess it’s concent— concentration of up to a minute so you can dispel it whenever you want. Um, actually the next time you cast a spell it’ll go away. Um, so the hand, uh, is going to… take a long swipe at the three of you, Merle and Taako and Angus. So make a dexterity saving throw."
+260,67,Justin, Oof. Me too?
+261,67,Griffin, Yep.
+262,67,Justin, Okay.
+263,67,Clint, 18!
+264,67,Justin, 14.
+265,67,Griffin," Uh, Merle and Taako, both of you kinda drop down real quick and get out of the way of this thing. Uh, Angus is not as fast. Angus is just sorta slapped by this hand, uh, and he goes flying backwards sort of into the pile of furniture that he bundled up in front of the door. Uh, and Angus takes… yikes. 19 points of damage. You just kinda watch his— his little form just kind of go bouncing backwards, um, into this pile of— of chairs and tables and stuff. Uh, next in the order is Merle."
+266,67,Clint, [confidently] Okay. I jump on the Vroom Broom!
+267,67,Griffin, [amused] Okay.
+268,67,Clint," I yell out,"
+269,67,Merle, Hang ten!
+270,67,Clint, I grab the swordsman by the hair and drop him on the rhino’s horn.
+271,67,Justin, Wh— Cool.
+272,67,Griffin," Yeah! So the rhino’s like, runnin’ around the room. So I think you can just like, drag him into the path of the rhino, uh, as you fly around. But, this is going to be— uh, yeah, I think this is just an attack roll, um, that you do to grab him as you fly past. Um… so roll a— roll a d20. And add your strength."
+273,67,Clint, 17… plus 2…
+274,67,Griffin," Jesus, these fucking rolls, guys!"
+275,67,Clint, 19! Am I lyin’?
+276,67,Griffin," No, I mean you got it. Um… and now, uh, make a— you have it, right, you’ve got this— you’ve got this swordsman, uh, not by the hair but just sorta by this weird cylindrical head thing that it’s got at top of its head? Kinda in a headlock as you fly off with it. Uh, and then make a… uh, let’s say… [clicks]"
+277,67,Justin, Dexterity?
+278,67,Griffin," I guess dexterity, yeah, to [crosstalk] try and like, fly this fuckin’ thing, like into the path of this rhino without you gettin’ hit yourself."
+279,67,Clint," [crosstalk] God no, not dexterity! Alright… yep, 2."
+280,67,Justin," [laughing] It was a very good idea, though."
+281,67,Griffin, Here’s— here’s what I’ll give you. Either -
+282,67,Clint, Isn’t all I gotta do is drop ‘im?
+283,67,Griffin," Yeah, but I mean— you do have— this is a fucking— you gotta think about this, like you’re tryin’ to fly and release this thing into the way of a rhino without getting clobbered by it yourself. Here’s what I’ll do for you um, I’ll let this happen, but you’re gonna get hit by the rhino too."
+284,67,Travis, I think you should have advantage ‘cause I’m steering the rhino.
+285,67,Griffin," No, no, no no no. I’m giving Dad a tough choice right now. You can either do this and just miss completely, or you can take the damage also."
+286,67,Clint," Oh, give me the damage!"
+287,67,Griffin," Alright, you fuckin’ fly this thing right into the path of a rhinoceros as it charges into you. Um… yowzers Bowzers. Both of you take 22 points of damage."
+288,67,Travis," Should we exchange insurance information, or what’s the— I never know [rest inaudible]"
+289,67,Clint," Wait a minute! Woah, w- w- w- w- wait! Wait. Magnus isn’t takin’ damage, is he?"
+290,67,Griffin," No. No, this is mostly you flying into a fucking charging rhinoceros. I think it’s gonna be you two. And you are knocked off of the Vroom Broom when this happens, and you are prone."
+291,67,Clint, Okay. 
+292,67,Griffin," Um, next in the order is Carey -"
+293,67,Justin, How’s the swordsman looking?
+294,67,Griffin, What’s that?
+295,67,Justin, How’s the swordsman lookin’?
+296,67,Griffin," Uh, not great. The swordsman’s also prone, uh, on the ground kinda close to Lucretia’s bubble. Um, next in the order is Carey and Killian. Uh, and I think Killian grabs one of the skeleton’s four arms and just kinda like puts a shoulder into it and just snaps it clean off. Uh -"
+297,67,Travis," I yell across the room,"
+298,67,Magnus, Nice!
+299,67,Griffin," Uh, you yell that as it is your turn. Uh, you are now mounted on the back of a rhinoceros. What do you want to do? "
+300,67,Clint, That just ran over your buddy.
+301,67,Travis," Now, Griffin, I just wanna clarify one thing the rhinoceros is evil, right? This isn’t just like a regular rhinoceros who’s really scared? "
+302,67,Griffin," No, it’s -"
+303,67,Travis," This is an evil rhinoceros, right?"
+304,67,Clint, No rhinoceroses were harmed in the making of this podcast.
+305,67,Griffin," This is a rhinoceros that is bent on destruction, and that is its only… sort of, um, motivation."
+306,67,Travis, Would you call it evil?
+307,67,Griffin," In this moment, yes. "
+308,67,Clint, [crosstalk] Is it roaring?
+309,67,Travis, [crosstalk] That’s good enough for me. I want to blind the rhino.
+310,67,Griffin, Oh boy.
+311,67,Clint, Ohohoho!
+312,67,Griffin," Alright, how we doin’ this?"
+313,67,Justin," Well, that seems safe. "
+314,67,Travis," I dunno, I got lots of weapons. Um…"
+315,67,Justin, Just pick one.
+316,67,Travis," Yeah, I’mma poke it with a rapier, I guess. Boink boink! Or, no, you know what? Gonna poke it with my Grandfather’s Knife. Poke its eyes!"
+317,67,Griffin," Oh, shit! Alright. Um, make a— just make an attack roll."
+318,67,Travis, That is 12…
+319,67,Griffin, I don’t know what to give Grandpa’s Knife.
+320,67,Travis, Yeah.
+321,67,Griffin," I don’t know the fucking stats on Grandpa’s old [crosstalk], shitty, not-knife is."
+322,67,Travis," [crosstalk] Well, I mean…"
+323,67,Justin," [crosstalk] Well, unless this— unless this rhinoceros has very, very good eyes, [everyone starts giggling] I would assume any level of stats— I was thinkin’ like regular eyes, I was thinkin’ any level of stabbing is incompatible with sight."
+324,67,Clint, And don’t forget tetanus!
+325,67,[murmurs of agreement],
+326,67,Travis," I mean, it -"
+327,67,Justin, Kind of a long play.
+328,67,Travis," I rolled a 12, and then I think it would be plus 9. Am I proficient with Grandfather’s Pocket Knife?"
+329,67,Griffin," I think you’re proficient with Grandpa’s Knife. Um, alright, so yeah, you— you manage to do this, uh, roll 1d6, uh, damage, just straight up. "
+330,67,Travis," Uh, it’s a 1. "
+331,67,Griffin," Alright, it takes 1— we’ll say 2, one for each eye. "
+332,67,Travis, Okay.
+333,67,Griffin," Um, but it is also blinded. Um…"
+334,67,Travis," Okay, cool. Um, having seen the— the hand, uh— uh— uh, hurt my— my dear Ango, I steer the rhino towards it. "
+335,67,Griffin," Okay. The rhinoceros is just sort of enraged and charging, uh, right now. Here’s how I think I want rhino-based combat to have— I think— I think, um, instead of rolling for the rhino to hit, I st— I want you to contest it every time you make it do an action, and then if you succeed in that, you will be successful in the attack."
+336,67,Travis, ‘Kay… I got a 14 total. 
+337,67,Griffin, I got an 8.
+338,67,Travis, Yeah!
+339,67,Griffin," Alright, uh, roll— Jesus, 2d10? "
+340,67,Travis," Cool, cool. Cool cool cool. Uh, 9, 2. 11."
+341,67,Griffin," Uh, Taako you were— you were facing the hand when this happens—"
+342,67,Travis," Um, before you figure it out, I’m gonna Action Surge, and once I get it headed towards the hand, I’m gonna jump off."
+343,67,Griffin," Alright, this is an acrobatics check, and there’s nothing you can say to convince me otherwise, that jumping off the back of a flaming— of a rhino before you [crosstalk] run through a wall of fire -"
+344,67,Justin, [crosstalk] This is literally something acrobats do.
+345,67,Travis," Well, Griffin, that’s a 18 plus 5, 23."
+346,67,Griffin, These fucking rolls! Everybody’s got these hot 18 dice.
+347,67,Travis," And listen, before anybody says shit, all of my rolls have been 1000% legitimate today."
+348,67,Griffin, Alright. Everybody’s got that fucking finale heat.
+349,67,Justin," [crosstalk] Wait, do you have a plus 5 -"
+350,67,Travis, [crosstalk] I’m usin— I’m usin’ a new set of steampunk dice and they are rolling hot.
+351,67,Justin, Do you have a plus 5 to acrobatics?
+352,67,Travis," I do, because of, uh…"
+353,67,Griffin, He’s got that rogue shit.
+354,67,Travis," No I’ve got a— I’ve got an item, I just can’t remember which one it is."
+355,67,Griffin, [crosstalk] I think it’s the Raid-
+356,67,Travis," [crosstalk] Oh it’s the— the uh, Feathered Cuirass."
+357,67,Griffin, Yeah.
+358,67,Clint," Yeah these great rolls are like my 2, which has left me with 9 points of health. Yeah. It’s been great."
+359,67,Griffin," Oh, I forgot you didn’t really have a chance to heal up, fuck. "
+360,67,Clint," Mmm, no."
+361,67,Griffin," Alright, Magnus you tuck and roll off the side of this rhinoceros that you’ve just blinded and aimed at the hand, and you sort of roll to a stop like a foot away from the wall of fire. Taako, you were facing the hand, and all you see is through the wall of flame, this barreling rhinoceros who ta— what’s the damage on the fire wall? "
+362,67,Justin," Uh, it’s 5d8."
+363,67,Griffin," Jesus, roll that real quick."
+364,67,Justin," Oh, man. 25."
+365,67,Griffin," Jesus, God! "
+366,67,Travis," And Magnus says,"
+367,67,Magnus," Hey, hand, you’re too slow!"
+368,67,Griffin, Well he already did -
+369,67,Justin, I already did too slow.
+370,67,Magnus," Oh, you already did— oh, sorry, Taako!"
+371,67,Griffin, No but that’s good. You don’t get another one.
+372,67,Travis," Aw, no, I was gonna say something about elephino! [pronounced like “hell if I know”]"
+373,67,Griffin," Okay. Taako, you see a rhinoceros charging through the fire and flames. And I think wh— what you see, since the hand was like right next to you, I think it was like about to rear back and just like, open palm push right into you. But instead what you see is a huge horn just pierce right through, uh, the back of it, as the rhino sort of charges right between you and Merle, uh, and this hand, as it is sort of impaled on— on the rhino’s horn— it sort of crumples up and wrinkles into a tight fist and then sort of disintegrates into black ash."
+374,67,Taako, Hey -
+375,67,Clint," Except for the middle finger, [laughing] which is stickin’ straight up."
+376,67,Taako," Hey, Magnus?"
+377,67,Magnus, Yeah?
+378,67,Taako, That was the coolest thing I’ve ever seen. Hands down.
+379,67,Clint, Ah! Oohh!!
+380,67,Travis," Nice, nice."
+381,67,Griffin," Next in the order is the swordsman, who is going to come after Taako."
+382,67,Travis," Well, he’s prone."
+383,67,Griffin," Uh— oh, good point. Hm… thank you, Travis. Alright, well, the swordsman is going to, uh, stand up, and since he’s near you, Magnus, and you are prone, he is going to, uh, attack you with advantage."
+384,67,Travis, Okay.
+385,67,Griffin," Uh, that’s a crit fail, and… 21 versus AC?"
+386,67,Travis," What’s a tie? Er, no wait— here’s an important question—"
+387,67,Griffin, The attack— the attacker wins the tie.
+388,67,Travis, How big is the swordsman?
+389,67,Griffin," Um… I mean, like, hu- human sized, whatever [crosstalk] you class as—"
+390,67,Travis," [crosstalk] Oh, okay, then I get attacked."
+391,67,Griffin," Yep. Uh, that’s just its first attack, the second one… crits on the second one. So for that first— I guess I’ll just roll damage three times. Um…"
+392,67,Travis, I’m going to Parry.
+393,67,Griffin, Okay.
+394,67,Travis," Minus 7 damage, whatever you end up doing."
+395,67,Griffin," Okay. It is 26 damage, uh, between the two attacks. "
+396,67,Travis," Well, I’ll tell ya, here’s the thing."
+397,67,Griffin, Yeah?
+398,67,Travis, My hit points are up to [louder] 131. So like…
+399,67,Griffin," Yeah, and that’s your first hit."
+400,67,Travis," Ow, I guess? A solid bruise."
+401,67,Griffin," But we’re gonna keep track of them! Gotta stress this! This is gonna [crosstalk] be sort of an endurance test, this, this bad day you’re having."
+402,67,Travis," [crosstalk] Um, is that— is that 26 minus the 7?"
+403,67,Griffin," Uh, I subtracted the 7 and got 26. "
+404,67,Travis, Okay.
+405,67,Griffin," Uh— next in the order is… uh, Davenport and Barry, and I think by this point the centaur has recovered from being dazed, um, and tries to swing down in retribution on Davenport. And Barry’s just a little bit too slow to do anything about the attack. But right before the battle axe is about to hit him, another bubble appears, just for a moment, around Davenport, uh, and deflects the attack. And then you see Lucretia inside of her bubble with her hand outstretched. She was distracted just for a moment from her work, but after saving her… her friend and her captain, she gets right back into channeling that spell. Um, next up is the rhinoceros, who, uh— heard you shout “That’s the coolest thing I’ve ever seen. Hands down.” Taako, and charges in your direction and tries to gore you."
+406,67,Justin, Worth it.
+407,67,Griffin, That is another critical hit. That is two crits in a row. How’s your health Taako?
+408,67,Justin," How— tell me how many damage it is, and I’ll tell ya."
+409,67,Griffin," Uh, that is… 19 points of damage."
+410,67,Justin, [inaudible] Fine.
+411,67,Griffin," Mkay. When it does that, Taako, you are, uh, also knocked back, uh, 10 feet, and the Umbra-staff goes flying out of your hand. "
+412,67,Justin, Shit. ‘Kay.
+413,67,Griffin," You are disarmed. Um, next in the order is… Angus, who stands up from the pile of rubble in the back of the room and, uh, goes forward and he pulls out his wand to cast a spell at the rhinoceros, but his wand has snapped in half. And so he looks down, and sees the Umbra Staff near his feet, and grabs it, and he says,"
+414,67,Angus," [panicked] Is this okay, sir?"
+415,67,Taako," Fuck, fine, go for it!"
+416,67,Griffin, And he casts a spell at the rhinoceros. He casts Fireball. I think you-
+417,67,Justin, Each creature in a 20 foot radius.
+418,67,Griffin, Yeah yeah yeah. You and the rhinoceros make a dexterity saving throw. [defeatedly] The rhino got a 4.
+419,67,Justin, 16. 
+420,67,Griffin," Okay, you say, [Taako impression] “Yeah go for it!” and dodge out of the way as, uh, Angus casts a fireball. And this is a spell, Taako, that, um… I don’t even know if you know that Angus like knows how to do? But even if you did, it shouldn’t be like this. ‘Cause this fireball, Taako, is fucking gigantic. And it hits the rhinoceros… Jesus. It hits the rhinoceros for 51 points of damage."
+421,67,Taako, Holy shit!
+422,67,Griffin," And the rhinoceros is like charging at Angus, uh, as he yells like,"
+423,67,Angus," Is this okay, sir?"
+424,67,Griffin," It started charging at Angus and, uh, as this fireball hits it, it’s, like, outer carapace is just like, blackened. Uh, and it falls—it kinda like loses its footing as it’s running— and just kinda slides into the pile of—of—of—furniture, uh, towards the door. And NO-3113 kinda like rolls out of the way as this rhinoceros is downed. And Taako, Angus looks up at you and he’s trembling. And he says,"
+425,67,Angus," Sir, I— that wasn’t me! I didn’t— I didn’t cast that, sir! I—I’m not powerful enough to cast that!"
+426,67,Taako, I know. I know.
+427,67,Griffin," He says,"
+428,67,Angus," No you don’t— you don’t understand, I’m— that wasn’t me that just cast that spell!"
+429,67,Griffin," Uh, and he throws you the Umbra Staff back. Next in the order is… Taako."
+430,67,[Travis gasps. Long silence. Clint chuckles],
+431,67,Justin, I snap the Umbra Staff over my knee.
+432,67,Clint, [crosstalk] Thataboy!
+433,67,Travis, Yep. Yep!
+434,67,Griffin," It’s like a bomb goes off in your hands. There’s a sonic boom— a— a wave of force that tears through the room. And Taako, you are just knocked horizontal through the air, flying backwards. And as you are thrown… we see time freeze. And then we see Lup."
+435,67,[The Chalice starts playing],
+436,67,Griffin," And she’s lying down on the side of a grassy hill, watching the clouds pass slowly overhead. And, in the distance, in the valley below, a furious battle is raging. And Lup knows it’s just a matter of time before it’s brought to an immediate end. And so she sits up and she just anxiously watches that conclusion, as a pillar of flame from the Phoenix Fire Gauntlet consumes the final few living combatants of this battle, leaving a perfect circle of black glass burned into the ground."
+437,67,"And she sighs, and she starts trekking down the hillside to reclaim her creation, swearing that this would be the last time that it would ever be used. And then several days later she’s walking through the twisting corridors of Wave Echo Cave, and she’s accompanied by a dwarf named Cyrus Rockseeker, the chief of security for this mine, which has laid dormant due to constant attacks from neighboring marauders.",
+438,67,"Lup heard of a vault deep within this cave and contacted Cyrus to help hide the Gauntlet away in a place where it could be pursued, but never obtained. But she underestimated the thrall of her relic, and what Cyrus would do to obtain it. And so as the vault door is swinging slowly open, Lup feels the cold steel of a dagger slash across her back, and feels two deft hands snatch the Gauntlet from her possession.",
+439,67,"And she recovers and knocks Cyrus and the Gauntlet into the vault with a powerful Thunder Wave and slams the door behind him. The deed was done, but immediately she understood the gravity of her wound. Cyrus’s blade was coated in Silverpoint poison, so she collapses, her back up against the wall, her Umbra Staff at her side. And it was regrettable, if— if this truly was the last cycle, she had already burned her corporeal form. But that was the cost of undoing the damage she had done to this world.",
+440,67,"But as her lich form leaves her body, the true cost of what she had done was revealed. See, her Umbra Staff… it consumes the power of defeated magic users, and Lup’s lich form was pure arcane power. And so the Umbra Staff immediately responds to her ghostly presence and inverts, and swallows her whole. And when her senses return to her, she found herself in a small chamber lined with rich, black curtains. She wasn’t afraid, because she didn’t know how to be. For— for years inside that place, she just fought for consciousness.",
+441,67,"Her faculties return to her one by one. She could see, and then feel, and then hear, and eventually even extend those senses to the world outside. But she could find no escape from the umbrella. And so she waited with a patience she had no choice but to learn. And then, a decade later… she heard her brother. And her dearest friends. She felt Merle’s grasp on the handle of the umbrella and… no, that wouldn’t do. Sorry, Merle, but she needed Taako.",
+442,67,"And she screamed, she tried desperately to signal you, but it took everything within her just to feel your presence outside. But now, she had a goal. She would meditate for months channeling energy into a single spell, something she could cast at the most opportune time to let you know she was okay, or, Taako, just to save your hide.",
+443,67,"She felt your panic in the trial of initiation and lept to your aid, and when your staff consumed the Arcane Core from Hurley’s battlewagon, she felt awakened. She put on a fiery show of force just to remind herself how powerful she could be. She stored up energy for months to signal you, clear as day, burning her name in the wall. Though she felt guilty about the collateral damage of Angus’s obliterated macarons.",
+444,67,"When she heard a voice outside discussing hunting down a lich, she, perhaps, overreacted, though fortunately your quick reaction kept her from ruining your date with Kravitz. And she felt your pain in Wonderland, and she seethed in that black curtained place, and we can see her there now. She’s just anxiously pacing, tearing at the walls, trying to find some way to break out, to save you from this torment. But still, she can’t find any relief. And then she hears a fight outside, and moments later, she has company. The lich Edward drops into the chamber and scrambles to his knees. And he says,",
+445,67,Edward, Who— who are you? What is this place?
+446,67,Griffin," And Lup says,"
+447,67,Lup, Are you the one who’s been hurting my brother out there?
+448,67,Griffin," And Edward says,"
+449,67,Edward, Am I—where are we?
+450,67,Griffin," And Lup grits her teeth and she says,"
+451,67,Lup, I’m gonna fucking kill you now.
+452,67,[The Chalice transitions into Disrobed],
+453,67,Griffin," And from where Taako was thrown, we see a cloud of red smoke start to gather, and encircle the tendril in the center of the room. And you see fireworks, wild orange and yellow and pink flares combusting within that fiery mass, filling the tendril with white hot light. And an explosion tears through the room, climbing that tendril up, and up, and up into the heavens, but you feel the heat and power of that explosion weave masterfully around you, leaving your party, and not the remaining enemies in the room, completely unharmed."
+454,67,"And when the light fades, the column and the shadowy beings who climbed out of it are gone, and hovering where it once stood is Lup, phantasmal and resplendent, her outstretched palms still coated in flame. And as this lich turns towards you, Taako, you hear your sister’s voice say,",
+455,67,[Music stops],
+456,67,Lup, You’re dating the Grim Reaper?!
+457,67,"[Clint/others laugh and Disrobed starts playing again, continuing until the commercial break]",
+458,67,{50,"51 - Hey, everybody, this is Griffin McElroy your dungeon master, your best friend, and your finale boy. That’s a boy who did a finale.}"
+459,67,Sponsor 1,  Blue Apron (http//www.blueapron.com/adventure)
+460,67,Sponsor 2,  Nature Box (http//www.naturebox.com/adventurezone)
+461,67,{57,25 - Commercial break ends}
+462,67,[Music plays],
+463,67,Griffin, Lup’s back.
+464,67,Justin, Yaaaay!
+465,67,Travis, That was sick.
+466,67,Justin, It was really cool though. That was cool.
+467,67,Travis," I just gotta say, the fireworks, the smoke, I was on board the whole time. Whoo!"
+468,67,Taako," Well, I knew. You could probably tell, but I knew the whole time."
+469,67,Clint, Shyeah.
+470,67,Taako, I just didn’t want to break your cool staff ‘cause I knew you’d be mad.
+471,67,Clint, [laughs]
+472,67,Griffin," You can’t see much like, definition in this lich form, ‘cause that’s kinda how it works, but you can kinda tell that Lup is smiling at you, Taako, in there. And she says,"
+473,67,Lup," Yeah, I knew you’d figure it out eventually."
+474,67,Taako," Oh, no, I knew, I mean I knew. For sure I knew."
+475,67,Merle, Like from the very beginning? You think?
+476,67,Taako," Oh, yeah."
+477,67,Merle," Oh, yeah."
+478,67,Taako, [laughs] Right away.
+479,67,Merle, You always had that little glint in your eye.
+480,67,Taako, Yeah.
+481,67,Griffin," She says,"
+482,67,Lup," Well, why didn’t you let me out sooner, dingus?"
+483,67,Taako," Well, I didn’t remember you existed, goofus."
+484,67,Clint, [laughs]
+485,67,Griffin," Barry walks over to her, and he’s — shaking, and he says,"
+486,67,Barry," I— I knew I’d see you again, I… I wanna… I’m gonna— I’m gonna blow myself up just so I can be a lich and h-hold you again. H— hold on."
+487,67,Griffin," And Lup says,"
+488,67,Lup," Don’t blow yourself up, babe, I’m sure your beautiful body’s gonna get killed by the Hunger soon enough."
+489,67,Griffin," And Barry says,"
+490,67,Barry," Lup, when I was a lich, I knew you were gone. And it was more than I could bear. And when I was alive, I didn’t know you’d ever existed which was more than I could bear, I didn’t — I didn’t-"
+491,67,Griffin," And Lup says,"
+492,67,Lup," Babe, I love you more than life and undeath itself, but let’s get somewhere safe first, so we can really savor this tender reunion."
+493,67,Magnus," Yeah, that, I mean, that is an excellent point. The Hunger still, still an ish."
+494,67,Griffin," Lucretia says,"
+495,67,Lucretia," Lup I… I looked for so long, I’m so sorry."
+496,67,Griffin," And Lup says,"
+497,67,Lup," Oh, no sweat, I was inside an umbrella, I can’t fault you for not looking in there. Now, Lucretia, I need you to please stop conjuring up that barrier, alright? ‘Cause it’s gonna be the end of the world if you put that thing up."
+498,67,Griffin," And Lucretia says,"
+499,67,Lucretia," Lup, I’m… I’m so happy you’re back but, I can’t— there’s nothing you can say that’s gonna make me stop this. I’m gonna save us all, I— I promise."
+500,67,Griffin," And with that, Lucretia’s bubble goes completely opaque, and then it flashes, and then suddenly Lucretia’s gone."
+501,67,Justin, Mmm.
+502,67,Griffin," Um, and Davenport says,"
+503,67,Davenport," Uh, okay. Gang, listen up, I know I’ve been running at sort of a, a limited capacity for a while but I’m-"
+504,67,Taako," You’ve been a basically human Teddy Ruxpin, but go on."
+505,67,Clint, [laughs]
+506,67,Griffin," He says,"
+507,67,Davenport," Listen, I’m still your captain, and— and if you listen to me I swear to you I can get us out of this."
+508,67,Taako," Yeah, go for it, I’m all ears."
+509,67,Merle, We’re listenin’.
+510,67,Griffin," Davenport says, he starts issuing commands to just everybody in the room, he says,"
+511,67,Davenport," NO-3113, Carey, Killian, you’re in charge of securing the Bureau headquarters. We lose this base, and we lose it all. Can you do that?"
+512,67,Griffin," And Team Sweet Flips all look at each other and they grin and Killian says,"
+513,67,Killian, Leave it to us.
+514,67,Griffin," And, uh, he says,"
+515,67,Davenport," Angus, you’re with me. You’re gonna help me sleuth out where Lucretia’s hiding out. Maybe, maybe I can still talk her out of this."
+516,67,Magnus, Take— take the Voidfish baby with you.
+517,67,Griffin," He says,"
+518,67,Davenport," Well, h- hold on on that."
+519,67,Griffin," He says,"
+520,67,Davenport," Lup, Barry, you two have gotta find the Starblaster. If we can find that ship, at least we’ll have some options, okay?"
+521,67,Griffin," And then Lup says,"
+522,67,Lup, You got it.
+523,67,Griffin," And, uh, Lup floats over to Angus as she’s like moving out to follow out these commands. And she says,"
+524,67,Lup," Sorry about the cookies, little dude; I’m— I’m sure they were delicious."
+525,67,Griffin," And Angus is just kinda like awestruck and doesn’t really know what to say. And Davenport calls the three of you over, and he says,"
+526,67,Davenport," Magnus, Taako, Merle, come— come with me for a minute."
+527,67,Magnus, Okay.
+528,67,Merle," Sure, Dav."
+529,67,Griffin," And Davenport walks you briskly back down the hallway to Lucretia’s private quarters where the baby Voidfish still floats in its little tank. And Davenport kinda clumsily picks up that little tank and hands it to you, Magnus. And he says,"
+530,67,Davenport," Boys, there’s-there’s no easy way to say this. You gotta find some way to disable this little guy and Fisher’s memory-altering field. And, if you can’t, you have to term-"
+531,67,Magnus, [talking over Davenport] No. No. No. No.
+532,67,Davenport, You have to terminate them.
+533,67,Magnus, No. No. No.
+534,67,Griffin," He says,"
+535,67,Davenport," Listen, Magnus please, let me finish."
+536,67,Magnus, No. No. [continues repeating “No”]
+537,67,Davenport," Then find a way to do it. The world’s under attack and right now nobody out there can see what’s attacking them. Every second that these two are alive and making the world forget is a second where people, thousands of people, are dying at the hands of an enemy they can’t see."
+538,67,Magnus," Right. Totally, 100%. But I made a promise to Fisher that I was gonna get this baby back to him, and I’m gonna do that. And nothing you can say is gonna change that."
+539,67,Griffin," He’s just kinda looking sternly now at you, Taako and Merle."
+540,67,Merle, What if we put it... somewhere... else. Would that cancel it?
+541,67,Griffin," He says,"
+542,67,Davenport," Its field reaches all across reality, I don’t think there’s any way to, hide it. Listen, here, take the Voidfish, go to Fisher, and— and maybe you can talk to him? I don’t know but— it’s not— there’s so much devastation happening right now and it’s only fair that we give this world a fighting chance, okay?"
+543,67,Magnus, Got it.
+544,67,Merle, Okey-doke!
+545,67,Griffin," And with that, Angus and Davenport peel off to start turning over Lucretia’s office looking for clues to her whereabouts while the rest of you clear away the barricade in front of the door, um, to move back outside of this main dome. Before you make your way outside, Barry says, um,"
+546,67,Barry," Oh, that reminds me. Um, I think if we’re gonna do this thing, we may as well make sure we’ve got every advantage that we could possibly get."
+547,67,Griffin," And he, uh, pulls out a wand, and draws a horizontal line through the air. And then that line folds up to a square. And then that square unfolds into a cube, and takes the form of a chest. And that chest falls to the ground with a clunk, and he kicks the side of it and it pops open. And inside, you see some familiar instruments. You see the weapons and armor that you made at the Arcaneum. Taako, you see the KrEbStAr, uh, inside. And Merle, you see Gilley, your magic stick. And Magnus, you see the… fuckin’, 2TH necklace. The fuckin’-"
+548,67,Travis, And Bear Face.
+549,67,Griffin," And Bear Face. Um, and all of the other instruments that you all made while you were there. Which you pull out of the chest and equip yourself with. And it’s relatively quiet outside. It actually looks like Lup’s explosion wiped out most of the shadows, um, from out here. But, immediately Killian and Carey and NO-3113 flip into action to clear out the rest of the few wounded stragglers."
+550,67,"And now that you’re outside and you’re fully inoculated, you can see the devastation that the Hunger has visited upon this world. [music starts] Dozens of those tendrils are stabbed down from the heavens into the landscape, miles off in every direction. And from each you see hordes of shadowy beings, marching out towards the larger cities and settlements of this world.",
+551,67,"And in the distance you see Neverwinter, and the financial district is just ablaze. And across a mountain range, you see the mechanical guts of Rockport have come to a standstill, and there’s a plume of black smoke pouring from the heart of the city. And as you’re surveying these horrible scenes, you hear Barry say,",
+552,67,Barry, Oh my god.
+553,67,Griffin," And he points out into the distance, and looks over his shoulder towards the rest of you and he says,"
+554,67,Barry, Court’s in session.
+555,67,[Menacing music plays],
+556,67,Griffin," And miles away to the north, the south, the east, and the west, you see them. The four Judges. Towering twenty stories tall, emerging from the Hunger’s tendrils. And their already featureless forms are now comprised of that black, shimmering material. And they’re marching, ever so slowly, towards your location."
+557,67,Magnus," Oh, shit."
+558,67,Griffin," But Lup is the only one not staring at the Judges. She’s lookin’ straight down, right off the edge of the Bureau at the ground far below. And she’s smiling."
+559,67,Magnus, Lup.
+560,67,Taako, What— Lup?
+561,67,Griffin," Uh, she beckons you over, Taako."
+562,67,Justin," Okay, I go over to her."
+563,67,Griffin," When you look downward off the Bureau to see what she’s smiling at, you see a perfect circle of black glass— the remains of the town of Phandalin. And she says,"
+564,67,Lup, I’ve got a cunning plan.
+565,67,Clint, [laughs]
+566,67,Griffin," She says,"
+567,67,Lup," Barry, Taako, I think I know how we can get some reinforcements, and turn this whole thing around. Do you trust me?"
+568,67,Taako, [softly] Of course.
+569,67,Griffin," Barry nods. She says,"
+570,67,Lup," Merle, Magnus, keep going after Fisher. Barry, Taako, you’re with me."
+571,67,Griffin," And she floats backwards, and plummets off the side of the Bureau, diving towards Phandalin below. And Barry says,"
+572,67,Barry, You heard the lady.
+573,67,Griffin," And takes a running jump off the side of the Bureau, catching himself with a levitation spell as he descends."
+574,67,Taako," Uh, hey guys. I don’t know what’s fucking going on, honestly, but we’ve got a plan I guess. So, hold it down."
+575,67,Magnus, Cool.
+576,67,Taako," Magnus, keep hitting stuff. Merle, [laughs] don’t beef it, I guess."
+577,67,Merle," Yeah, well."
+578,67,Taako, That’s the best I got for you.
+579,67,Merle, I’ll just die.
+580,67,Taako," If I see Pan, I’ll tell him to hit you up."
+581,67,Merle," Shit, yeah you’ll probably see him before I do. You are jumping off the side of a— of a base."
+582,67,Taako," No, it’s fine. [dramatically] I’ve got magic powers."
+583,67,Justin, [laughing] And then I jump off and cast Levitate on myself.
+584,67,Travis," I turn to Merle,"
+585,67,Magnus, Was that supposed to be a big reveal? Like we-
+586,67,Justin, [laughs]
+587,67,Magnus, We know- we know that. He knows we know that.
+588,67,Merle, Think he was slammin’ me.
+589,67,Magnus," Oh, okay. [crosstalk] I thought he was just telling us he’s a wizard for the first time."
+590,67,Merle, [crosstalk] He was slamming me.
+591,67,Taako, [from far away] It works both waaays!
+592,67,Merle, Shut up!
+593,67,Griffin," Um, Taako and Barry and Lup descend out of sight. And Merle and Magnus, you finish trekking across the campus of the Bureau and make it to the elevator dome leading down to the Voidfish’s chambers. And you’re relieved to find that the elevator’s still working. The— the cars— you see the doors slide open and the elevator car’s fluorescent lighting is flickering? A bit? But the elevator seems fully operational."
+594,67,"From inside, you hear that soothing music being pushed out of the elevator’s tinny speakers, beckoning you to climb aboard.",
+595,67,Travis," Dee, dee dee, dee, dee, dee dee, dee. [He hums the tune from The Girl from Ipanema]"
+596,67,Merle, Dee dee dee.
+597,67,Travis, I get on board.
+598,67,Merle, Dee dee dee.
+599,67,Magnus, Let’s go!
+600,67,Merle," Yeah, I’ll bleed my way over there."
+601,67,Griffin," You get on the elevator and the doors close, and you begin your long descent. And about halfway down the span of the trip downward, those flickering-"
+602,67,Clint, I fart.
+603,67,Griffin," [exasperated, chuckling] You fart. And right as you do that,"
+604,67,Travis, [laughs]
+605,67,Griffin," As if destiny has been waiting for this one, perfect toot,"
+606,67,Clint, [laughs]
+607,67,Griffin," The flickering of those lights starts to grow more erratic. And then that soft jazz music is growing more and more distorted. And finally, that music cuts out completely. And the lights black out for two seconds."
+608,67,Travis, Mm-hm?
+609,67,Griffin," And you— both of you feel like a presence in this elevator with you. And then, when the lights come back on, Magnus, you don’t see Merle anymore. "
+610,67,Travis, Ahh. Dump.
+611,67,Griffin," He’s just gone. And Merle, you don’t see Magnus either, and you also don’t see the elevator. What you see is a small round table made of smooth black marble. And two high-backed chairs positioned on either side of it. And you don’t seem to be standing in any kinda discernible room, rather, in every direction there are just, rippling walls of the same black opal material that makes up the Hunger."
+612,67,"And sitting on that marble table is a chess set. And suddenly, there’s John. And he’s different. When you had parlay with him in the past, he was essentially a regular human man, but now he’s torn, and cracked, with rifts of— of black opal tearing down his face and body. And you can feel a faint heat coming off of him. And he pulls out the chair on his side of the table and he says,",
+613,67,John," Hi, Merle. You… got a minute?"
+614,67,Griffin," Magnus, the elevator has reached the floor that the Voidfish’s lair is on. And the long hallway leading down to its chamber is quiet and unoccupied. The lights are flickering in here, too. The door at the end of the hallway is half open, nearly smashed down, and through the crack in the door you can see the faint glow of Fisher and the bodies of a few of those shadowy creatures lying motionless on the ground. And there’s a pool of standing water, uh, kinda pouring out into the hallway from the tank that you smashed. And it’s just trickling slowly through the door."
+615,67,Travis," I-I-I— well, I go in and as I do, I’m drawing the Flaming Raging Poisoning Sword of Doom."
+616,67,Griffin," Okay. You prepare for battle, uh, holding, I’m assuming, the baby Voidfish in your, um, other arm-"
+617,67,Travis, I want it-
+618,67,Griffin, Dual-wielding.
+619,67,Clint, Aww.
+620,67,Travis, Picture him like peeking over my shoulder. Like he’s sitting on my shoulder like a— like a cute parrot.
+621,67,Griffin, Okay-
+622,67,Clint, This is like Lone Wolf and Cub.
+623,67,Griffin," It’s uh, you’ve taken it out of the tank then, it’s just like chillin’ on you?"
+624,67,Travis, Yeah.
+625,67,Griffin," Okay, you’ve got a [laughs] jellyfish on you. Um, as you make your way into that room, you realize that you took out a bunch of the shadows in this room when you were still in your mannequin form. And you actually— I guess you see your mannequin form lying on the ground, sort of, in this pile of, like, half-ash, downed enemies."
+626,67,"And while you took down a lot of them, Fisher managed to take out the rest after you went down. But Fisher’s… injured. And it-it doesn’t look good. Several of his tendrils are severed on the ground. Some of them are coiled around the throats of those downed shadows. There are a few large cuts goin’ up its body and its— its breathing, if that is actually like, what it’s doing, its breathing seems labored.",
+627,67,Magnus," [softly] Oh, buddy."
+628,67,Griffin," And it has one of its tendrils on Johann’s body, which is motionless and face down in the water. And as you enter the room, it hums weakly. And the baby Voidfish responds with a brighter, far more energetic hum from your shoulder, and starts to float towards it, but then it looks kinda scared. And, like, kinda hangs back a little bit."
+629,67,Magnus," [gently] No, it’s okay."
+630,67,Travis," I walk over there with it. Holding one tendril, uh, holding its hand, I walk over to Fisher with it."
+631,67,Clint," [chuckling gleefully, or mock sobbing] Oh-ho, god."
+632,67,Griffin," You walk the baby Voidfish over to Fisher and, I think Fisher… it doesn’t have this like, it doesn’t have the energy to have this like, exuberant response to seeing its child again. But it lifts one of its tendrils up and wraps it around the baby Voidfish and sort of nestles it up— up against its body. And when it does that, the baby Voidfish seems like it’s not scared anymore. It’s— It’s humming its song. Um, yeah. What do you do?"
+633,67,Magnus," Fisher, buddy I… I told you I’d bring it back."
+634,67,Griffin, It hums at you.
+635,67,Magnus," I’m so sorry I forgot you, buddy. I’m so sorry."
+636,67,Griffin," Um, it lifts up one of its tendrils and puts it on your shoulder."
+637,67,Travis, I lean my head in so that my forehead’s pushing against it and I start humming.
+638,67,Griffin," The colors inside of it float a little bit. Um, as if, just like hearin’ a little song, is sort of improving its mood a little bit. But I mean it’s— it looks, bad, still. Um, what do you— what do you do?"
+639,67,Magnus," Fisher, you tell me what you need, okay? And I’ll do anything. Anything and I'll do it, okay?"
+640,67,Griffin," Fisher takes the tendril that it has on Johann’s body and… like, nudges it? And in that moment you don’t know like— you don’t know if Fisher knows that Johann is, gone. But it’s like Fisher’s trying to signal to you like, what it— what it needs is, is what Johann did for it for so so many years. Um, and I think the baby Voidfish like sees this response and u-uncoils itself from its parent’s grasp, and you see it sort of frantically start like, darting around the room, like it senses something in the room. And it’s moving over towards a back corner of the room where you see Johann’s desk."
+641,67,Travis, I go over to Johann’s desk.
+642,67,Griffin," There’s a parchment of sheet music. And I think like, from your time at the Conservatory, like you, you understand, like, sheet music. And you kind of glance it over and kind of recognize it as this seven-note song. It’s like the— the running melody— of this— of this composition, this E-G-G B-A-B-E, this egg babe music that like helped you realize that there was a second Voidfish."
+643,67,"And you recognize this— this melody on this sheet music. And the ink is still wet. It looks like Johann finished this today, um, before he perished. And the title of this song is March of the Forgotten. And the baby Voidfish is just like motioning towards this sheet music, just pointing at it, pointing at it, pointing at it, and like grabbing— I think it coils a few of its tendrils around your wrist and like pulls you towards this sheet music.",
+644,67,Magnus," Junior, I get it. All right? [sighs]"
+645,67,Travis, I— I pick up the sheet music and I start walking towards Fisher.
+646,67,Griffin, I think Fisher responds to this composition just coming close to it. And you see some of those lights inside start to ignite as you’re walking towards him.
+647,67,Magnus, Hold on one second Fish—one second.
+648,67,Travis," And I kneel beside Johann and I say,"
+649,67,Magnus, I will remember this. And I will make sure everyone else does. What you have done and what you have given will not be forgotten.
+650,67,Travis, And I feed the music to the fish.
+651,67,Griffin," Fisher weakly grasps the scroll and raises it up into its body, and for a moment, time stands still. [Story and Song starts playing]"
+652,67,"And then you see something start to happen — something that hasn’t happened in decades. And thinking back, you only ever saw this happen from afar, back at the conservatory, when a work was accepted and broadcasted to everyone across reality by the fish inside that cave. The lights inside of Fisher’s bell begin swirling again, and then it spreads throughout his entire form — this bright blue light surrounds his tendrils and starts coursing out of his body entirely, not like a light flashing from a beacon but like ink through water.",
+653,67,"And he’s floating off the ground now and his tendrils are slowly swirling around him and he looks vital. And the baby Voidfish, seeing this, it starts to change too; its entire body is surrounded in bright green light which starts to disperse off its body and fill the room to the point where you can no longer see these two fish or anything and then we see the blue stream of light, followed by the green, emerging from the Bureau’s headquarters, spreading ever outwards to the world and worlds outside.",
+654,67,"When people talk about that day, they call it different things. But for this moment, when every living person across the whole of reality simultaneously received the Voidfish’s gifts, for this moment, and the moments that followed, moments of heroism and sacrifice — and luck — these moments are why we call this day the Day of Story and Song.",
+655,67,"[March Of The Forgotten plays, followed by the theme music] ",
+656,67,[Next episode],

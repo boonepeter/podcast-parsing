@@ -1,0 +1,966 @@
+﻿The Adventure Zone
+Clint McElroy: Commitment GM, Merle Highchurch, Edmund “Ned” Chicane, Gandy Dancer
+Griffin McElroy: Balance GM, Amnesty GM, Chris “Remy” Rembrandt, Errol Ryehouse
+Justin McElroy: Elementary GM, Taako, Irene Baker & Kardala, Duck Newton, Augustus Parsons
+Travis McElroy: Dust GM, TAZ Knights GM, Magnus Burnsides, Nadiya Jones, Aubrey Little/Lady Flame
+
+The The Adventure Zone Zone: 
+Experiments Post-Mortem, More on Season Two
+(part of TAZscripts on Tumblr)
+
+
+[Deja Vu (TTAZZ Remix) plays] 
+
+
+Travis: It’s the, it’s a show… it’s the, where, it’s our own aftershow— in the show— 
+
+
+Justin: Damn, that’s a good start.
+
+
+[Laughter]
+
+
+Travis: Well, I’m trying to think of how to phrase it, you know, it’s an aftershow… but during, it’s a during-show… concurrent…
+
+
+Justin: [crosstalk] Travis began the show being chased down a hill by Prince Humperdinck. And he threw himself down, roll roll roll roll roll, when he got to the bottom, he began… [hill-rolling grunts and oofs]
+
+
+Travis: You know, sometimes, when you, you know, I think— this applies to the show too, you know, sometimes you open your mouth, and you’re like, the words are gonna be there! And sometimes they are, you know?
+
+
+Justin: Yeah! Sometimes they are!
+
+
+Travis: And you make magic.
+
+
+Griffin: This is the The The Zone, Adventure Adventure Zone Zone Zone Zone Zone…
+
+
+Travis: Yep!
+
+
+Griffin: It’s the talk show where we talk about the thing, and it’s the MaxFun Drive! And we’re done with the experimental arcs, there’s a lot of stuff going on. And… maybe we should answer some questions, we got a ton, thank you for sending them in. Um, thank you everybody who wanted to know if Errol would get his root beer, which is to say the 400 of you that emailed about Errol ever getting his root beer, the answer is: [exaggerated wordless “I don’t know” noise]. So that’s one question down, we’re already deep in the shit.
+
+
+Travis: And that’s the biggest cliffhanger established in any of the mini-arcs. Um…
+
+
+Justin: Let’s take a quick moment before we get rolling, though. I wanna thank— thank you to our fanbase. We’ve never had a name for them, so I’m gonna start calling you Bachelor Nation. Thank you Bachelor Nation for your support of the Adventure Zone. We, it honestly means a lot. If you weren’t with us this time last year, we should mention that this is the MaxFunDrive, which means it’s the one time of year we come to you hat in hand and say, “Hey, could you give us a little bit of money for what you have taken from us?” Which is our gifts— and we have— 
+
+
+Travis: That’s how we always phrase it, yup yup yup.
+
+
+Griffin: Right, yes. So we’re a part of the MaxFun network and the network is supported by donors like you, hopefully, where we ask you, during the MaxFun Drive, if you enjoy our show, think about supporting us. You can go to MaximumFun.org/donate, find out about the different membership levels and the gifts you will receive if you donate at them— we’re going to talk a lot more about them. Just to let you know, though, $5 a month: that’ll get you all the bonus content that every show on the network has ever done, and that includes an episode we did this year that Justin ran called The Adventure Zone: Elementary. In which we played a game called “Four Sherlock Holmes and a Vampire (Who Is Also One of the Aforementioned Sherlock Holmes)”— it was very fun, and we’ve gotten a lot of very sweet tweets, sweet little— sweetie tweeties, about it. And we appreciate it.
+
+
+Justin: [overlapping] I don’t think I got enough credit, and this was Dad’s idea… I don’t think I got enough credit for continuing our naming scheme.
+
+
+Griffin: Yes.
+
+
+Travis: That’s absolutely brilliant.
+
+
+Justin: That was Dad’s idea. I shouldn’t take—
+
+
+Travis: I also want to say along with that, there’s also— that you can hear The Adventure Zone: Knights, which is a steampunk one that I created, including special guest Lin-Manuel Miranda playing D&D for the first time ever.
+
+
+Griffin: It was very good.
+
+
+Clint: And it was probably the last, wasn’t it— the last— 
+
+
+Griffin: And probably the last, yes.
+
+
+{3:48 - Q1: Live Shows}
+
+
+Travis: You can check that out at MaximumFun.org/donate, go now if you’re interested in hearing that stuff. Don’t wait, because it’s so easy to forget it. And the MaxFun Drive only goes two weeks. We’re going to talk more about it, but first, let’s see, let’s start with the questions. This question is probably for Griffin, but maybe for all of us: “Will Tres Horny Boys still be the focus of live shows moving forward, or will live shows start featuring Amnesty?” And that’s from Brian.
+
+
+Griffin: I think, I think we may get to a point where it would be cool to do an Amnesty show. But everything we’ve talked about since we wrapped up Balance is that we would continue doing, you know, the Balance crew for the live shows. So, um, we want to have— 
+
+
+Justin: I think it would be hard for us to— I— the only time I see it, maybe, is like, after Amnesty is complete, maybe wanting to return to it for like a one-off, but honestly, I love the Balance world, and I love those characters, and it— honestly, I would be too sad if I thought we weren’t going to go back to that.
+
+
+Griffin: Yeah, for sure. This is, it’s a way of us, for us to keep carrying the torch while also sort of moving on to new things. Because I think of the live shows, and the episodes that come out of that, as weirdly like their own… thing. And so that’s how I justify it.
+
+
+Travis: [crosstalk] Well, that’s the thing. With Balance, because the story is completed, it’s so much easier to do one-offs without having to worry about character development or plot development or anything. Whereas if we try to do a live show, like, in the middle of a live— of an arc that’s still going— you know, it’s not as— it’s easy to do semi-canonical one-offs with, you know, Bureau of Balance, right. But we can’t really do that with an arc we’re still establishing.
+
+
+Clint: Could we do two acts? Could we do, like, Balance in the first act, and Amnesty in the second act?
+
+
+Griffin: Yeah, sure, let’s just double up the fuckin’ work.
+
+
+Justin: The problem with that is really Griffin, he’s the rate limiting factor on that.
+
+
+[Others scoff]
+
+
+Justin: I know.
+
+
+Clint: Well, I’ve already got my— I’ve got my Ned cosplay all ready!
+
+
+Griffin: Listen, every night before I go to bed, I do my stretches to try to grow two extra lobes onto my brain. Two extra Lisa Loebs right on my brain. But no luck so far.
+
+
+{6:05 - Q2 and 3: Space Game? and Cliffhangers}
+
+
+Justin: “Were you guys considering a space-type game? If so, what would the game have been called, and why didn’t it happen? Or do I have something to impatiently wait for?” That’s from Alex.
+
+
+Travis: Yeah, this is a— we got this question a lot, because in our artwork, we did include a section that looks like spaceships.
+
+
+Griffin: Well, it looks like spaceships because it is spaceships. I had an idea for a space campaign that I wanted to do, that I’ve had for years, that I was thinking we were going to get to, doing these experimental— during the experimental arc phase. But— and maybe this is, like, a good time to talk about this— it’s been eight months since we wrapped up Balance. And the reason we’re kind of jumping into season two and Amnesty now is just like, we all feel this sort of— I don’t know what the right word is here— maybe “anxiety”—  about, just we’re ready for— we’re ready to do Season 2, we miss— 
+
+
+Travis: Anticipation. [crosstalk]
+
+
+Griffin: Anticipation.
+
+
+Travis: It’s not anxiety, ‘cause— 
+
+
+Clint: There’s a void! There’s a void— 
+
+
+Griffin: Anticipation looks a lot like anxiety up in this old brain, but yeah, it— doing the experimental arcs has been really cool and we learned so much and we’ve— I’m really happy with the stuff that we did, but there is something about expanding a world and knowing that you have, like, a long runway in front of you to expand a world that we’ve missed. So we’ve been ready to do it. So it just wasn’t right, but, yeah, I still have this idea for a space game… um… and… 
+
+
+Travis: If I can jump in and expand to a larger point, because the next question is from Lulu about Dust, and Commitment and we left them on cliffhanger endings, and if we’re ever going to get back to them. Here’s one of the things, like, the biggest takeaway I would say, from the mini-arcs, is when we were doing Balance, we were so focused on it. And that’s how we ended up with three years of it, right? Because it just felt like, we can’t start on anything else til this is done. And now, from doing the mini-arcs, it kind of— was an inadvertent test and an accidental proving ground of like, “Oh, we can work on a lot of different things at once.” So one of the things that we’re kind of looking to do with moving forward, is to have Amnesty be, like, you know, the main story in the main weeks. In what some might call “good Thursdays”— 
+
+
+Griffin: Good Thursdays. [Travis: Right, but then the—] Which by the way, this is an inadvertent way of addressing another question that comes later that we can answer really quickly, we are going to go back to biweekly, because now, I think, that all of us had a run at being DM, it’s— doing that shit every week is so brutal— it’s so hard.
+
+
+Travis: Yeah. But now, like, if I’m ready to do another, you know, couple episodes of Dust, we can record those and do them in the off weeks. Or if Dad is ready to do another arc of Commitment, we do ‘em in the off weeks. Or if Justin comes up with something he wants to DM, we can do it in the off weeks. Or if we just find a really funny one-off like we did with the Sherlock Holmes game, we can put it up in the off weeks. 
+
+
+Griffin: I would fucking love to do more one-offs. That was— that’s something we never do, specifically play— all the experimental arcs, I was happy with, but we didn’t really play short-form— games that were designed for short form campaigns. We played like, long-form games, except for Four Sherlock Holmes and a Vampire, and that was fucking really— it was really fun, and it was really funny, and it gave us a lot of freedom to just, like, goof off, I feel like? But also we— there was no tension between us and how we were playing the game. Because the game was designed to be one episode of a podcast. If that makes sense. I would love to do more stuff like that.
+
+
+Travis: And I do also want to tie it back to the MaxFun Drive, because one of the reasons we’re looking to generate more content is like, we know that it matters to you. Because we’ve seen your support over the last couple years and we know how much this kind of content and how much you look forward to it. So it’s one of the things we’ve been looking at for a while, of, “How do we make it weekly, or how do we generate more content.” And the thing is, is like, when we’re doing the main storyline, we just can’t— we can’t consistently do it weekly, it’s just too much, right? But, now that we have all these other threads to pluck at, we can fill in some of those gaps, generate more content for you, because we know how much that matters to you. And it’s because of your support for things like MaxFun Drive that we know you care about this content enough for us to find opportunities to make more of it.
+
+
+Justin: Call it “content” again, I’m going to [crosstalk] jump out a window.
+
+
+Griffin: It’s really rough.
+
+
+Justin: It’s so rough.
+
+
+Griffin: Which is not to say that we are going to go weekly, or like every off week, we’re going to have some other thing—
+
+
+Justin: Hell no.
+
+
+Griffin: There’s no way we would be— this will be very very very sporadic. But this is, this is just a way for us to, we loved these worlds so much, as we do want to return to them, and this is kind of what we’re thinking— 
+
+
+{11:09 - Commitment and Fate}
+
+
+Justin: I tell you, I want to talk— now that we’ve played all the experimental arcs, and this isn’t an actual question but I wanted to discuss it real quick: I want to talk about Commitment, because Commitment was really interesting to me in that— Commitment was probably the character that I thought the most about, because we had the most down time in between, and it’s the character that I was really… like, I was very excited about Irene and Kardala. I actually think an interesting thing with Commitment is that I think the world and the characters were all super cool— I’m not sure that game— I’m not sure Fate necessarily lends itself to what we do. And I only realized that after playing the other games, and it’s an interesting phenomenon, in that… Fate seems very well-designed for storytelling, but I think that it is— it creates a sort of collaborative storytelling that is more interesting to the people playing it than it would be to people, necessarily, listening to it. [Others agreeing] Dad, did you, like, think that’s a fair take— 
+
+
+Clint: Yeah. Yeah, I went with Fate because it, when I came across it, it— that was what appealed to me about it, was— the storytelling angle of it, and the collaborative— it felt very theatrical to me. And it was about the storytelling, and about character development. But at the same time, it did have mechanism for conflict, and if you’re going to do a superhero story, there has to be battle. There has to be an element of… battle involved in that. I think that’s just, you know, part of the whole story. So yeah, I would love to bring back Commitment and pursue the storylines and the plotlines, but I might look for a game that lends itself, you know, more towards that kind of format. Because it wasn’t a typical Jack Kirby, you know, every two pages somebody’s in a fist fight kind of deal… but it, that is— it does need to have that mechanism, though.
+
+
+Griffin: That’s not to say that it’s a bad game— 
+
+
+[crosstalk: “No!” “Not at all”]
+
+
+Griffin: I think it’s a very cool game, it’s just, the same way that we probably couldn’t have done Fourth Edition Dungeons & Dragons, for Balance, right, because that was much more about how your characters are in physical space as compared to Fifth Edition, which was much more just talking over a table, like… certain games don’t really fit what we do, and like, tracking aspects and running the— 
+
+
+Justin: Tracking aspects was the big thing. I think that is so perfect for having no cards in front of you, and if somebody actually designed— like I think someone would actually need to design software specifically to handle that remotely where everybody’s looking at the same cards and stuff— [crosstalk] tracking it in chat.
+
+
+Griffin: But then even if— even if we can see it, the audience… that’s a lot to ask them to remember. [crosstalk: chorus of agreement]
+
+
+Travis: Right, that’s the thing, is, I feel like one of the things, one of the big learning experiences from doing the mini-arcs was like, “What is the mix at which Adventure Zone works best,” right? Because there are a lot of actual play podcasts that I absolutely love, but I don’t really consider Adventure Zone a pure actual play podcast, because I don’t feel like— I don’t feel like you could listen to Adventure Zone and come away understanding exactly how to play the game. Like that was one of the things with Dust that I really liked about Urban Shadows, is it was such a loose rule structure that I think maybe like 25 percent of each episode was actually about gameplay. [crosstalk]
+
+
+Justin: Twenty-five percent would actually be a good reflection of my current understanding of the rules of Urban Shadows.
+
+
+{14:57 - Q4: Actual Play Vs Narrative}
+
+
+Griffin: So this is a good opportunity to talk about, you talked about sort of how we balance, no pun intended, between, like, different— different sort of goals, as we’re doing the show. And we got sort of two different questions here that we can sort of address this at— Rob asked, and this is something that was got from a lot of folks in a lot of different iterations: “A lot of discussion on popular TAZ internet forums lately have been focused around the actual play component of TAZ and whether or not that has or should take a backseat to the more narrative-driven aspects of the show. The “arms outstretched” moment of Balance that were [sic] born out of crazy dice rolls, or the surprise spellcasting like Phantom Steed, are the reason a lot of us listen. Will Monster of the Week deliver on the actual play aspects the same way D&D did? Any insights to this would be super rad.” 
+
+
+And what I think is so interesting about this question… it’s all, I think, like a matter of… perspective? Because those two examples that you listed— and I know there’s a lot of people who were put off when we switched off D&D, and when we announced that Season 2 would not be in D&D, even though that’s something that I feel like we’ve been pretty up front with, since Balance wrapped up… both “arms outstretched” and Phantom Steed do… in some ways, sort of like, those are sort of things that happened kind of because of the rules of D&D that we were playing, but they are also two big examples of us explicitly saying “fuck the rules.” 
+
+
+Phantom Steed, like if you want to look at it literally, like, that’s a spell, you have to, like, I don’t know, channel for a minute. It’s not designed to create a magic binicorn that— first of all it’s not supposed to create a unicorn at all, right, it’s supposed to create a horse, but whatever. But it’s not designed to catch somebody out of the air as they’re falling off of a moving race car? And “arms outstretched” was literally three back-to-back-to-back examples of things that, like, completely break the rules of D&D. Having a magic item that instantly rips the soul out of somebody’s body is not, like, in the Player’s Handbook, and having Soul Jar cast you into this astral plane where you can fly around and grab people as they’re being sucked into a hell— death dimension, and then— Dad’s spell, I forget what it was, but that wasn’t how that fucking worked even a little bit. 
+
+
+Clint: It never was!
+
+
+Griffin: Not even a little bit! And so like, there are things that people bring up, and when I think about things like Phantom Steed, and that’s one that we get a lot, is like, “I’m worried stuff like that’s not gonna happen in Monster of the Week,” like… stuff like that also shouldn’t happen in Dungeons & Dragons! [crosstalk] If we’re following the rules…
+
+
+Travis: Don’t you worry about that!
+
+
+Justin: Listen, I think that you can also chalk this up to the experimental arcs, in that we had— there are two things that I think have been sort of missing from what people would classically think is the Adventure Zone, that I believe we’ll be able to do better in Amnesty, in like— and that is, more dice rolls, and letting mechanics dictate some plotting. And also, like, more goofy shit? Because we each had— not me, but— I think everybody had stories that they wanted to get through, and we had a pace that we wanted to work through, with these stories, and I think that because of that, we were moving at, like, we tend to a lot more stuff in exposition and storytelling and dialogue versus leaning on the rules. 
+
+
+I think that also betrays a lack of confidence in those rules and those mechanics. And having an idea of how they work. Like, you gotta understand y’all, we’re pretty good at bullshitting, we’ve been doing for a long time, we’re not necessarily great at playing these games because we’ve never played them before. And trying to like, learn a game, while you create a story, while you improv, all the lines and the dialogue, and also try to make it, like, entertaining… is really fucking hard. And I think that like—
+
+
+Griffin: Especially during introductory things, like all these mini-arcs were. This was the case in Balance, you go back and listen to the first couple episodes of literally every arc, and especially later on, it is mostly exposition. Because in order to, like, create this space where y’all can find your own solutions to stuff, and sort of explore your thing, it does entail… especially, fucking Eleventh Hour? That is a lot of hand-holding to get you guys into this kind of complicated scenario of a town where things reset every hour, and “Here’s what you need to know about that, okay, now we can do it.” And that felt like how all these mini-arcs are. And now that we’re kind of moving into Season 2, it feels like we’re going to have a lot more room to play around.
+
+
+Clint: And I think Dust, I think Travis had to deal with that even more, in Dust, because you’re doing a murder mystery. You’re doing something that is basically: here’s some clues! [crosstalk: agreement] So you can figure it out! And there’s— there’s a lot on there. I know when, in Commitment— you have certain things you— you know where the story is going. I did not have an ending. I honest to God did not have an ending planned.
+
+
+Griffin: You mean you didn’t expect us to fly through the air on a helicopter eating strombolis as we take a bad guy to the White House? [Laughing] That was the best fucking ending to any story ever.
+
+
+Clint: I have an imagination, but it’s not quite like that. I did not know how the story was going to end, and so, you know— for me, I don’t know about the rest of you guys, but for me, the toughest thing was pacing. [crosstalk: agreement]
+
+
+Griffin: That’s true for everything, yeah.
+
+
+Travis: A lot of people pointed out that like, Dust really felt like it ended fairly suddenly, and it could’ve gone another episode, but here’s the thing: I had written down, I have like a hundred pages of shit that I wrote for Dust, but I’d written down, here’s all the information that will lead them to this, right? And then suddenly it was done. And I didn’t want to have an episode where it’s just, like, “I don’t know!” —Right, because that’s not good pacing. And the other thing is, when you’re writing a mystery, is like: yeah, if they go to here, and talk to this person, it will all be figured out. And that wasn’t happening. You know what I mean? And so… it was one of those things a lot of people asked about, like, the Banshee just straight up saying like, “Don’t trust Conners”— 
+
+
+Griffin: “Here’s who the killer is,” yeah. 
+
+
+Travis: But it was like, I expected them to have a lot more conversations with Conners leading up to that. Right? And it just— it never happened, and I can’t as the DM, say, “Well maybe should go… check in with Conners some more…” It’s fucking hard to DM a mystery! 
+
+
+{21:45 - Q5: Mini-arc Reception}
+
+
+Justin: I want to— we’re going to pick up the pace on questions. I’m just going to hit you guys with some. I’m going to wrest control from you. This question is for each of you, it’s from Laura. That last one— the question’s for each of you, and I would like to know, “What has surprised you most about the response to these mini-arcs?” And that’s from Laura.
+
+
+Travis: I will just say, for Dust, I was sure that because it was, like, someone’s been murdered and somebody’s life is on the line, that it would— I was worried that it was going to be too serious and dark. And I think that it did skew that way a little bit, but overall, everybody was talking about the funny parts of it. And I do think that it has to do with, like, when you have a more serious story, I think the funny moments stand out a lot more.
+
+
+Griffin: Yeah, especially when we did the setup episode, we saw a lot of people saying like, “Why the fuck are they trying to make it serious? Like, this is a comedy show.” But in my opinion, the— your, y’all’s vamping on my throwing the gun at the bell— that was fucking hysterical to me, and— this is, we have another question that we can answer, in a few seconds, of somebody talking about this, like— and this, we got this a lot, of just like, balancing… is it a comedy show now? It’s getting more dramatic… and I really… and this is maybe me getting defensive, but like, I don’t think they’re mutually exclusive. 
+
+
+The show has certainly gotten more dramatic and I’ve felt this since we’ve been doing the adaptation of Here There Be Gerblins, where there weren’t any, other than Phandalin’s destruction, and then you guys immediately going right back to, like, goofy goof goof goof, despite the fact that this horrible horrible thing had just happened— there weren’t that many dramatic beats, and I feel like adding those to the show has really made it something cool, and I think a lot more people have kind of found the show because of those things. But I don’t think that means that we can’t do funny shit anymore. And I don’t necessarily think that’s— 
+
+
+Justin: I do. 
+
+
+Griffin: —true of the arcs. Oh, okay.
+
+
+Justin: Sorry. I meant to tell you guys, it’s all— I don’t know, man, it’s salt and pepper, baby. It’s salt and pepper. You gotta have them both. You got both those flavors, they highlight and balance each other. Dad, what has surprised you most about the response to the mini-arcs?
+
+
+Clint: Gosh. I have loved how people have embraced the characters. I knew they would, but— 
+
+
+Travis: Whoa, Mr. Confident over here.
+
+
+Clint: Well, I mean, I knew that, because, I think, one of the things that you guys bring to it is… is creating very compelling characters…
+
+
+Travis: You too, Daddy! You also brang it!
+
+
+Clint: I was basically thinking about Commitment— I loved the fact that Griffin got to be a character. I thought that was pretty cool. And just, everybody’s response was just, was so… so great, because—
+
+
+Justin: Now, not everybody. Now you say everybody— words have meanings.
+
+
+Griffin: No, stop. My contradicting thing is, we had a lot of people who were very vocal about how we were following the rules or not following the rules of D&D, and I really don’t think we got any of that, literally none of that, when we were doing these arcs. And I was genuinely worried about that, because we were trying to learn and play a bunch of different games, and I think folks were like, way cooler about how we played these games than I expected. And I really appreciate it.
+
+
+Travis: I will also just say, like— talking about the learning experience of the arcs, I think, as Justin pointed out going into Commitment, we had all this time to work on our characters. And so I think when we started Commitment, we were— it was almost like a rebound relationship, right, after Balance, where we wanted to start at the same point we were, you know, when we finished Balance. We wanted to start with everybody knowing everything about our characters? And so I remember in the setup episode, like, and this person did— and they went to school here— and they learned this— and this is the relationship they have with their parents— and like, it was, we were really trying to start off— 
+
+
+Griffin: We did too much. We did too much setup in Commitment. I think by the time we, even by the time we got to Amnesty, because this is another question we got, of, because, this is something we talked about in the last The The Adventure Zone Zone we did at Podcon, of just making characters but leaving gaps… I, as somebody who is like, who after we finished Amnesty— and by the way, it has been so good to have this huge break between the first chunk of Amnesty and where we are now, because y’all gave me, like, so much shit to work with, with the characters that you made, and the enormous, enormous narrative gaps— teasing out, like, Ned inherited the Cryptonomica, and was a criminal who, something went south, and now is living on the lam— and it’s like, well, that’s so much shit for me to work with. And Duck having this history of him walking away from his destiny but not really dialing into what that was, or what that meant, and Aubrey having these magic powers that we haven’t expl— like, that is so much shit to work on, and so I don’t think we went as hard in Amnesty as we definitely all did in Commitment, where it was like, “Well, their favorite food is spaghetti…”
+
+
+{26:52 - Favorite Characters}
+
+
+Justin: Alright, you guys, you’re gonna have to— 
+
+
+Griffin: Wait, real quick— before we do that— because this is associated. I want to know everybody’s favorite character that you played in the mini-arcs.
+
+
+Travis: Huh. 
+
+
+Griffin: Mine was Errol, with a bullet, man. I really liked [crosstalk]
+
+
+Travis: I think mine is Aubrey. Honestly, it’s… I just, I love wizards and stuff… and I also, when I was thinking about Aubrey, based her off of some of my favorite people in the world, like, some of my best friends, and so that’s super fun for me. But it also is like… I like how much I don’t know about her, when we started, and like… it was very interesting because like the first time I spoke as Aubrey, I didn’t know what the voice was going to be, and then I started talking, and the voice has informed so much about her to me? It’s just really interesting, it’s fun.
+
+
+Justin: Yeah, my… Kardala, I think was probably the best character because it’s one I worked on the hardest, but it was also the scariest to do because it was way out of my lane, and I was trying to work with a lot of stuff that I took very seriously and didn’t want to fuck up. So that was very hard, but I think Kardala came out the best. Augustus was probably the most fun to play, but I choked with Augustus. I really wanted to make a character that wasn’t a good person, wasn’t a bad guy, and once I started talking, that fucking Savannah accent, I couldn’t not make him, like, a charming dude. And I really fucked that up. Like, I really did want to be… I had intent of being a worse person. I really did. It was like, it just, I messed it up. And I still regret that. If we return to Dust, maybe I’ll try to make him more of a scumbag. I don’t know.
+
+
+Griffin: Dad. Ned?
+
+
+Clint: I loved playing Ned. I love Ned to pieces. I just had the best time. I liked his personality. And like Travis, and I think Griffin, for Commitment, and for Dust, I did a lot of— I had a big backstory for him that I didn’t use, that I still think will still apply, and really pumped up about it.
+
+
+Griffin: And that is something that we didn’t do until like, fucking, Stolen Century— or, no, I didn’t get into y’all’s backstories in Balance until the… going inside the Chalice episode of Balance. Which was fucking 50 episodes in. And so, having the opportunity— and that’s why I was excited to start over knowing what we know now.
+
+
+Clint: I want to say one thing. About the characters, and stuff. The… what people don’t understand is, like, what Justin’s talking about… it’s really tough to play a character with those negative aspects. I mean, it was— it was tough for Travis, Travis may not admit it, but it was tough for him to play Nadiya, in the fact that she had to be aloof, and she had to be, you know, kind of standoffish— 
+
+
+Travis: Yes, because I like playing with y’all, so it was really hard to be a jerk, you know. 
+
+
+Clint: It’s really tough to play a character like that. Because I had— I really thought about that with Gandy, you know, but it just doesn’t work— 
+
+
+Travis: That was all of Dust, like, people have commented on, “I thought Travis said it was going to be all tense and no one was going to like each other”… and it’s like, yeah, but then we got, you know, a good example of this is like— [crosstalk]
+
+
+Griffin: But we do, we do like each other. 
+
+
+Travis: Yeah.
+
+
+Griffin: Quite a bit, yeah.
+
+
+Travis: At the Full Moon Saloon, like, you guys were so funny and charming, it made no sense for me to have characters just straight up not like you for no reason. [crosstalk: agreement]
+
+
+Clint: And that also harkens back to the length of the mini-arcs, and the fact that, you know, in Balance, it developed over a natural period, you know, and really going back and looking at the graphic novel and stuff, I can see— because they, you know, they developed that trust, and that really— we had to jump in media res in the mini-arcs, and that kind of puts more of a time pressure on you.
+
+
+{31:00 - Ned and Gravity Falls}
+
+
+Justin: Dad, real quick: were you— before you created Ned Chicane, would you say you were, like, the biggest Gravity Falls fan, or were you just like, are you like the second biggest? You just love Gravity Falls so much? [crosstalk] When you created…
+
+
+Clint: I had watched… I had watched Gravity Falls one time with your oldest daughter. And with my hand over my heart, I had no idea who Grunkle Stan was from Gravity Falls. And I saw the reaction— 
+
+
+Griffin: Bing bing-bing-bing bing-bing-bing! That’s all the tweets we’re getting right now. Bing bing bing bing bing— 
+
+
+Clint: But, and I will tell you this, and I appreciate it, and I’ve also had so many people say, you gotta watch it, you gotta see… but I really knew from the get-go that something more was going on with Amnesty, I knew. So no, I have not gone back and watched Gravity Falls. [crosstalk]
+
+
+Travis: Yet!
+
+
+Clint: For the very reason!
+
+
+Griffin: There’s a— it— it’s a great show. I’ve seen like, a few episodes, I think…
+
+
+Justin: I’ve seen, like, it fucking all, it’s the bomb. It’s a good show.
+
+
+Griffin: It can be demoralizing, a little bit, and I hope that you, if you tweeted something like this, don’t take this personally or anything, but like, when you’re making something, it can be demoralizing that it seems like there’s an impulse to… connect it to something familiar, and I think there are definitely similarities. I mean, fucking Gravity Falls has a rural town with monsters, and then there’s like a shop where there’s a person peddling bullshit, or whatever, yeah, there’s definitely similarities, I’m not ignoring that, but it’s a little bit demoralizing when we did the setup episode and then… I think there’s a difference between saying, like, “This reminds me of Gravity Falls” and then… or, like, “This is… oh, you guys are doing Gravity Falls.” And “Oh, Ned reminds me of Grunkle Stan” and “Ned is Grunkle Stan.” It feels like, “Oh, well, I’ve seen this before.” And I know that’s not how it’s meant, but it’s a question of, like, volume… because Dad got literally hundreds of tweets when we did the setup episode, saying, like, “Oh, this is this character.” 
+
+
+Justin: Yeah, we got a fevered text from Dad, like, “Who the fuck is Grunkle Stan?” [crosstalk, Clint laughing]
+
+
+Griffin: I hope this is not sounding like us being too sensitive, it’s just at the scale at which we were getting feedback, that was essentially, “This character is this character…” [crosstalk]
+
+
+Justin: [Crosstalk] Yeah, whatever, we’re not here to police y’all’s tweets, we’re big boys, you tweet what you want. You tweet what’s in your heart, we can handle it.
+
+
+Travis: No, but what we are here to do, is we are here to A: answer questions, and— [crosstalk]
+
+
+Justin: Right reasons! Right reasons!
+
+
+Travis: —talk about Bachelor Nation? [crosstalk]
+
+
+Griffin: I don’t, why are we— I have explicitly moved away from Bachelor Nation, I don’t want to necessarily re— [crosstalk]
+
+
+Justin: Griffin, those are our fans! The Bachelor Nation’s been supporting The Adventure Zone since its inception and I want to speak to Bachelor Nation, the fans of The Adventure Zone!
+
+
+Griffin: Okay.
+
+
+Travis: Griffin, I want you to know, I voted for Zoner Boners. And Justin chose— 
+
+
+{33:59 - Max Fun Drive}
+
+
+Griffin: Alright, Bachelor Nation is way better, yeah. So it’s the MaxFun Drive. We’re asking you if you enjoy our show, if you’ve been listening to a lot of it, and feel like you want to help support us, this is the best time of year for you to do that by going to MaximumFun.org/donate and becoming a member, and picking the donation level that’s right for you. If you do not have the means right now, totally totally understand. We would never ask you to make a contribution that you could not afford, definitely, totally. But if you do have the means and you enjoy our show and you want to think about it like a Netflix or a Hulu, where you get your entertainment and you pay for it on a monthly basis, then we would encourage you to maybe think about doing the same here, or for The Adventure Zone. [crosstalk] If you listen to a bunch of shows on the network, like MBMBaM, and other shows, then, you know, maybe it makes more sense for you.
+
+
+Justin: We’re about to indulge in my favorite MaxFun Drive tradition, since we’ve started The Adventure Zone. It’s where Dad reads the gifts that you can get, in his fun voice that he does every year.
+
+
+Travis: Just stretch those cords and get a-rolling.
+
+
+Justin: Just get it rolling. Take a break here.
+
+
+Clint: All right! 2018, well, for $5 a month of course you get the exclusive bonus content. For $10 a month— 
+
+
+Justin: [Shock jock radio DJ voice] Now usually you do this guy, and that’s what’s good— [crosstalk]
+
+
+Griffin: [Also exaggerated] Usually you try to sell the gifts a little bit more than just sayin’ what they are!
+
+
+Clint: [Faster] We got $10 a month, that’s gonna getcha a Drive exclusive enamel pin, that’s designed by Megan Lynn Kott, and these are brand new designs! Holy cow, that’s awesome, and they’re really beautiful! [Laughter] For $20— [crosstalk]
+
+
+Griffin: —does it fucking look like?
+
+
+Travis: Yeah, I need you to describe the pin, please.
+
+
+Clint: The pin for TAZ?
+
+
+Travis: Yes.
+
+
+Griffin: Yeah! The show we’re currently recording!
+
+
+Clint: I just don’t see a pin for— [crosstalk]
+
+
+Travis: It’s Dr. Harris Bonkers with a little flame in front of a starry sky— [crosstalk]
+
+
+Clint: Oh, that’s why it was a rabbit!
+
+
+Travis: —yes, Dr. Harris Bonkers, Ph.D. 
+
+
+Clint: Okay. All right. It’s beautiful. The MBMBaM’s good too. 
+
+
+Travis: It’s all right.
+
+
+Griffin: Also, at every level that you move up, you get everything in the previous levels, so at $10, you also get the bonus content. [crosstalk]
+
+
+Justin: I think Still Buffering has the best one. I don’t know if you guys looked at all the designs…
+
+
+Griffin: Don’t hate! Why you hatin’?
+
+
+Justin: It’s like a Dummies book, and it says “How to Adult”— it’s great. Anyway, that’s just my personal opinion. [crosstalk]
+
+
+Travis: Well, I think Schmanners is the best one. [Blows a raspberry]
+
+
+Justin: $20 a month!
+
+
+Clint: $20 a month, you get the MaxFun Family Cookbook— 
+
+
+Justin: Um, where’s my guy?
+
+
+Travis: Character voice?
+
+
+Justin: Yeah, character voice?
+
+
+Clint: [Exaggerated] For $20 a month, you get the MaxFun Family Cookbook! It is lovingly created for you by MaxFun hosts! This book contains dozens of recipes, from cocktails to desserts, and everything in between! Plus, a bonus set of handsome space-themed cookie cutters! [Normal voice] I also would like to add in my normal voice that we actually contributed to the MaxFun Family Cookbook, because Spaghettageddon is in there, with the recipe— [crosstalk, laughter]
+
+
+Griffin: Is it?
+
+
+Clint: Yeah!
+
+
+Travis: Is the recipe just, like, a lot of spaghetti?
+
+
+Griffin: Just too much spaghetti?
+
+
+Clint: No! Carol actually— Carol put down the recipe for the sauce, I filled in a little bit of backstory on spaghettageddon, but if you want to make the same spaghetti that was served up in Spaghettageddon, almost killing three men… then, that’s in the cookbook.
+
+
+Justin: That’s the spaghetti that fueled that gross Willy Wonka bit— [crosstalk]
+
+
+Travis: Episode 55. 
+
+
+Justin: Episode 55. And also— guys, still resting on those laurels, 345 episodes later, man. Hachi machi.
+
+
+Griffin: Jesus Christ.
+
+
+Justin: And then— the Maximum Fun— [crosstalk]
+
+
+Clint: [Exaggerated] $35 a month!
+
+
+Justin: —okay… it also has our mom’s recipe for chess bars that I lovingly transcribed.
+
+
+Clint: Did you really?
+
+
+Justin: Yes. It’s in there.
+
+
+Griffin: It also has Rachel’s recipe for chili! [crosstalk] There’s a lot of good stuff in there.
+
+
+Travis: Oh, no, did Teresa and I— are we the only ones that didn’t put one— [crosstalk]
+
+
+Clint: Nobody— [crosstalk]
+
+
+Travis: We really meant to. Oh no.
+
+
+Griffin: There’s higher levels too, that… as much as I love Dad’s voice, we don’t need to hammer into you, because we’ve got a ton of questions. If you’re able to support us at that level, holy shit, thank you all so much. But we don’t really care what level you’re able to support us at. All that we care about is that you show your support, and… we’re trying to get to 25,000 new and upgrading members, so— 
+
+
+Travis: And we want to hit “upgrading” there, because we haven’t mentioned that yet, but like— if you’ve been a donor, a member for a while, and you’re like, “You know what? I’m listening to even more shows this year, or, the shows that I’ve listened to have become even more important to me this year,” maybe consider upping that donation to the next level. We really appreciate it.
+
+
+Griffin: And you’ll get the gifts, too, if you do that. So— 
+
+
+Justin: Yeah, that’s how you get the gifts. You gotta upgrade or become a new member.
+
+
+Griffin: It means a lot to us to, and it has meant a lot to us, the way that you all have supported us, and allowed us to turn this into a career. Dad got to retire from the radio station last year, because of the money that you all give us to make this show. And that is so incredible, and one of, I feel like, our proudest achievements is that we were able to get our Dad out of this, uh, job that was not so great for him anymore— [Clint laughing] —but also, like— 
+
+
+Justin: Just because of the hours, and he’s so old. You know— [crosstalk: chorusing “he’s so old”] 
+
+
+Griffin: But, but also like, it’s cool for y’all too, because you get to feel this sense of… like you’re a part of the show every time you listen to it. You know that you have directly supported it, and that’s a really cool part of the network. So yeah, go to MaximumFun.org/donate now, don’t wait. Tell a friend, tweet about the show— the Drive, using the hashtag #MaxFunDrive, and thank you all so much!
+
+
+Justin: We are going to get through more questions. Time to get serious about questions. I’m taking the wheel away from you guys, I’m steering us to more questions.
+
+
+Clint: [sings] Justin, take the wheel!
+
+
+{39:43 - Q6: Fantasy Costco 2}
+
+
+Justin: Okay. “Will Season 2 have an equivalent to Magical Costco where fans can submit content? Please be monsters, I want to submit monsters.” And that’s from Kyle.
+
+
+Griffin: I don’t know. I’m definitely going to keep doing the, tweet about the show using the #TheZoneCast hashtag, you’ll end up as a character in the show, like, that’s for sure going to be a part of it. Um… all of the games we did in the— like, Powered by the Apocalypse games— are not so necessarily built around having a huge inventory of magical items, right, they’re more based around what your characters can do, and sort of more realistic— not more realistic, but more sort of person-to-person interactions based on, like, what your basic set of abilities are? And so like, I don’t really know how I would fit this in. But for what it’s worth, y’all motherfuckers went, like, 50 episodes without using any of the shit that you bought at the Fantasy Costco— [crosstalk, Clint laughing loudly] or from the Fantasy Gashapon, so…
+
+
+Clint: What about Cryptonomica, they— could they put, could they suggest things for Cryptonomica?
+
+
+Griffin: Ooh, that could be good! Yeah! Things that could appear in the Cryptonomica! That wouldn’t necessarily be items that you all use, but just sort of like, flavor every time you’re in the Cryptonomica, we can highlight, like, something that somebody pointed out…
+
+
+{40:43 - Q7: Mini-Arc Music}
+
+
+Justin: “My question is directed at Griffin. I was wondering if you could talk about the music of the mini-arcs. Was it harder to find the sound for each arc, given the short time frame of each story? How was that process different from the Balance arc?” And that’s from Heidi. And I’m assuming that’s directed at both of us who have crafted all the music [Griffin laughing] of Adventure Zone together…
+
+
+Griffin: There was another— there’s another question on the list of somebody asking if everybody else had thought about making music for their arcs, because they thought that it added something to the show. I really regret not— I had a bunch of music for Amnesty, but I wasn’t able to, like, crank out a bunch of music for everybody’s arcs, other than the themes, and that was because one, because we were doing weekly, y’all, our fucking recording schedule was always— always, every week, week in, week out, down to the wire. And so I didn’t know what was going to be happening in each episode, because I wasn’t the one writing it or preparing it. And so there was just literally, there was not enough time to record music for it. But I do think it’s an important part of the show. Now Justin, how did you land on Elementary’s theme? What was the major inspiration— [crosstalk]
+
+
+Justin: You know what, Griffin, it came to me. It just… honestly, the main theme just came to me, and I recorded it with my mouth to remember it. And then, I was like, I don’t know how to play specific notes on any instrument other than the baritone, and so I guess I should just stick with this. So then I laid down the bass, and the horns— 
+
+
+Clint: It’s all about that bass.
+
+
+Justin: And the— thank you, Papa— and then the drums, and then it was like… perfect. [Laughing] You know what I mean? So I was like— 
+
+
+Griffin: That’s music, baby!
+
+
+Justin: That’s music! That’s just, you put them together, and— 
+
+
+Travis: And just believe you me, to answer that question: nobody wants me to try to make music for anything. That is not… hey, that’s not, I got a lot of skills, people, I got a lot of skills. That ain’t one.
+
+
+Justin: Didn’t stop me! Just kinda went with it.
+
+
+Griffin: It was really hard to find a sound for all the arcs, really. Amnesty was maybe a little bit easier because I had the, like, I knew, I had known for so long what that show was going to be, and so it was a little bit easier, but Dust, writing kind of a darker Western theme took me forever. And then writing Commitment, I like the theme that we have for Commitment, but I don’t think it was necessarily what fit the best for the genre, and I don’t necessarily think it’s what maybe Dad even had in mind for the genre.
+
+
+ It is really, really— Dad [laughing] Dad, I love you, Dad, this is not me knocking you, but you texted me one day saying “Could you write me like a John Williams-esque sort of music stinger to include?” [Clint laughs] And I was like, “Yeah, Dad, I’ll just—” I have no idea really how to compose orchestral music at all, and that’s kind of what these themes are, and so doing like a brass-focused orchestral theme for the show, it took me, you know— the whole break that we had between Balance and Commitment, I was working on the theme for Commitment, and I’m still just kind of okay with how it turned out. It was really hard.
+
+
+Clint: Well, I got a DropMix game, so that’s how I’m gonna be composing music. [crosstalk]
+
+
+Justin: Perfect. Perfect!
+
+
+Griffin: Fuck yes.
+
+
+{44:06 - Q8 and 9: Season 2}
+
+
+Justin: “Will the story of Season 2 take off right where the introduction story ended?” That’s from Paul.
+
+
+Griffin: Yes.
+
+
+Travis: Cool.
+
+
+Justin: “Did you guys debate a lot on the choosing of Season 2? Did you consider doing any of the other arcs besides Amnesty for Season 2? Griffin, are you excited to be a DM,” I guess, GM, now, technically…
+
+
+Clint: That’s actually three questions.
+
+
+Justin: Emily, you got three in, Emily.
+
+
+Travis: Let me answer real quick as far— from the point of view of Dust— writing a mystery with different sections, and I will continue Dust as like a mystery procedural— is not something I could do consistently every two weeks for any length of time. Like, it was, even just doing it for four weeks was pretty nerve-wracking for me, because running into, one: having to think of the stuff ahead of time, know how everyone was connected, what piece of information everybody knew, where they could be found, what time they would be awake, when they could give the piece of information, who they would give the piece of information too, and not revealing so much information that it was super obvious what was going on, but revealing enough information that when it was revealed, you could kind of say, like, “Oh, I can see—” right, like… that is not, I could not maintain that consistently week after week.
+
+
+Griffin: Well, it’s not just that. The conversation that we had, and let’s just be completely fucking transparent here… after we had finished Amnesty, we all had a conversation about, let’s do— let’s do that. Because that was— we had so much fun, and it was the first time— there was so much fear that after we finished Balance that we would never be able to do anything that felt similar to Balance ever ever again. There was so much anxiety around… around that conversation. And then when we finished Amnesty, we all kind of felt like… “Okay, that felt like The Adventure Zone, so let’s do that.” And then a couple of episodes into Dust, we were like, “Okay, wait, this is really fucking good too, and we’re really enjoying that…” and the conversation that Travis had with us was that you didn’t necessarily have a whole campaign— [crosstalk] You didn’t have a whole campaign, and didn’t know how to really do a whole campaign.
+
+
+Travis: That’s the thing. I could do miniseries of it. You know what I mean? Like that’s the thing. But I didn’t have an overarching big bad, or overarching, like, “This is where I’m trying to get to, with the story, to save all…” no. I like doing miniseries of it. And so that was really what it came down to, when we started talking about generating stuff for the off week, is… you know, I set up at the end of this one that the next one is them, like, going to, you know, Crescent City and bringing back the Blackwell daughter. Right? But that isn’t— to save the world or anything, like, I just want to write that. But— 
+
+
+Griffin: It doesn’t have to be that. [crosstalk] Not every story has to be about saving the world, right.
+
+
+Travis: But that’s the thing, is like, I want to write these episodic encapsulations, right. But I also need— it took me like basically a year and a half to get to this, to know how this— and even that was like, two weeks before we started Dust was like, “Oh! Oh yeah, well they have to do this—” and so I don’t know that I could generate it consistently, you know what I mean? So I didn’t want to. Plus, I love playing. I like being a PC.
+
+
+Griffin: It was a conversation, though. There was, again, a very small number of people who— there was this sort of perception that I, like, strong-armed everybody into doing my game? And that was super… that’s like… the reason that bums me out is because that’s not our fucking family dynamic. Like, that’s not— and so when folks were saying stuff like that, it bummed me out, because it made me think that they thought that that was how our, like, family works? And it’s super not.
+
+
+Justin: I think, I mean, if anybody strong-armed, it was me. And I’ll take, sort of ownership of my role in that. Like, I— and I don’t regret it, but my personal feeling was that no matter how good the other arcs were, I feel like we built The Adventure Zone with the dynamic of Griffin running it, and the three of us playing, and for me, it’s not just about— you gotta remember, y’all, it’s like— it’s not just about one of us doing the story, it’s about what that dynamic is. 
+
+
+It is a very different dynamic of Travis running the game, and the three of us playing. It’s three different people playing the game. And that’s a very different— like, game rules and storyline aside, that’s a very different dynamic. Which is something that I didn’t realize ‘till we went into it. So like, for me, I was pushing from, I think from the— I think even before we did Amnesty. And it worked out that like, Amnesty was good, and it was a good rule set, but I felt really strongly that when we return to a main season, it should be Griffin running it, because that was— what we built Balance on, and that felt like the permutation of the show that we had worked for years to create. And so, yeah, like— 
+
+
+Griffin: That said, though, like, after Amnesty wraps up— which, real quick, another question that we got is like, “How long is it going to go?” And the answer is, not as long as Balance. Like, probably half as long as Balance? It’s still telling a big, cool story, just not taking three years to do so. And when we do the next experimental games, I think we’re all going to be at a place of comfort that— you would think we’d be there since doing this show since fucking 2014— where I would love to play and not DM it. I would— that’s— what Justin said is not indicative of, like, I’m always going to be the one running the game. Because I would fucking adore the chance— you ask if I’m excited to be DM, and the answer is yes, because I’m excited to tell this story. But it is not, a, like— it ain’t a fucking power trip thing, as much as people believe it is.
+
+
+Justin: I think that the next time around… after this one, I’m going to be real ready. After this one. I’m gonna be, like, sooo ready to— GM, is that it? [crosstalk: yeah!] GM one of them, as they say. Just GM one out. You know? As they say. 
+
+
+{50:28 - Q10: Inspiration}
+
+
+Justin: “Hello McElroys, I have a question for Griffin and Travis. Clint too, but I believe he discussed this in Commitment. And also Justin.” [laughter] “What inspired the narratives of Amnesty and Dust? And also while I’m thinking about it, Elementary? Thanks, Cherry K.” 
+
+
+Clint: And Commitment. 
+
+
+Justin: And Commit— he already, that’s [crosstalk]
+
+
+Griffin: You were very forward about, like, what Commitment was based on, in the setup.
+
+
+Justin: We did, if you’ll remember, we actually did one of these after we did Commitment. 
+
+
+Griffin: Oh, that’s right! 
+
+
+Justin: Yeah. So we’ve talked about a lot of this from the Commitment perspective. So, hey, us three storytellers, what inspired sort of our stories?
+
+
+Travis: For Dust… a lot of disparate elements. One, and I’ve mentioned it a lot, is procedurals, mysteries, I really do love, the cheesier the better, like, Psych, and CSI, and Monk, and really cheesy detective procedurals. I just enjoy those immensely. But I also really like Westerns. I mean, my favorite movie is Blazing Saddles. So actually, Wilder is named after Gene Wilder, and I based him off of Anal Johnson, the bartender in Rock Ridge. And so, like, a lot of Blazing Saddles showed up in there. But the number one inspiration was Romeo and Juliet.
+
+
+Griffin: Whoa.
+
+
+Travis: That was kind of…
+
+
+Griffin: Yeah, that tracks.
+
+
+Travis: And that came actually fairly late. Like, it went through a lot of different iterations for me, but when I struck into a Shakespearean dynamic in the town of the families, and, generational differences between the parents and the children, and like, that kind of thing, that’s when it really all started to click for me. And one of the questions we got, and I don’t think we’re going to be able to get to it, but somebody asked me, like, how old Ann is… and it’s interesting, right, because when I was thinking about these characters, all I thought about was— there are— a parent generation and an offspring generation, and how different those interact with each other, right. And so I don’t really know that I have ages— I mean, everyone’s of age, whatever that means to you. I mean, 18 or older, in my head. There— I had so much shit, like, backstory and relationships and, you know, all this stuff written for Dust that I never got to.
+
+
+Griffin: That’s true of all of them. My biggest inspiration, I mean, in some part is the supernatural dramas like Supernatural and Buffy and stuff like that, but way bigger than that, the original inspiration was Persona. This idea of living in a town that you try to flesh out as much as any other character, which is something I want to do more of with Kepler. But having sort of this secret adventure that nobody else knows about, that is going on at night, right, like the Dark Hour, or the Midnight Channel, and having this sort of home base where everybody can just sort of be, and have it be a nice place that you can hang out in, while doing this sort of secret battle against the forces of darkness. Like, I’ve always loved that shit, and so that was the biggest inspiration.
+
+
+Clint: And Justin, what was your inspiration for Elementary?
+
+
+Justin: Oh, God, Dad, so many. Um… uh… 
+
+
+Clint: Because you had Sherlock Holmes, and you had the vampire— [crosstalk]
+
+
+Justin: Place Beyond the Pines. Call Me By Your Name. Shape of Water. Uh, Spotlight. [Laughing] Amadeus. Uh, Million Dollar Baby. Hurt Locker. 12 Years a Slave. Birdman.
+
+
+Clint: Are you just running through your Netflix queue?
+
+
+Justin: Spotlight.
+
+
+Griffin: I’m pretty sure he’s looking at the Best Picture winners.
+
+
+Justin: No, just, there’s like so many different influences, it’s like, hard to— no, I said I was going to do the greatest detective story ever, and I did a story about the greatest detective ever. [Travis: You fucking nailed it.] So I fucking completed my mission. [Griffin: Mission accomplished] Mission accomplished. [Justin clears his throat.] I start to get panicky… it starts to, like, actually make me kind of nauseous when we talk about the things we do for too long, because I start to feel very navel-gazey. [crosstalk] 
+
+
+Griffin: Yes.
+
+
+Travis: Oh, I love it.
+
+
+{54:55 - Final Small Questions}
+
+
+Justin: It shows. Um… [Clint laughs] “How… has leading a game changed how you approach, how you run your player characters, and how you interact with the other players and” the gym— no, “the GM.” That’s from Conor. 
+
+
+Griffin: And the gym.
+
+
+Travis: And the gym.
+
+
+Justin: And the gym. [crosstalk]
+
+
+Clint: I can answer this! I’m not going to fuck with the DM and the GM— [crosstalk]
+
+
+Travis: Oh, I am. I absolutely am. [crosstalk]
+
+
+Griffin: Well, that’s good stuff, no, you definitely should keep doing that. Yeah.
+
+
+Clint: But still, not as much. Not as much.
+
+
+Travis: The scene where Errol just wouldn’t fucking go with Ellis and Blackwood to go talk to the Banshee… that’s… hey, why did the, why did we all start riffing after Griffin rang the bell? It’s because I was punishing Griffin for not just going with Ellis and Blackwood. One of the things that I am going to come away, is not try to plan too much ahead, for— because this is a thing that happens a lot, where we finish a recording and then I spend the next two weeks thinking about [what] the next thing I’m going to do as my character is, right, but that’s not really how the collaborative story-building process works. So it’s easier just to play in the moment rather than as the player-character try to think about, like, the next three scenes you want to do. 
+
+
+Griffin: Let’s move on. This is a question from Katya, who says, “I have a very important question to Travis about Aubrey Little. Is she a lesbian?”
+
+
+Travis: So… when I talked about— I based Aubrey on four people, right. She’s named after Aubrey Plaza, and she is pierced and tattooed like my friends Verona, Tybee and Kate, right, and so all four of those people are bisexual. And so it was just kind of in my head when I— it wasn’t even really a decision that I made, but as I was picturing Aubrey and basing her off of these four people, that she just was bisexual. So to answer your question, Katya, she is bisexual, like all four of those people.
+
+
+Griffin: Here’s a question from Trevor who says, “I’m a big fan of regional storytelling and I was wondering, given that this arc is set in West Virginia, do you see this season as an opportunity to tell stories about West Virginia in a positive light, or at least not in a negative light?” Uh, yes. That’s very important to me.
+
+
+Travis: Yes, yes, yes yes.
+
+
+Griffin: I thought that’d be very cool. To, like, tell a story about people living in West Virginia, that is not the same fucking three stories that people have told about living in West Virginia over and over and over again. Um, what else is on here?
+
+
+Travis: “This question is for Griffin. How did it feel to be hands-off for the setup of the last battle in Amnesty? Are you nervous about this going forward?” And that’s from Rosalin.
+
+
+Griffin: I’m not nervous, I thought that was great. And that’s, like, one really cool thing about Monster of the Week that I think is going to continue to be very very cool… is that, the like, final confrontation is, at least how I led the game, not going to be something that I come up with at all. The whole battle of y’all being in a cave and doing the fire trap and all that stuff was completely not anything that I had made up. So… and I thought that was really neat, and I think that you all, it’s a cool way for you all to come up with, like, what the climactic moment of each arc is going to be. And so I’m super excited about that.
+
+
+{58:12 - Wrap-up}
+
+
+Travis: Well, awesome! So we’re going to wrap up, but first I want to remind everybody one more time, it’s the MaxFun Drive, and it’s your opportunity to support the art and artists you love. If you go the MaximumFun.org/donate, you can become a member. And what that means is, you pick a monthly donation level that you’re comfortable with, and here’s the amazing thing— and it really— ugh, that sounds like such a gross sales pitch, but here’s the thing I love the most about MaxFun. When you become a member and you make these pledges, it goes directly to the shows you listen to. You are asked which shows you listen to. And so a percentage, a small percentage goes to cover the overhead of MaxFun, so they can pay their employees. But the rest goes directly to the artists you like. 
+
+
+It’s not like some, you know, amorphous blob of, the money goes in, you have no idea where it goes. We have been able to, you know, focus on Adventure Zone and put as much work into it as we do because we know directly how many people care about it, and we know what it means to y’all and how much you support it. And so it’s an amazing system. I love the MaxFun Drive. And I love the Maximum Fun structure. And it means the world to us.
+
+
+Griffin: We should also mention, like, it’s kind of a weird year for us at the Adventure Zone, doing the MaxFun Drive. Because we’re about to— we’re not doing the same show we’ve done for the past couple MaxFun Drives. And so I don’t know. Your support— I feel like now more than ever, would mean the world to us, and, you know, is a way of saying, like, we’re supportive of the thing that you’re making, whatever shape it takes. If you— again, if you have the means— we really appreciate it. It’s MaximumFun.org/donate is the link you can go to. Go do it now, and thank you all very very much.
+
+
+Justin: Listen, I’m just going to say, because you guys won’t, if you all don’t keep supporting us, our Dad has to go back to work. And listen, y’all…
+
+
+Clint: Yeah— I gotta start getting up at 3:30 in the morning again? Please!
+
+
+[crosstalk: please, he’s so old, etc.]
+
+
+Justin: That’s assuming you’d be able to get your old job back. There’s no reason to think that’s the case.
+
+
+Griffin: He burned those dinks on his last day. Y’all have no idea. 
+
+
+Justin: Hey, listen, did you ever see Half Baked? It’s a good flick, check it out. 
+
+
+Griffin: This has been Justin’s cool flicks recommendations.
+
+
+Justin: It’s a new segment I’m starting.
+
+
+Griffin: New segment on The Adventure Zone, every episode. So next week, the second week of the MaxFun Drive, we will be doing the next episode of The Adventure Zone: Amnesty Episode 6, the first episode of a new arc. I’m very excited for you all to see what nasty monster I have cooked up for you this time.
+
+
+Clint: Oh, that’s not the pirate one, then, right? We’re not doing the pirates. Not doing pirates.
+
+
+Griffin: No. It is, actually, the monster is two pirates, um… it’s a new thing… yeah, so that’ll be next week, and then I think we’ll actually also have another episode the week after that, just to get us back on our biweekly schedule, and then from that point on, we’re back to biweekly, so that we can focus on making the show as good as we need it to be, without suffering from, sort of, soul-crushing time management issues. 
+
+
+Anything else here, as we’re sort of wrapping th— Again, thank you all so much for hanging with us during the experimental arcs, that was a, I understand that that was a lot to ask from you, the listener, and we’ve groused a little bit about some of the— again, very very small minority of the response that we got, but it really— you all stuck with us during a period of the show that we were all very very scared to enter into, and you all made it something that was not only, really, I think, at the end of the day, pretty enjoyable for all of us, but as we were hoping, like, really really really informative about how to do this show better and make the show what we want to make. [crosstalk]
+
+
+Travis: I will also say, not to put too fine a point on it, but as we were finishing Balance, we were really worried that “What if,” you know— “What if people just liked Balance?” And then that was done? And so many of you have come out to be, like, “I like this too!” And it really does mean a lot to us. It has been wonderfully supportive, and we just appreciate— we appreciate it so much.
+
+
+Clint: Yeah, you can’t put too fine a point on it. We got so much positive feedback about, about Dust and Amnesty and Commitment and Elementary— 
+
+
+Griffin: And constructive criticism. That was really helpful too.
+
+
+Clint: Yeah. We take that in, and we really do— it’s extremely helpful, and I plan on going back to Commitment. I got some stuff planned, so… 
+
+
+Travis: Yeah, I didn’t get in—
+
+
+Griffin: There’s future for all of them. I need more Elementary.
+
+
+Justin: I actually didn’t get any critique about my thing. I didn’t get a single critique. So I guess it’s kind of perfect.
+
+
+Travis: All positive?
+
+
+Clint: Must have been.
+
+
+Griffin: Yeah.
+
+
+Justin: All positive. All positive. It’s, which is wild.
+
+
+Griffin: You all need to become a donor, if only to hear Justin’s Elementary episode. It was the most fun we’ve ever had recording an episode, I feel like.
+
+
+Justin: Okay!
+
+
+Griffin: All right, let’s wrap up. Thank you all so much. Next week, the, I guess, season premiere? That’s a weird way of thinking about it, since we already did five episodes, but… April 12th!
+
+
+Justin: That was a backdoor pilot!
+
+
+Griffin: That was the backdoor pilot, and then, literally the day after that, we’re going to have a live show in Dallas, and— [various whistles] yeah, I think that one’s sold out, but we’re doing a whole— 
+
+
+Justin: Oh, hey, Houston, by the way? This is a MBMBaM show, but like, Houston, can you come to our show please? 
+
+
+Travis: Can you, like, step up, please?
+
+
+Justin: Can you please buy some tickets? [crosstalk] 
+
+
+Travis: We want to do more shows than aren’t in, like, Boston and New York and San Francisco and stuff. So we need you, Houston— step up.
+
+
+Clint: If we don’t— if we don’t sell out— [crosstalk]
+
+
+Justin: I don’t know why Travis hates Boston and San Francisco so much. I love those towns. Listen, remember your hometown boy, Justin McElroy still loves those cities. Unlike Travis.
+
+
+Clint: And if we don’t sell out, if we don’t sell out Houston, [sadly] I’m gonna have to go back to radio.
+
+
+Justin: There it is, folks. You heard it here first. [crosstalk: Yeah. So old!]
+
+
+Griffin: Okay. That’s it. McElroyshows.com/tours, if you want to see what the dates are, and tickets. And we’re also doing a book tour for the graphic novel, and there’s some tickets available for that too. Again, all at McElroyshows.com/tours. And MaximumFun.org/donate is where you go to become a member of the network. And we’ll see you all next week! Bye!
+
+
+Justin: Bye y’all!
+
+
+[Deja Vu (TTAZZ Remix) plays]

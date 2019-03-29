@@ -1,0 +1,832 @@
+,episode,speaker,lines
+0,22,The Adventure Zone,
+1,22,Dungeon Master & NPCs, Griffin McElroy
+2,22,Magnus Burnsides, Travis McElroy
+3,22,Merle Highchurch, Clint McElroy
+4,22,Taako Taaco, Justin McElroy
+5,22,Episode 22 - Petals to the Metal - Chapter Five,
+6,22,(part of TAZscripts on Tumblr),
+7,22,Griffin," Previously, on The Adventure Zone."
+8,22,[theme (Mort Garson’s Deja Vu) begins to play],
+9,22,Griffin, Hurley says-
+10,22,Hurley," Surely, you all are familiar with the- the racing that takes place outside of town."
+11,22,Magnus, Oh yeah. Big fans!
+12,22,Hurley," She went by The Raven and I went by The Ram, it’s customary for battle wagon racers to be anonymous. And I’ve put together a vehicle I know I can beat her in. Mine- uh, it requires… What’s called an arcane core. Fortunately, there’s a rival group of racers called the Hammerheads. And they just got in a shipment."
+13,22,        Merle, You don’t care if these guys get killed. Right?
+14,22,Hurley, I do. I- I do. You can’t- you can’t-
+15,22,Magnus, [uncertain inhale]
+16,22,Merle," Ohh, geez."
+17,22,        Merle, I use Thaumaturgy.
+18,22,Griffin, Uh- to make a train?
+19,22,Griffin, And the uh- the littlest one-
+20,22,Clint, [imitating train] Woo woo!
+21,22,Griffin," -uh, standing outside by the gate, uh, scampers off."
+22,22,Jerreeeeee," Y-you stay here, I’m gonna go check in with the boss, and uh…"
+23,22,        Magnus, Sounds great.
+24,22,        Taako, I change myself to look exactly like Jerry.
+25,22,Ruffian 3," Listen to me little Jerry. Gimme your hand, I’ll walk you to the john."
+26,22,        Taako, Sa- sounds great!
+27,22,Griffin," Through the stone of Farspeech, uh, Taako- er uh, Merle and Magnus, you hear uh-"
+28,22,Ruffian 3," Wait a minute, who’s that coming down the street? Wait a minute, that looks like- that looks like you, Lil’- Little Jerry. What the hell is goin’ on!?"
+29,22,        Magnus, Ah shit.
+30,22,The Announcer, I certainly hope none of you are allergic to pickles!! ...Because our heroes are in one! It’s the Adventure Zone!
+31,22,[theme plays in full] {1,42}
+32,22,Griffin," Taako disguised himself as Little Jerry, came and lured out the booth guard, ‘cause he had to go to the bathroom, uh, but while walking him to the bathroom away from you two, um… They ran into the real Lil’ Jerry."
+33,22,Travis, ...And Taako took care of that?
+34,22,Justin," [snorts] No, I like- we’re still like, living that right now."
+35,22,Griffin, We’re in it- we’re in it-
+36,22,Travis," Oh, that’s the moment we’re in. That’s the Matthew McConaughey moment that we have to li- breathe through. Time is a flat circle."
+37,22,Griffin, Exactly.
+38,22,Justin, Okay. Alright. Uh… Sh- should I start? Or what should-
+39,22,Griffin, Uh-
+40,22,Travis," Before we get started! I wanna real quick say we got, um, from Lukas Polansky this week, some really-"
+41,22,Griffin, What are you doing.
+42,22,Travis, Wha- We got- some… d20 keychains from Lukas. And they’re really really beautiful and I wanted to say thank you before I forgot.
+43,22,Griffin, Okay. ...Great.
+44,22,Justin," Like, do you have no respect for narrative?"
+45,22,Travis, That was part of the narrative.
+46,22,Justin, Do you guys r- At the beginning-
+47,22,Travis, That was all in character. Magnus was saying that.
+48,22,Justin," You ever notice at the beginning of Casablanca, like, Humphrey Bogart is like-"
+49,22,Griffin, ‘Straight up- Hold up- Props to- props to Craft Services.’
+50,22,Justin, ‘Shout out to Tide!’ For sponsoring this production!
+51,22,Clint, [laughing]
+52,22,Travis," Sorry am I not- in real life, would that not have made that a way more awesome movie?"
+53,22,Justin, It would have been a cool movie.
+54,22,Travis," If he just like, looked into the camera and said ‘Also, thanks Steven, for the backrub before this shot. Let’s go!’"
+55,22,Clint, What’s this old timey movie you’re talking about?
+56,22,Justin, Alright. Hip-
+57,22,Griffin," ‘Also, eat Doritos! I’m Casablanca. Thanks for watching.’"
+58,22,Justin," Man, I- Can I just compliment all-"
+59,22,Travis, I’m Captain Blanca.
+60,22,Justin," Can I- uh, compliment all of us on our Humphrey Bogart impressions, too."
+61,22,Griffin," Ay, kid! Hey kid!"
+62,22,Clint, [imitating Humphrey Bogart] I actually do a Humphrey Bogart imitation.
+63,22,Travis," Well, but Dad actually does it-"
+64,22,Griffin," [imitating Humphrey Bogart] Ay, you gotta eat these-"
+65,22,Clint," [imitating Humphrey Bogart] Play it again, Sam."
+66,22,Justin, That’s good!
+67,22,Griffin," [imitating Humphrey Bogart] Ya gotta eat these Doritos, see? It’s uh- like a spicy tortilla chip."
+68,22,Clint, That was Mo from the Three Stooges.
+69,22,Justin, [imitating Humphrey Bogart] It’s the latest thing from Mexico!
+70,22,Clint, [laughing]
+71,22,Justin," Check out the new Mexican treat, Doritos!"
+72,22,Travis, We call ‘em Mexican crunch chips!
+73,22,Justin & Clint, [laugh]
+74,22,Griffin, Ummm so-
+75,22,Justin," [imitating Humphrey Bogart] You know potato chips, right? This is gonna run these right outta business."
+76,22,Griffin," Justin, I feel like you’re stalling? ‘Cause you don’t- nobody knows what they’re gonna do."
+77,22,Justin," I’ve got- no, I’ve got it. I’ve got my situation on lock."
+78,22,Griffin, Mkay.
+79,22,Justin, You want me to take- you want me to start? Me to kick it off?
+80,22,Griffin," Little Jerry sees, uh, the two of you walking and says-"
+81,22,        Little Jerry," Hey, that looks like me! What’s goin’ on?"
+82,22,Taako," [as Little Jerry] Holy shit, an imposter!"
+83,22,Justin, I cast sleep.
+84,22,Clint, [laughs]
+85,22,Griffin, ...On whom?
+86,22,Justin, On Little Jerry.
+87,22,Griffin, [laughs] Okay. How do we resolve this… this spellcast?
+88,22,Justin," Uhh… lemme pop open my uh, my handy dandy spell, uh, manual here, and I’ll tell you exactly the answer to the question… which you have so kindly asked, to me…"
+89,22,Clint," Actually, you know if you had these nifty spell cards like I have, you wouldn’t need that old fashioned computer."
+90,22,Griffin," God, we absolutely need to get all of you all of those, before we do the live show."
+91,22,Clint, Ohh. These are the coolest.
+92,22,Travis," I don’t use spells? Do I- do I have, like, a-"
+93,22,Griffin," Yeah, Travis has- Travis has-"
+94,22,Travis," -some cards that have like, where I punch-"
+95,22,Griffin," Travis has one spell card, and it just has ‘Punch’."
+96,22,Travis, Punch punch punch!
+97,22,Griffin," And it says roll, roll dice to punch."
+98,22,Travis," To be fair, I also have a kick card. I’ve got kick, punch, and it’s all in the mind."
+99,22,Clint, Do you not have a headbutt card?
+100,22,Travis," Uh, Magnus would never risk his moneymaker."
+101,22,Griffin, He has a head and a butt card.
+102,22,Clint, Ah. And a fold in the middle chair? Card?
+103,22,Griffin," You don’t want- you don’t wanna know what the butt card does. Justin, it sure is taking you a while to find that spell, my dude."
+104,22,Justin, Well- [laughs]
+105,22,Travis, I Justin can’t read.
+106,22,Justin," [stammers] Ah, okay. It’s a first level enchantment. Uhh… The… the creature with the lowest hit points, so I roll-"
+107,22,Griffin, That’s gonna be Little Jerry.
+108,22,Justin," -yeah. I roll five d8, that’s- that’s if it splits."
+109,22,Griffin," Oh, oh yeah okay. I remember this."
+110,22,Justin," I roll five d8, and if I beat his hit points-"
+111,22, Griffin," Yeah, go for it."
+112,22,Justin, ‘Kay. Lemme just grab all the-
+113,22,Clint, They’re right there.
+114,22,Justin," What? Oh thanks, Pop. [dice rolling] Uhh, that’s the little diamond shape. Okay. Uh, 3? ...6? 3-"
+115,22,Griffin, Mafia.
+116,22,Justin, Wh-?
+117,22,Griffin," Oh, sorry."
+118,22,Justin, [laughs] 6-
+119,22,Clint, Sign of the beast-
+120,22,Justin," And, 5."
+121,22,Griffin, Okay.
+122,22,Justin," So that’s- I dunno. 3, 6, 3, 6-"
+123,22,Travis, 23.
+124,22,Griffin, Lil’- Little Jerry- Little Jerry says-
+125,22,Justin, Thank you.
+126,22,Little Jerry, What the hell is goin’ o- [snoring]
+127,22,Griffin, And he falls to the ground.
+128,22,Justin, Okay. Who’s with me? Do I have a name of the guy who was with me?
+129,22,Griffin," Uh, you don’t know his name. He was the guy in the booth. Uh, and he goes,"
+130,22,Ruffian 3, Okay? Well? I guess that uh… I guess that explains that. Um…
+131,22,Taako, [as Little Jerry] Can you believe this? Looks like we’re gettin’ infiltrated!
+132,22,Ruffian 3, B- So- He was tryin’ to infiltrate us? And then he just… passed out? Did he get spooked or somethin’?
+133,22,Taako," [as Little Jerry] Listen. We need to check on- listen. What would the boss be the angriest about if we lost? The core, right? We need to go check on the core! Make sure it’s okay! ‘Cuz we’re obviously… under some sorta threat here!"
+134,22,Ruffian 3," Yeah, I mean you got a pretty good point… Um, I- I- I feel like we need to grab Little Jerry though, the fake Little Jerry-"
+135,22,Taako," [as Little Jerry] -fake Little Jerry and kill ‘im! I’m totally with you on this, we need to kill him!"
+136,22,        Ruffian 3," Well, no, I was-"
+137,22,        Taako, [as Little Jerry] It’s fake Little Jerry!
+138,22,Ruffian 3," I was sayin’ fake Little Jerry we could bring inside, and we gotta interrogate him. Find out-"
+139,22,Taako, [as Little Jerry] When’d you turn in- When’d you go soft? Huh? When’d you go soft?
+140,22,        Ruffian 3," Well no, it’s just like- we need to- gather information-"
+141,22,Taako," [as Little Jerry] When we were growin’ up- we were growin’ up together, in the streets. Out there, in the streets of Goldcliff."
+142,22,Clint, [laughs]
+143,22,        Taako," [as Little Jerry] Y’know, we- You- were never soft."
+144,22,        Ruffian 3," We met, like, two months-"
+145,22,        Taako," [as Little Jerry] You saw- you saw a dead bird, you-"
+146,22,        Ruffian 3," We met, like, two months ago!"
+147,22,Taako," [as Little Jerry] You saw a dead bird, you’d step on it. You’d say, ‘I hate birds!’ You were- you had, no heart. Heartless Hank, we called you. Was it Hank? Remind me what your real name is, ‘cause I can only remember the great nicknames I’ve given you over the months."
+148,22,Clint, [wheezing laughter]
+149,22,Ruffian 3, You’ve never called me Heartless Hank! What’re you- what’re you- what are you sayin’?
+150,22,Taako," [as Little Jerry, without missing a beat] Sorry, I had a seizure. Let’s- listen. We gotta kill this imposter. Or throw ‘im in a well, or somethin’."
+151,22,Griffin, Uh- he-
+152,22,        Taako, [as Little Jerry] Let’s well ‘im.
+153,22,Griffin, He’s gonna make a… Heartless Hank is gonna make an insight check.
+154,22,Justin, [giggles]
+155,22,Travis," This whole time, like… Merle and I are listening to this through the farstones, just like shaking our heads."
+156,22,Griffin," [laughs] Yeah. Uh, he rolled a 15, so he is uh… He is becoming increasingly agitated. He uh- he says-"
+157,22,Ruffian 3," I tell ya what, bud. Why don’t you actually tell me… my real name?"
+158,22,Justin," [nervous laughter] Okay, I- roll a--"
+159,22,Travis," Okay, let’s Sherlock this out. There was a smudge on his collar."
+160,22,Justin, I roll a Percep- I roll a Perception check.
+161,22,Clint, [laughs]
+162,22,Griffin, Mkay.
+163,22,Justin, [dice rolling] 16!
+164,22,Griffin," ...Uh, he’s wearing a necklace that says ‘Bradley’. No!"
+165,22,Clint & Travis, [laugh]
+166,22,Justin, It is completely conceivable he would have a nametag. Maybe. Or in his underwear-?
+167,22,Griffin," In a gang!? In a gang!? Welcome to MS13, here’s your name tag! Charles!"
+168,22,Justin," [laughing] Here’s your HR packet! There’s some stuff on investment in there. Some essential logins for our, uh, health insurance portal."
+169,22,Griffin," Um, he-"
+170,22,Travis, But- which is an actual portal. Because we’re playing Dungeons and Dragons.
+171,22,Griffin," ...Right. Uh, he, quick as a- quick as a flash, reaches down to his belt and, uh, pulls out a dagger. And holds it at you. And says-"
+172,22,Justin," Wait, I didn’t get to answer the question though!"
+173,22,Griffin," I- yeah, okay."
+174,22,Clint, [whispers] Bradley!
+175,22,Justin, Griffin. Do you have the name in your head. Do you know… this man’s name.
+176,22,Griffin, You’re saying- okay. You’re a- you actually wanna take a shot in the dark at- I’m gonna write it down.
+177,22,Clint & Travis, [laughing]
+178,22,Griffin," I’m gonna write it- No, this is, this is only fair!"
+179,22,Justin," How ‘bout I- How ‘bout I ta- I’ll take my headphones off. For ten seconds. And you tell them, okay?"
+180,22,Clint, Alright.
+181,22,Griffin," Well, no, because then Dad could tell you."
+182,22,Clint, He’s go- I won’t tell ‘im! He’s got his headphones- I’m on a microphone! You’ll hear everything I say!
+183,22,Travis," Plus he’s our father, Griffin! Have some respect!"
+184,22,Clint," Yeah, Kreskin!"
+185,22,[pause],
+186,22,Griffin, ...is he gone?
+187,22,Clint," Yeah, he’s not listening. He’s got his headphones off."
+188,22,Griffin, ...Barbara.
+189,22,Clint," Excellent. Okay, you can put your headphones back on."
+190,22,Travis," Now, can we give him hints?"
+191,22,Griffin," Okay. Are you- he’s holding this dagger, right at you. He says-"
+192,22,        Ruffian 3, [threateningly] What’s my name?
+193,22,Taako," [as Little Jerry] ...Listen...We go back a long ways, right?"
+194,22,Ruffian 3," No, we don’t! We met two months ago! My name, now! Or I’m gonna gut ya! I’m gonna gut’cha like a fish."
+195,22,[long pause],
+196,22,Clint, [wheezes]
+197,22,        Taako, [as Little Jerry] It- Your name… of course… is… [pause] Taako.
+198,22,[subdued laughs],
+199,22,        Ruffian 3, [fed up] [sigh] Okay. Uh-
+200,22,Taako," Psych, that’s just mine! Say my name!"
+201,22,Justin, I cast magic missile.
+202,22,All, [laugh]
+203,22,Griffin," Okay, so, uh-"
+204,22,Travis, Magnus starts running over there.
+205,22,Griffin," Okay. So we’ll do a quick surprise round, but it- Taako’s the only person who’s gonna get the benefits of it."
+206,22,Clint, [imitates casting sound] Pewww.
+207,22,Griffin, So- cast magic missile.
+208,22,Clint, ...C’mon.
+209,22,Justin," Oh, god, I actually have to cast it now! Alright, right, hold on."
+210,22,Griffin," Yeah, yeah."
+211,22,Justin," Okay. So. I create three glowing darts of magical force, each hits with, uh, 1d4, plus one force damage to the target. They all strike simultaneously, and I, uh, can direct them to hit one creature or several."
+212,22,Griffin, Yeah.
+213,22,Justin, I’m going to-
+214,22,Griffin, I think at this point we’re all pretty familiar-
+215,22,Justin," Well, okay."
+216,22,Griffin, -with the magic missiles sort of family of products.
+217,22,Justin," Well I am- I am uh, gonna cast it as a second-level spell, cause I actually have more of those."
+218,22,Griffin," Oh, damn."
+219,22,Justin," Um, and add another dart to it."
+220,22,Griffin, Oh shit!
+221,22,Justin," So it’ll be uh, 4! One D4 plus 1 force damage."
+222,22,Griffin, Okay.
+223,22,Justin," Bolts. So.. uh, 3, plus 1, 4. 4, plus 1, 5."
+224,22,Clint, Nine.
+225,22,Justin," So that’s- 9, thanks. 2, plus 1, 3."
+226,22,Clint, Twelve.
+227,22,Justin," 3, plus 1."
+228,22,Travis, 36.
+229,22,Clint," No, 16!"
+230,22,Justin, 16! 16 points.
+231,22,Griffin," Okay. He rears back his dagger as you hesitate to tell, uh, him his name. Uh, but before he can bring that dagger down on you, you twirl your umbrella around, like a badass, uh, gunslinger move, uh, it opens up and four darts of light simultaneously, uh, shoot out of it, uh, go take an arc through the air, and all four collide with him at the same time. Uh, he is staggered by this. You interrupt his uh, uh, attack, uh, but he is still standing, uh, and let’s get into what I’m sure will be a very, very short fight."
+232,22,Clint, [laughs]
+233,22,Travis, Have I reached him?
+234,22,Griffin," Uh, you- and- Merle, were you running towards this scene as well?"
+235,22,Clint, I was waddling.
+236,22,Griffin," Mmokay, well, you were both about 25 feet, uh, away from this scene. As we get into initiative time."
+237,22,Travis, I rolled an 11.
+238,22,Justin," Uhhh, 1."
+239,22,Griffin," Oh, damn."
+240,22,Justin, Yeah.
+241,22,Clint, 13.
+242,22,Griffin," And you get to roll again, remember?"
+243,22,Clint," Ohh, that’s right!"
+244,22,Griffin, Y’all gotta remember your shits.
+245,22,Clint," 19! Plus one, so a 20."
+246,22,Griffin," Okay...Uh, Merle is first in the order! Merle, you’re about 25 feet away from this scene, you all took off running. You see uh, this- this magical fireworks show and uh, it’s your turn."
+247,22,Travis," When we reach,"
+248,22,Magnus," Taako, why are you fighting with Barbara!?"
+249,22,Griffin," Well, you wouldn’t know his name."
+250,22,Travis," No, uh he said it earlier- [laughter] you weren’t there, Griffin."
+251,22,Griffin," [laughter] You’re right, sorry. I forget that sometimes you guys hang out with my characters without me."
+252,22,Justin, It was Barbara?
+253,22,Griffin, Ye-yeah.
+254,22,Clint, Who’s Barbara?
+255,22,Justin, Shoulda guessed Barbara.
+256,22,Clint," Uh, I’m- I’m just gonna haul off and hit him with my warhammer-"
+257,22,Travis, I like it.
+258,22,Griffin, M’kay. Roll a D20.
+259,22,Clint, Which I have named Smoosher.
+260,22,Griffin, Oh!
+261,22,Travis, I like that!
+262,22,Griffin," Yeah, that’s fun."
+263,22,Clint," Yeah! I thought it was kinda cute! Uhhh, 11."
+264,22,Griffin," Uh, that is a miss."
+265,22,Clint, Oh...
+266,22,Griffin," You k- you come run in yelling, “Here comes the train! Chugga chugga choo-choo.”"
+267,22,Clint, “Get ready to get smooshed!”
+268,22,Griffin, And you bring the Smoosher down on him and it just sort of glances off his elbow. 
+269,22,Clint, Whiff!
+270,22,Griffin," You whiffed, yeah. Uh, next in the order with the 11 was, Magnus, I think?"
+271,22,Travis, Yep.
+272,22,Griffin, Okay.
+273,22,Travis, I’m gonna- I’m gonna two handed battle axe at him.
+274,22,Griffin, Okay.
+275,22,Travis, Attempt to cleft him in twain.
+276,22,Griffin, H’okay.
+277,22,Travis," That is 13 plus 7, a twenty."
+278,22,Griffin," Yeah, that's a hit."
+279,22,Travis," [quietly] Aaand 1d10... [mumbles] Ooh, that's a ten! Plus 6, 16."
+280,22,Griffin," Okay yeah, uh, you don’t cleft him in twain, but you get a- but you get pretty deep in ‘im and, uh, and he falls to the ground, um..."
+281,22,Taako, Noo!
+282,22,Griffin, What’s wrong?
+283,22,Taako, I never even learned his name.
+284,22,Griffin, Yeah-
+285,22,Merle, Barbara.
+286,22,Taako," Yeah, I'll never know."
+287,22,Merle," Yeah, it was Barbara."
+288,22,Taako, I'll never figure it out.
+289,22,Magnus, It was Barbara.
+290,22,Taako, It's lost to time.
+291,22,Merle," Nope, nope it’s Barbara."
+292,22,Magnus," It says right here in his wallet, “I am Barbara.”"
+293,22,Merle, [laughs]
+294,22,Taako," Listen, I'll use process of elimina-"
+295,22,Magnus," Also, there’s ten gold and I'm taking them."
+296,22,Taako," -I'll use process of elimination, it's clearly not Taako. So that's one name down."
+297,22,Magnus, We'll put that on the tombstone.
+298,22,Taako," Let's start with Aaron! That's at the top, two A's."
+299,22,[Clint laughing],
+300,22,Griffin," As uh, as this, as this man is bleeding out, uh, at your feet, uhh, you remember the, uh, orders of lieutenant Hurley who um- uh, humbly requested that you not murder anybody during this sneaking mission."
+301,22,Travis," Oh, I meant that non-lethally, clefted-"
+302,22,Griffin," [bursts out laughing] You said 'cleft in twain', sir."
+303,22,Travis, But I meant non-lethally.
+304,22,Griffin," Tell me, if you can explain to me how you cut somebody in half, survivably-"
+305,22,Travis, With my words.
+306,22,Justin," Yeah, what kind of gross Hannibal stuff are you- like, uh- like uh, uh expertise in human-"
+307,22,Travis," When I meant- When I said 'cleft him in twain', I meant like caused some kind of psychological schism, that would make him-"
+308,22,Griffin," Well, you've done that!"
+309,22,Travis, Put him in a fugue state.
+310,22,Griffin," Yeah, he's in a state alright."
+311,22,Clint," What if you cut him in half, at the waist, thereby avoiding the life and death organs…"
+312,22,Travis," I cut him in half at the waist, and then he just plops back together."
+313,22,Justin, [laughs]
+314,22,Clint, Do I have time to heal him?!
+315,22,Griffin," Yeah, sure, if you want to burn a healing spell on him."
+316,22,Clint," Oh, good point."
+317,22,Travis," Remind me, what did Hurley say would happen if we killed somebody?"
+318,22,Griffin," Well she is a cop, so... There's not, I mean-"
+319,22,Travis," But she's not like, prescient [sic], she won't know."
+320,22,Justin," No, listen. This is gonna be, a lot- Okay, should we talk about this in character? Let's talk about this in character."
+321,22,Griffin, [crosstalk] You're gonna-
+322,22,Taako," Listen, um, I feel like she's gonna be pretty-, okay first off, let me own this one."
+323,22,[Laughter],
+324,22,Taako," Because I did- this is on me alright, this- this one's Taako's, but uh, it seems like we should heal... him...? Because, if he died like- Hurley, we need her on our side. Um, now there is one other option."
+325,22,[pause],
+326,22,"Maybe we just disappear this little problem? She didn't say anything about, uh, these guys wandering off, you know? Wandering off and no one ever hears from them again, she didn't say anything about that, right?",
+327,22,Merle, Good point.
+328,22,Taako," Maybe, maybe-"
+329,22,Magnus," Yeah, we might need those- [switching voice] We might need those heal slots."
+330,22,Taako," We need the heal slots, we're definitely not gonna need a corpse."
+331,22,[Griffin loses it],
+332,22,Merle, So you're saying we eat him?
+333,22,Taako," What I'm saying is― no, what? Absolutely not!"
+334,22,Griffin, Oh my god!
+335,22,Merle," No, wait no!"
+336,22,Magnus," Stop recommending that, Merle!"
+337,22,Taako, Who said anything about eating him?
+338,22,Merle," Kidding, kidding! Hah hah."
+339,22,Taako, We just need to like...
+340,22,Magnus, Make an extra-dimensional hole?
+341,22,Taako, ...get rid of him?
+342,22,Merle," Oh, if only one us had that― Oooh...!"
+343,22,Taako," Wait, uh, so I'm- you're not gonna burn a heal but I'm gonna burn-"
+344,22,Merle," Let's face it, you look at our history-"
+345,22,Magnus, You wanna just bury him?
+346,22,Taako," How about you take an extra'mensional shovel and dig a fucking hole? How about that? How about that thing I said. That's an option, lazy bones."
+347,22,Justin," Griffin, are there any wells?"
+348,22,Griffin, Are there any wells nearby?
+349,22,Justin, Do I see any wells?
+350,22,Clint, We're hell on wells!
+351,22,Travis, Or maybe like a pig farm?
+352,22,Justin," [off-mic, laughing] That would work!"
+353,22,Griffin," Uh, no, you are um, there are no wells nearby, so you- you're-"
+354,22,Justin, Open graves?
+355,22,Griffin, No open graves. You're about-
+356,22,Travis, Corn field?
+357,22,Griffin, -two blocks away from the edge of Goldcliff. From the cliff of Goldcliff.
+358,22,Magnus, I'll be right back!
+359,22,Taako, Let's toss this silly corpse off the cliff. [crosstalk]
+360,22,Magnus," -Lets put a pin in this, I'll be right back, gotta throw a body―"
+361,22,Taako," Hey no you guys, now let’s just work together, it'll make a better fanart that way."
+362,22,Clint, [laughing]
+363,22,Magnus," Alright, you grab a leg, you grab a thigh and a wing, I'll get this side."
+364,22,Merle, And let's get eatin'!
+365,22,[Cacophony of nos and whats from everyone],
+366,22,Merle, I thought we were talking about eating him!
+367,22,Taako, Not gonna eat him.
+368,22,Magnus, We're going to chuck him.
+369,22,Taako, We'll not regret it later.
+370,22,Merle, Oooh!
+371,22,Justin," Alright we carry the body― it's dark, right? So we carry the body, uh, through- through a..."
+372,22,Griffin," Yeah it's dark, so you carry the body out of this seedy side-street where the Hammerhead's headquarters is located. Uh, towards the edge of town the buildings get, uh, a bit nicer, because there's actually a pretty scenic view, uh, over- overlooking the cliff, uh, looking over- there's a big basin of water that the uh, waterfalls, uh, that are pouring out of Goldcliff, are feeding. Uh, it's a really lovely view, uh, but it is dark and nobody's out on the streets tonight. Um… So... You're on the edge, you're on the precipice, of glory."
+373,22,Merle, I- I feel like somebody should say something.
+374,22,Taako, I'll say something-
+375,22,Magnus," [interrupting] Okay, Geronimo!"
+376,22,Taako," I, um, let me say something. [pause] We should check his pockets-"
+377,22,Merle," Yeah, oh yeah!"
+378,22,Magnus," Oh yeah, yeah yeah."
+379,22,Taako, -because I don't think we checked.
+380,22,Travis," Oh, we find the keys! To the place."
+381,22,Taako, What did we find?
+382,22,Griffin," Uh, you did- you did find a key. Uhh, you find, uhh, a picture of his wife and kids."
+383,22,Travis, But they’re kind of ugly.
+384,22,Griffin," Yeah, and they're all holding- they're all holding swords."
+385,22,Taako, They look racist.
+386,22,Griffin, They look- [chuckle] They're all wearing-
+387,22,Clint, Yeah.
+388,22,Magnus, They have a racist look about them.
+389,22,Taako, They're racist- You saw that too right? These people look racist.
+390,22,Magnus," Yeah, the little kid has a, uh, shirt about orcs, It's very offensive and-"
+391,22,Taako, Veeery offensive.
+392,22,Griffin," They're wearing um, uh, fantasy confederate flag t-shirts, so it's like, confederate flag but it has like dragons on it? "
+393,22,{19,09}
+394,22,Taako, I don't even know why Fantasy Spencers sells those.
+395,22,Griffin, No...
+396,22,Magnus," It says it’s fantasy ironic but let’s be honest, it’s just fantasy offensive."
+397,22,Griffin," And he uh, has a pouch with three hundred gold coins inside of it."
+398,22,Travis, He’s the richest boy!
+399,22,Griffin, He must have just won a poker game or something.
+400,22,Taako," Ahh, well. Life giveth and life taketh away, huh?"
+401,22,Merle," Well, life giveth and we taketh away."
+402,22,Taako," Well then, more specifically, yes."
+403,22,Magnus," We’ll always remember you, Not-Taako."
+404,22,Taako, And Probably-Not-Aaron.
+405,22,Justin," So we, I, I mean I― Let’s chuck ‘im."
+406,22,Travis, Chuuucked!
+407,22,Justin, He’s gone.
+408,22,Griffin, Okay.
+409,22,Travis, We’ll call him Chuck.
+410,22,Clint, But I was just opening my Extreme Teen Bible!
+411,22,Griffin, Chuck goes flying―
+412,22,Merle, Ashes to ashes..
+413,22,Griffin, ―through the air.
+414,22,Merle," Aww, damn!"
+415,22,Griffin," And- and he gets smaller and smaller, uh, and smaller, and pretty soon you can’t see him anymore as he falls, uh, way, way down. Uh, okay. Mission accomplished, guys!"
+416,22,Merle, We killed a guy!
+417,22,Magnus," And we return to Hurley, drinks all around!"
+418,22,Taako, Well...
+419,22,Magnus, What?
+420,22,Taako, What?
+421,22,Magnus, Were we doing something?
+422,22,Justin," Alright, well let’s head in."
+423,22,Griffin," Uh, okay, you head back to the Hammerhead base, uh, cautiously  stepping over the sleeping Lil’ Jerry on your way back."
+424,22,Travis," And the pool of blood that we kinda like, shuffle some sawdust over."
+425,22,Griffin," Yeah, [laughs]. Yeah. Uh, yeah, yo- you get rid of the traces of your heinous act. It was all in self-defense, though. It was self-offense, is that a thing?"
+426,22,Clint, Self-offense.
+427,22,Griffin, Okay.
+428,22,Travis, We decide never to speak of it again ‘til next summer.
+429,22,Griffin," You make your way back to― oh god, I’m totally going to use that. Um, you make your way back to the front entrance of the Hammerhead base, again, the walls are- are pretty high, uh, about, I think I said about twelve feet with thick barbed wire on the top of it. There’s a small, uh, entrance in the, uh, large gate, that’s the one that, uh, one of the guards went back into, the one that you fooled, Magnus. And then there is a booth next to the gate. And that is where the booth guard was."
+430,22,Travis," And there was probably something to open the gate in the booth, is it like uh, automated thing?"
+431,22,Griffin," Uh, you did see that the booth attendant opened up the door to let the other guy in."
+432,22,Justin, So do we wanna try the key on the booth?
+433,22,Travis, Yeahh.  
+434,22,Justin, To the door to the booth? Okay.
+435,22,Griffin, Mmkay.
+436,22,Travis," Type in, ‘Try key on booth.’"
+437,22,Griffin," Okay, you try key on booth. Uh, you just like, start ramming the key into the booth and it doesn’t do anything but, um, then you remember how keys work and put it into the keyhole and it opens the uh, door to the booth."
+438,22,Travis, Success!
+439,22,Justin, Hurray. Thanks.
+440,22,Clint, Yayyyy us!
+441,22,Travis, We’ve solved the booth puzzle!
+442,22,Clint, [laughs]
+443,22,Griffin," Well, you used a key on the keyhole. Let’s not get crazy. Uh inside-"
+444,22,Travis, Victory where victory can be found!
+445,22,Griffin," Uh, inside there is a large lever that says “Gate Control”, uh, and a small button that says “Door Control.” On it."
+446,22,Travis, Hmmm...
+447,22,        Taako, Well what now?
+448,22,Magnus, It could be a trick.
+449,22,Merle, Let’s not open the gate.
+450,22,Magnus, Let’s open the door.
+451,22,Travis, We push the button.
+452,22,Griffin," Okay. Uh, you push the “Open door” button and sure enough the smaller door, uh, that is built into the much, much larger gate, uh, pops open! Allowing you access."
+453,22,Travis, We did it!!!
+454,22,Clint, Let’s access!
+455,22,Griffin," As you enter the Hammerhead base proper, uh, you sort of get the lay of the land? Uh, there isn’t anybody out in the main field of this base, uh, it is all surrounded by this same 12 foot, uh, wall, this is the only point- the only obvious access point in and out of the space. But it is a large, open uh, uh, field, uh, with three buildings."
+456,22,"Uh, one is, the largest building, uh, it is a very long building with, uh, a bunch of garage doors built into it, uh, and ramps leading up, uh, in through those doors. Uh, one of the doors, the one on the far left is open, the other, uh, five are closed. So- so this is, uh, this is, uh, a very big, uh, garage. You can hear people inside of it. Uh, you hear the sound of, y’know, metal hitting metal. You hear the sound of work, uh, you hear, y’know, people having conversations. You see some light, uh, like sparks, uh, coming through that open door, uh, so- so you get the idea that there is a bunch of activity in this big, big garage.",
+457,22,"Uh, to your-- that’s directly in front of you-- to your left there is a much smaller building with just one garage door on it and no windows. It is just sort of a plain cinder-block, uh, building, uh, just one storey high, uh, and- and significantly smaller than the other garage. And then to your right is a, uh, another one-storey building, uh, that is pretty long- there is no garage doors on this one, but there are uh, a few windows and just one door on the front of it and uh, that is, that is the lay of the land. You got a big garage, a small garage, and what looks like uh, like a tiny little one-storey flat.",
+458,22,Travis," Magnus points at his eyes, like does the two fingers like, my eye― like, let’s look in the little building. And like, points at the little building."
+459,22,Justin, Are there people who are gonna see us between here and there?
+460,22,Griffin," Uh, there’s nobody out in just, sort of the general concourse area here."
+461,22,Justin," Okay. Okay, well let’s go- let’s go check it out then."
+462,22,Travis," We do, full-on, like, uh, a Looney Tunes sneak."
+463,22,Travis and Clint, Bumbum bum bum bum bumbumbum bum bum...
+464,22,Griffin," Do you guys wanna do uh, a full-blown sneak check for me?"
+465,22,Travis, Ohh...
+466,22,Justin, Sure.
+467,22,Travis, I forgot how the game works!
+468,22,Justin, I got a 13 plus.. 
+469,22,Clint, I’m looking for my sneak―
+470,22,Travis, It’s stealth.
+471,22,Justin," Stealth. Uhh, 13 plus 3, 16."
+472,22,Travis, I got 14.
+473,22,Clint, I got 4...
+474,22,Griffin, Mmkay.
+475,22,Travis, Merle!
+476,22,Griffin, No modifier there?
+477,22,Justin," Do you have a modifier, dad?"
+478,22,Clint, Not in stealth...
+479,22,Travis, You clanky bastard.
+480,22,Clint, I am a big ol’ clanky bastard.
+481,22,Griffin," Uh, Merle just sneezes. Merle just, ACHOO! No control, no control over it. It’s high pollen season in Goldcliff―"
+482,22,Clint, It’s all this grass! It’s all the grass.
+483,22,Griffin," Which is weird cause you’re like a nature cleric, you would think― anyway, uh, you sneeze. Uh, you- you hear the activity inside the large garage kind of stop for a second, and the three of you stand―"
+484,22,Travis, We freeze.
+485,22,Griffin," ―perfectly still. And then it continues, they continue working inside."
+486,22,Clint, Pheew.
+487,22,Griffin," Uh, the three of you creep over to the small garage, uh, trying to sort of ascertain what’s going on. If there is a hole through which to peek inside of this- this small garage, you can not find it. It seems pretty- pretty impermeable. Um, uh, the garage door is, uh uh, a thick heavy metal, uh, unlike the garage doors on the main garage and it is secured by a padlock that is like, the size of Merle. Uh, the- this- this building is locked the hell down."
+488,22,Travis," Mmmhh. See, this, this is whispering. Alright, I’m gonna say it at normal level so it doesn’t throw off my recording but I am whispering now, as Magnus."
+489,22,Griffin," Okay, this will be fun."
+490,22,Magnus," [loudly] This sounds like! No, [at a normal tone] this seems like this building is where they’re keeping some kind of like, prototype engine-wagon-thing, right? Seems pretty well-secured."
+491,22,Taako," Yeah, I- I think you’re probably right. Umm, I’ve never been to a garage? Before? But, ummm, your read on it seems goood? Merle, what do you- what do you think?"
+492,22,Merle," Uhh, yeah but I know our dungeon master pretty well and I think that if―"
+493,22,Taako, What is a dungeon master?
+494,22,Merle," I meant, I know that those dungeon bastards, I know―"
+495,22,Taako, Yeah.
+496,22,Merle, When they design these things―
+497,22,Taako, Now I’m with you.
+498,22,Merle, Usually the first thing they want you to look at is the last thing you wanna look at.
+499,22,Taako, Can I say something?
+500,22,Merle, Yeah.
+501,22,Taako," I’m not even sure― this is kind of a Schrödinger’s cat thing, I’m not even sure it is in there or not in there at this exact moment."
+502,22,Merle, It won’t be in there unless we look in there and see. It doesn’t exist!
+503,22,Taako, Got it.
+504,22,Griffin," There could be a prototype wagon in there, it could be full of dogs. Could be just chock, ceiling to floor, full of wild, vicious dogs."
+505,22,Clint," Or tameable, sweet dogs."
+506,22,Justin," Do- hey, hey, here’s a question Do any of us, have any sort of like, lock-picking―"
+507,22,Travis, Nooo.
+508,22,Justin," ―abilities? Like, none, right?"
+509,22,Travis," Man, that would be so great but no."
+510,22,Justin," Wow! Wow, would it be great to not have to blast every door open like I’m Superman."
+511,22,Travis," So, with my vehicle proficiency. Let me tell you what I know about garages―"
+512,22,Griffin, You che-- Travis casts sense vehicles!
+513,22,[Clint laughs],
+514,22,Travis," Let me tell you what I know about garages. My bet is that one with all the doors is like the workshop where they like, all work on cars together. The building with no garage is the office-headquarters-hangout of the gang. This seems like the place where they keep their like number one rent winning, uhh, winning-est―"
+515,22,Griffin, Mach five!
+516,22,Travis," ―uh, wagon."
+517,22,Justin," So there is a door that does have- that we can see a lock, right?"
+518,22,Griffin," Yeah, it’s the size of Merle."
+519,22,Justin," Okay. Merle do you have any.. anything that would be like quiet, that’s- that’s my-- my concern."
+520,22,Clint, Mmm.
+521,22,Travis, All my shit is loud.
+522,22,Justin," Yeah, uh, I mean I can do like..."
+523,22,Travis," Do you have Alohomora, Justin?"
+524,22,Clint, I do have a spell called Silence. For the duration no sound can be created within or pass through a twenty-foot radius sphere centered on a point you choose within range. What if I cast that at the door and then you beat the shit out of it?
+525,22,Justin," Yeahh, like he uses the Phantom Fist, uh uh, lock pick."
+526,22,Griffin," Okay. I-- Again, I stressed this the last time we play, Phantom Fist is not a nuclear bomb―"
+527,22,Travis, A magic card.
+528,22,Griffin," Right, the Phantom Fist allows you to punch enemies and move them far away from you but it- it will not melt steel beams."
+529,22,Travis," Griffin I would like to roll a perception check, maybe? Insight check? To see if Magnus thinks he could chop the lock, given―"
+530,22,Clint, You have to do an insight check to figure out what you’re thinking?
+531,22,Travis," That’s why I said perception, I don’t want to just ask the question, ‘DM, could I chop the lock?’ That seems like cheating."
+532,22,Griffin," That wouldn’t be- that wouldn’t be any kind of check, it doesn’t, it- I mean, it would take some, some doin’."
+533,22,Justin," Oh, hey!"
+534,22,Travis, And I don’t wanna hurt Rail Splitter.
+535,22,Justin, Wait a minute! I got thi- I got this. I got this.
+536,22,Griffin, Okay.
+537,22,Justin," I cast Clairvoyance. That allows me to put a marker into an, uh, an obvious location that is unfamiliar to me, such as behind a door, uh, and it remains in place for the duration. When I cast the spell I can choose Seeing or Hearing, so I’m gonna go with Seeing, um, and I can use the chosen sense through the sensor as if I were in the- in the space. And as an action I can switch between Seeing and Hearing."
+538,22,Griffin," Oh, that’s convenient!"
+539,22,Justin," Yeah, it works out pretty good. So, I’m gonna cast Clairvoyance behind the door, Seeing. Uhh, let me check that spell slot off because it’s a third level spell, this is like the legit magic here, I’m gonna need to focus."
+540,22,Taako, HrrrrrrmmmmmmmmmmMMMagic!
+541,22,Justin," There, I cast it. That’s the sound it makes."
+542,22,Griffin, You whisper- you whisper ‘mmMMmMagic’
+543,22,Taako, Mmmagic. Prestidigimatation.
+544,22,Griffin," Grasping onto your magic umbrella, uh, uh, Merle and Magnus, you see uh, a third eye glowing a, uh, bright blue on―"
+545,22,Travis, On his butt.
+546,22,Griffin," ―on Taako’s butt as he closes his two non-butt eyes. Uh, Taako, you can see- uh, does your third eye have like, any kind of light vi-- dark vision or anything like that?"
+547,22,Justin," Umm, okay, well so, I can see as though... I can use the sense as though I were in its place, and I can see in the dark, so, yes."
+548,22,Griffin," Okay. Uh, then you see, using your infrared vision that’s built into your elven eyes, uh… [Clint giggles] what looks like... a... tank! It looks like it’s a wagon, it’s- it is a battle wagon, but it resembles a tank. A tank, uh, that on the front of it, has three rows of sharp teeth, uh, and mounted above those teeth are two gigantic cannons, uh, and then inside of the- the ‘mouth’ of this tank, uh, is a large grappling hook, a large spiny, very violent-looking grappling hook."
+549,22,"And then above that is the, uh, y’know, driver’s cabin, uh, of this tank and then mounted above that on the roof of this tank, uh, it looks like there is another sort of shielded compartment. Um. And as you sort of take in this vehicle, uh you realize that it i- it is a tank shaped battle wagon but it also kind of in the shape of a shark.",
+550,22,Justin," I don’t know that much about the core thing that I’m looking for, would I know enough to know if it’s like been installed in this tank or..?"
+551,22,Griffin," Uh, no. You wouldn’t know that."
+552,22,Taako," Well guys, good news bad news. Bad news? Tank. Good news? Not dogs!"
+553,22,Magnus," Great. I would say that our next stop is building number three, the headquarters, because we can hear people in building number one. We know that there’s like, at least more than one."
+554,22,Justin," Here’s what- here’s what I think, we should go to the other building and take a look at building number three, right?"
+555,22,Travis," Ooh, send the scuttle bug!"
+556,22,Griffin," No, you don’t HAVE it anymore, Travis, why do you keep bringing that up?"
+557,22,Clint, Griffin took Scutty away.
+558,22,Griffin, You too- you took it away from yourself with your actions!
+559,22,Clint, I don’t look at it that way. [Justin cackles] I loved the Scuttle Buddy!
+560,22,Griffin, Yeah we all did! It was very brandable-- Did you know I was in the talks with Hasbro? I was in THE talks with Hasbro.
+561,22,Clint," Hey, speaking of Hasbro, listen, if any of you have like, uh, Hot Wheels or anything like that, these uh, these battle wagons would be pretty nifty Christmas presents."
+562,22,Griffin, Are you asking who makes Hot-- you just used our podcast to ask-- I can Siri that for you.
+563,22,Clint," Oh no no, I don’t want that. I’m just saying if there’s any―"
+564,22,Griffin, Nobody can respond to you in the podcast and tell you―
+565,22,Clint," If Mattel is out there, Mattel licensing people... I’m just saying."
+566,22,[Déjà Vu by Mort Garson plays],
+567,22,[Commercial Break, {3425}-{4035}]
+568,22,[Déjà Vu by Mort Garson plays],
+569,22,Taako," So let’s check building three, yeah? The um--"
+570,22,Merle," Yeah let’s go, and by the way, you’re not the only guy with clairvoyance. HMMMmm!"
+571,22,Taako," Oh, excellent. That’s, That’s―"
+572,22,Merle, Mmmh!
+573,22,Taako, Wonderful. Excellent. Excellent news.
+574,22,Magnus," I don’t have it, ju-- I just want to make that clear. I don’t want to like try to pull that card later."
+575,22,Taako, I didn’t think it was you.
+576,22,Merle, Process of elimination. Let’s go over that building and I’ll use clairvoyance and we’ll see what’s in there.
+577,22,Taako," It’s not me, it’s not you, it’s not Barbara. He’s dead. Soo..."
+578,22,Merle, It’s me!
+579,22,Taako," It’s him, yeah."
+580,22,Griffin," Okay. So you’re going over to the other building and now, uh, Merle you’re going to―"
+581,22,Magnus, This one has windows though...
+582,22,Griffin," Yeah, I’m glad that somebody pointed that out."
+583,22,Magnus," I can just like, pop Merle on m’shoulders."
+584,22,Justin," We actually don’t even need to go over there, we can just chill."
+585,22,Griffin, If you’re going to clairvoyant it?
+586,22,Justin," Yeah, I mean―"
+587,22,Clint," Well no, but, we don’t need to if it there’s windows."
+588,22,Griffin," Yeah, Travis makes a great point."
+589,22,Justin," Well that’s true. Yeah, it’s true."
+590,22,Clint, Do we have to sneak again?
+591,22,Griffin," Uhh, no. No. Uh, okay, I like this tableau that Travis has just suggested of Merle climbing up on Magnus."
+592,22,Travis, We’re going to do a little Musicians of Bremen here.
+593,22,Griffin, Wha- a what?
+594,22,Travis," There’s like, three people that got that reference and really appreciated it."
+595,22,Griffin," I don’t think, I feel like that’s a liberal estimate-"
+596,22,Travis," The story is this Griffin, there’s some animals right?"
+597,22,Griffin," [interrupting] Alright alright alright. You’re on his shoulders, you’re on his shoulders."
+598,22,Clint," Alright, I feel like a child at the circus, but okay. Now, am I standing on his shoulders or is it like daddy carrying―"
+599,22,Travis, Eating cotton candy.
+600,22,Griffin," You are on a Babybjörn, on Magnus’s chest. Which is weird because he is actually higher than you? In this situation."
+601,22,Clint," Alright, well, let me- let me describe what I see but I’m going to do it in Griffin’s voice."
+602,22,Griffin," Okay. Uh, you see inside of this building―"
+603,22,Clint," I see. I, I see."
+604,22,Griffin, I see―
+605,22,Clint, I’m doing it in your voice.
+606,22,Justin, [laughs]
+607,22,Griffin, Merle...
+608,22,[Griffin] Merle," I’m a poopy pee-pee boy. Wah wah wah, hear me cry, I’m a poopy baby."
+609,22,Travis, Got ‘em!
+610,22,Clint," Well, I’m sitting on Travis’s shoulders so..."
+611,22,Griffin," Um, y- I see, uh, rows of bunk beds with some storage chests at the foot of each one. Uhh, you see some lewd posters on the wall. Uck. You see some dous- I see some doused lanterns all around the room on some end-tables, so it looks like your standard issue sort of bunk."
+612,22,"Uhh, and uh, from this window, from this vantage point you can only see, uh, two rough looking individuals, uh, asleep. One is across the room from the window you’re looking at, uh, he’s on the top bunk. Uh, and then just to your left through this- just to my left through this window, uh, you see another ruffian asleep on the bottom bunk.",
+613,22,Clint," You know, we haven’t checked the doors to even see if it’s locked."
+614,22,Travis," Well, we wanted to scope out before we just like walked in, you never broken into a place before, Dad?"
+615,22,Clint, They’re asleep! They’re exhausted from looking at their lewd posters.
+616,22,[laughter],
+617,22,Justin," That’ll take it out of you, man! That’s fair."
+618,22,Travis, They were practicing their cantrips.
+619,22,Justin," Uh, well okay, I try the door. Quietly, though."
+620,22,Griffin, It’s- it is unlocked.
+621,22,Justin, Okay.
+622,22,Clint," Let me cast Silence, let me use that Silence."
+623,22,Justin," Yeah yeah yeah, cast Silence!"
+624,22,Clint, Yeah.
+625,22,Justin," Well, we don’t want to wake them- we’re gonna have to do a sneak check, let’s just not wake them up."
+626,22,Griffin, So you’re just casting Silence inside of this room?
+627,22,Justin," Yeah. Right, Dad?"
+628,22,Clint, Yeah!
+629,22,Griffin, Okay. It- it’ll will encompass most of the room.
+630,22,Clint, Okay.
+631,22,Griffin," Um, uh, are you gonna sort of shape it so it doesn’t―"
+632,22,Clint, It’s a twenty foot radius sphere so wouldn’t that pretty much be the whole room?
+633,22,Griffin," Right but if it, if they’re inside of that sphere, can they hear you?"
+634,22,Clint, No.
+635,22,Griffin," Oh, I thought it just, I thought it was like a Ziplock, keeps the good sounds in, keeps the bad sounds out."
+636,22,Justin," No, I think it’s only silent like―"
+637,22,Clint, No sound can be created within that twenty foot radius.
+638,22,Griffin, Okay.
+639,22,Justin, Yeah.
+640,22,Griffin," Yeah, you drop it inside of, just in the middle of the room."
+641,22,Merle, Course means we can’t talk to each other.
+642,22,Magnus," We’ve got all of our hand signals, it’ll be fine."
+643,22,Taako, There’s been worse things.
+644,22,Merle, Okay.
+645,22,Griffin," You drop it in the middle of the room and sure enough, you hear-- one of the ruffians was just like, sawing logs, like [makes an obnoxiously loud snoring sound] like really really bad? Uh, and that just disappears. Umm, so either he has just suddenly died, which means another trip back to Cliff City [laughter], uh, or your silent spell has activated in its intended way."
+646,22,Clint, Or I cured his sleep apnea.
+647,22,Griffin, Yep!
+648,22,Travis," In all of these bunks, is there one that looks like, ‘Oh, that’s the main dude’s bunk.’"
+649,22,Griffin," It’s hard to see anything, are you looking for the most lewd poster?"
+650,22,Travis," No, I’m looking to see if there’s anywhere where like, where there might be a diary or a key hung on a hook or..."
+651,22,Griffin, Dear diary―
+652,22,Travis, Something.
+653,22,Griffin," [in a mock posh accent] Dear diary- dear diary, jammed it again to these totally rad posters."
+654,22,Justin," [in the same accent] Dear Mother, thank you, again, for the totally lewd, crude, and rude poster of the babes."
+655,22,Clint," [mock British accent] They’re quite scintillating. Thank you, mama."
+656,22,Justin," [in a mock posh accent] You know the way to my libido, mama."
+657,22,[chorus of disgusted giggles and “augh”],
+658,22,Justin, Let it be said otherwise.
+659,22,Travis," You know my love of half-orc, half-centaur women."
+660,22,Clint, [laughs]
+661,22,Griffin," Um. There is one chest that is open? And inside you can see, uh, some- some roughshod-looking clothing. Uh--"
+662,22,Justin," One chest that is open, other than Barbara’s, do you mean?"
+663,22,[everyone laughs],
+664,22,Griffin," Uh, but yeah. That- that is the- that is the situation in here. You can start overturning these chests if you want, it’s gonna be quiet."
+665,22,Magnus," I’m- yeah fine like, why restra- why restrain ourselves now?"
+666,22,Taako, Let’s go hogwild.
+667,22,Griffin," Okay you start popping chests open, it seems like most of these―"
+668,22,Travis," We’re throwing clothes in the air like the Great Gatsby. Everybody’s just like, ‘Wheee!’"
+669,22,Griffin," Yeah, yeah, you’re not finding any like valuables, you’re not finding  the core but you are finding, like, a lot of clothing that kind of almost seems like a- like a Hammerhead like uniform almost?"
+670,22,Taako, Hell yes.
+671,22,Magnus," One might say, a disguise?"
+672,22,Griffin," There are leather jackets with, uh, badass looking shark on the back of it."
+673,22,Travis, I take three of those.
+674,22,Justin," Do we have- are there enough components in here that we could cobble together something that- uh, approximating uh, uh, a uniform or a disguise for each of the three of us?"
+675,22,Griffin," Yeah, maybe slap a little bit of grease paint on- on, y’know, your, your, your parts and you could probably pass for a, pass for a, uh, a Hammerhead."
+676,22,Justin, I do that.
+677,22,Travis, I do that.
+678,22,Clint, I sure hope one of these uniforms has short pants.
+679,22,Griffin," Uh, yeah there’s actually a dwarven uniform, you can get-- so all three of you―"
+680,22,Travis, You’re not the only dwarf in the world!
+681,22,Griffin," Yeah. So the three of you are all- all uh, dressin’ up?"
+682,22,Clint, Yeah.
+683,22,Travis, Montaaage~!
+684,22,Griffin," [amused] The three of you uh... Yeah, I’m gonna definitely put some like, uh, 80’s synth pop under here as the three of you do each other’s makeup and uh, try―"
+685,22,Travis," Step out as everybody like, crosses their arms and shakes their head and we go back and try a different hat on."
+686,22,Clint, Oh yeah. Yeah.
+687,22,Griffin," You chase each other around, uh―"
+688,22,Clint," Oh, go with Girls Just Want To Have Fun! That would be perfect."
+689,22,Griffin, Well it would be...
+690,22,Clint, If we can get- if we can get Captain Lou Albano to come out of the―
+691,22,Justin, We can’t get the rights-
+692,22,Clint, The grave...
+693,22,Justin," The rights, we gotta..."
+694,22,Griffin," Okay but yeah the- the three of you come out of the, uh, of the bunk fully decked out in Hammerhead gear."
+695,22,Justin, Cool.
+696,22,Travis, Okay.
+697,22,Taako," Uh, should we away to, uh, building one?"
+698,22,Magnus, One? Yeah.
+699,22,Taako, Yeah.
+700,22,Magnus, That seems like the only building left.
+701,22,Taako, Yeah. Of the three it’s definitely the one we haven’t looked at.
+702,22,Clint," Hey, can we have caps! Can we have really cool caps?"
+703,22,Griffin, What kind of caps?
+704,22,Clint," Y’know like ball caps on our heads. Y’know, something really neat. Has like a shark on it."
+705,22,Travis," Oh, I want like a cappy hat."
+706,22,Griffin," No, there’s no-- one of, yeah one of you is wearing a fedo―"
+707,22,Travis, A bowler!
+708,22,Clint," Well, I was thinking if we had a hat, that way it would help disguise our features."
+709,22,Justin," Yeah, do we have hats?"
+710,22,Griffin," There are hats but they’re, unfortunately, it’s only fedoras."
+711,22,Justin, Ohh noo.
+712,22,Griffin, So you’re gonna go check out big garage?
+713,22,Clint, Let’s check out big garage.
+714,22,Justin, Let’s check it out.
+715,22,Griffin," Uh, how are you gonna do that? Are you gonna just waltz right in, are you gonna peek through the door? What are you doing."
+716,22,Clint," Well, in our disguises―"
+717,22,Travis," Now, Magnus believes the way to infiltrate anything in disguise is with confidence."
+718,22,Justin," Yeah for sure, let’s just walk right in the front door."
+719,22,Clint, Act like we belong there.
+720,22,Justin, Act like we belong - act like we’ve been there before. That’s what I say.
+721,22,Griffin," Okay, uh, the three of you, uh, waltz right into the, uh, open door of-"
+722,22,Justin," Wait, are there windows?"
+723,22,Griffin," Uh, there are no windows, no, there’s just--"
+724,22,Justin," It would just be more suspicious to peep in windows, I think."
+725,22,Griffin, Yeah.
+726,22,Travis, That’s true.
+727,22,Clint," Well, here’s what we do. We walk in and we’re all singing Greased Lightning."
+728,22,Justin," Oh, that’s good, like the T-birds."
+729,22,Clint," Yeah, yeah. [singing] Greased Lightning!"
+730,22,Justin, That’s how that goes.
+731,22,Clint, [laughing]
+732,22,Justin, No question about that.
+733,22,Clint," They will welcome us with open, greasy arms."
+734,22,Griffin," Uh, the three of you walk into, uh, this room singing, uh, showtunes, uh, and everyone inside this building looks at you and kills you. No, they look at you, and interrupt-- you interrupt the hard work that’s going on. The hard automotive work. Uh, they look at you for a second. You stand perfectly still. [laughing]"
+735,22,Taako," [as Lil Jerry] Hey, guys, these- these are the new recruits. I’m walking- I’m showin ‘em around the place. Just go about your business, don’t worry about it."
+736,22,Griffin," They all look at you in stunned silence. [Pause] And then they get back to work, working on their cars."
+737,22,Justin, Yeah!
+738,22,Clint, [sigh of relief]
+739,22,Travis, We did it!
+740,22,Clint, Yeah!
+741,22,Travis, We solved the puzzle!
+742,22,Clint, We solved your ‘guys looking at us’ puzzle.
+743,22,Griffin," Inside of this room, uh, you see... uh, th-th-there are a few people in here. Uh, there are, uh, two of these ruffians wearing these Hammerhead uniforms that are working on a much smaller battlewagon than the, uh, the one that you clairvoyantly saw inside of that garage, Taako. Altogether there are three battle wagons in this room, one of which is sort of suspended in the air on- on, uh, those, uh, that lift platform that they have in garages sometimes. So you got two ruffians working on one car. "
+744,22,"Uh, you have, uh, one ruffian, uh, who looks, uh, considerably cleaner than the others, who’s sitting at a desk, going over some paperwork. Uh, he was definitely giving you the most side eye as you came in. Uh, there is, uh,-- there are two other, two more ruffians, so four total and the clean one. The other two ruffians are in the corner and they are holding clubs, and they are, um, they’re messing with a, uh, um, a sixth figure in this room. ",
+745,22,"This sixth figure is not wearing the Hammerhead uniform. They are pretty gigantic and they are sort of covered in this burlap crude cloth outfit. They are chained to a chair. And they are wearing this full metal helmet, uh, that is just sort of completely encapsulating their head, uh, b-but these two ruffians are just sort of giving this- this uh, captured figure, uh, a really rough time. There is scrap, just piles of scrap lying all over. Uhhhh, and uh, yeah. That is the situation. The ruffian sitting at the desk stands up and says-- Uh, so Taako, are you still disguised as Little- Little Jerry?",
+746,22,Justin," I am, yes."
+747,22,Griffin, Okay.
+748,22, Look l,
+749,22,Travis," I want everyone to know that when Magnus sees this figure getting beaten up, it’s really hard for him not to like run over there and stop ‘em."
+750,22,Griffin," Oh, uh, one of--"
+751,22,Travis, [Interrupting] It’s like very upsetting to him.
+752,22,Griffin, One of the two guys that’s beating up this figure is- is Regular Jerreeeeee. The one that Magnus chased inside.
+753,22,Clint, Oooh.
+754,22,Griffin, And Regular Jerreeeeee sees- sees Magnus and yells across the room--
+755,22,Regular Jerreeeeee," Why didn’t you wait at the door? Little Jerry, I was gonna take care of this, I was just sort of puttin ‘em on-- puttin ‘em on ice. Keepin ‘em in the freezer, see if he really wanted it."
+756,22,Taako," [as Little Jerry] Look, we’ve recruited him. Now we got our own like holy man. It’s gotta be good luck, right?"
+757,22,Regular Jerreeeeee, I guess that would be fun. We could do like church services and stuff here?
+758,22,Taako, Yeah!
+759,22,Regular Jerreeeeee, On Sundays?
+760,22,Travis," I would like to try and ingratiate myself, using my vehicle proficiency--"
+761,22,Griffin, Mmkay.
+762,22,Travis," To look underneath the suspended car and give some sort of insight that they’re like, “Oh, he knows his shit”."
+763,22,Griffin," Okay, but I’m not gonna let you just say that, you’re gonna have to do it, because I want to hear it."
+764,22,Travis, I just don’t know what that roll is. 
+765,22,Griffin," Okay, so while, uh, Regular Jerreeeeee is talking to this guy at the desk like--"
+766,22,Regular Jerreeeeee," So yeah, these uh, these are the new guys. They came here, uh, whaddya think?"
+767,22,Griffin, And the- the clean guy goes--
+768,22,Clean Guy," Yeah, I don’t know, I feel like maybe it’s not time really for us to expand. You know, I’m not looking to split our winnings any more than we already have. I don’t know what these two guys can bring to the table. Except for a little bit of divinity in the short one’s case. "
+769,22,Magnus," I see here that you’ve got your suspension connected counterclockwise. You know if you do that in a counterclockwise clockwise motion so that each one is interacting with the other one independently, you’re gonna get much better handling."
+770,22,Griffin," Uh, Regular Jerreeeeee says--"
+771,22,Regular Jerreeeeee, What the hell are you talking about?
+772,22,Taako," [as Little Jerry] Listen to this guy. That makes perfect sense to me, another person who knows about cars!"
+773,22,Regular Jerreeeeee, You see--
+774,22,Taako, [as Little Jerry] [interrupting] Wagons.
+775,22,Regular Jerreeeeee," You see, I don’t even understand how something can be counter-clockwise and clockwise in the same sort of orientation. Why don’t you-"
+776,22,Magnus," [interrupting] Oh, you need to put a second set of gears so that each one is moving independently instead of one driving force driving both of them at the same time."
+777,22,Griffin, The guy sitting at the desk goes--
+778,22,Clean Guy, Double gears?! Of course! Why didn’t we think of that?
+779,22,Taako," [As Little Jerry] See, what’d I tell you? He’s a real genius. A real Ein-stink."
+780,22,Clean Guy," I wanna see you-- Can you pop-pop- pop the- the suspension out in the way that you suggested? I wanna see if uh, I wanna see how it actually works. Can you do that for me? "
+781,22,Magnus," Oh, of course. Hand me that set of gears-- No, the- the 8 teeth. Yes."
+782,22,Griffin, I can’t tell where the fake stuff starts and the real stuff begins because-- 
+783,22,Travis, [interrupting] [raising his voice] I’m vehicle proficient! [normal volume] I know what the fuck I’m talking about. 
+784,22,Griffin, Okay.
+785,22,Travis, So I’m under there and I’m doing some shit. And I’m workin on it.
+786,22,Justin," And I say to Jerreeeeee, I say, while he’s doing this I say--"
+787,22,Taako," [as Little Jerry] Hey, listen, you know, uh, this guy is real sharp. We should show him the, uh, the core after this. See what he, uh, makes of that, huh?"
+788,22,Regular Jerreeeeee," Uh, yeah, I mean I guess, I mean sure if he’s this proficient with vehicles I’m sure he’s seen, uh, an arcane core before."
+789,22,Travis, And I finish--
+790,22,Regular Jerreeeeee, Oh my god! This guy is like some sort of wagon Houdini! He’s a-- a Honda Merlin.
+791,22,[Justin laughs],
+792,22,Griffin," As you are showing off your proficiency, this- this chained-up figure has just been sort of looking at the floor dejectedly. Uh, and it looks up and you can actually see two eye holes are cut into this, uh, full metal helmet."
+793,22,Justin," Aw, crap."
+794,22,Griffin," And he sees the three of you. Or should I say, he sees the two of you and Taako disguised as Little Jerry. And from inside of his mask, you hear him go [four loud guttural muffled screaming sounds]."
+795,22,Justin, And then he poops.
+796,22,[Travis laughs],
+797,22,Griffin," And he starts to shake and and- He poops. He might poop. He’s very angry. He- he’s shaking, he’s rattling his chains, he’s moving, trying to get out of his uh, his bindings."
+798,22,Justin," As far as I can tell, have I ever seen this cat before?"
+799,22,Griffin," I mean, his- his- his whole head is encased in metal and he’s--"
+800,22,Justin," [interrupting] I know, but there’s, like, other-- People have other body parts and I’m just asking if he-- if the sound or if I recognize him as someone we have run into before."
+801,22,Griffin," Uhhh, it’s gonna be hard to say. I will say that the only thing you can sort of see other than this like burlap jumpsuit, uh, through the eyeholes, it almost looks like he’s like, he’s kinda hirsute, he’s kinda hairy in there. "
+802,22,Travis," I don’t know, is that somebody we know?"
+803,22,Griffin," But he is freaking the hell out. Uh, and uh, Regular Jerreeeeee goes, uh--"
+804,22,Regular Jerreeeeee," Yo, calm down!"
+805,22,Griffin," And he hits him with a club. And he passes out, it seems like."
+806,22,Taako," [as Little Jerry] Yeah, calm down!"
+807,22,Justin," And then I hit him in the stomach. Not hard though, I kinda pull it."
+808,22,Griffin," And uh, the guy sitting at the desk goes--"
+809,22,Clean Guy," Hey hey hey! Cool it, hey, okay. Let’s not go crazy, ok?"
+810,22,Taako," [As Little Jerry] Hey, this guy pooped himself, I’m gonna take him outside and change him. There’s no reason you guys should have to see that. "
+811,22,Clean Guy, I think he’ll be fine. I think we can let him stew. I wanna talk to these two.
+812,22,Taako," [As Little Jerry] Great, let’s live in this stink. This is cool. Cool day! Cool garage! You know, my problem with the garage though is it smells so good. Now, it just-- now we’re really are fixin’ that up with a poop stink."
+813,22,Clean Guy," I don’t know what-- I don’t know what to-- Listen, we’d have to unchain him, he could fight us. I’m not interested in that. It’s real hard to get this guy in his bindings. And then it’s gonna be hard until we can, y’know, indoctrinate him, get him working for us. But once he does, oh boy. God. I’m real excited about the possibilities this guy’s bringing to the table."
+814,22,Clint, I’m gonna ask a question.
+815,22,Merle," Hey, who’s the guy in the metal helmet?"
+816,22,Regular Jerreeeeee," Uh, let’s just call him a rare import. We, uh, we managed to secure him out of state and bring him in. It’s not exactly on the books, uh, but we paid a pretty penny for him. And, uh, I think he’s, uh, I think he’s gonna pay out big dividends out on the track."
+817,22,Travis," Hey, DM?"
+818,22,Griffin, Yeah.
+819,22,Travis," Just out of clarity, so I can write it down, is he like human-sized, ogre-sized--"
+820,22,Griffin," He is humanoid, um, but he’s about, uh, seven feet tall? Uh, big, big, and burly."
+821,22,Justin," Oh my god, I know who it is. [Pause] It’s the bugbear. [gasp] It’s the bugbear!"
+822,22,Clint, What’s a bugbear?
+823,22,Travis, It’s my hugbear.
+824,22,Justin, His hugbear!
+825,22,Travis, It’s Klaarg!
+826,22,Justin, Klaarg! It’s Klaarg!
+827,22,Griffin, You see a single tear run out of the eyeholes in this full metal helmet.
+828,22,Travis, [sighs] [singing] I’m gonna have to punch--
+829,22,[Déjà Vu by Mort Garson plays],
+830,22,[Next episode],

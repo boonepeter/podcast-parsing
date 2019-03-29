@@ -1,0 +1,2742 @@
+﻿The Adventure Zone
+Dungeon Master & NPCs: Griffin McElroy
+Magnus Burnsides: Travis McElroy
+Merle Highchurch: Clint McElroy       
+Taako Taaco: Justin McElroy
+
+
+Episode 21 - Petals to the Metal - Chapter Four
+(part of TAZscripts on Tumblr)
+
+
+Griffin: Previously on The Adventure Zone:
+
+
+Griffin: In that, the wasteland, outside of the city limits of, uh, Goldcliff, you see these long lines of dust clouds. And as you get even closer you realize that the clouds are being whipped up by wagons, that are speeding through the wasteland. Uh,
+
+
+Clint: Is it a race?
+
+
+Travis: Good question.
+
+
+Griffin: With your six untrained eyes, uh, eight if you count the goldfish, it kinda, kinda looks like it a little bit.
+
+
+Clint: Hmmm.
+
+
+Griffin: Uhhm, you see a slender woman and on her face she is wearing a, uh, black feathered mask.
+
+
+Magnus: We can try talking to her and everything... 
+
+
+Sloane: The three of you shouldn’t be here.
+
+
+Griffin: She says.
+
+
+Travis: Magnus says,
+
+
+Magnus: Look over there!
+
+
+Travis: And charges her.
+
+
+Griffin: She’s gonna cast Thunderwave. Uh, 21 points of damage.
+
+
+Magnus: Listen, we might have been a bit hasty with the smiting.
+
+
+Clint: Uhm, 2 points dead.
+
+
+Justin: Oh I’m negative 5, baby.
+
+
+Griffin: Uh, and through that window swings a halfling woman, wearing what looks like a karate gi. As she rolls into the room she says,
+
+
+Karate Girl: Sloane, you’re not a killer!
+
+
+Griffin: Without saying a word, the Raven turns into a gray cloud and goes flying out the window.
+
+
+Magnus: Another successful battle gentlemen. [claps]
+
+
+Merle: Ow...
+
+
+Taako: [weakly] We win!
+
+
+Announcer: Hey everyone, this is Mark. I’m filling in for the usual guy- took his family on vacation. I think they went to Dollywood. It’s The Adventure Zone!
+
+
+[THEME MUSIC: "Déjà Vu" by Mort Garson (full song on YouTube)]
+
+
+{1:57}
+
+
+Griffin: The three of you have been successfully, uh, e-extracted from the—
+
+
+Justin: [singing] Happy birthday to you!
+
+
+Griffin: Oop, okay.
+
+
+Clint: Aww, [laughing] aww, stop.
+
+
+Justin: [singing] Happy birthday to you! Happy birthday, dear Daddy!
+
+
+Clint: Oh, Justin.
+
+
+Justin: [singing] Happy birthday to you!
+
+
+Clint: Oh and a cake? Oh my lord!
+
+
+Justin: I made a fantasy cake.
+
+
+Griffin: Uhm—
+
+
+Clint: Awww.
+
+
+Justin: Happy birthday, Daddy!
+
+
+Griffin: Happy birthday, Daddy! A-as your gift, uh, your character is still alive!
+
+
+Travis: Yayy!!
+
+
+Clint: [relieved sigh]
+
+
+Justin: Oh, thank goodness.
+
+
+Clint: It’s the gift that keeps on giving!
+
+
+Griffin: It’s a gift I’ve also given to Taako uhm, in fact the three of you—
+
+
+Justin: Oh, excellent.
+
+
+Griffin: —have been, the three of you—
+
+
+Clint: It’s my birthday.
+
+
+Griffin: - the three of you have been Rescue 911’ed, from the uh, from the Goldcliff Trust. Uhh, you don’t remember a lot, it’s kinda hazy, it was kind of touch and go there for a while, but this halfling woman that came to your rescue there at the very end of our last adventure, uh, p- pulled the three of you from this building so you’re- you’re back outside with the Goldcliff militia. Still sort of encircling the building, um, although the vines that had grown around the building and had started to like encompass it, have started to, uh, turn gray and start to die and start to, sort of, peel off of the building. Uhm, and-
+
+
+Clint: Are we like on gurneys, with like IVs and all that stuff?
+
+
+Justin: Yeah, are we beat up or are we—
+
+
+Travis: Are we in the recovery tent, like eating a couple cookies, and like having some orange juice?
+
+
+Griffin: Yeah, you’re in, you’re all splitting some Halos, some tangelos, and uh—
+
+
+[Clint laughing]
+
+
+Griffin: —the- the Goldcliff militia medics are seeing to you. You’ve been brought back from unconsciousness. I should point out, when, when a, when-- this is just good for future reference I guess, if your guys hit points drop to zero, you don’t die. We had a lot of people tweeting like ‘Well, I guess Justin and- and Clint are off the show,’ no that’s, that’s not exactly how it works.
+
+
+Travis: But if you would like to vote for that, push 5555 on your phone— 
+
+
+Griffin: Wow. 
+
+
+[Clint laughing]
+
+
+Travis: —and text the words ‘Taako’.
+
+
+Justin: Only you can save—
+
+
+Clint: That’s how they killed Robin.
+
+
+Griffin: Uh, no, you don’t do anything - you don’t do anything else, you just press 5555, and we’ll know.
+
+
+Travis: Mhm, just—
+
+
+Griffin: We’ll get it.
+
+
+Travis: —and just, don’t stop pressing 5 until the next episode comes out.
+
+
+[Clint laughing]
+
+
+Griffin: Uh, Captain Bane walks into the cooldown tent and says, uh,
+
+
+Captain Bane: Well you guys look worse—
+
+
+Justin: Wait—I don’t want—
+
+
+Griffin: Huh?
+
+
+Justin: I do not want to continue this adventure and get caught up in all your magical entanglements until I have clarified that we have taken a short rest.
+
+
+Griffin: Okay.
+
+
+Justin: I want it clear that we’ve rested.
+
+
+Clint: Yes. Have we rested?
+
+
+Griffin: Yeah, you’re good--you guys have had uh, you guys have had a rest.
+
+
+Justin: Phew. Okay. All right.
+
+
+Griffin: You’ve had a calm down, alright uhm. So if you wanna roll your hit dice and recover some HPs. I’ll- I’m fine with that, I’ll allow that to happen.
+
+
+Justin: I don’t know how that works.
+
+
+Griffin: Uhm, y’know what we’re gonna, we’re about to get into long rest town, unless you decide to just like, just start fighting people, uh, we’re- we’re about to get into long rest territory and that’ll just reset you back to zero, so um, you don’t have to—
+
+
+Justin: Well, how many hit dice do I have? Why don’t you just tell me, how many—I don’t—what’s the deal with that hit dice. I don’t, I don’t understand.
+
+
+Travis: There’s a hit dice square.
+
+
+Griffin: Yeah, and you roll those and that’s how you get back points on a short rest but, I’m gonna give you a long rest, you’re about to take a full- full blown snooze. 
+
+
+Justin: I just don’t understand why me understanding the basic rules of Dungeons and Dragons is like an unfit way to spend our time.
+
+
+[Clint laughing]
+
+
+Justin: Like, I should—
+
+
+Travis: God forbid Justin knows what he’s doing.
+
+
+Justin:—understand the rules at this point.
+
+
+Griffin: You have a resource called—
+
+
+Justin: We’re twenty fucking episodes in.
+
+
+Griffin: —you have a resource called hit dice right?
+
+Justin: How many do I got? It’s not on my sheet.
+
+
+Griffin: You’re, I’m not your, I don’t know dude, I’m not—
+
+
+Travis: Look directly down from armor class.
+
+
+Justin: No, I mean it’s on my sheet, it’s just blank ‘cuz I don’t have it filled out.
+
+
+Griffin: Well, then whose fault is that?
+
+
+Justin: What are you feelin’ like four? Does that feel right?
+
+
+Griffin: [chuckles] No, it’s more than four—
+
+
+Justin: Seven?
+
+
+Griffin: Just let me—let me cradle you in my- in my narrative.
+
+
+[Travis laughing]
+
+
+Justin: I’m in your narrative Baby Bjorn.
+
+
+Griffin: Um—
+
+
+Clint: Hold- hold him to your narrative bosom.
+
+
+Griffin: Captain Bane walks into the cool down tent and says, uh,
+
+
+Captain Bane: What happened to you guys? You guys look like—dirt.
+
+
+Magnus: We got attacked by weeds.
+
+
+Captain Bane: That’ll happen. That’ll happen. I knew that was a risk when I sent you boys in there, I knew...
+
+
+Magnus: She was - She was very strong.
+
+
+Captain Bane: Oh yeah, yeah for sure, she is uh...
+
+
+Magnus: Like sup- like, like it was, like silly. Like, we, we were not, even close. It was not, it was not a fair match up. It would be like uh, if the kids from Mighty Ducks were to like, take on the Monstars but in like, hockey.
+
+
+Captain Bane: Well the Monstars specifically drained basketball talent. From, from Charles Barkley-
+
+
+Magnus: Well, maybe they just all gained like, Wayne Gretzky and like, four other good hockey players.
+
+
+Taako: Yeah - you, you know I hate to um, I hate to corrupt anybody’s metaphor, but uh, I think the Ducks could stand a good shot there.
+
+
+[Clint laughs]
+
+
+Taako: I mean, the- the Monstars, we have no guarantee that they know how to skate, I mean, for starters.
+
+
+Captain Bane: He has a good point, they’re-- most of them were pretty tall and gangly and, and for a good hockey player, you want a very low center of gravity.
+
+
+Magnus: I think the question is going to be - Do the Mighty Ducks still have Emilio Estevez and do the Monstars have an equivalently inspiring coach?
+
+
+Captain Bane: Well no that’s - if you saw Space Jam, the- their coach was kind of a - megalomaniac.
+
+
+Magnus: Could they do it with the coach from Iceland?
+
+
+Captain Bane: Probably, yeah.
+
+
+Justin: In case anybody’s wondering why the birthday boy hasn’t tried to get in on this one, he has taken to literally examining books on my shelf, pulling them off the shelf, checking out the cover and then returning them back.
+
+
+Clint: It’s my birthday!
+
+
+Griffin: It’s his birthday, he doesn’t have to engage! With our Space Jam fanfiction—
+
+
+Clint: And I never heard of any of these movies! What are these movies?
+
+
+Justin: [laughing] You’ve never heard of Mighty Ducks—
+
+
+Justin, Griffin, Travis (simultaneously): or Space Jam?
+
+
+Travis: These are deep cuts, old man!
+
+
+Clint: Well, I’m familiar with Mighty Ducks just because I’m familiar with real sports like the Anaheim Ducks—
+
+
+Justin: Okay.
+
+
+Clint: But Space Jam, I only know it from the references on that other podcast you do.
+
+
+Taako: Listen, uh, that was pretty scary. Like honestly, she’s like, really scary. I don’t know if you can-
+
+
+Captain Bane: Tell me - Tell me exactly what happened. Did she just, just start wailing on you as soon as you saw her?
+
+
+Magnus: Well, no...
+
+
+        Taako: Yeah, well- well okay...
+
+
+Magnus: Well, I think there might have been some talk of smiting, and then-
+
+
+        Taako: There’s more nuance, I guess.
+
+
+Magnus: Um. Maybe-
+
+
+        Merle: It was hinted at.
+
+
+Magnus: Maybe we made the first move, maybe she made the first move. Ah, who can say?
+
+
+Captain Bane: Hold on, she didn’t, she didn’t just attack you as soon as she saw you?
+
+
+Magnus: No, she actually told us, uh that we should probably go. Um and that we should- like- that we should leave.
+
+
+Taako: She seemed, like - she seemed, like, concerned about our safety.
+
+
+Magnus: Yeah.
+
+
+Merle: It was more of a body language thing, body language!
+
+
+Magnus: See, I mean, there was a lot of threatening behavior going on. There were vines around, maybe somebody’s pants got pulled down-
+
+
+Merle [overlapping]: Yeah, yeah, yeah.
+
+
+Magnus: A lot of stuff happened.
+
+
+[Clint wheezing]
+
+
+Captain Bane: Um, that’s, that is peculiar-
+
+
+        Taako [overlapping]: He lost his weiner.
+
+
+        Merle: Yep- ripped off his weiner--
+
+
+        Taako: Got his weiner cut off.
+
+
+Magnus: But then it grew back ‘cuz I took a long rest.
+
+
+Captain Bane: That is how it works, um-
+
+
+Griffin: He looks to the uh, he looks to the medics in the room and he says, uh,
+
+
+Captain Bane: Could I have the tent please?
+
+
+Magnus: Heh, where do you want it?
+
+
+Griffin: And they say uh, they said,
+
+
+Medics: Yaass!
+
+
+Griffin: And then they leaved, um and uh-
+
+
+Justin and Clint: [laughing, overlapping] Wait, wait, what-
+
+
+Clint: Were they German gangsters?
+
+
+Griffin: Yaass!
+
+
+Clint: [in badly accented German] Ja, ve’ll go outside the tent now.
+
+
+Griffin: And, uh—
+
+
+Justin: Just to be clear, Griffin, they leaved?
+
+
+Griffin: [overlapping] Yeah, they leaved.
+
+
+Justin: Is that the word you used? They leaved? Okay, I just want to make sure they leaved.
+
+
+Travis: He was using the past present participle.
+
+
+Griffin: Exactly. Uh, and Bane turns to the three of you, uh, and says, uh,
+
+
+Captain Bane: This is, uh, this is unprecedented, I’d never considered the possibility that one of these grand relics could end up in the hands of like a good- like a good person, like a good-natured, good-hearted person.
+
+
+Magnus: [overlapping] W- I mean, she is a thief.
+
+
+        Taako: [overlapping] She wasn’t always like this?
+
+
+Captain Bane: Well, I mean, sh- yeah, but the fact that--here’s the thing, the- the power that these- these items grant you can corrupt you so completely that you just completely lose control, uh, o-of that power, and the fact that she didn’t just outright kill you makes me think she’s somehow trying to resist the, the- the thrall of this grand relic.
+
+
+Taako: It was weird, she seemed like she w… she ha- was buying into it almost, like she was consciously into the thrall but she was aware that she was in a thrall.
+
+
+Bane: We need to know— we need to know more about the Raven, uh, if we’re gonna take her down and I- I- fortunately, I think we may have an in-road—
+
+
+Magnus: Captain, may I ask you a question?
+
+
+        Bane: Yeah…
+
+
+Magnus: In- in your-- in your knowledge, has there ever been uh, someone who has held one of these relics and not been corrupted over a period of time, eventually?
+
+
+Bane: I mean, all we- all we have to go on is historical sort of evidence, uh, from- from before the wars, um. But- but—
+
+
+Magnus: The long long ago.
+
+
+Bane: The long long ago, the long-forgotten, and uh, I-- unfortunately, no, a hundred percent of the time somebody gets their hands on one of these powers and regardless of their intentions they- they- they lose control. Now, it’s possible that maybe she’s still early on? In her corruption? Uh, but it’s- but it’s hard to say, we don’t have a lot of, uh, modern data to go off of.
+
+
+Taako: Uh, I do know- I have heard tell of one very powerful wizard who was able to redu- resist the thrall of the gauntlet. Uh, I don’t know if you’ve heard of his name from legend, he’s T to the double-A KO? Yeah, it’s me, Taako, no bigs.
+
+
+[Clint and Travis laughing]
+
+
+Magnus: [overlapping] Autographs to the left.
+
+
+Taako: You probably heard already- you probably have my CD- my inspirational CD “Grab the Gauntlet and Don’t Look Back,” it’s on the Appstore, stream it.
+
+
+[overlapping: Griffin, Travis, and Clint laughing, clapping]
+
+
+Bane: Uh, are you telling me that you actually equipped the- the gauntlet?
+
+
+Taako: [laughing] Oh, no, don’t be stupid, I put it in my bag with my snacks!
+
+
+Bane: That’s what I’m talking about. Once- once you- I’ve coined a phrase that I like to use, uh, around the B.O.B., and that is, uh, “Once you pop, the- the corruption and power-drunkenness do- do not stop.” Um.
+
+
+[Justin laughing]
+
+
+        Bane: So w- so once you—
+
+
+        Merle: [overlapping] Kinda cumbersome.
+
+
+        Taako: [overlapping] A little bit cumbersome.
+
+
+Bane: [overlapping] It is a little bit. It doesn’t feel good; it has a bad mouth-feel. I’m workin’ on it.
+
+
+[Travis laughing]
+
+
+        Merle: That’s why Pringles stopped using it. Probably.        
+
+
+        Bane: Now what’re... Prin-goes? What does it—
+
+
+Travis: Pringles, there are Pringles in this universe Griffin, it’s pre-established, our roommate wanted some Pringles. Boom.
+
+
+Griffin: [laughing] Oh, that’s right, oh yes, of course.
+
+
+Merle: And Pringles are kinda like, if you look at them, they kinda look a little bit like, I dunno, a taco shell, uh, except they’re made outta potato.
+
+
+Griffin: [in Bane’s voice] Now you’re just talking-
+
+
+Clint: [overlapping] That’s not gonna fly, is it?
+
+
+Griffin: [in Bane’s voice] You’re just talking outta your ass.
+
+
+[Clint laughing]
+
+
+Bane: We have an in-road if we- if we wanna get more information on the Raven. Uh, and- and it is my lieutenant, Lieutenant Hurley. Uh, your, your- savior. Uh, I’ve been I’ve suspected for a long time that she has some sort of involvement with the Raven, some sort of—
+
+
+Magnus: Oh yeah, she called her by name.
+
+
+        Bane: She did? What was her name?
+
+
+Magnus: I don’t remember!
+
+
+        Bane: Well.
+
+
+Magnus: I have not listened to the last episode again.
+
+
+        Bane: That might have been handy for my investigation, but uh—
+
+
+Magnus: I think it was Suuuuusannn?
+
+
+        Merle: [overlapping] Margaret, I think it was Margaret.
+
+
+Magnus: Margaret. Susan-Margaret. It was, uh, hyphenated, she’s Catholic?
+
+
+        Taako: No, I- I Oprah? Oprah? Maybe Oprah. Was it Oprah?
+
+
+        Bane: Well, I think—
+
+
+Magnus: [overlapping] Susan Margaret, uh, Margaret Oprah.
+
+
+        Bane: Yes.
+
+
+        Magnus: [overlapping] The third.
+
+
+Bane: The classic- the classic Catholic name. Uh. Well, then, you’ve just confirmed my suspicion. I want the three of you to talk- talk to Lieutenant Hurley. She, uh- I’ve- I’ve tried to bring this up with her in the past, but you know there’s-there’s all kinds of HR implications, so the three of you, uh, talk- talk to her and see what you can get out of her about the Raven.
+
+
+Magnus: Okay.
+
+
+        Taako: Sure, where’s she at?
+
+
+Bane: Uuuhh, probably just right outside this tent. That would be pretty handy, if you didn’t have to like go around looking for her, if she was just like right there.
+
+
+Magnus: That would be nice.
+
+
+        Bane: M’kay.
+
+
+Magnus: Send ‘er in!
+
+
+Taako: [overlapping] So we go outside- we go outside the- [laughing] We’ll see her now.
+
+
+        Merle: Perfect security! Canvas! That holds all the sound in.
+
+
+Magnus: It’s better than standing outside! It’s hot out there!
+
+
+Griffin: Um—
+
+
+Magnus: There’s the smell of rotting vines, that’s not a good look!
+
+
+Griffin: You, you see, uh, Lieutenant Hurley, the uh, halfling monk woman who saved you, uh, from- from, uh, the Raven’s attacks, uh, just a- a- a- few—
+
+
+Justin: Griffin, can I- can I- can you clarify something for me? I noticed you’re in the habit of doing this: if you say halfling monk woman, that’s not actually accurate right?
+
+
+Griffin: What do you mean?
+
+
+Clint [overlapping]: Like she’s half-monkey...
+
+
+Justin: Like, she’s not a- she’s not a woman, right?
+
+
+Griffin: No, she is a woma—
+
+
+Justin: She’s a halfling.
+
+
+Griffin: She’s a f…
+
+
+Justin: Like isn’t a woman and a man, like, those are humans, right?
+
+
+Travis: Female.
+
+
+Griffin: Yeah, but that seems wei— uh, half-lette, half-leh?
+
+
+Justin: You know what I’m saying?
+
+
+Griffin: Yeah I guess. Half-leh... half-leh... half-less? Is that- what’s the- what’s the female elf?
+
+
+Travis: A half-lix? A half-lix? Or, a halfling- a halfling isn’t a half-elf, a halfling is like uh, uh, uh—
+
+
+Griffin: A hobbit.
+
+
+Travis: A hobbit.
+
+
+Griffin: Yeah.
+
+
+Clint: But we can’t use that because of licensing, right?
+
+
+Griffin: No, we can’t in fact I beeped it out, uh, every time we’ve said it so far.
+
+
+Justin: So, for, for—
+
+
+Travis [overlapping]: hobbit hobbit hobbit hobbit hobbit hobbit hobbit-
+
+
+Griffin: God damn it.
+
+
+[Clint laughing]
+
+
+Travis: Monks in the um, the DND universe, that’s like um the fighting style class, right? Not like a religious—
+
+
+Griffin: Yeah, it’s more Friar- Friar Laurence, less Friar Tuck, or did I get those confused?
+
+
+Travis: You switched it.
+
+
+Griffin: Okay, well you know I—
+
+
+Justin: You swapped it—
+
+
+Griffin: Uhh, you—
+
+
+Travis: But they use a staff right?
+
+
+Griffin: —use bo staffs, use their hands,—
+
+
+Justin: So it, it’s more like Friar Donatello, than Friar Laurence.
+
+
+[Clint laughing]
+
+
+Griffin: You see Friar Donatello, uhh-uhh a few dozen yards away and she is tending to two, uh militiamen who had been sort of swallowed up by these vines and have suffered some pretty serious scrapes and bruises, uh, and you see her clap her hands together and sort of rub them together to build some sort of friction. Uh - and then she places her hands on the wounds and then uh- you see like a sort of radiant light, uh c-come from her hands and then the wounds are gone and these- these wounded soldiers look a little bit more vital, little bit—
+
+
+Magnus: Did you see that, fellas? She Miyagi’d the shit out of those guys.
+
+
+Griffin: That is in fact what she did to you, you can—
+
+
+Travis: She Miyagi’d us?
+
+
+Griffin: Yeah, you remember sort of through the haze of your uh, your unconsciousness that she, uh, she tended to your wounds, back up on the top of the vault. Uhh. So she brings these two uh—
+
+
+Travis: She gave us good-good touches.
+
+
+Griffin: Well...
+
+
+Clint: In my opinion, she used her chi’s, cuz I’ve - I’ve read about that, before.
+
+
+Griffin: That’s right, she cheese- she cheesed y’all.
+
+
+Travis: She harnessed her cheese.
+
+
+Taako: Ma’am. Could you step over here? For a second? I think they’ll be fine, we have to move the plot forward.
+
+
+[Travis laughing]
+
+
+Griffin: Sh-she walks over to you and says,
+
+
+Hurley: I’m glad to see that the three of you are doin’ better. She did quite a number on you, huh?
+
+
+Magnus: Yes, thank you so much for touching us.
+
+
+        Hurley: Yeah, that’s kind of a weird way of putting it but—
+
+
+Magnus: No, I really- I like that you touched us and it felt good. Thank you.
+
+
+Hurley: Okay. You are... quite welcome. Uh- I gotta ask, did she- did she say anything before I- I came in to your rescue all deus ex machina style?
+
+
+Taako: Yeah, she uh- well, she seemed concerned about us, as weird as that sounds for somebody who’s in the thrall of like a magic belt.
+
+
+        Magnus: [overlapping] Kind of-
+
+
+Hurley: Woah, hold on, what did you?... What did you- just, you just uh, you kind of broke up- you kind of broke up there.
+
+
+        Taako: yeah, I-
+
+
+        Hurley: What just happened?
+
+
+        Taako: I have a stutter, um...
+
+
+[laughing]
+
+
+        Taako: —the, so—
+
+
+Hurley: [interrupting] That wasn’t a stutter that was like you- ju- like you almost just started talking in like- fuzz or something. What was that?
+
+
+Magnus: Nothing.
+
+
+Taako: I- I am half- I am part robot, and sometimes [laughing] my action winds down and my talkin’ center stops working as good. Basically- it’s hard to explain to the layman. So anywho—
+
+
+        Hurley: Y-You’re some sort of automated... golem, you’re saying?
+
+
+Magnus: [overlapping] Noo, just part- part golem.
+
+
+Taako: [overlapping] Y’know- y- y’know… like, like Tik-Tok(?), mainly man, and all wizard, and actually, elf and no man, so anywho. Um, we- we uh, yeah she seemed concerned about us. Which seems weird for somebody who is, um, seems to be as angry as she is?
+
+
+Hurley: It’s not- I don’t think it’s that weird at all actually.
+
+
+Griffin: She- she looks, forlorn. She looks kinda bummed out. She says uh—
+
+
+        Taako: Wha- what do you know about her, Hurley?
+
+
+        Hurley: Uhh, how did you know my name?
+
+
+Magnus: Captain Captain Bane told us.
+
+
+        Taako: Uhh, Professor- Captain Captain Bane told us.
+
+
+        Merle: Captain Captain Bane told us.
+
+
+        Hurley: Oh yeah, um—
+
+
+        Merle: They said your first name was Elizabeth.
+
+
+        Taako: Don’t forget to use your character voice, birthday boy.
+
+
+        Merle: [rasping] They said your name was Elizabeth.
+
+
+        Taako: That’s worse, okay.
+
+
+Hurley: Uh- I-I-I I’ve- I mean I’ve investigated her. But uh- I’ve tried to bust her, y’know I just, I when I see a perp, I just uh I think, ‘I’ve go- I gotta bust her!’
+
+
+Travis: I’m gonna roll insight, Griffy.
+
+
+Griffin: ‘Kay.
+
+
+Travis: Uh, 16, okay, so just a flat 16.
+
+
+Griffin: Okay, yeah she’s- she’s definitely lying, y- you get the impression that she’s- she is not being for—
+
+
+Magnus: Lieutenant Hurley,—
+
+
+Griffin: forthright.
+
+
+Magnus: Lieutenant Hurley, you knew her real name.
+
+
+Hurley: [pause] Yeah that was just something I picked up and, when I was uh, in my investigation. I’ve gotta uh- actually go, because I - Oh—
+
+
+Taako: Wait a min—
+
+
+Hurley: Hold on wait, shit wait I see a perp over there I gotta go guys, uh I gotta—
+
+
+        Taako: Just hang on one second!
+
+
+Magnus: Oh, oop, oh! Wait wait wait!
+
+
+Taako: I think I smell in the air a return of The Adventure Zone narrative favorite. It’s a Zone of Truth!
+
+
+Clint [yelling]: Zone of Truth!
+
+
+Justin: Zone of Truth is back!
+
+
+Clint [yelling]: Zone of Truth!
+
+
+Griffin: Okay, she gets to roll to resist the Zone of Truth right?
+
+
+[Clint laughing]
+
+
+Justin: Yeah, probably.
+
+
+Travis: That sounds right.
+
+
+Justin: Doesn’t seem to be the most like, narratively useful thing, but I’m certain she can resist.
+
+
+Griffin: Yeah, it’s a charisma block. Uh- she rolled a 4 so I’m gonna go ahead and say, like, regardless of what the modifiers could be, and whatever the target is, that- that’s gonna fail. Uh, the three of you also need to roll though, I think you’re trying to beat a 14.
+
+
+Travis: I rolled a 4!
+
+
+Griffin: Okay, you’re telling the truth.
+
+
+Justin: I rolled a 6.
+
+
+Griffin: Truth.
+
+
+Clint: I rolled a 16.
+
+
+Griffin: All right, so dad can lie, everyone else is on truth duty.
+
+
+Justin: Okay, sounds good.
+
+
+Magnus: So, where’s the Raven?
+
+
+Hurley: I don’t know uh, I don’t know where the Raven is. I wish I knew, I wish I—
+
+
+Merle: What’s your relationship to the woman that was up in the tower with us?
+
+
+Hurley: We were partners, we- we were uh- what did, what’s going on?
+
+
+Griffin: She says, uh—
+
+
+        Hurley: I feel- like, dizzy. What- what did you all do to me?
+
+
+        Merle: It’s my cologne, go on.
+
+
+Hurley: Yeah, we were um, we uh we worked together, uh I-I-I was trying to apprehend her for a while but then we started to uh, we- we became very close and- and we—
+
+
+Magnus: Lieutenant Hurley, we- we acted rashly when we met the Raven in the vault. In the future, the next time we meet her, we want to help her. She’s in danger.
+
+
+Hurley: I agree.
+
+
+Magnus: We need to know everything you know about her, so that we can convince her to let us help her the next time we meet her.
+
+
+Hurley: What- what are the three - what is your- what do you all want from- from the Raven?
+
+
+Magnus: We are good men, who are trying to help, and that’s all we can say.
+
+
+        Taako: I’m not a man. I - I know-
+
+
+Magnus: We- we’re good people?
+
+
+[Griffin laughing]
+
+
+        Taako: We’re, yeah - no not people again—
+
+
+Magnus: We’re good- beings?
+
+
+        Taako: Chaotic good, some of us—
+
+
+Magnus: Well—
+
+
+Merle: And I have a huge inheritance for her and if I find her, I can give it to her, that’s—
+
+
+Griffin [laughing]: So, so you’re just like, you’re just lying as much as- you have cashed in on your lying.
+
+
+Travis: If you beat the Zone of Truth, you actually are forced to lie.
+
+
+[Griffin laughing]
+
+
+        Merle: I am skinny.
+
+
+Taako: Now we- now we can’t back you up here so let me, um-
+
+
+        Merle: Don’t let her.
+
+
+        Taako: You heard the words he said right? He definitely said that!
+
+
+Magnus: That’s a thing he said!
+
+
+        Merle: Huge inheritance!
+        
+Taako: That is definitely what he said.
+
+
+        Merle: Six figures!
+
+
+Taako: You’re hearing it! He’s saying it! That’s gotta mean something right?
+
+
+[Griffin laughing]
+
+
+Hurley: Listen I - I wanna help her too and I think I’ve come up with a way, and I’m gonna need your all’s help though.
+
+
+Magnus: Okay.
+
+
+        Hurley: Uh, come with me.
+
+
+Griffin: She says and starts to uh- walk- walk briskly like a- like a speedy monk would, away from this- away from this scene.
+
+
+Travis: Should we tell Captain Captain Bane goodbye or?
+
+
+Griffin: Nah- he’s probably - he’s probably...
+
+
+Travis: Leave him a note?
+
+
+Griffin: He’s probably cool with it.
+
+
+Travis: Okay, I jot down a note ‘Dear Captain Bane, went with Lieutenant Hurley, we need more milk. Love, Magnus’ 
+
+
+[laughing]
+
+
+Griffin: Uh, so the three of you follow her through the—
+
+
+Clint: [quietly] Quit touching my stuff.
+
+
+Griffin: Through the uh- through the winding streets of uh, of Goldcliff. She’s actually pretty tricky to keep up with. She uh, she- she moves really quickly—
+
+
+Travis: Griffin is there, do we like, get a chance to like, stop and do any like, sightseeing or like pick up any, like, souvenirs or tchotchkes or anything?
+
+
+Griffin: Um, no or else you’d lose her. Do you wanna lose her?
+
+
+Travis: Well, can I ask her?
+
+
+Clint: No! No.
+
+
+Griffin: We don’t have time! To shop. You ju—
+
+
+Travis: But I want tchotchkes!
+
+
+Griffin: You can shop- listen, you know the structure of this show, after the adventure’s over then you can shop! You’ve done this before.
+
+
+Travis [overlapping]: Yeah but we’ll shop back up on the moon, I want like a magnet or a postcard or something.
+
+
+Clint [overlapping]: Travis - Travis- It’s my birthday—
+
+
+Griffin: Yes, you can buy a Goldcliff magnet.
+
+
+Travis: Yay! I’m adding that to my inventory.
+
+
+Griffin: Okay, but it- it cost you 600- it cost you 600 gold pieces.
+
+
+[Clint laughing]
+
+
+Travis: I steal it.
+
+
+Griffin: M’kay, roll a sleight of hand check.
+
+
+Clint: Aww.
+
+
+Travis: That’s - I rolled a 12.
+
+
+Griffin: Okay. [dice rolling] The shopkeeper rolled a 16 perception.
+        
+Shopkeeper [yelling]: Hey you give that back!
+
+
+Magnus: Sorry, we gotta go!
+
+
+Shopkeeper [yelling]: Give that back! Criminal! Thief! Thief! Stop him!
+
+
+Griffin: Uh, and Hurley turns around and says,
+ 
+        Hurley: I’m a, I’m like a cop, what are you doing? Give that back!
+
+
+Magnus: Well, we didn’t...
+
+
+Travis: Okay, I give it back.
+
+
+        Shopkeeper: All is forgiven!
+
+
+Griffin: Says the shopkeeper.
+
+
+Shopkeeper: Go along your merry way, but remember this kindness and pay it forward!
+
+
+[Travis laughing]
+
+
+Clint: What was that shopkeeper’s name? ‘Cause he will come back.
+
+
+Griffin: His name was- Haley Joel Osment. From Pay it Forward.
+
+
+Clint: Haley Joel—
+
+
+Griffin: Haley Joel Helen Hunt. [pause] Also from Pay it Forward.
+
+
+[Clint laughing]
+
+
+Griffin: Um, you-- the three of you follow Lieutenant Hurley into, uh a sort of seedier part of Goldcliff. It’s well outside of sort of the- uh the business district that’s all sort of shiny and golden and well-tended streets. Uh—
+
+
+Justin: Hey Griff, if you were to put this in like a- uh just for like the- So I’m imagining right, if you were to put this in a modern time period in our realm, like what sort of- where are we - can you give me like a comparison, close comparison?
+
+
+Griffin: Sort of off the- you just left sort of Chicago’s Magnificent Mile area with its- its tall buildings and scenic vistas, uh, and now you’re…. uh…. I don’t know, I didn’t spend enough time in Chicago to get a good—
+
+
+Travis: Well let’s use something that everybody can relate to, we’re in the West End of Huntington—
+
+
+Clint: Myrtle Beach!
+
+
+Griffin: You’re in the west end of Huntington. Right yeah, it’s less sparsely populated, buildings are y’know a lil bit crummier—
+
+
+Justin: Got it.
+
+
+Griffin: Uh, there’s a barrel with a fire in it.
+
+
+[Clint laughing]
+
+
+Justin: Okay.
+
+
+Travis: Well I- th-that someone’s selling?
+
+
+Griffin: And the uh- no, nobody’s selling you a fire barrel. What are you talking about?
+
+
+Travis: I mean I would buy that, it sounds very useful.
+
+
+Griffin: And sounds like you’d try to steal it!
+
+
+Travis: Well, I - I didn’t want—
+
+
+Griffin: [overlapping] Cuz- cuz now you’re—
+
+
+Travis: I didn’t want to steal the magnet!
+
+
+Griffin: - you’re a thief.
+
+
+Travis: I didn’t want to steal the magnet, I got priced out of being able to purchase it- I—
+
+
+Clint: [loudly] All is forgiven!
+
+
+Griffin: All is forgiven, listen let’s not, let’s- I’m just disappointed in you but let’s not, um, just hang too long on that- that sad moment. Where all innocence was lost.
+
+
+Um, she - she takes you to a small, uh, garage, in the uh, off the- off a Main Street in this sort of, uh, spooky side of town and, uh, you- she- she walks up to the door and lifts it open. It’s a big uh- sort of sliding garage door. Uh. And the three of you walk into her garage and the door shuts behind you and it’s pitch black and then you hear the sound of a switch being flipped and uh - as the room lights up you realize, this is actually a really really nice garage. It’s really well kept, lot of um, modern fixtures, much nicer than the exterior of the building would have you- sort of- believe. 
+
+
+It is a little bit messy, there are uh, some parts scattered all over the room, uh, there are three, uh, cars that have been completely just, shucked for parts, uh, and in the middle of the room is - uh, and by cars I mean wagons, all those times I said cars I meant wagons. Uh-
+
+
+Clint: Wagons.
+
+
+Griffin: Yep, wagons. And uh, in the middle of the room, uh, is, uh, a large wagon shaped object that is covered by a huge brown tarp that has been thrown over it—
+
+
+Justin: I’m gonna roll a perception check. See if I notice anything about the object in the tarp or in the room. Natural 20 plus one, 21.
+
+
+Griffin: Ok! Um, 
+
+
+Justin: Can’t believe, I always waste my twenties on perception checks, like I give a shit.
+
+
+Griffin: [Amused] Uh, no. I mean you can- you can give a shit. Um - the vehicles that have been stripped all around the room have- some sort of like, weaponry attached to them, one of them has, like, a harpoon attached to the side. One of them has- uh, some sort of mounted cannon on the top of it, with, like, a chair. But most of the parts that have been stripped from them are sort of, interior, sort of looks like maybe the engine of one of them got torn out, um, yeah. You have sort of a hard time sort of discerning the shape of the wagon in the middle of the room, though, that’s covered up.
+
+
+Travis: So, this is- I mean, obviously associated with the racing we saw when we were flying into town.
+
+
+Griffin: Yeah, Hurley says,
+
+
+Hurley: Surely you all are familiar with the racing that takes place outside of town.
+
+
+Magnus: Oh yeah, big fans, like it’s huge, uh, love it, real good stuff.
+
+
+Hurley: Myself and The Raven, our relationship began- I, her name is Sloane and I’m just gonna call her Sloane because I- I’m uncomfortable calling her The Raven. I hope that’s okay.
+
+
+Taako: Is the Raven thing something that’s happened recently or when she was like- doing her stealing with you? Uh- [unintelligible crosstalk]
+
+
+        Hurley: Oh we didn’t do stealing together I- I—
+
+
+Taako: Okay, but she was The Raven recently- like, since she’s seemed to get meaner, and more powerful? Th- She was The Raven before.
+
+
+Hurley: Um, well she was technically The Raven before, let me show you. 
+
+
+Griffin: She uh, goes over to a cabinet with a couple of boxes on it and pries one open, and uh dumps it out and uh, a bunch of raven masks come out and it’s the same masks that you saw th-the Raven wearing in the vault.
+
+
+Travis: I put one on.
+
+
+        Hurley: Oh don’t do that.
+
+
+Griffin: She says,
+
+
+Hurley: That’s, uh, that’s really uncomfortable for me, if you could actually take that off.
+
+
+Magnus: [making bird noises]
+
+
+Hurley: That’s a good bit, that’s a good bit. I would like you to take that off though. 
+
+
+{29:22}
+
+
+Travis: I take it off.
+
+
+Hurley: Thanks. Great bit, again, great bit but don’t do that, uh, anymore.
+
+
+[Clint laughing]
+
+
+Griffin: She says,
+
+
+Hurley: Let me- let explain from the beginning. Sloane and I- I was in charge of pursuing Sloane. She was sort of a small time criminal and I was pursuing her and, um, and little did I know she was actually a battle wagon racer. And if you live in Goldcliff, you’re familiar with - with battle wagons. 
+
+
+They’re sort of the favorite sport of- of the rich and famous here in Goldcliff, uh they- they’re races that happen on the desert outskirts of town, and you place bets on them, if you are a moneyed individual. They can be brutal bloodsports from time to time, but most people just turn a blind eye because the powerful people who run this city kind of can’t live without them. So I discovered that Sloane was a battle wagon racer, and she was so good and I was sort of seduced by racing, and so the two of us started to work together.
+
+
+Griffin: She reaches over to another box and dumps it over and a bunch of masks shaped like rams’ heads pour out, complete with spiral horns on the top of the head and—
+
+
+Travis: I start to reach for one.
+ 
+        Hurley: Nope!
+
+
+Griffin: She, like, with a deft movement, like a thunderclap, slaps your hand out of the way. She says, uh,
+
+
+Hurley: She went by the Raven and I went by the Ram, it’s customary for battle wagon racers to be anonymous so that uh, the people watching don’t know who you are because you are, technically committing a crime. The two of us were—
+
+
+        Taako: Were you doing this while you were a cop?
+
+
+Hurley: Yeah. I mean it’s, uh again people, people like to turn a blind eye, hence the masks I didn’t want anybody knowing I was technically breaking the law.
+
+
+Magnus: Oh, so it’s all mildly illegal.
+
+
+Hurley: It’s um, it’s illegal but it’s - it’s so exciting and I’m super good at it!
+
+
+Griffin: She says,
+
+
+Hurley: And it’s uh- listen if you don’t hurt anybody, and we never did, we ran a-- we ran clean!
+
+
+Griffin: She said,
+
+
+Hurley: Uh- we, we uh y’know it’s not really against the law, you’re just going really fast!
+
+
+        Taako: When did things start to break bad?
+
+
+        Hurley: Things started to break bad about a month ago.
+ 
+Griffin: She says,
+
+
+Hurley: And, I can’t explain it, I still don’t understand what was going on, but The Raven started to develop these - almost superhuman god-like powers and- and- and I’m not sure—
+
+
+Magnus: And that seemed weird at first.
+
+
+Hurley: I didn’t - I still don’t know what was going on but she- she started to change. She started to become distant and violent out on the track. She, um, she took out another car that we were racing against and two of the people on that car died and uh- and by car I mean wagon- and we stopped racing together after that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taako: Did you notice her using any like um, powers or abilities that seemed like supernatural y’know?
+
+
+        Hurley: Yeah—
+
+
+Magnus: Anything strange?
+
+
+Hurley: No, she made that bank get swallowed up by vines and I just thought that maybe those vines just started to grow like, by themselves, how crazy. Weird. These vines- wow this is an aggressive vine—
+
+
+        Taako: [overlapping] I meant during the race, dipshit.
+
+
+Hurley: Yeah, yes she has powers that she was using during the races. She was controlling storms and causing the Earth to split in two, and don’t get me wrong it was pretty- it was pretty dope—
+
+
+        Taako: [overlapping] Cool, like cool-
+
+
+Hurley: Like, yeah it looked really cool, but people started to get hurt, and so I stopped racing with her.
+
+
+Magnus: Did the Raven mention any strange adventures she had gone on around this time or meeting with anyone?
+
+
+Hurley: No, once she started developing this power, she stopped telling me really anything.
+
+
+        Merle: Did you happen to notice her wearing a really cool belt?
+
+
+        Hurley: What?
+        
+Magnus: Never mind, um—
+
+
+        Taako: Uh, any cool um, did she wear any new accessories?
+
+
+[Clint laughing]
+
+
+        Hurley: No, is that the source of her power?
+
+
+Magnus: No, it’s just we’re, we’re always looking for new fashion ideas.
+
+
+        Taako: Just wanna stay abreast of the trends. Y’know.
+
+
+        Hurley: Listen—
+
+
+        Taako: It seems unrelated now—
+
+
+[Travis laughing]
+
+
+        Merle: ‘Cuz we’re red carpet fans.
+
+
+        Taako: In context, yeah.
+
+
+        Hurley: Listen, I think I have a way for us to stop her.
+
+
+Griffin: She says,
+
+
+        Hurley: But I refuse to harm her.
+
+
+Griffin: She says,
+
+
+Hurley: Whatever we do, I won’t be party to anything that sees any harm come to her, she’s not at fault here, she’s just, she’s lost control—
+
+
+        Merle: Sure. Sure.
+
+
+        Hurley: —to something that’s bigger than herself.
+
+
+        Merle: Don’t you worry, we’ll take care of that side of things.
+
+
+Hurley: I- she’s not a bad person, she’s- she’s not gonna be able to give up her powers willingly. She’s- she’s terrified. Last time we spoke, she had this moment of lucidity where she talked about how afraid she was, that she was developing these powers she couldn’t control and that the only thing she wanted was proof that there was something more powerful than- than her. She wanted to be bested. She wanted to be proven that this power she developed wasn’t absolute that she could maybe one day be- be rid of it.
+
+
+Magnus: [laughing] Listen, if you’re looking for people more powerful than her, the last time we met her, she knocked us out in like one attack.
+
+
+        Hurley: Well, that’s because you tried to fight her.
+
+
+Griffin: She said:
+
+
+        Hurley: I didn’t say—
+
+
+Magnus: [interrupting] If we tried to hug her, it would have gone better?
+
+
+Hurley: Well, no, she’s probably really good at hugging too, cuz she can control vines and just sort of wrap you up and give you a plant hug. I think there’s- I can’t beat her in a fight, I’m an extremely gifted martial artist, but, there is one thing I think I can beat her at.
+
+
+Griffin: She says. She reaches over and grabs the tarp and rips it to the side, exposing a battle wagon, that uh- has a dark gray, tanned leather exterior with these sleek patches of thick silvery armor all across it.
+
+
+Clint: Cup holders?
+
+
+Griffin: It’s uh- Yeah, there’s- definitely- definitely some interior tweaks. Some cupholders inside—
+
+
+Clint: Cool.
+
+
+Griffin:—couple of bucket seats in there. Um—
+
+
+Travis: Does it come with satellite radio or is that additional?
+
+
+Griffin: That is nonexistent, um, the bow of this battle wagon is long and flat with what appears to be a black metal engine block poking out of the- poking through it. Uh, and on the front of the car, two shiny chrome spirals, are positioned on either end of the hood—
+
+
+Travis: [interrupting] Aw, like ram horns!
+
+
+Griffin: —emulating the appearance of two ram horns. 
+
+
+Clint: It’s ram tough, yeah.
+
+
+Griffin: On the back of the wagon, there’s this array of six huge exhaust pipes hanging off the back of the car. It is, this battle wagon is the single most imposing physical object you’ve ever seen in your entire life.
+
+
+Travis: Griffy, is it, is it more like Mad Max? Or is it more like, sleek? Like, has it—
+
+
+Griffin: Imagine—
+
+
+Travis: Is it battle damaged? Or is it like- this is—
+
+
+Griffin: Oh it’s not battle damaged, it it almost looks Frankensteinian. It almost looks like six of the cars from Mad Max have been smashed into like, the Death Proof muscle car. Um, it looks, it looks at the same time like sleek and also like really really dangerous.
+
+
+Magnus: Shotgun!
+
+
+[Griffin and Clint laughing]
+
+
+Magnus: I called it, you all heard me call it.
+
+
+Griffin: She says—
+
+
+        Merle: That’s a bitchin’ ride.
+
+
+Hurley: Yeah, thanks, I’ve been working on it for- for weeks now. I’ve stripped some of the best parts off of the wagons that I’ve won in pink slip races and I’ve put together a vehicle I know I can beat her in. I know I can beat her in this wagon.
+
+
+Griffin: She says, um,
+
+
+Hurley: But I need riders- in order to pull that off. But before we can even challenge her, I’m gonna need help getting my hands on a part to finish this wagon off and, unfortunately, getting that part, is gonna require a bit of law breaking.
+
+
+Magnus: Is it a hood ornament?
+
+
+        Hurley: Nah, we got two badass ones of those already.
+
+
+Magnus: What is it?
+
+
+        Taako: Is it a door?
+
+
+        Hurley: Nope, we’ve got doors.
+
+
+        Merle: Is it sponge dice?
+
+
+Magnus: Engine?
+
+
+        Hurley: Nope, got an engine.
+
+
+Magnus: Gasoline.
+
+
+        Taako: Wheels?
+
+
+        Hurley: Gasoline, kind of. Uh—
+
+
+Magnus: Top? Like a top?
+
+
+        Taako: It’s not a car right? It’s a wagon?
+        
+Merle: It’s a wagon.
+
+
+Magnus: [laughing] Wagon gas?
+
+
+[Clint, Travis, and Justin laughing]
+
+
+Magnus: To put in your wagon engine.
+
+
+Taako: Uh, listen. I know you’re really worried about your friend right now, and I know you don’t know us really well. But let me promise you this.
+
+
+Justin: Are we out of the zone of truth?
+
+
+Griffin: Yeah, yeah. You’re far away from it.
+
+
+        Taako: Everything’s gonna be fine.
+
+
+[Clint, Travis and Griffin laughing]
+
+
+{Break from 38:05-44:10}
+
+
+Travis: Griffin, do we -- I guess I’ll roll for perception. I want to see, she seems very confident in her abilities.
+
+
+Griffin: Yeah.
+
+
+Travis: I want to see if that’s, like -- is that insight or perception to see if that’s, like, justified, or if we’re dealing with kind of a Little Rascals-esque situation here.
+
+
+Griffin: A Little Rascals-esque situation where, like, Buckwheat makes Alfalfa, like, go steal something for him? And then--
+
+
+Travis: No, where like, they think, like, “we’ve got this! We’re gonna win the big race!” But really she’s not very good.
+
+
+Griffin: I mean she seems really confident in herself.
+
+
+Travis: Okay.
+
+
+Griffin: You don’t need an insight check for that. And this wagon looks pretty badass. She tells you, uh,
+
+
+Hurley: The part that I need is a really integral component, um, you’re allowed to come up with any propulsion system you want for your battle wagon, um, and mine, it requires what’s called an arcane core. And it powers the wagon’s engines and some of its other special features -- we’ll get to those later -- but they’re a really rare commodity. And, um… Fortunately, there’s a rival group of racers called the Hammerheads. And, uh, I’ve been following their activities for a while, and they just got in a shipment. So if you can break into their garage, and get me one of these arcane cores--
+
+
+        Taako: Sure.
+
+
+Hurley: I can win you that race, and I can bring the Raven’s reign of terror to an end. Um…
+
+
+Magnus: How many of them are there?
+
+
+        Merle: You don’t care if these guys get killed, right?
+
+
+        Hurley: I do. I -- I do. You can’t --
+
+
+Clint: [sucks in breath through teeth] Aw, geez…
+
+
+Hurley: You can’t -- listen, I wish I could give you lethal authority, but I am still sworn to uphold, well, the important laws. I know I am sort of in a gray area, a little bit, but, I need you to get in there -- don’t kill anyone -- uh, and get me one of those arcane cores and then bring it back here. It might be a little bit tricky, not to kill anyone, because they’re a pretty -- they’re known for being a pretty savage group of racers out on the track? Um… they don’t take as light a touch as, as the Raven and I used to, um, but… Uh, yeah, I need you to get in there, get me one of those arcane cores, and get right back here.
+
+
+Magnus: Is this, like, a big gang, is this like, twenty people, or is this, like, we’re dealing with two or three?
+
+
+        Merle: [overlapping] Well, listen-
+
+
+        Hurley: I would say their total numbers are about ten?
+
+
+Travis: Cool.
+
+
+Merle: Well then flashback to what Taako said just a few minutes ago:
+
+
+        Taako: It will be fine. Everything’s gonna be great.
+
+
+Merle: [overlapping] Yeah!
+
+
+Taako:  Yeah, we’ll be able to handle this, no problem.
+
+
+Merle: No problem!
+
+
+Magnus: You don’t have any, like, knock out gas, or…
+
+
+        Taako: Or guns?
+
+
+        Hurley: No, I left it, no -- [chuckles]
+
+
+Merle: [overlapping] Nuclear weapons?
+
+
+        Hurley: I DO have one of those, actually. I got a fat… I got a--
+
+
+Magnus: Maybe some poison that’ll knock them unconscious and then like in two days they’ll get up-
+
+
+Hurley: No, I mean, that’s someth- I was hoping you guys would have like, the stuff you needed to do adventure the way that you like to do it.
+
+
+Taako: Do you have poison that’ll knock them out for two days and then they’ll get back up and everything looks exactly like delicious hamburgers? Because I think if we had that we would have a really good shot-
+
+
+[Clint laughing]
+
+
+Magnus: Or maybe in a donut- a donut would be good-
+
+
+Taako: A giant - a giant- ok listen what does everybody really wanna eat more than anything? Well I’ll answer that, and it’s the giant, Little Debbie oatmeal pie from Honey I Shrunk the Kids. If we could get one of those and poison-
+
+
+Justin: Honey I Shrunk the Kids, Dad, was a film starring Rick Moranis where he, shrunk, later you might be famili-
+
+
+Travis: It was also, to be fair, it was also a TV show, yeah-
+
+
+Justin: Starring Peter Scolari, yeah, uh--
+ 
+Taako: But, we get a giant one of those that’s poisoned and like that would be, that would work too, like a poison knockout poison, two day knockout poison-
+
+
+Magnus: I think the way to go is, like definitely poisoned food of some sort.
+
+
+        Hurley: I don’t really have anything like that-
+
+
+Magnus: Uhh, is there a catering company that we could hire?
+
+
+        Hurley: Are you guys just hungry?
+
+
+        Merle: Kinda.
+
+
+Magnus: I have formulated a plan.
+
+
+Clint: Oh boy.
+
+
+Magnus: Here’s what we need from you, Hurley.
+
+
+        Hurley: Hit me.
+
+
+Magnus: We need something that they might be interested in buying. We can present ourselves as peddlers, that are trying to sell to them some component they might need to get us in.
+
+
+        Merle: Yeah- haha..
+
+
+        Taako: Yeah, rogue-- rogue traders right.
+
+
+Magnus: Yeah, something, something to get us in the door. And then we can acquire the- the part you need much easier, while two of us distract them.
+
+
+Hurley: I mean, I have a few parts leftover from these uh, from these cars that I‘ve stripped for parts, um. I g- I guess you could give that a shot. Um, I got a- I got this harpoon gun, I got a uh, a cannon. I guess you could all kinda load those up in one of these wagons and just push- push it right over there.
+
+
+Magnus: Is that next door?
+
+
+        Hurley: I mean the mo- the most- no it’s um, it’s a few blocks away.
+
+
+Magnus: Ugh.
+
+
+Hurley: The most valuable thing I’ve got is this battle wagon but there’s no way I’m gonna risk that.
+
+
+        Taako: That makes sense.
+
+
+        Merle: Let’s challenge em to a race.
+
+
+        Taako: What if we raced em?
+
+
+        Hurley: I- I don’t have any-
+
+
+        Taako: Like raced ‘em for pinks!
+
+
+Hurley: I don’t have anything to race them with right now, this one’s not running-
+
+
+        Taako: You got the battle wag--! Oh, this one doesn’t work. Right.
+
+
+        Hurley: Yeah, you, you mean like a foot race? [laughter]
+
+
+Taako: Can you- just disassemble this battle wagon and make a shittier one. [laughing] That doesn’t need this part.
+        
+Magnus: Clearly we’re not, uh, pushed on time.
+        
+        Hurley: Yeah, um, I mean-
+
+
+        Taako: [laughing] We can montage it.
+
+
+Hurley: They’re pretty formidable racers themselves, I doubt that they’re gonna be pushovers.
+
+
+Magnus: I did think my plan was pretty good.
+
+
+        Hurley: Which one was yours? Was yours the foot race?
+
+
+Magnus: No, mine was the one where we pretend to be traders.
+
+
+        Hurley: Oh yeah.
+
+
+        Merle: Undercover parts salesmen.
+
+
+Taako: Yeah. You- you don’t think there’s anything they’d wanna trade for?
+
+
+Hurley: I mean you could give it a shot, I don’t- I don’t know their- their business practices. They like their weapons, so if they were going to trade for anything it might be that. But these arcane cores are really really valuable, I doubt they’d wanna just do a fair trade with you. They’re also known for, they’re also-
+
+
+        Merle: We’re not talking about a fair trade.
+
+
+        Taako: Yeah, a really unfair trade.
+
+
+Hurley: These are a pretty violent bunch, there’s no guarantee that they won’t just jump you and take those parts for themselves.
+
+
+        Merle: [laughing]
+
+
+Taako: Hey, uh I have an idea. Merle do you think, do you think they may need religion?
+
+
+        Merle: [gasp] Why-
+
+
+Hurley: I think, I think I’m just gonna go ahead and jump in. Right here. Cut you off at the pass. I very, I very much doubt it.
+
+
+Magnus: Well, you don’t know what’s in their hearts.
+
+
+        Hurley: That is true.
+
+
+        Taako: Let Merle take a second to share the good word.
+
+
+        Merle: Let me just tell you about Pan.
+
+
+        Hurley: I’m good.
+
+
+[Justin laughing]
+
+
+Magnus: I have another- I have another idea.
+
+
+Clint: Are we roleplaying within roleplaying?
+
+
+[Justin laughing]
+
+
+Hurley: This is gonna be great. Why don’t the three of you each try your own thing and it’ll be like a little, like a little contest.
+
+
+Taako: Wait a minute this is, this is perfect. Yes, that is what we will do. [Griffin laughs] What we will do- we have three- we have three different approaches and we are each going to try our three different approaches on the Hammerheads.
+
+
+        Merle: Excellent! Yes!
+
+
+Magnus: Okay, mine involves me getting beat up.
+
+
+Griffin: Okay, exterior, night. What are, what are the three, y’know what just, I don’t wanna hear what the approaches are, we’ll just, you tell me who wants to go first.
+
+
+Travis: [crosstalk] I would like to go first.
+
+
+Clint: [crosstalk] I’ll go first.
+
+
+[Justin laughing]
+
+
+Griffin: Okay, so exte- exterior-
+
+
+Justin: [interrupting] I want Merle to go first, I’m more excited about Merle’s.
+
+
+Griffin: Okay, exterior, night. Uh, you uh- the three of you, are uh, congregated around the corner from the entrance to the hideout of the Hammerheads, a savage racing crew whose headquarters you are attempting to infiltrate. Um- and uh, keep in mind that you are- have been forbidden by Hurley to kill anybody.
+
+
+Clint: Well, she can forbid all she wants.
+
+
+Griffin: The uh, the Hammerhead headquarters is uh, surrounded by a twelve foot scrap metal reinforced wall with uh, twin spirals of barbed wire at the top of it. There’s a large imposing gate in the middle of the wall on the street that you are peeking out onto and there are two ruffians holding- two human ruffians holding large clubs, chatting with each other idly by this gate. And then, adjacent to the gate, poking right out of the tall metal wall is a booth with a glass window looking out onto the street and inside you see a third ruffian.
+
+
+Travis: Okay.
+
+
+        Merle: Alright.
+
+
+I walk up to the two ruffians.
+
+
+        Merle: Hello friends!
+
+
+Ruffian 1: [In a high-pitched Brooklyn accent] Hey uh, hold it right there buddy. Hey! Hold it right there buddy! Don’t come any closer, we’re doin’- we’re doin’ important business.
+
+
+Ruffian 2: [In a similar but higher-pitched voice] Yea we’re doin’ important business!
+
+
+The second one says.
+
+
+[Travis laughing]
+
+
+        Merle: You Bowery Boys-
+
+
+Travis: The first guy who talked is the lowest voiced character Griffin’s gonna do out of all these ruffians.
+
+
+Griffin: Yes.
+
+
+[laughing]
+
+
+Merle: Those are pretty impressive clubs. But let me tell you about my impressive club, the club of Pan. The club of Pan-
+
+
+        Ruffian 1: What is that- is that like some sort of bread?
+
+
+Merle: No no, it’s like, it’s like a wonderful beautiful place where you will spend eternity. Do you know where you’re gonna go after you die?
+
+
+        Ruffian 1: Uh- I’ll never die! I’m too, I’m too strong!
+
+
+        Ruffian 2: Yeah he’s real strong!
+
+
+[Travis laughing]
+
+
+Travis: My mommy told me I’ll never die!
+
+
+        Ruffian 2: He’s real strong!
+
+
+        Ruffian 3: Hey uh, hey!
+
+
+Griffin: Third guy in the booth uh says,
+
+
+Ruffian 3: Hey bud, why don’t you scram. We uh, we’re doin’ business here, okay? We don’t wanna hurt you, you seem like a nice enough, lil, lil bloke, why don’t you get out of here and we-
+
+
+Merle: Well, that’s very nice. I’m here on business too, the business of saving your souls.
+
+
+Ruffian 3: They’re pretty safe already. I’m- I’m pretty cool with how my soul is-
+
+
+        Ruffian 2: Yeah me too!
+
+
+        Ruffian 1: Yeah me too, uh so uh, why don’t you sk-
+
+
+        Merle: You really think so?
+
+
+Travis: Griffin, it’s traditional I-
+
+
+Merle: Let, let me tell you something, you don’t know, you don’t know what’s coming down the road. Someone could, try to poison you! Someone could try to rob you! Someone could try to kill you! Someone could run a train right into this building. [Justin laughs] Wouldn’t that be terrible? And then, where you gonna be? Under the train is the answer.
+
+
+Travis: Griffin I don’t wanna tell you how to do your job but most of the time DMs will let people roll instead of just trying to bullshit their way through scenes.
+
+
+[Laughing]
+
+
+Griffin: No I don’t, no I don’t wanna do anything to get in the way of this. 
+
+
+Ruffian 1: Um so wait are you, are you gonna try to run a- is someone gonna try to run a train through here? What’s- is someone gonna try to poison us?
+
+
+Merle: There- there is a chance of all of those happening. It’s a wicked world. Do you know how-
+
+
+[Laughing]
+
+
+Travis: Wait are you an insurance salesman, or a religious figure?
+
+
+[More laughing]
+
+
+Griffin: Listen- listen-
+
+
+Clint: Yes I am.
+
+
+Ruffian 1: I- I’ve heard a pitch like this before but like- most of the time it’s like, cut- cut your wicked ways, not like God’s gonna kill ya with a train. Cuz where’s a train gonna come from?
+
+
+Merle: Oh, listen, let me tell you something, let me tell you something. Out there in the world there are all kinds of- of bad, bad people, miscreants. Just when you think you’re the evilest, most powerful, wickedest person out there, there’s people right outside your door, right out there in the dark, who are going to come in and take everything you have. And then where will you be? Dead! That’s where you’ll be. Are you catchin’ my drift yet boyo?
+
+
+Ruffian 1: I think your drift is that you’re gonna try an’ kill us with a train or something, I- I gotta tell ya, I’m kinda startin’ to pick up what you’re puttin’ down and I’m not sure I like the smell of your jib.
+
+
+Merle: Let me, let me point you, look. Look up in the-
+
+
+Travis: I elbow Taako.
+
+
+Magnus: Did he not wash his jib before we- [laughing]
+
+
+Merle: Allow me to show. Now if you look, you will see right down there-
+
+
+Clint: And just then I use thaumaturgy-
+
+
+Griffin: Uh- to make a train?
+
+
+Clint: To make a loud sound of a train at the other end of the street.
+
+
+Ruffian 1: Holy shit this guy’s not kiddin’ he’s got some sort of train powers!
+
+
+Merle: Now I would like to help you guys avoid that train!
+
+
+Ruffian 1: Wh- what are you gonna do?
+
+
+Ruffian 2: Yeah tell us what do we have to do, we’ll do anything!
+
+
+Merle: You gotta run like crazy-shit.
+
+
+Ruffian 1: Well, uh- you don’t wanna convert us to uh, your- your bread religion?
+
+
+Merle: Yeah, I’ll- you go ahead and run, I’ll catch up to ya, and I’ll give you one of these Extreme Teen Bibles that I’m holding in my hand, right- in just a few minutes.
+
+
+Ruffian 3: Wow that’s a cool lookin’ Bible, unfortunately I-I like my current religion I’m affiliated with- I’m a Lutheran- so I’m gonna stick with that.
+
+
+[Travis laughing]
+
+
+Merle: Woah! Woo-Woo!! Don’t’cha hear that?- Woo-woo! - Oh it’s gettin louder!
+
+
+Ruffian 2: Guys you can stay here if you want I’m gettin the hell out of here.
+
+
+And the uh, the littlest one, standing outside by the gate scampers off. And his- his bigger, uh, uh, counterpart that was standing there, yells uh-
+
+
+Ruffian 1: Hey Jerry get back Jerry- Oh Jerry. Ugh, Jerry’s really afraid of trains, you’ve really spooked him. Why don’t you get out of here bud, you’re startin’ to pester us.
+
+
+Merle: Alright Jerry- Jerry just ran away? Oh.
+
+
+Ruffian 1: Yea, my name’s not Jerry-
+
+
+Merle: He left his wallet.
+
+
+Ruffian 1: It’s [speaking slower] Jerry-yy...
+
+
+[Travis laughing]
+
+
+Merle: Jerreeeee? Is that with two e’s at the end?
+
+
+Jerreeeeee: Six.
+
+
+Travis: It’s italicized.
+
+
+Merle: Jerreeeeee, y’know, Jerreeeeee, people, people who need people are the luckiest people in the world, what are you-
+
+
+Griffin: He uh, grabs his club, he grabs his club with two hands and starts to walk towards you.
+
+
+Jerreeeeee: Bud, I’m not kidding. You gotta get out of here. I smell somethin’ funny and I think it’s your jib, get out!
+
+
+[laughing]
+
+
+Clint: I run! I run so far away!
+
+
+Griffin: Okay, alright, he chases- he
+
+
+Merle: I gotta return Jerry’s wallet, Jerry!
+
+
+[Travis and Griffin laughing]
+
+
+Griffin: He chases you down the street a little bit and then stops and returns to his post.
+
+
+Travis: Okay, Magnus waits an appropriate amount of time until everything calms down. I walk up to the gate.
+
+
+Magnus [loudly]: Hello! I would like to join your gang, please.
+
+
+Jerreeeeee: Okay, you gotta pay- the dues, you gotta pay your gang dues and that’s-
+
+
+Magnus: How mu- how much would that be? What’s the going rate for a gang? Is it a monthly thing, do I need to like pay up front?
+
+
+Jerreeeeee: Oh, it’s, there’s no subscription service, just a one time fee of ten thousand. Ten thousand up front. Then you, you get in.
+
+
+Magnus: Ten thousand what now?
+
+
+Jerreeeeee: Goldens.
+
+
+Magnus: I’ve got this fish, I don’t know if that helps.
+
+
+[Clint laughing]
+
+
+Jerreeeeee: Oh, let me see him, let me- can I hold him?
+
+
+Magnus: Well, you can see him with your eyes.
+
+
+Jerreeeeee: Oh, no let me hold him, listen I’ll, listen, I’ll give you access to this gang, you just gotta give me that fish forever.
+
+
+Magnus: I’m sorry, I can’t do that but-
+
+
+Jerreeeeee: Why would you tea- why would cocktease me like that-
+
+
+Magnus: - I can tell you where to get other fish like this. I’ve got a guy. I got a fish guy. He can set up your whole gang with fish. If you let me in the gang, I will hook you up with my guy on LinkedIn, and-- sorry, ChainLinkedIn, and you can, you can get in there and get all the fish you want. 
+
+
+Jerreeeeee: It’s a nice offer, um, the problem is I see your fish-
+
+
+Magnus: Mmhmm...
+
+
+Jerreeeeee: - and I like him.
+
+
+Magnus: Yeah.
+
+
+Jerreeeeee: I think I love him? A little bit?
+
+
+Magnus: Oh, I get that. I get that. He has that effect on people, Steven is very charming.
+
+
+Jerreeeeee: I tell ya what- why don’t-
+
+
+Justin: Hey, just to clarify, just so I’m clear on this, we’re watching right, the other two are watching right, like we can see, we’re-
+
+
+Griffin: Yeah.
+
+
+Justin: Okay, good, I just wanna make sure.
+
+
+Griffin: Um, he says
+
+
+Jerreeeeee: I’ll tell ya- I’ll tell ya what you can join the gang, and then I’ll get the fish Monday, Wednesday, and Friday.
+
+
+Magnus: What is today?
+
+
+Jerreeeeee: Mmm, today is a Thursday.
+
+
+Magnus: Okay, I like this so far.
+
+
+Jerreeeeee: How do you not know what day it is?
+
+
+Magnus: Y’know, I’ve been very busy.
+
+
+Jerreeeeee: I get that. Sometimes time just sort of slips away from you.
+
+
+Magnus: Ah, tell me about it. You don’t have that 9 to 5, y’know what I mean? And pretty soon it’s like, wh- what even day is it without the weekly board meetings.
+
+
+Griffin: The guy in the booth yells,
+
+
+Ruffian 3: Hey Jerreeeeee, I don’t think the boss would like you uh, lettin’ members into the gang without consultin’ with him first.
+
+
+Magnus: I’m happy to meet with this boss.
+
+
+Jerreeeeee: Uh, I te- I tell ya what why don’t you -
+
+
+Griffin: This is Jerreeeeee, Jerreeeeee talking. Says uh,
+
+
+Jerreeeeee: I tell you what why don’t you let me go inside and I’ll check with the boss. You stay here, I’ll go inside and check with the boss and uh, we can uh, we can move on from there.
+
+
+Magnus: Sounds great!
+
+
+Griffin: He uh, he goes in, he uh, the guy in the booth flips a switch and a small opening in the gate opens up and the guy goes in. And then the guy in the booth flips the switch again and the door shuts and now it’s just you and the guy in the booth.
+
+
+Travis: I look at the guy in the booth and I say,
+
+
+Magnus: Oh wait, did he say Thursday?
+
+
+Ruffian 3: Yea, Yeah, he says Thursday it’s Thurs- are you drunk? It’s Thursday!
+
+
+Magnus: Oh sorry! I will be right back if he comes back before I get back tell him, I’ll, ten minutes tops I’ll be right back.
+
+
+Ruffian 3: Okay, the boss is gonna be pretty miffed if you-- if he comes out and you’re not-
+
+
+Magnus: Ten, literally like ten minutes, ten- ten minutes.
+
+
+Ruffian 3: Alright.
+
+
+Travis: I run back to Taako and Merle.
+
+
+Magnus: Okay I took out another one. One left, Taako. Taako there’s one left you got this.
+
+
+Merle: Go, do your magic.
+
+
+Justin: Okay, I uh, out of sight of the guards, cast Disguise Self, on me, to look exactly like Jerry.
+
+
+Clint: Ohhh, brilliant.
+
+
+Justin: You gotta say that into the mic, Dad - I want it recorded for posterity.
+
+
+[Travis laughing]
+
+
+Clint: [into the mic] Ohhh, brilliant.
+
+
+Justin: There we go.
+
+
+Griffin: What is- what is this spell? What is-
+
+
+Justin: What?
+
+
+Griffin: What is this spell, I’ve never heard of it.
+
+
+Justin: Uh, Disguise Self lets me alter my appearance, to look like whatever, uh for an hour, uh I can only, uh there are some limitations on it, uh what is Jerry by the way, what is his-
+
+
+Clint: Human.
+
+
+Griffin: He’s a hu- hue-man.
+
+
+Clint: Now we’re talking Jerry not Jerreeeeee.
+
+
+Griffin: Little Jerry. Little Jerry, afraid of trains.
+
+
+Justin: Yeah, Little Jerry afraid-of-trains, including my clothing, armor, weapons and other belongings on my person look different until the spell ends until I dismiss it. Uh, I can seem one foot shorter or taller, or can appear thin, fat or inbetween. Um—
+
+
+Griffin: Mmkay.
+
+
+Justin: Uh, so I- I saw Jerry that’s why I wanted to clarify that we were watching this.
+
+
+Griffin: Ahhh, okay.
+
+
+Justin: I change myself to look exactly like Jerry.
+
+
+Griffin: Mmkay.
+
+
+Clint: And to help sell it, I come walking back with my hand on Jerry patting him on the shoulder,
+
+
+Merle: Well I found him, I talked him into coming back! Here’s your wallet, Jerry.
+
+
+Taako [as Jerry]: This a real smart guy see. But listen guys now I gotta take a poop.
+
+
+[laughing]
+
+
+Griffin: What?
+
+
+Taako [as Jerry]: Y’know like a poop, like a real emergent poop.
+
+
+Merle: That’s why I brought you back, old buddy.
+
+
+Taako [as Jerry]: Hey listen man I really appreciate it. You guys should listen to this guy, he’s a smart fella. I gotta take a poop.
+
+
+Ruffian 3: I get, well I get that why can’t y-- you know we don’t have a bathroom in the garage that would be disgusting.
+
+
+[laughing]
+
+
+Taako [as Jerry]: Let me into the garage, well of course, 
+
+
+Justin: Okay that doesn’t make sense, they were doing a lot of work in there they would need some sort of place to poop.
+
+
+Ruffian 3: I don’t know what to tell you, bud, we don’t got a bathroom. I don’t know what to tell you, bud.
+
+
+[Travis laughing]
+
+
+Travis: The bathroom’s for customers only.
+
+
+Ruffian 3: You should know this, you work here, you know we don’t got a bathroom, I-
+
+
+Merle: You know when you have to really really really really poop you don’t really think straight.
+
+
+Taako [as Jerry]: Listen I gotta really poop, but I- I left my t.p. In the garage.
+
+
+Ruffian 3: Do you need, listen do you need, listen to me, Little Jerry, you’ve always been my favorite, do you need me to take you, and don’t be afraid, and don’t be embarrassed because we’ve all been there, but do you need me to take you to the, to the john?
+
+
+Taako [as Jerry]: Is it inside the garage?
+
+
+Ruffian 3: It’s not inside the garage, I can-
+
+
+Griffin: He, uh, he opens up the door to the booth and walks outside. He’s like,
+
+
+Ruffian 3: Give me your hand, I’ll walk you to the john. We’ll just go and we’ll take care of your business and we’ll be back before the boss knows we’re gone.
+
+
+Clint: And you could poop.
+
+
+Taako [as Jerry]: S- Sounds great.
+
+
+Ruffian 3: Kay, come with me.
+
+
+Griffin: He says.
+
+
+[Everyone laughing]
+
+
+Justin: Come watch me poop.
+
+
+Travis: Merle, clobber him.
+
+
+Justin: I gotta roll to see if I have to poop cuz I need to make this look real. Constipation check.
+
+
+Griffin: Uh, this would actually be a bluff check, thank you for reminding me, Justin. Okay.
+
+
+Justin: Aw, shit.
+
+
+Griffin: Yeah, exactly.
+
+
+Justin: Which part? The part that I’m Jerry or the part that I have to use the bathroom very bad?
+
+
+Griffin: Just this whole situation, I think you’re bluffing, like, six different ways. He’s gonna roll an insight check to contest.
+
+
+Justin: Uhh, yes..
+
+
+Griffin: He rolled a 14.
+
+
+Justin: Well, I’ve got a, what’s the adjusting stat on that? Bluff...
+
+
+Travis: Yeah, there’s no bluff Griffin.
+
+
+Griffin: Oh there’s not?
+
+
+Travis: No not in, not in fifth edition.
+
+
+Griffin: There’s not a lie, lying?
+
+
+Travis: Uhh, performance?
+
+
+Justin: There’s uh, deception! 
+
+
+Travis: Deception.
+
+
+Griffin: Deception, yeah that’s what it is.
+
+
+Justin: I got a 16.
+
+
+Griffin: Okay, yeah.
+
+
+Ruffian 3: Alright, come with me Little Jerry, give me your hand, don’t get lost.
+
+
+Griffin: And he starts to uh, walk off with you down, down the street.
+
+
+Clint: Towards the shittah.
+
+
+Griffin: Towards the shittah.
+
+
+[Clint laughing]
+
+
+Travis: I walk back up, and just kinda stand with Merle and go,
+
+
+Magnus: Uh, do we, should we wait?
+
+
+Merle: He left the door open!
+
+
+Magnus: I mean I know but like, should we help Taako? Is he gonna go in the bathroom with that strange man?
+
+
+Justin: And then you guys hear, you hear from your stone, that you have with you. Your farspeak stone.
+
+
+Travis: Uh huh.
+
+
+Taako [as Jerry]: Well I think this is gonna be fine, I’m not worried at all.
+
+
+[Griffin and Justin laughing]
+
+
+Taako [as Jerry]: If uh, I think that um, it’s gonna be a fine poop and I can totally handle this whole poop by myself it’s not a big deal.
+
+
+Ruffian 3: Oh Jerry, listen little Jerry-
+
+
+Taako [as Jerry]: I don’t want anybody to worry about me.
+
+
+Ruffian 3: Listen little Jerry, we’ll-
+
+
+Magnus: Well Merle, sounds like he’s fine.
+
+
+Ruffian 3: Well, Jerry, you can’t tell me not to worry about you, y’know I love you too much, c’mon.
+
+
+[Justin laughing]
+
+
+Merle: He’s got shy bowels.
+
+
+Magnus: Nope Merle, he’s gone.
+
+
+Taako [as Jerry]: I’m gone.
+
+
+Griffin: Through the stone of far speech, this is good, through the stone of far speech, Taako, er uh, Merle and Magnus you hear,
+
+
+Ruffian 3: Wait a minute, who’s that coming down the street? Wait a minute, that looks like, that looks like you lil’ J- little Jerry. What the hell is going on?
+
+
+Travis: Oh shit.
+
+
+[Theme song plays. Episode ends.]
+
+
+[Next episode]

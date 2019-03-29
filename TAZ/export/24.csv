@@ -1,0 +1,708 @@
+,episode,speaker,lines
+0,24,The Adventure Zone,
+1,24,Dungeon Master & NPCs, Griffin McElroy
+2,24,Magnus Burnsides, Travis McElroy
+3,24,Merle Highchurch, Clint McElroy
+4,24,Taako Taaco, Justin McElroy
+5,24,Episode 24 - Petals to the Metal - Chapter Seven,
+6,24,(part of TAZscripts on Tumblr),
+7,24,Griffin," Previously, on The Adventure Zone"
+8,24,Hurley," We’re- we-we’re gonna be the best racers, ever! We’re gonna have the best racing team ever! Magnus, you’re gonna be in charge of security. We’re, we're probably gonna have a lot of boarders, and I’m gonna need you to keep em off the, off the wagon."
+9,24,Travis, We're gonna have some hop-ons.
+10,24,Hurley," You win a battlewagon race by either finishing first or being the only surviving wagon by the end of the race. Um, so we're gonna need somebody who can assault the other wagons. I just want you up there, flinging your Magic Missiles. Merle, I actually have something I wanna give you. It's, it's a large black metal wrench. It's called the Adamant Spanner. And you're gonna need to use that out on the course if we take too much damage, or you know, a wheel falls off or something like that. "
+11,24,Griffin," She hands you three the, uh, harnesses."
+12,24,Hurley," If you fall off the wagon, these will automatically-"
+13,24,Travis, [over Griffin] Ugh.
+14,24,Hurley, -deploy a bubble around you-
+15,24,Griffin," -and she drives into the crate, and the door behind you lifts up and closes."
+16,24,Hurley," Remember, we got fifteen opponents, but all we have to do is beat Sloane."
+17,24,The Announcer," Get out of my dreams, and into my battlewagon! Hop in the backseat, baby! It's the Adventure Zone!"
+18,24,{1,07}
+19,24,[theme music (Déjà Vu by Mort Garson) plays],
+20,24,{1,35}
+21,24,[a loud horn sounds],
+22,24,Griffin," You hear another horn come from outside and Hurley kicks the engine into gear even before the crate door drops, and suddenly you are blinded by the sun pouring into the crate in which your battlewagon was hiding, and even as your eyes adjust you can't really see much, but you do hear a lot. You hear engines roaring uh even louder now, you hear a dust storm sort of whipping up, ar- around the starting line here, um, and then you start to see bright flashes of light moving between the different battlewagons, and before you can really fully ascertain the situation, the, the three of you are deafened by an explosion about twenty meters to your left, and after that explosion you hear another horn-"
+23,24,[a second horn sounds in the background],
+24,24,Griffin," -uh, which seemed to be emanating from these big black pylons. And then-- as soon as the, like, while you're trying to figure that out, two magic missiles fly over the car, nearly missing Taako and a spear flies just directly in front of the car and then Hurley shifts gears, and you are sort of pushed back in your seats by the acceleration, and you seem to be moving away from the pack, and then, uh, as you-- as you sort of pull away a little bit, you hear four more horns sound from the pylons,"
+25,24,[four shorter and lower horns play in succession as Griffin narrates],
+26,24,Griffin," and Hurley says, ah,"
+27,24,Hurley, Every time you hear one of those it means that we've knocked somebody out!
+28,24,Griffin, She's like-
+29,24,Hurley, We're already- we’re already five down so we're- we’re looking good!
+30,24,Magnus, [loudly] What?
+31,24,Merle, [loudly] Why are you yelling?
+32,24,Griffin," Uh, she's yelling 'cause it's super duper loud. Then you hear her yell-"
+33,24,Hurley, Damn it!
+34,24,Griffin," And as you- you look forward, you see that just a single vehicle, a tri-wheeled almost longboat with these two large black wings sort of splaying off the back, with a single racer, the- the Raven, is really far ahead of you guys. And Hurley shouts,"
+35,24,Hurley, I’ll catch up! Just keep everyone else off our tail!
+36,24,{3,51}
+37,24,Magnus, [loudly] What?
+38,24,Hurley," [louder] I’ll catch up, just keep everyone else off our tail!"
+39,24,Magnus, [loudly] What about ketchup?
+40,24,Griffin," [Amused] Um, no sooner has she said that do-you see a large vehicle approaching from the dust clouds behind you. It is a long bobsled propelled by a single, huge rocket thruster, and it’s manned by four goblins- and they’re all wearing velociraptor masks. Uhh, and three of them are clutching these large, rugged looking spears. On the front of this bobspled- [sic] uh, bobsled- is a large pronged spear, uh, that is currently rocketing towards you so let’s- let’s roll initiative and I’m gonna use your guys rolls for the rest of the- the race and just sort of drop other stuff in as we go."
+41,24,Travis, I got 17.
+42,24,Griffin, Pretty good roll.
+43,24,Travis, Thank you.
+44,24,Justin," Can I ask a question, Griffin, before rollin’? A lot of my spells descriptions are specific to, like- they specifically talk about creatures, without mentioning like- like it’s not really... Specific to like vehicles or like we’re doing right now. D- does- Would my spells still work the same, or-"
+45,24,Griffin, We’ll just take it- we’ll just take it as it goes like if you- I would say yeah you can fire a magic missile at a car. Can you charm a car? No.
+46,24,Travis, Well-
+47,24,Griffin," Can you put a car to sleep? No, you can’t. Unless it’s Knight Rider, in which case you probably could."
+48,24,Justin, Okay. He probably just has a button for that. 
+49,24,Griffin," Yeah, a sleepy-time button."
+50,24,Travis, The sleep button.
+51,24,Justin, 16. Sixteen is- is Taako’s in-
+52,24,Griffin," Oh, by the way, I should’ve mentioned this before, Merle, in front of you is a single big button that last night during the montage, Hurley warned you not to touch. It’s sort of built-"
+53,24,Clint, Really?
+54,24,Griffin, It’s built into the dashboard directly in front of you.
+55,24,Clint," Oh man, and it’s just right there, right?"
+56,24,Griffin," It is just right there, yeah."
+57,24,Travis, Don’t think about pushing that button.
+58,24,Clint, [Groans] Agh.
+59,24,Griffin, What did everyone get on their rolls?
+60,24,Clint, I got eighteen!
+61,24,Justin, Sixteen.
+62,24,Travis, Seventeen.
+63,24,Griffin, Wow!
+64,24,Travis," We’re just like, super good at rolling."
+65,24,Griffin," Okay, [sound of dice rolling] Umm, Merle, you’re up first. One thing I’ll tell you guys that may come in handy, is- is that you can delay your turn and sort of, drop yourself into the order however you want. Um, not that you have to do that, Merle, it’s just an option. Uh, so this car is about twenty feet behind your guys’ wagon and by car, I mean bobsled. Holy shit, I’m going to have to be really good about that."
+66,24,Travis, Okay so-- we gotta stop Team Jamaica.
+67,24,Clint," [laughs] Okay, alright. I am going to cast “Enhance Ability.”"
+68,24,Griffin, Interesting!
+69,24,Clint, Yeah. I’m gonna cast it on… Magnus.
+70,24,Griffin, What does this do?
+71,24,Clint," “You touch a creature and bestow upon it a magical enhancement. You get to choose Bear’s Endurance, Bull’s Strength...”  I’m gonna actually cast ‘Bull’s Strength’."
+72,24,Griffin, [laughs] I bet you- Magnus wishes you’d cast ‘Bear’s Endurance’ because he is a bear.
+73,24,Travis," I’ll take ‘Bear’s Strength.’ That’s what I’m going with, in my head."
+74,24,Clint, Alright I’ll go with ‘Bear’s Endurance.’
+75,24,Griffin, [crosstalk] Wait- Wait what do they do?
+76,24,Travis, [crosstalk] What do they do?
+77,24,Griffin, Yeah.
+78,24,Clint, Uh.. I have to look on page 237 to tell you that.
+79,24,[Griffin laughs hysterically],
+80,24,Travis," Oh no! You ran into the yeti in the cave, start over."
+81,24,Griffin," This has-- This has been [pause] the DnD Player’s Handbook audio book. [Travis laughs] Hosted by, Clint McElroy."
+82,24,Justin," What’s it called, what’s the spell called, Dad?"
+83,24,Clint, It’s called Enhance Ability.
+84,24,Griffin," It’s called “Enhands.” And what it does is, it takes your member, and it stretches it out like taffy."
+85,24,Travis, Don’t put your member in someone’s hands!
+86,24,Griffin," No, it’s like a taffy stretching machine."
+87,24,Travis, Oh.
+88,24,Clint, Okay. Uhhh.. okay “Bear’s Endurance The target has Advantage on Constitution checks.”
+89,24,Griffin, That’s probably not gonna happen.
+90,24,Clint, Alright then. “The target has Advantage on Strength checks--”
+91,24,Travis, Yup.
+92,24,Griffin, [muttering] That probably would be helpful.
+93,24,Clint, “And his or her carrying capacity doubles.” 
+94,24,Griffin, Mmkay. So you can carry-
+95,24,Travis, I pick up the car! [Griffin laughs]
+96,24,Clint, So I give him Advantage-- I give him Advantage on Strength.
+97,24,Griffin," Okay! Uhhh… Cool. You grab onto Magnus’ ankle, who I imagine--"
+98,24,Clint," I’m really gettin’ this cleric shit, aren’t I?"
+99,24,Griffin," Yeah you’re doin’ good! Uh, you- you grab onto Magnus’ ankle, he seems somewhat startled, but then he seems energized. His- his muscles just glisten in the, the hot Goldcliff sun."
+100,24,Clint, Eugh.
+101,24,Travis, I fully rock out.
+102,24,Griffin, What do you-- what do you mean by that?
+103,24,Travis," Like The Rock, he’s a-"
+104,24,Griffin, What?
+105,24,Travis," He’s a big, burly man."
+106,24,Griffin," Oh, I see, I see, I see, I see, I see, Yes, okay. His eyebrows grow three sizes and move upwards on his face about a half a foot. He’s got a lot of face. Uh, okay! Next in the order are the goblins. The first goblin, the driver goblin is not going to do anything. He’s just going to sorta driving the car. He is not really moving fast enough to catch up to ram you guys with that big gnarly looking spear on the front of the bobsled. The goblin behind him is going to run up the front of the car and try to leap onto the back of your guys’ battle wagon. [Dice roll] Uh, he made a twenty four athletics so, he-"
+107,24,Travis, Woof.
+108,24,Griffin," -effortlessly jumps. Uh, and as he is coming down, he is going to make an attack roll against Magnus."
+109,24,Travis, Okay.
+110,24,Griffin," Uh, he rolls a fifteen versus AC."
+111,24,Travis, That is not good enough and I am going to use-
+112,24,Griffin, Oh shit.
+113,24,Travis," Um, when a creature misses you with a melee attack, you can use your reaction to expend one superiority die to make a melee weapon attack against the creature. If you hit, you add superiority dice to the attack’s damage. I’m going to use Phantom Fist and push him backwards."
+114,24,Griffin, Okay.
+115,24,Clint," Push him back, push him back, waaayy back!"
+116,24,Travis," So, that’s nineteen plus seven, twenty six."
+117,24,Griffin," Okay, this guy leaps off the front of his bobsled, with a pretty enormous horizontal leap; just brings this spear down on you with one hand, but you effortlessly, like the water, sort of move out of the way of it and greet his jump with a Shoryuken uppercut, that sends him flying backwards and underneath of the bobsled that he just jumped out of-"
+118,24,Travis, [crosstalk] And everyone on the goblin cart just kinda starts crying.
+119,24,Griffin, They look a little bit grim. The two goblins behind him are going to throw spears at you.
+120,24,Travis, Okay.
+121,24,Griffin, First one rolls... a 19.
+122,24,Travis," Uhh, oh shit, just hits."
+123,24,Griffin," And the second one, [dice rolling] rolls a 12, not gonna do it."
+124,24,Travis," Not gonna do it. And I also just remembered I have Fletcher's fist. It's still a miss, but I'm very excited about my Fletcher's Mitt."
+125,24,Griffin," Oh yeah, I forget what that does."
+126,24,Travis, +1 AC vs ranged.
+127,24,{10,45}
+128,24,Griffin," Oh yeah. Uh, you take, fiiive... [dice rolling], teeeen- 14 points of damage from that spear."
+129,24,Travis," Uuh, is it worth it to use another one and use, uh, my-"
+130,24,Griffin," I'm going to say just in the interest of moving things forward, no."
+131,24,Travis, No? Okay. So I take fourteen?
+132,24,Griffin," 14 points of damage. Uhh, and that is it for the gerblins, next up is Magnus."
+133,24,Travis, Cool.
+134,24,Griffin," You are strapped into this railing, these two railings going across the top of the car, you’ve just offed one gerblin."
+135,24,Travis," Okay, I- I’m going to aim an arrow at another gerblin."
+136,24,Griffin," Okay, which one? The driver or one of the two spear-throwers?"
+137,24,Travis, The driver.
+138,24,Griffin, Okay.
+139,24,Travis," [dice roll] That's probably not gonna hit, that's a twelve?"
+140,24,Griffin," Yeah, that's not gonna do it. You fire an arrow at the driver of the car, but it sort of just bounces off the- he's got like a little- a wittle windshield that it just kinda glances off of. Um, next in the order is... Taako."
+141,24,Justin," Something's unclear to me. Are these like encounters that we need to, like, defeat these people or is there a chance we can just go faster than them, like what, cuz we're not involved at the racing aspect of it?"
+142,24,Griffin," [crosstalk] You're not involved at the speed- yeah don't worry about the speed part of it. Unless you can like figure out a way to slow their car down, like you can affect it that way, but you're not gonna be able to make your car go faster."
+143,24,Justin," Okay, got it. Um, what are- what are the wheels of this thing looking like?"
+144,24,Griffin," There are no wheels, it just got these two sort of rails underneath it, and it has this gigantic engine thruster behind it."
+145,24,Justin, Okay.
+146,24,Griffin," Like a-- it’s almost like a-- it's almost like a rocket, like one of those land speed setting rockets. And it's got a big ol' spear on the front of it."
+147,24,Justin, Oh is it like a rocket?
+148,24,Griffin," Kind of, yeah."
+149,24,Justin, Is it bobsled shaped?
+150,24,Griffin," Yeah it's a bobsled-like, there, there was a row of four dudes inside of it like a bobsled."
+151,24,Justin, Okay.
+152,24,Griffin, Yeah.
+153,24,Justin, How much would you guess it weighs?
+154,24,Griffin," [laughs] I don't know, Justin, maybe like a ton? Like a- naw, half a ton? Maybe half a ton?"
+155,24,Justin," Half a ton? Maybe even half of that, if you think about it."
+156,24,Travis," Yeah I would say that's like, 500 pounds."
+157,24,Justin, 400- 499 maybe even.
+158,24,Clint," Well, cuz they have to have- they have to be light for the speed."
+159,24,Justin," Yeah, well that's-that’s my point dad."
+160,24,Clint, In the chicanes.
+161,24,Griffin," Well I guess it would be f- fiberglass, we’ll say 499."
+162,24,Justin," 499. Okay, I cast levitate."
+163,24,[Clint laughs],
+164,24,Griffin, Okay.
+165,24,Justin, On the bobsled.
+166,24,Griffin," Okay, so what is the, okay. Alright. So what does that mean. That well- no no no, cuz you can- they have to resist. They can- an enemy resists being levitated, right?"
+167,24,Justin, I'm not- I’m not levitating them; I'm levitating their sled.
+168,24,Griffin," Okay, yeah well you got me there."
+169,24,Justin, If you can tell me how a sled resists levitation...
+170,24,Griffin," No, you got a great point. Um, so what does that mean?"
+171,24,Justin," Uh, okay so... you don't know what levitate means?"
+172,24,Griffin," No the spell, what does it mean? I'm trying to figure out what this is gonna do to this bobsled."
+173,24,Justin," Okay right so, ""One creature or object of my choice that I can see within range, rises vertically up to 20 feet, and remains suspended there for the duration. This spell can levitate a target that weights up to 500 lbs. An unwilling creature, blah blah blah blah blah."""
+174,24,Griffin, Okay.
+175,24,Justin," ""A target can move only by pushing or pulling against a fixed object or surface within reach, which allows it to move as if it were climbing. You can change the targeted altitude by up to 20 ft or the direction on your turn. If you’re the target, you can move up or down as a part of your move."" So, I'm going to levitate it, but I'm going to change the direction of the front of the vehicle, so it's just going up."
+176,24,Griffin," You can do that, you can choose which part, of-"
+177,24,Justin," Uh, well I can change the target's altitude by up to 20 ft, so it's just the-"
+178,24,Griffin," [crosstalk] Yeah, yeah it's just the altitude. Okay here's- here’s how we're going to resolve this, 'cus I love it. Uuh, you levitate this bobsled, with its three riders inside of it. And it- it comes off the ground. And you see the driver start to like try and twist the wheel around, but it’s just sort of changing the sort of slant of the rails underneath of the car. And everybody inside starts to panic. One of the spear thrower raptors just jumps off the back. And you see his bubble, this bright blue bubble surround him as he disappears into the dust. And the- the bobsled is actually picking up speed, because it doesn't have any friction sort of stopping it anymore? Um, and the spear on the front of the car sort of leaves a supervic-- superficial gash in the, uh, in the rear of your battlewagon, very narrowly missing Magnus. As it sort of digs into that pivot point, though, the car just starts flipping and spinning wildly, and you see it disappear into the dust, throwing both of its riders, uh, into, into the storm."
+179,24,Justin, Cool.
+180,24,Travis, That’s- that’s- that was pretty hot. I liked that a lot.
+181,24,Clint, So the whole killing embargo is more or less over?
+182,24,Travis," No it's- 'Ay, no holds barred on the racetrack."
+183,24,Justin," No they have the- they have the safety harnesses, just like us, right? They’ll be fine."
+184,24,Griffin," Yeah, everyone's got a safety harness."
+185,24,Clint, [makes bounce noises]
+186,24,Travis, It’s game day.
+187,24,[general bounce noises],
+188,24,Justin," It's game day, son."
+189,24,[laughter],
+190,24,Griffin, Hurley- Hurley looks backwards at the scene when she hears the- the car get run into and goes
+191,24,Hurley, [shouting] That was TIGHT!
+192,24,Griffin, and uh-
+193,24,Magnus, WHAT?
+194,24,Griffin," -Shifts gears and uh, moves forward even faster. Um, uh, you handled that in a very unexpected way. Uh, uh, you guys get about... [blows a raspberry] 30 seconds of sort of silence, as you’re moving faster. Not- not complete silence, you hear a horn blast [horn sound] -as you send the rocket bobsled spinning off into the air. That was the sixth horn. Um, and you get a little bit of dead time, until you hear this- this grinding, roaring sound coming to sort of back, and to the right of you. And out of the dust storm behind you, you see another vehicle come through. And- and before you actually see it, you see its shadow, and it's towering. It's- it’s gigantic. It's like, it's like 40 feet tall. And as it sort of makes its way out of the dust storm, you see it almost like, a single giant wheel. Like a giant wooden water wheel, almost, with these big iron rivets in it. And inside of the wheel is this static, circular chamber, and inside of that chamber are two pilots. Uh, they are these really stout looking dwarves, and they're wearing gerbil masks."
+195,24,[Clint loses it],
+196,24,Griffin," And uh, they-a, they..."
+197,24,Clint, [crosstalk] And they're running like crazy!
+198,24,Griffin," No they're not, they're not running, they're just sort of, they’re just sort of driving it. But you do get the right idea and I appreciate that."
+199,24,[Clint still laughing],
+200,24,Griffin," Uh, and they pull up-"
+201,24,Travis, [crosstalk] What’s it made out of?
+202,24,Griffin," Uh, it’s made out of wood and these biiig iron rivets."
+203,24,Travis, Great.
+204,24,Griffin, Not tree wood.
+205,24,Travis," Aw, dammit."
+206,24,Griffin," I’ve explained this to you before. It only works on trees, not all wood forever."
+207,24,Travis, All wood was trees.
+208,24,Griffin," That’s - I can’t argue with that. [dice rolling] And they are going to roll initiative. Uh, who was the last person to go?"
+209,24,Travis," [crosstalk] Uh, the goblins."
+210,24,Justin, [crosstalk] It was me.
+211,24,"Justin, Travis", It was Taako.
+212,24,Griffin," Cool. First in the order is Merle. Uhm, Merle, so far the car is roughly undamaged? There’s a bit of a gash in the- in the back of the car, um-"
+213,24,Travis, [crosstalk] Magnus just licks his thumb and rubs it out. And it goes away.
+214,24,Griffin," -Uh, you’ve got, you’ve got four charges left on your Adamant Spanner that you can use to heal the car."
+215,24,Clint, Okay. Um-
+216,24,Griffin, But you don’t have to do that. You can do whatever you want.
+217,24,Clint, Okay.
+218,24,Griffin," Uh, the wheel is-- the wheel is to your right, and it’s about- it’s actually about a pretty good distance away. It’s about- it’s about 30 yards away."
+219,24,[pause],
+220,24,Clint, I wanna cast Healing Word on Magnus.
+221,24,Griffin, Okay.
+222,24,Travis, Cool!
+223,24,Clint," Um - so, I roll a d4 and I add my spellcasting. [quietly, to Justin] Do you have your d4?"
+224,24,Justin, It’s the pyramid.
+225,24,[dice rolling],
+226,24,Clint," Uh, okay. Uh, 4."
+227,24,Justin, Nice!
+228,24,Clint," And I add 6 to that, so that gives Trav 10 points of healing."
+229,24,Travis, I love that.
+230,24,Clint," And I do it with a sage look in my eye and a little glint, and then I give him a Werther’s."
+231,24,[laughter],
+232,24,Justin, What uh-
+233,24,Griffin, [crosstalk] Okay.
+234,24,Justin, What uh - this is a level of competent and responsible play I’m not used to from this group.
+235,24,Griffin, [crosstalk] [laughs] I know!
+236,24,Clint, Oh don’t worry!
+237,24,Travis, We’re doing like - good?
+238,24,Clint, [crosstalk] We’ll work our way out of it.
+239,24,Griffin, Uh- alright-
+240,24,Travis, [crosstalk] Don’t jinx it.
+241,24,Griffin, Next in the order is Magnus.
+242,24,Travis," Okay. So, at this point - I think I’m just gonna ready an action and just be ready to like, repel boarders. So just like, ready a Phantom Fist attack-"
+243,24,Griffin, Okay!
+244,24,Travis, - if somebody jumps on.
+245,24,Griffin," Yeah, you can do that. Uh, next in the order is the pilots of the wheel. The Wheel-"
+246,24,Clint, [laughs] Sounds like a Robert Jordan book.
+247,24,Griffin," It does kind of! You guys see The Wheel start to change directions, and it’s-- it changes directions much faster than you thought something of that size could possibly do. And it rolls directly toward your battle wagon, and then it rolls over it."
+248,24,Justin, Oh.
+249,24,Griffin," So Magnus and Taako, uhh, it sort of rolls directly over, uh, sort of, the back of the, the- the roof. So you two are gonna need to make dexterity saving throws."
+250,24,[dice rolling],
+251,24,Travis, [softly] Okay.
+252,24,Justin, [softly] Oh! [louder] 20!
+253,24,Griffin," 20 - Okay, uh, Taako you duck down in the back seat."
+254,24,Justin, ‘Kay.
+255,24,Travis, I rolled an 18.
+256,24,Griffin," An 18, okay. You leap backwards and the straps on your harness catch you on the back of the rails - you’re sort of leaning at like a 45 degree angle over the open road, as this wheel rolls over the battle wagon and just sort of crumples the roof right down. "
+257,24,Clint," Okay, and, uh, I’m, I’m- I’m serious, help me visualize this- They’re rolling across us?"
+258,24,Griffin, [crosstalk] Yes they’re sort of rolling-
+259,24,Clint," - In the middle, or over the, over the, over the-"
+260,24,Justin," Like, vertically? Or-"
+261,24,Griffin," Oh, they’re sort of cutting a line sort of horizontally across the middle of the car."
+262,24,Justin," [crosstalk] Okay, okay."
+263,24,Griffin," Sort of crumpling the- the uh, almost exactly where Taako’s, uh, little hidey hole was? It just sort of rolls right over that-"
+264,24,Travis," Griffin, I would like to use my readied action."
+265,24,Griffin," Uh, okay. This is a gigantic wheel, it’s not gonna do-"
+266,24,Travis," No, no I gotchu. Can I - can I switch out my readied action and use, like, a different action?"
+267,24,Griffin," No, no you can’t. Once you - once you- you can’t-"
+268,24,Travis, [crosstalk] Aww.
+269,24,Griffin," So Taako, you, you are-"
+270,24,Travis, [crosstalk] So nevermind.
+271,24,Griffin," Uh, you are gonna have - Taako, you’re gonna have disadvantage on any ranged attacks you make while your little hidey hole is- is crumpled down."
+272,24,Justin, Okay.
+273,24,Griffin," But you’re not really gonna be able to, like, get out of it."
+274,24,Justin, But I can’t- Okay.
+275,24,Griffin," And the wheel rolls completely over your car, uh, you hear Hurley yell an expletive from the front seat, and now it sort of steadies itself about 30 meters to your left. Or no, it’s actually a little bit closer, a little bit closer- It’s about-"
+276,24,Clint, What was the expletive?
+277,24,Griffin," -It’s about 35- or 30 feet to your left. The expletive was “shit!”, Dad."
+278,24,Clint," Okay. Okay, that’s kinda her go-to word."
+279,24,Griffin," Yeah. Uhhhh, it is very good that the two of you dodged that. Next in the order is, uhhh, Taako. Taako, you are sort of in the backseat, your- your hole, your hidey hole is uh, is in a state of disarray, ummm, and it is your turn."
+280,24,Justin," So- you said that, like, ranged attacks - but like- "
+281,24,Griffin," Anything you have to make a ranged attack roll on, is gonna have disadvantage."
+282,24,Justin, Okay.
+283,24,Griffin," Uh, the wheel I’m going to go ahead and tell you, is much much heavier than the bobsled, so- if-"
+284,24,Justin," Like, like if- you had to make a saving throw, but it’s just a saving throw it’s-"
+285,24,Griffin, Yeah that’s not an attack.
+286,24,Justin," Okay, great- I’m gonna cast Crown of Madness on-"
+287,24,Griffin, [crosstalk] What?
+288,24,Justin, -whichever one is not obviously steering the vehicle.
+289,24,Griffin," Uh, okay- I mean-- they, they, I don’t wanna-"
+290,24,Justin, Are they working in tandem?
+291,24,Griffin," Yeah, it’s almost like a, uh, Pacific Rim style thing-"
+292,24,Justin," Okay, then the one on the lay-eft."
+293,24,Griffin, ...Okay.
+294,24,[laughter],
+295,24,Griffin, What does that mean?
+296,24,Justin," Well, [chuckles] what Crown of Madness does- this is good. The Crown of Madness does, is- um, uh, first off it puts a, uh, twisted uh, crown of jagged iron across his head-"
+297,24,Griffin, [crosstalk] Holy shhit! This is some Hellraiser stuff!
+298,24,Justin, And uh - Yeah some brutal stuff.
+299,24,[Travis laughs],
+300,24,Justin," Um, and - [reading from book] what-- the charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that I mentally choose. So I’m gonna cast it on one of them."
+301,24,Griffin, And have them attack the other one?
+302,24,Justin, Yeah.
+303,24,Griffin, Okay!
+304,24,Travis, Hhhuhdope.
+305,24,Griffin," Uh, and I roll to save against this, right?"
+306,24,Justin," Yeah, and it’s a wisdom one."
+307,24,Griffin," Wisdom, okay. Well lemme come up with an imaginary- Well I’ll roll a-"
+308,24,Clint, How smart- how smart can gerbils be?
+309,24,Justin," Right? I mean, I’d figure they’d be stupes. Wicked stupes."
+310,24,[dice rolling],
+311,24,Griffin, Well it’s plus 1-
+312,24,Justin, Okay.
+313,24,[dice rolling],
+314,24,Griffin," Uh, 13!"
+315,24,Justin, Okay.
+316,24,Griffin, What’s your spellcasting saving throw? It’s- 8 plus your spellcasting modifier.
+317,24,Justin," Ummm, my spellcasting modifier iiiiis-"
+318,24,Travis," 6, right?"
+319,24,Justin, It’s 5- plus 5.
+320,24,Griffin," With the plus 1 umbrella it’s plus 6, yeah. Okay- yeah! You see the– the gerbil in the back horrifyingly, cause it’s a fucking gerbil, you see this barbed wire crown just sort of appear on its head. Uhhh, and the–the wheel starts to wobble a lil bit."
+321,24,Clint," The Wheel wobbles, but it won’t fall down! "
+322,24,Griffin," Uhhh- next in the order is, uh, Merle. Uhh, Merle, it is your turn."
+323,24,Clint," Yeah, I’ve got– I’ve got to use one of the charges on the uh, the Spanner of Adam Ant. So, uh..."
+324,24,[Justin giggling],
+325,24,Griffin," Okay, you uh-"
+326,24,Clint," [singing] Goody two, goody two, goody goody two shoes!"
+327,24,Justin, It makes that noise- I can’t believe this thing makes that noise when you use it!
+328,24,[laughter],
+329,24,Griffin," You- you lean out the passenger side window, and sort of bring the mace down on top of the car and-"
+330,24,Clint," Wait, can I, can I say-"
+331,24,Griffin, [crosstalk] Yeah say stuff. 
+332,24,Clint, -Say some exciting dialogue or something?
+333,24,Griffin," Yeah, yeah!"
+334,24,Clint," Uh, uhh - Say…. [loudly] ACE IS THE PLACE WITH THE HELPFUL HARDWARE MAN! Crrang!"
+335,24,[Travis cracks up],
+336,24,Travis, This week's episode is brought to you by Ace.
+337,24,Griffin," Apparently. You bring it down on top of the car, kabong, and magically, the car just sort of– the roof just sort of pops itself out. It just kinda pops itself back into place. And weirdly, like, the roof is now waxed, it’s, like, shining in the sun. Although that doesn’t last very long, because you’re in a dust storm."
+338,24,Clint," Okay, and also, what about the little rend in the back? Did it fix that too?"
+339,24,Griffin, Nope! Just fixed the- the roof. So you get the-
+340,24,Travis, [crosstalk] Fixes whatever the repair.
+341,24,Griffin, So you get the idea that maybe it doesn’t fix the whole car? It just fixes whatever you are sort of targeting.
+342,24,Clint, Gotcha.
+343,24,Griffin, Next in the order is Magnus.
+344,24,Travis, Great. So the wheel still hasn’t fallen over yet?
+345,24,Griffin," No, although it’s lookin’- it is lookin’ a lil bit shaky. It’s lookin’ a lil bit shaky."
+346,24,Travis, And how close is it to me?
+347,24,Griffin," Uhhh, it’s about 35 feet to your left."
+348,24,Taako, I wouldn’t expend any energy on it. I mean it-
+349,24,Griffin," [crosstalk] I mean the gerbils are next, so-"
+350,24,Taako," Yeah, and it’s not gonna go great for them."
+351,24,[Clint laughs],
+352,24,Griffin," You can also delay your turn Trav, if you wanna wait."
+353,24,Travis," I feel ya, um. I- so I- What I’m gonna do is not attack that thing, um, but what I am going to do for future use is tie my rope to my crowbar. And like that’s my action for this turn-"
+354,24,Griffin," Wait, what are you doing?"
+355,24,Travis," I’ve got a crowbar, I’ve got a rope, and I’m gonna tie a rope to that crowbar."
+356,24,Griffin, [amused] You’re making your own makeshift grappling hook?
+357,24,Travis," Yeah! And I’m just gonna, like, leave it at that."
+358,24,Griffin," Okay. Alright, I’m into it."
+359,24,Taako, Hell yeah!
+360,24,Merle, Yeah! Mad Magnus!
+361,24,Griffin," Uhh, next is The Wheel’s turn. But, before the Wheel even goes, another vehicle pulls out of the dust storm immediately behind you."
+362,24,Clint, Shhhhh- Dookie!
+363,24,Griffin," Uhh, and this one almost looks - it looks similar to yours, not nearly as heavily armored or lovingly tuned, but it is driven by two riders, and they are wearing - what’re they wearing? Dolphin masks! You hear them- [imitates dolphin noises]"
+364,24,Travis," Wait. They’re not actual dolphins, though, right?"
+365,24,Griffin," No, but that’s just their warcry. Uh, and they just-"
+366,24,Clint, [crosstalk] Just like you’re not an actual bear!
+367,24,Travis, [crosstalk] What?
+368,24,Griffin," Oh god. Uh, you see two large ship cannons sort of pop out to either side of them, and uhh, they get pretty close behind you- but first The Wheel goes! Uh, and the rider in the back, the back gerbil, is going to attack the front gerbil."
+369,24,[rolls dice] ,
+370,24,Griffin," And he crits! [Griffin sniff-laughs] He crits. So you see the back gerbil reach down and take a, uh, a little hammer and just... sort of brain, uh, the driver in front of him."
+371,24,"[Justin, Clint, and Travis giggling]",
+372,24,[Travis makes ‘ding ding ding!’ noises while Clint laughs],
+373,24,Griffin," Uh, and The Wheel, to your left starts to wobble, it starts to lose its balance pretty dramatically and it starts to turn towards you. As it does wobble, uh, and just as it looks like it’s about to crush you, it falls entirely on its side, crushing and destroying the dolphin-mobile that was chasing you."
+374,24,[yelled laughter and clapping],
+375,24,Travis, Yay!
+376,24,Griffin, And you hear- and you hear- [2 foghorn sounds] - Come from the pylons around you.
+377,24,Travis, So that’s 8?
+378,24,Griffin, Lemme do a count. That was 2… 5…
+379,24,Clint," Yes, 8 down."
+380,24,Griffin," Yep, that’s 8."
+381,24,Clint, So only 6 left.
+382,24,Griffin," No, 16 total, including you."
+383,24,Clint, Oh! Okay. So 7 left.
+384,24,Griffin, Alright.
+385,24,Clint, Gerbil-cide! How cool was that?
+386,24,{28,57-3605 - Commercial break}
+387,24,Griffin," Okay, so you’ve heard 8 horns, you uh, you you, math it out and know you have 7 opponents left. Uhhhh, you haven’t seen the Raven’s car in a while, her- her longboat-wagon. And you are still in this dust storm that’s sort of whipping up around you. Um, and as you all are sort of waiting at the ready, waiting for the next vehicle to show itself, an odd sort of silence falls around you, and then that silence is broken by a loud thud. And Merle, you look to your right, and you realize this large claw, almost like a, uh, like one of those arcade machines, like a claw machine, has grabbed onto the passenger side door of the wagon. And Hurley instinctively steers away from where this claw has hit your car, uh, but the claw retracts and it rips the door completely off of the car. Um, but you don’t see the, you don’t - it- it disappears into the- the dust, but you don’t really see anything around you. And it’s still sort of oddly silent and you’re sort of waiting-"
+388,24,Clint, Shhhit!
+389,24,Griffin, -till the next attack.
+390,24,Clint, I had a whole Cheerwine in the cup holder of that door.
+391,24,[Justin laughs],
+392,24,Justin, He just opened it.
+393,24,Clint," I just opened the Cheerwine, and now- and now it’s gone. Great. "
+394,24,Justin, I don’t even wanna finish this stupid race. 
+395,24,Travis," [crosstalk with Clint, indiscernible] Pull over!"
+396,24, Justin, I was gonna get a pull off of that later.
+397,24,Clint, Aughhh. Alright!
+398,24,Travis," Griffin, I would like to, as a free action, use my Lens of Straight Creepin’ to see where the door went."
+399,24,Griffin," Uh, that’s not how it works. It leaves tracks in the ground."
+400,24,Travis, Augh! Dammit.
+401,24,Griffin," I mean, you could perception check."
+402,24,Travis," Okay, can I perception check?"
+403,24,Griffin," Yeah, sure."
+404,24,Travis, ...0. So a 12!
+405,24,Griffin," Uh, nope, you don’t really see anything."
+406,24,Clint," [sweetly] Why don’t we do perception checks, Justin?"
+407,24,Justin, What?
+408,24,Clint, Would you like to do a perception check?
+409,24,Justin, Sure. Yeah.
+410,24,Clint, Do a perception check!
+411,24,Justin," Uh, 18."
+412,24,Clint, M’kay.
+413,24,Justin," Plus, uh… Which one was perception again? Wisdom?"
+414,24,Griffin, Someone has a perception.
+415,24,Justin," Uh, 19."
+416,24,Griffin," No, you- you should have some sort of perception modifier-"
+417,24,Justin," Oh, yeah, plus 1. 18 plus 1."
+418,24,Griffin," Merle, how’d you do?"
+419,24,Clint," Uhh, well, let’s not worry about that."
+420,24,[Griffin laughs],
+421,24,Griffin," Okay! Uh, Taako, you do kinda see something, to your right. And it’s so faint that you think that maybe you imagined it, but you see the- the dust storm to your right just kinda looks... weird. Like it looks, like um, it looks like something is over there, sort of getting in the way of the dust as it’s swirling around but you like can’t see it. Um. But- but you do get the idea that something’s there. All of a sudden, that claw that ripped the door off shoots toward your car again, directly at the spot where it aimed last time, only this time, it grabs onto Merle, and Merle, you are pulled out of the car into the dust to the right of the car. To the right of the wagon. Merle, you see yourself, you see the car getting smaller as you fly away from it, and then you are sort of ripped upward into the air? And then you’re pulled downward into some sort of body of water. You feel yourself going underwater. And you manage to catch a short breath as you’re pulled under. And then you hear a ca-chunk! and, uh, it’s- it’s pretty dark you can’t really see anything but you’re definitely in a body of water. And Hurley goes-"
+422,24,Hurley [sing-song voice], Shiiit!
+423,24,[Travis laughs],
+424,24,Griffin, And so… yeah.
+425,24,[Pause],
+426,24,Magnus, Well. Goodbye Merle! Anyways. Where were we?
+427,24,Clint, It was a great game!
+428,24,Travis, I lean down in the car-
+429,24,Magnus, Should I like go after him?
+430,24,Taako," Yeah, I mean it’s worth a shot. I’m not- I’m not doing anything, I’ve already used two spells, I’m beat."
+431,24,Magnus," And he’s still got the wrench, right?"
+432,24,Griffin, Hurley says-- Hurley yells-
+433,24,Hurley, Do something!
+434,24,Magnus," Okay, cool!"
+435,24,Hurley, Shoot at it or something!
+436,24,Magnus," Okay, cool! I’ll be right back!"
+437,24,Travis," And I, like, hook the crowbar into the handle in the car, and I jump over to the other car."
+438,24,Griffin," Uhh, okay. You jump- you can’t see the other car."
+439,24,Travis, Yeah. I’m just jumpin’ over.
+440,24,Griffin, You’re just blindly jumping to the right of the car?
+441,24,Travis, Yeah.
+442,24,Justin, [sarcastically] That doesn’t sound like Magnus.
+443,24,Griffin," Uhhh- okay. I’m gonna- okay. I’m going to make you do an athletics check, and I’m gonna give you disadvantage on it, if you don’t see where you’re jumping to."
+444,24,Travis, [away from the mic] That’s fair.
+445,24,"Justin, Clint", Sounds fair.
+446,24,Griffin, It sounds super fair.
+447,24,Travis, [crosstalk] I’ve got plus seven-
+448,24,Clint, [crosstalk] Waitwaitwaitwait.
+449,24,Merle," [underwater voice, very muffled] That sounds fair!"
+450,24,Travis," …Okay. I’ve got plus seven to athletics, so let’s do this."
+451,24,Griffin," Alright, do it."
+452,24,Travis, That’s an 18…. This is-
+453,24,Griffin, [crosstalk] Roll it good and I swear-
+454,24,Travis, 23.
+455,24,Griffin, Oh my god. [dejectedly] Your rolls are too high…
+456,24,Travis, I have plus 7!
+457,24,Griffin," I know, I need to bring that down. Um."
+458,24,Travis, It’s really hard to fuck up!
+459,24,Griffin," Uh, okay, yeah you jump to the right, and-"
+460,24,Justin, Give him- [laughs] give him a- shit! Nevermind. I’ll get the pull here in a second.
+461,24,Griffin," Okay. As you collide with this vehicle, I’m gonna make you make a reflex check to actually grab onto it because- I’ll give you that you jumped into it, but grabbing onto it is going to be a horse of a different color. Uh but as your body sort of collides with this vehicle, you feel yourself hit heavy metal, um, and as soon as you touch it, uh, uh, Taako, you over-"
+462,24,Justin, Give him fibromyalgia!
+463,24,Griffin, -Okay.
+464,24,[Clint laughs],
+465,24,Griffin," Taako, you from the battle wagon can actually see this sort of camouflage drop off of the car, and what you see almost looks like, a gumball machine, almost. There’s this ten foot, glass, spherical tank, with a heavy metal hatch on top, and it’s built onto this sturdy six-wheel base, and in front of the base is another thick glass chamber with these two dark elves wearing octopus masks, uh, driving the vehicle. And you see two claws, like the one that came out and grabbed Merle, sort of attached to the bottom of the tank, and inside of the tank, you see a helpless Merle floating along, alongside, a really big, bigger than Merle, blue-spotted octopus."
+466,24,Travis, Cool!
+467,24,Griffin," Let’s roll for initiative. Oh, you guys use your same shit. [dice rolling] The Wheel guys were the last ones to go, so Taako, it is your turn first."
+468,24,Justin," Okay, can you- I’m obviously not- what can I see?"
+469,24,Griffin," You can see the whole thing now. The camouflage has sort of dropped. You see Merle floating around- oh yeah, Magnus, make a, uh, make a dexterity saving throw."
+470,24,Travis, Uh…. 11?
+471,24,Griffin," 11? You- you don’t manage to get all the way up onto the car, but you do manage to get a hand on it? Your feet are sort of dragging across the ground - which is uncomfortable, cause this car is going very, very fast. Um, but it’s big enough, it’s sort of easy enough to get a hand on, though you are sort of hanging off the side of the gumball octopus."
+472,24,Travis, But I’ve still got like my rope and crowbar tied to the car?
+473,24,Griffin," Yeahyeahyeah, sure."
+474,24,Travis," Which, in retrospect-"
+475,24,Griffin, Not a great idea.
+476,24,Travis, Not a great idea.
+477,24,Griffin," So Taako, you can see everything, um, built into the front of the six-wheel heavy metal base is a big glass chamber with the- the octopus drivers. Inside of the tank you see Merle, um, about to get hugged by a big gnarly looking octopus."
+478,24,Clint, May I ask a question?
+479,24,Griffin, Yes.
+480,24,Clint, Are the two octopus mask guys- is their chamber in water too?
+481,24,Griffin, No.
+482,24,Clint," Okay. And how many gallons is, do you think, of water is in the-"
+483,24,Griffin, I mean it’s a 10 foot spherical tank so- so like a shit ton. It’s like a swimming pool.
+484,24,Travis, Like a thousand?
+485,24,Griffin, I don’t- I don’t know. I would embarrass myself if I guessed. I know I would.
+486,24,Travis, ...Eleven hundred?
+487,24,Griffin," Okay, eleven hundred, sure."
+488,24,Justin, A very tense situation.
+489,24,Griffin, That’s- [laughs] that’s true. It’s almost like I designed it to be like that.
+490,24,Justin, Yeeeah. Ummm.
+491,24,Travis, Magnus yells-
+492,24,Magnus, Magic missile the tank!
+493,24,Justin," Yeah, but like, think about that. Like really think, for once.[Griffin laughs] Just like really think about it. I magic missile the tank-"
+494,24,Magnus, [yells] Action over thought!
+495,24,Justin," Yeah, okay, that’s fine. But really think about this one, Scraps. If I magic missile the tank, where does that get us- how does that help us to proceed forward with our life goals?"
+496,24,Magnus, [crosstalk] I don’t see it going badly!
+497,24,{44,50}
+498,24,Merle, [crosstalk] [watery] I’m drowning!
+499,24,Justin," Uhh, okay, yeah, um--"
+500,24,Griffin," It’s another- it’s another good time to remind you all that every round of combat lasts about 6 seconds, so Merle you’re not in immediate danger of drowning but you definitely didn’t get a full lung full of- of air."
+501,24,Travis," But he’s got those dwarf lungs, y’know, those- that constitution."
+502,24,Griffin, [crosstalk] Good- good for-- good-- good for drinking. If he was drowning in beer he might be alright.
+503,24,Clint, What is the-- what is the liquid?
+504,24,Griffin, It’s salt water.
+505,24,Clint," Ah, poop."
+506,24,Justin," Do I see a, uh, do I see like, a pilot of this? Is it just like a big squid driving a ball?"
+507,24,Griffin," Nonono, there’s two- [Travis laughs] there’s another-- there are two chambers, two balls, one is sort of built into the front of the car, and that is where these two octopus- these dark elves wearing octopus masks are driving. It’s not being piloted by a blue-spotted octopus."
+508,24,Clint, How many times does he get to use the harpoon gun?
+509,24,Griffin, Uh. I mean it’s only got the one harpoon in it.
+510,24,Justin," It’s only got the one harpoon in it yeah, I’m gonna-- I will go-"
+511,24,[watery noises] [Justin laughs],
+512,24,Justin," And they’re in the water, right? Yeah, um. I’m gonna cast Reduce on the octopus."
+513,24,Griffin, Okay.
+514,24,Clint, Aww.
+515,24,Justin," I don’t have a good- I mean, does it look dangerous, Griffin? Does it look like something’s gonna hurt them?"
+516,24,Griffin," Um, I googled, the most dangerous octopus last night, and you know what came up?"
+517,24,[Clint laughs],
+518,24,Justin, What?
+519,24,Griffin, The blue-spotted octopus.
+520,24,Justin," Oh perfect. Okay, yeah. I’m gonna cast Reduce on the- the- the- it’s- it’s-- the target size is halved in all dimensions."
+521,24,Griffin, Okay.
+522,24,Justin, And its weight is reduced to 1/8th of normal.
+523,24,Griffin, Wow.
+524,24,Justin," This decreases its size by 1 category- from medium to small, for example. It also has disadvantage on strength checks and strength saving throws. Its weapons shrink to match its new size, and they deal 1d4 less damage."
+525,24,Griffin, Okay.
+526,24,Justin," If- if the octopus does have weapons on it, and you didn’t tell me that, and I could’ve been imagining that this whole time, I’m gonna be very upset-"
+527,24,Griffin," [crosstalk] Aw, fuck! That would’ve been so cool!"
+528,24,Justin," How sweet, like a mace in its hand or some shit-"
+529,24,Griffin," Well, 8- 8 maces."
+530,24,Justin," Yeah, 8 maces, just like [watery] gloorrb! Okay, but, yeah it’s-- anyway-"
+531,24,Griffin, Do I get to resist it?
+532,24,Justin," Ummm…. Yeah, a constitution saving throw."
+533,24,[dice rolling],
+534,24,Griffin," Uh, 11? Not gonna do it."
+535,24,Justin," No. No, Fred."
+536,24,Griffin," Okay, he is uh, he’s smaller--"
+537,24,Justin, [crosstalk] I’m Taako.
+538,24,Griffin, He is- he is smaller now.
+539,24,Taako, Calamar him!
+540,24,Justin, Cala- no lemme try again.
+541,24,Griffin," Yeah, do it again, you can do better."
+542,24,Clint," Put the accent on the second- no, third syllable."
+543,24,Taako, Ca- calamar him!
+544,24,Griffin, Yeah.
+545,24,Travis," Yeah, sounds nice."
+546,24,Clint, Hmm.
+547,24,Griffin, Uh-
+548,24,Travis, How about ‘octo-piss off’?
+549,24,Justin, Oh that’s good!
+550,24,Taako, Octo-piss off!
+551,24,Clint, Yeah!
+552,24,Griffin," Sssss-cool. Uh, so, uh, the next in the order is the drivers of the car. The octopus drivers. Uh, they are just gonna fire another hook towards the car, uh, and, it… uh, just kinda grabs onto- it gets a good hold on the, on the uh, the hole they made before and sort of grabbed onto the right side of the car and sort of try to peel it back. And you definitely feel your- your wagon sort of start to jump and shake because they are trying to pull it sideways as Hurley’s trying to drive it forward. Um, which is not great. Next in the order is the tiny lil baby blue-spotted octopus!"
+553,24,Clint, Aww!
+554,24,Griffin," Uhhh- which surveys its new, real little tentacles and seems kinda dejected. [Travis laughs] Uh, uh, so it is going to… propel itself forward toward you Merle, uh, and then spin around really quickly, and latch onto your face."
+555,24,Clint, Oh.
+556,24,[dice rolling],
+557,24,Griffin," And it rolls a 21 versus AC, which is gonna hit- uh, but it does, how much less damage does it do?"
+558,24,Clint, Ummm…
+559,24,Griffin," Uh, Taako did it."
+560,24,Clint," Right, I know."
+561,24,Griffin, I think he said 1d4? Less?
+562,24,Clint, Ummm…
+563,24,Griffin, Did Justin leave?
+564,24,Clint," Uh, in a way. Um. I hear a very loud watery sound in the room next to ours."
+565,24,Travis, Jesus.
+566,24,Griffin, Is he watering his plants?
+567,24,Clint, No. He might be peeing? But I don’t know.
+568,24,Justin," 1d4 less damage from the weapons, it has disadvantage on strength checks-"
+569,24,Griffin," Okay, but it doesn’t have weapons."
+570,24,Travis, Well its tentacles are its weapons.
+571,24,Griffin," No, it’s- it’s actually biting. It’s attaching itself to your face, and it’s biting you with its beak."
+572,24,Clint, With its little tiny beak.
+573,24,Griffin," With its little tiny beak. Okay, so he hit you, and he is going to hit you for… [dice rolling] uh, 11 points of, uh, biting-"
+574,24,Clint, [crosstalk] With a little tiny beak?!
+575,24,Griffin," 11 points of biting damage, and then I’m gonna need you to make a constitution saving throw, ‘cause his beak was covered in delicious, delicious octo-poison. Uh, we’ll count his beak as a weapon, so he’ll take 1d4 less damage. Do you roll that d4 or do I?"
+576,24,Justin," Yeah, that’s a good question, I dunno. I would think you--"
+577,24,Griffin, I’ll- I’ll roll.
+578,24,Travis, Let’s let the listeners at home roll! [Clint laughs]
+579,24,Justin, Pick up your phone and dial one--
+580,24,Griffin," I- I rolled a 3 so he takes 8 damage. And then do roll that constitution saving throw, though."
+581,24,[dice rolling],
+582,24,Clint, … Nineteen?
+583,24,Griffin," Yeah, that’s gonna do it!"
+584,24,Travis, [crosstalk] Nice!
+585,24,Griffin," And dwarves, I think dwarves are really dope at resisting poison anyway?"
+586,24,Clint," [crosstalk, softly] Yeah. Yeah we are."
+587,24,Griffin," So if- well, it doesn’t matter, anyway, since you avoided it."
+588,24,Travis, If memory serves…
+589,24,Griffin," Okay Merle! You are up. Uh, you are- you are starting to feel pretty uncomfortable. Got octopus on your face, uh, you are underwater, you just got bit, on the nose. Uhhhh... Everything kind of sucks."
+590,24,Clint," Okay, is there any room up at the top of this globe? Is there air in this globe of water?"
+591,24,Griffin," Uh, no. You- you got pulled in--"
+592,24,Travis, How’d he get in it?
+593,24,Griffin," There was a hatch on top that he got pulled into, and then it sort of screwed itself back on."
+594,24,Clint, So the water goes all the way to the top?
+595,24,Griffin, Uh- yes.
+596,24,Clint, Okay.
+597,24,Griffin," Not that you can see that right now, ‘cause you got an octopus all up on your bizz."
+598,24,Clint, Well that’s- that’s a good point.
+599,24,Travis, Bite him back!
+600,24,Clint," I’m going to take my Warhammer, and hit myself in the face. [Travis cracks up] Thereby striking the octopus, and trusting that my thick dwarven head will keep me from killing myself."
+601,24,Griffin," [amused] Okay. Okay. Okay. Yeah, okay. Ah, are you using your Warhammer, or your Spanner? The-The Adamant Spanner."
+602,24,Clint, ...Well I don’t know what the Spanner will do. I know what my Warhammer does.
+603,24,Griffin," Okay, it’s up to you."
+604,24,Clint, I don’t wanna hurt the Spanner.
+605,24,Griffin," [chuckles] That’s a good- that’s fair. Okay, so uh, first-of-all, you’re underwater, so you’re gonna have disadvantage on melee attack-"
+606,24,Clint, I understand.
+607,24,Griffin," Um, but then, you’re gonna do a disadvantage melee attack- just one roll, and then you’re gonna compare it to your AC and the octopus’s AC."
+608,24,Clint, Okay.
+609,24,Justin," Hey, I lost track. Where’s Magnus?"
+610,24,Griffin, Magnus is-
+611,24,"Clint, Travis, Griffin", Hanging on the side.
+612,24,Justin," Okay, great."
+613,24,Travis, Waiting for his turn!
+614,24,Clint, Thank God he has pants on this time.
+615,24,Griffin, Yeah.
+616,24,[dice rolling],
+617,24,Clint, Okay! Sixteen.
+618,24,Griffin," Uh, and then roll it again? Cause you have disadvantage."
+619,24,Clint, Fifteen.
+620,24,Griffin, That includes the modifier?
+621,24,Clint, Plus four.
+622,24,Travis, So that’s nineteen.
+623,24,Griffin, Yeah that’s a hit. That’s a hit on you and the octopus.
+624,24,Clint, Well.
+625,24,Travis," Now, he - technically Griffin - should roll a second time as if he was attacking two different targets."
+626,24,Justin," Or. Uh roll, get to roll [laughter] a constitution saving throw on himself."
+627,24,Griffin," No, cos he’s sort of just attacking one target. I’m not gonna allow that. He’s definitely, definitely attacking a single target. Which is his face-and-octopus."
+628,24,Clint," [crosstalk] Alright. That’s fine. [chuckling] I knew the job was dangerous when I took it, Fred."
+629,24,Griffin," Uh, so go ahead and roll damage and they’ll both take it."
+630,24,Clint, Three plus two.
+631,24,Griffin, Five. Okay.
+632,24,Clint," Actually, wait wait wait! It’s two d8 plus two."
+633,24,Griffin," Oh shit, okay."
+634,24,Clint, So it’s six plus two so that’s eight. On me!
+635,24,Griffin," [crosstalk] Okay, uh. On you and on the octopus. [laughing] Uh, you clobber yourself in the face."
+636,24,Justin, Yeah you hit both--he’s--
+637,24,Clint," Yeah, but I hit him first."
+638,24,Justin," Well, yeah, it should be padded."
+639,24,[Snorting],
+640,24,Clint, Yeah the padding is the octopus!
+641,24,Griffin," [crosstalk] Okay, yeah yeah! I’ll tell you what, I’ll-I’ll cut it down. I’ll roll a d4 and reduce it by...two. So you only take six. [Amused] You got a little bit of octo-padding there. Uh, it’s not enough to kill this octopus, but it does uh, loosen itself off of your face and sort of float backwards a little bit."
+642,24,Clint, And now I can still not breathe.
+643,24,Griffin, You still cannot breathe ‘cause you are underwater. Next in the order is Magnus.
+644,24,Travis," Um, am I within reach of the, of the grabby arm? Like, the part that’s extended out?"
+645,24,Griffin," Uh, yeah, you’re right next to the grabby arm that is on the-the side of- the left side of the car facing your--your wagon."
+646,24,Travis," Okay great. I would like to uh, one-handed axe attack that please."
+647,24,Griffin, As you’re hanging off?
+648,24,Travis, You said I grabbed it with one hand.
+649,24,Griffin, Yeah that’s true. I’m just--okay.
+650,24,Travis," Uh, fifteen...twenty-two."
+651,24,Griffin," Twenty-two, yeah. That’ll do it."
+652,24,Travis, Okay. And now I would like t--
+653,24,Griffin," [crosstalk] And you’re just sorta hacking at the, hacking the wire that it’s attached to?"
+654,24,Travis, Yeah.
+655,24,Griffin, Okay.
+656,24,Travis," Do I have to roll damage? Or do I just, do it?"
+657,24,Griffin," Uh, yeah, roll damage against the--nah, don’t do it. Yeah, you, you, you hack the thing clean off, uh--"
+658,24,Travis," Okay, and now I would like to use my second attack to attack the tank."
+659,24,Griffin, Okay.
+660,24, [pause],
+661,24,Travis," That’s thirteen plus seven, twenty!"
+662,24,Griffin," Twenty, okay. Yeah, you uh, you attack the tank. This one I will make you roll damage on."
+663,24,Travis, Great. And that’s one handed so it’s one D8.
+664,24,Griffin, I’m also gonna make you make a strength check to keep holding onto the side of this car if you’re not gonna pull yourself up.
+665,24,Travis," That’s fair. I’ve got the strength of bear, baby."
+666,24,Griffin, Okay.
+667,24,Justin, [distant] Bull. Strength of bull.
+668,24,Travis," Whatever, I got strength of a big ol’ thing. You know what I mean?"
+669,24,Clint," No, don’t say that either."
+670,24,Travis," [laughter] Uh, that’s a five plus six, eleven damage."
+671,24,Griffin," Okay. Uh, you don’t shatter the tank, but you get Railsplitter in there, uh, and as you pull it back, a spray of water just sort of blasts you in the face. Uh, and uh the--"
+672,24,Travis," It’s refreshing, I feel great."
+673,24,Justin, [wheezing]
+674,24,Griffin," And the- the water begins to leak out of the tank. Um, so now there is sort of a space up top, uh where-where there is no water. Uh next in the--"
+675,24,Travis, Great. I’m gonna use Action Surge and hit it one more time.
+676,24,Griffin," Oh, okay!"
+677,24,Travis," Or try to. Uh, ooh, that might not do it. Um...I mean that’s only a thirteen. So that’s probably not gonna…do it."
+678,24,Griffin," Uh no, that hits. It’s just-it’s just glass."
+679,24,Travis, Oh great.
+680,24,Griffin, Just barely hits.
+681,24,Travis, [laughing] I mean does like a two hit? Like what’s the- what’s the AC on glass?
+682,24,Griffin, [chuckles]
+683,24,Travis," Uh. I did...another five, another eleven damage."
+684,24,Griffin," Okay! This time, the crack that you put into the glass ball, uh, begins to splinter out around, uh, every sort of side of the ball. Uh, and then suddenly this ball shatters. Uh, and uh, Merle and the octopus are gonna need to make dexterity saving throws to grab onto this car, uh, as the deluge of water sort of splashes them off of the side of it."
+685,24,Travis," And I still need to make a strength, right?"
+686,24,Griffin," Uh, yeah right, so we’ll resolve that first. Go ahead Magnus, make a strength saving throw."
+687,24,Travis," Uhh, [distant mumbling] Well, that was a, I have advantage right? From the bull? So that first one was a thirteen."
+688,24,Griffin," What? No, you don’t have a - oh, yeah yeah."
+689,24,Travis, Strength of Bull.
+690,24,Griffin," Yeah, yeah."
+691,24,Clint, Yeah. You’re welcome.
+692,24,Travis," Uh..okay, there we go that’s twenty four, so, probably got it."
+693,24,Griffin," Aw man, I wanted you to fall off so bad. Uh okay-"
+694,24,Travis," You’re a turd, that’s why."
+695,24,Griffin," You’re still holding onto the side of the car, uh, now uh, Merle, make a dexterity saving throw as the water sort of washes you off the side of the car. "
+696,24,Justin," You have let go of the rope at this point, right Travis? You do not have a third hand that I am not-"
+697,24,Travis, It’s tied to me.
+698,24,Justin," Oh, it’s tied to you, OK, didn’t realize."
+699,24,Griffin, He tied himself onto the battlewagon in case he fell off.
+700,24,Justin, Got it.
+701,24,Clint," Okay, I rolled a sixteen."
+702,24,Griffin," You rolled a sixteen? Okay, yeah, you get another hand on. You basically land right next to, uh, Magnus."
+703,24,        Magnus, Hey!
+704,24,Griffin," So the two of you are now hanging off of the side of the, uh, the gumball octopus wagon. Although the tank on top is shattered and then the octopus also slips off the side of the car, and he crits his dexterity saving throw! [laughter] So right next-- right next to Merle, this octopus gets two tentacles on top of the car [Theme music fades in] and is now also, hanging off the side of the car. This is the most adorable scene I’ve ever imagined. [Griffin laughs] He looks, the octopus has a very worried look in its eyes."
+705,24,[Outro Music],
+706,24,[Next episode],

@@ -1,0 +1,1492 @@
+﻿The Adventure Zone
+Keeper & NPCs: Griffin McElroy
+Aubrey Little/Lady Flame: Travis McElroy
+Edmund “Ned” Chicane: Clint McElroy
+Duck Newton: Justin McElroy
+
+
+Episode 87 - Amnesty - Part Seven
+TAZ Transcript
+(part of TAZscripts on Tumblr) 
+
+
+Griffin: Previously, on the Adventure Zone...
+
+
+Calvin: This is the only place I could think to come to, ‘cause… y’all know about monsters and stuff and so, well, I got a new one for ya. Somethin’ grabbed me, pulled me under. Y’all I swear to God, the water of the pool started to lift up.
+
+
+Barclay: A good place to start is maybe heading to the scene of the attack last night and seeing what you can find out there. Obviously be careful, you don’t wanna fight it until we know how to kill it. And for God’s sake, whatever you do, don’t— don’t get in the water.
+
+
+Agent: I’m looking for Ned Chicane. Proprietor of the Cryptonomica? I was told by his associate Kirby I could find him here.
+
+
+Ned: Hm! What, uh, what do you need jolly old Ned for?
+
+
+Agent Stern: Mr. Chicane, my name is Agent Stern, FBI. At your earliest convenience, sir, I would just love to see your Bigfoot video.
+
+
+[Theme music (The Adventure Zone: Amnesty Theme by Griffin McElroy) plays]
+
+
+{1:36}
+
+
+Griffin: We fucked up— well, I fucked up. I goofed—?
+
+
+Travis: Listen, Griffin. When one of us fucks up, we all fuck up.
+
+
+Clint: Ehh, I dunno about that.
+
+
+Travis: Depending on how bad the fuck-up was.
+
+
+Griffin: I did a goofy bad job, and maybe we should start by sort of acknowledging that.
+
+
+Justin: ‘Kay.
+
+
+Griffin: [joking] The game’s actually called Monster of the… Geek.
+
+
+Travis: What?
+
+
+Griffin: [joking] Yeah, I’ve been saying the name wrong this whole time, and—
+
+
+Travis: I don’t think that’s it, Griffin.
+
+
+Griffin: No, okay, so there was a thing we shoulda done after the first arc that we didn’t do, and really it’s not my fault for fuckin’ up because we, like, didn’t know that we were coming back to this at that point, and so anybody could’ve made this mistake, [sarcastic] so really I’m not in the wrong at all, if you think about it, but you all—
+
+
+Justin: If you think about it.
+
+
+Griffin: You all should have more experience than you should have— than you do have now. And before we get back into the action and the big climactic stuff that’s happening, maybe we could resolve that first. We should also maybe talk about the fact that Travis and I are recording in the same room [crosstalk] ‘cause he’s in Austin and I fuckin’ hate it.
+
+
+Travis: [crosstalk] It’s weird. I don’t care for this at all.
+
+
+Griffin: ‘Cause he sort of embodies— he does a thing with his back where he kinda arches it as he records, and he makes, like, a fantasy face, that’s the only way I could describe it.
+
+
+[Justin laughs]
+
+
+Travis: I’m a fantasy kitty!
+
+
+Griffin: He does, like, that, he says “I’m a fantasy kitty” a lot. Okay, so—
+
+
+[Travis meows]
+
+
+Griffin: “At the end of each session, the Keeper will ask the following questions: Did we conclude the current mystery? Did we save someone from certain death, or worse? Did we learn something new and important about the world? Did we learn something new and important about one of the hunters?”
+
+
+We’re supposed to do this after every time we play—
+
+
+Travis: Yes, yes, yes, and yes!
+
+
+Griffin: Yeah, we’re supposed to do this after every time we play so the answers won’t always be “yes,” but I think it would be, for the purpose of our podcast, a bit redundant if we did that after every time we played, so I think it makes more sense if we do it after every arc. So, did we conclude the current mystery?
+
+
+Travis: Yes.
+
+
+Clint: Yes.
+
+
+Griffin: Did we save someone from certain death?
+
+
+Travis: Yes.
+
+
+Clint: Yeah.
+
+
+Justin: Yes.
+
+
+Clint: A bunch of people!
+
+
+Griffin: Pete’s not dead, folks ask about Pete, we just didn’t get back to Pete, but Duck—
+
+
+Travis: Pete was in the bushes?
+
+
+Griffin: Yeah, Duck definitely saved Pete with his actions, so that’s a “yes.” Did we learn something new and important about the world?
+
+
+Travis: Yes!
+
+
+Clint: Oh, yeah!
+
+
+Griffin: Unequivocally, yes. And did we learn something new and important about one of the hunters?
+
+
+Travis: Yes.
+
+
+Clint: Yeah.
+
+
+Griffin: “If you get one or two ‘yes’ answers, each hunter marks 1 Experience, if you get three or four, each hunter marks 2.” So, everybody mark two experience, does that bring anybody up to five?
+
+
+Travis: No. I think it brings me close.
+
+
+Justin: Yeah, wait, it does. It does bring me to five.
+
+
+Griffin: Awesome. So, when you hit five experience, you get an Improvement. And you get a list here you can pick from, and once you have leveled up five times, you can start picking up Advanced Improvements, which let you sort of take your character in even more directions. I think— so, just a general housekeeping announcement, I think we’re gonna start doing more of a, like, Lunar Interlude-style between-episode between-arcs to handle this stuff, because this is a really weird energy to start out this episode.
+
+
+Justin: [chuckling] Indeed!
+
+
+Griffin: Dad, did you level up, or are you at four now?
+
+
+Clint: What if I’m right at five experience?
+
+
+Griffin: Yeah, that means you’ve done it, you’ve leveled up. When you mark the fifth experience box in your playbook, you level up. You—
+
+
+Clint: Yeah, but how could I level up and not Trav?
+
+
+Griffin: You fucked up more than him, he rolls super good.
+
+
+Clint: Oh, yeah! Well then yeah, I hit five, yeah.
+
+
+Griffin: Then both of you—
+
+
+Travis: Can we get rid of the mythos that I roll super good? I just only do things my character is good at.
+
+
+Griffin: Yeah, yeah, yeah. We’re doing roll20 now, so that’s gonna get rid of the mythos one way or the other.
+
+
+Improvements, so, you get to choose from this list:
+* Get plus one to a rating, max plus three, so if you wanna increase one of your stats, you can do that.
+* You can take another move from your playbook, whenever you made your character, you had to pick specific moves to choose from.
+* You can take a move from another playbook, and that one’s kind of a discussion between you and me, trying to find something that’ll make sense, so that you don’t, like, make an OP, like, “I can do magic and, y’know, transform into a… big monster,” which is one of the— one of the archetypes.
+* You can gain an ally or gain a team. This is, like, a mechanical thing where you get an ally or a team who will then sort of be in your service, and you pick a different, like, type for them, are they a subordinate that will follow your instructions? Are they a friend? Are they a bodyguard? Are they a confidant? And you just have them.
+* You can gain a haven, which is actually something the archetype the Expert has, and that gives you sort of different abilities when you are back in your headquarters, and then you can upgrade your haven if you already have one.
+
+
+You have different things— okay, so for Crooked, recover a big stash of money, so that’d be one for Ned, other… oh, Spell-Slinger, you can take another combat magic pick, so maybe you’ll wanna do that when you level up. So those are the things you can do. What’re you guys feeling like, Ned and Duck?
+
+
+Clint: I really thought about “gain an ally,” but I think I’ve already got that in Kirby, and I think it might be a little redundant?
+
+
+Griffin: So what we could do is just make that official. Because, like, before, Kirby was just an NPC in this world and if you wanted to convince him to do something, you had to convince him to do something. If you choose “gain an ally/gain a team” and you pick, like, what kind of ally you want him to be, then that’s mechanical at that point, you don’t have to, like, roll to convince him to do stuff, he will do stuff for you. So I don’t think it’s redundant, I think it is—
+
+
+Travis: It codifies— [crosstalk] yeah, yeah, the mechanics… 
+
+
+Griffin: [crosstalk] It codifies what is already there.
+
+
+Clint: That’s what I’d like to do. I would like to have somebody on this podcast do what I tell ‘em to do. So, yeah! Let’s go with him!
+
+
+Griffin: So you get to pick: subordinate, lieutenant, friend, bodyguard, confidant, or backup. And those sort of add some flavor to, like, what Kirby’s actually gonna do for you. Also, keep in mind that, like, Kirby at this point doesn’t know about the Pine Guard, doesn’t know about the things you do, and so if you—
+
+
+Travis: And we have been sworn to secrecy...!
+
+
+Griffin: Yeah, so if you do this, that’s fine, but you’ll have to find some way to, like, rectify that, whether that’s letting Kirby in, that is one thing you could do, or, y’know, whatever.
+
+
+Clint: No, I think subordinate.
+
+
+Griffin: Okay, yeah [crosstalk] I think that probably—
+
+
+Clint: I’m just gonna really lean into the me telling him what to do.
+
+
+Griffin: Okay, and so— so mechanically now if you need Kirby to do something, instead of having to, like, convince him to do it, he’s just your— your guy.
+
+
+Clint: [unholy accent] I’ve got mah claws in Kirby!
+
+
+Griffin: Okay, [crosstalk] that’s very good.
+
+
+Travis: [crosstalk] Ew, gross.
+
+
+Griffin: Uh, Duck, what about you?
+
+
+Justin: Uh, yeah, I’m picking up an additional point in tough. I know that’s not very dramatic, but I feel like it is representative of the sort of off-time that we’ve had that it makes— that makes sense to me.
+
+
+Griffin: Okay, um, so that’ll bring you up to plus three tough, so that just means [crosstalk] you will—
+
+
+Justin: [crosstalk] No sir, plus two tough.
+
+
+Griffin: Oh, okay, that—
+
+
+Travis: And you know, Justin, if you wanna make it more dramatic, people can picture like a Rocky-style montage where he’s, like, [Justin: Sure.] listing— lifting ice blocks and, like, punching stone or whatever— I’ve never seen Rocky but I assume he punches stone a lot?
+
+
+Justin: Yeah.
+
+
+Griffin: I— I know the idea of, like—
+
+
+Clint: Meat, he punches meat, sides of beef.
+
+
+Travis: Well, maybe he punches both, Dad, you can punch more than one thing!
+
+
+Griffin: I know the idea of, like, the training montage is maybe a little bit rote for the purposes of our podcast, but what I really like about in the turn— in context of Duck is this idea of, like, Duck’s abilities were maybe not his own for a bit? He just had these supernatural reflexes and could take a hit and— and stuff? And the training in his last episode was him actually trying to take some of the responsibility of that on himself, and I think that this is a smart choice for, like, making that mechanical. Okay! That is how improvements work, we’re gonna start doing these in Lunar Interlude-style episodes, but for now let’s get back into the action.
+
+
+Griffin: So at the end of the previous episode, Agent Stern from the FBI came into, uh, Amnesty Lodge and introduced himself, asking to see the Bigfoot video [crosstalk] from…
+
+
+Travis: Daniel Stern and his partner, Agent Pesci.
+
+
+Griffin: And I think with that the door to Amnesty Lodge… uh, opens and shuts and a… uh, a man walks in, a tall, sort of handsome, very neatly dressed man walks in. He's wearing a suit. Um, and kind of eyes the place over and sort of nods at one of the guests with kind of a friendly demeanor. And he walks over to the four of you and he introduces himself. He says
+
+
+Man: I’m looking for Ned Chicane. Proprietor of the Cryptonomica? I was told by his associate Kirby I could find him here.
+
+
+Ned: Hm! What, uh, what do you need jolly old Ned for?
+
+
+Griffin: Uh, he, I think he sees you, Ned, and just like, deduces “oh, that's Ned.”
+
+
+Ned: Damn.
+
+
+Man: Mr. Chicane, my name is Agent Stern, FBI. At your earliest convenience, sir, I would just love to see your Bigfoot video.
+
+
+
+
+
+
+Griffin: So that is where we find… you. That’s where us finds… us. Um. The last line there:
+
+
+Agent Stern: My name is, uh, Agent Stern, FBI. At your earliest convenience Mr. Chicane, I would just love to see the Bigfoot video.
+
+
+Ned: All you have to do is go to the Cryptonomicon with me and you can watch the video there.
+
+
+Griffin: Is it “Cryptonomicon” or “Cryptonomica”?
+
+
+Clint: [defeated] I don’t know.
+
+
+[Justin and Travis laugh]
+
+
+Clint: Cryptonomica!
+
+
+Travis: [crosstalk] [sarcastically] What a great start!
+
+
+Justin: [crosstalk] [sarcastically] Let’s look at what our merch says.
+
+
+Griffin: Yeah.
+
+
+Clint: We got merch?
+
+
+Griffin: He says:
+
+
+Agent Stern: Oh, no, I— I know, I stopped by. Your associate Kirby suggested that there might be more of the video than what you’re actually showing at the— on the floor in your establishment. Also I’d like to [Ned laughs] sort of talk to you about the details of how you acquired such a— a remarkable video.
+
+
+Ned: Ah! Well, of course you would, uh, it’s pretty breathtaking, isn’t it.
+
+
+Aubrey: Uh, one second, Ned. [to Agent Stern] Um, could you show us any kind of ID, or anything to back up this whole “I’m an agent” thing?
+
+
+Ned: I have my driver’s license…
+
+
+Aubrey: No, Ed— Ned— 
+
+
+Travis: What was it?
+
+
+[Justin laughs]
+
+
+Aubrey: Not you.
+
+
+Ned: Oh! Sorry.
+
+
+Griffin: Uh, Agent Stern looks kind of sheepish for a second and he’s like,
+
+
+Agent Stern: Oh, God, of course, I— I’m sorry, what am I thinking.
+
+
+Griffin: And he reaches into his jacket and—
+
+
+Aubrey: Slow!
+
+
+Griffin: What are you— “Slow?”
+
+
+Travis: Aubrey has had minor, like, juvie run-ins with law enforcement in the past. She is distrusting.
+
+
+Griffin: He, uh, he reaches into his breast pocket and he pulls out a badge and, like, one of those little nice leather badge holders, whatever they call them. Uh, and opens it up to reveal a authentic-looking ID badge that lists his name— 
+
+
+Travis: Should I roll to check for psychic paper?
+
+
+Griffin: It’s… I guess if you want to? I—
+
+
+Travis: Well, what would a roll be where I could, like, determine [crosstalk] if it’s— 
+
+
+Griffin: [crosstalk] It’s not psychic paper. I’m not— I don’t want you to— 
+
+
+Travis: No, but if it seems legit or not. Maybe “Read A Bad Situation?” Uh yeah. I’m just gonna roll and we’ll see how it goes. Ah, super good! I rolled a 10.
+
+
+Griffin: [laughing] Okay, it’s not psychic paper.
+
+
+Travis: I know it’s not psychic paper, but does it seem legit?
+
+
+Griffin: Yeah, it looks very legit. It— I mean, I don’t know if you’ve ever seen an FBI badge before, but it definitely— you know for sure that this, this guy is on the level. His badge says he works for the FBI, there’s the cool FBI seal there.
+
+
+Travis: Aubrey has watched a lot of X-Files [Griffin: Yes.] so most of her FBI knowledge is from that.
+
+
+Griffin: The badge actually says… the words underneath his sort of FBI designation, it says “Unexplained Phenomena.” He says,
+
+
+Agent Stern: It’s, uh, it’s all right there. It’s actually expiring soon, my birthday’s coming up so I need to get this re-authorized, but, um, yeah. I— I am a federal agent. I’m actually— so, I work for a team called, a small task force called “UP” — Unexplained Phenomena. Myself, I have been researching, well, for some time now, several disappearances that have been attributed to— and this is gonna sound silly, and I understand you wanting to check my credentials because it probably sounds kind of, kind of goofy but they are attributed to… the Sasquatch?
+
+
+Griffin: And when he says that, Barclay who is sort of standing in this scene with his— he’s collecting the cups of tea that you all were drinking on a tray, he like tips the tray over and they all smash down to the ground and he quickly cleans it up and leaves the room, and he says,
+
+
+Agent Stern: The video that you, uh, put up online, Ned, it looks remarkably similar to other video sightings that I’ve been researching for some time, associated with these disappearances and so I know it’s kind of a long shot, but I’d just want to hear more about it. We don’t have to talk today, I— I know you seem to be in the middle of a conversation here so maybe we could circle back tomorrow, back at your shop or sometime later this week, whatever works for you?
+
+
+Ned: Well, of course, Friend Stern!
+
+
+Griffin: He smiles— 
+
+
+Travis: I do like how, over time, Ned’s character voice is kinda evolving into, like, Robin Hood, a little bit? [crosstalk] [imitating Robin Hood] “Yes, Prince—”!
+
+
+Clint: [crosstalk] [imitating Robin Hood] Yoinks and away, Friend Stern!
+
+
+Griffin: He smiles when you agree to that and puts his badge away and he takes a look around Amnesty Lodge, the lobby that you all are standing in, again, and he says,
+
+
+Agent Stern: Say, um, I actually just arrived in Kepler, it’s a beautiful town, the pines are— are gorgeous this time of year. Um, I’m new to the area, I don’t— 
+
+
+Duck: They’re— they’re Evergreen, they’re gorgeous pretty much all year.
+
+
+Agent Stern: Ah, I see. Well, I’m new in town and I don’t actually have a place to stay yet, this establishment seems very nice, I was wondering if there was [crosstalk] a room available—
+
+
+Aubrey: [crosstalk] Oh, no, you don’t— no, you don’t wanna stay here, [whispers loudly] bedbugs.
+
+
+Agent Stern: You have…?
+
+
+Aubrey: [pauses] I don’t— I don’t, I… Listen, if I could afford a better place than this, I would, this is a real fleabag, you don’t…
+
+
+Griffin: Uh, this is gonna be a roll ‘cause this is a nice place that doesn’t have bedbugs. I think this is gonna be a [Travis: [laughing] Oh, nope.] manipulate someone? “When you have given them a reason, tell them what you want them to do and roll plus charm.” The reason is “bedbugs” and what you want them to do is not stay here.
+
+
+Travis: I got a five plus one, it’s a six.
+
+
+Griffin: Mark experience. Hey, you leveled up!
+
+
+Travis: Yay, I leveled up!
+
+
+Griffin: Maybe decide which improvement you want on your— on your own time and let me know what it is.
+
+
+Travis: [muttering] I see, everyone else gets to talk about theirs.
+
+
+Griffin: I mean, you can do it while we’re playing here. So, on a miss, I get to make a hard move. And the hard move, I say, is:
+
+
+Agent Stern: Oh, a few bedbugs don’t scare me, I, uh, I actually— I’ve come prepared, I have my own sort of travel kit. I packed a lot of, y’know, tick and bug spray, I knew I was coming to a more rural area and I’m always sorta prepared, so. If, if there is a room available, I would, I would love to have it. 
+
+
+Griffin: And I think Barclay’s back and doesn’t really know what to say and he says,
+
+
+Barclay: Yeah, uh, o-okay. We’ll getcha checked in and, uh, get you a nice room, I guess.
+
+
+Griffin: And he smiles and, uh, says,
+
+
+Agent Stern: I’m going to continue sort of my search around the general area, sort of familiarize myself with the town, but I will be back this evening and we can set up the room, thank you so much! Ned, tomorrow, just let me know what time works for you.
+
+
+Ned: Um, yeah, right, got it, mm-hm.
+
+
+Travis: Real quick, I have picked Third Eye [Griffin: Ooh, what’s that—] because Third Eye, “When you read a bad situation you can open your third eye for a moment to take in extra information. Take plus one Hold on any result of seven or more, plus you can see invisible things. [Griffin: Ohh...] On a miss, you still get one hold but you’re exposed to supernatural danger. Unfiltered reality is tough on the mind.”
+
+
+Griffin: I love that. That’s very cool.
+
+
+Travis: So, I feel like it fits in, like, of her learning about magic and getting in touch with her own, like kind of [Griffin: Yeah, I like that.] like, magic powers.
+
+
+Griffin: That’s a— That’s a cool development. Okay, go ahead and mark that down. And everybody should be at zero experience at this point. Okay, and so Agent Stern turns on his heels and walks out the door, and Barclay puts his head in his hands and says:
+
+
+Barclay: Oh shit. Oh shit, this is gonna make things real hard y’all.
+
+
+Duck: Well, certainly people have come looking for you before, right? I have to assume, right?
+
+
+Barclay: It’s not just me, this place is full of werewolves and vampires and… ghouls and stuff. It’s gonna be tough to keep that under wraps with the feds literally [Duck: Yeah...] under our noses.
+
+
+Duck: It sounds like he’s pretty ‘squatch focused, wouldn’t ya say?
+
+
+Griffin: He says
+
+
+Barclay: Yeah, I guess as long as I keep this on.
+
+
+Griffin: And he motions to the bracelet and says
+
+
+Barclay: I guess I can keep it on until he takes off. It gets a little stinky inside the—
+
+
+Aubrey: Listen, Barclay, here’s what you do. Um, we’ll take care of this. If he starts asking questions about, y’know, sightings or anything like that, just have everyone at the lodge laugh it off. Right, really play up the, like, “This is a tourist trap” thing and “We staged it, this is Kepler’s whole thing.” Y’know, make jokes about the Loch Ness Monster, that kind of thing. Really, like, make it seem as absurd as possible. Don’t let anyone answer seriously.
+
+
+Barclay: Okay, yeah, that’s— that’s good advice. I’ll make sure to get the word out, and make sure that everybody keeps their [deep sigh] their illusions up. And again— 
+
+
+Aubrey: Side note. Loch Ness Monster, is that anything? Do you guys know anything about that?
+
+
+Barclay: I mean, I’ve never seen ‘em. It doesn’t mean that they’re not [Aubrey: Okay, just—] here. And again, just one more time Ned, [sarcastic] thank you for posting that very cool video on the internet. Um, I sure do appreciate all the cool stuff that’s happened because of that, of me fighting the bobcat. It was really, like a, really, really, really cool thing to have happened.
+
+
+Ned: Well I— I remember that— that was the time I saved your damn life, right? When I pulled up and knocked the monster off of you and [Barclay: Yes.] let you have a ride back to the lodge. Hmmm, remember that part of it, Barclay?
+
+
+Barclay: …Okay, square-square. All right, we gotta moving. I don’t— I don’t know when this— this water monster showed up and I don’t know how long they’re gonna stick around. So, time’s of the essence, but, y’know, now were on double super-spy level of discretion, so head to the pool— 
+
+
+Aubrey: To the pool!
+
+
+Barclay: ...Yeah, to the pool. Just, uh— 
+
+
+Aubrey: Oh, I thought that would be, like, where the scene ended.
+
+
+Barclay: No, not quite yet.
+
+
+Aubrey: [less excited] To the pool!
+
+
+Barclay: Okay.
+
+
+Griffin: [chuckling] And you go to the pool!
+
+
+Travis: Maybe there’s some kind if transition here… [imitates sped-up transition music]
+
+
+Griffin: Yeah, you take Ned’s car… 
+
+
+Travis: With, like, a spinning Pine Guard patch, y’know…  [continues to imitate transition music]
+
+
+Griffin: Maybe it’s the hubcap of the Continental.
+
+
+Travis: Oh, yeah— well, it’s of a spinning Pine Guard patch, and then it fades into the wheel.
+
+
+Griffin: Oh, that’s fucking great, Travis.
+
+
+Travis: This is why we should always record in the same room.
+
+
+Griffin: I know, this energy is electrifying!
+
+
+Travis: I can feel it.
+
+
+[Justin laughs]
+
+
+Griffin: So the three of you arrive at Kepler High, and I think it’s— I forget if we established this in the first episode of this arc, but I think it’s, like, Saturday, so the whole front parking lot is as empty as you would expect it to be.
+
+
+Travis: Except for a couple cars, for some kids that were in detention, and maybe they learned a little bit about each other, y’know?
+
+
+Griffin: And themselves.
+
+
+Travis: One kid’s kind of, like, a punk, and one kid’s kind of a nerd, and one kid’s kind of a jock… 
+
+
+Griffin: One of the cars has a bumper sticker on the back that said “I duct-taped a kid’s buttcheeks together.”
+
+
+Travis: Uh-huh.
+
+
+Griffin: That’s still the most buckwild thing, right?
+
+
+Travis: And I think it’s superglue, actually. Is it superglue?
+
+
+Griffin: I don’t know. Anyway… 
+
+
+Travis: He adhered a kid’s buttcheeks together, somehow.
+
+
+Griffin: Yes, through some means, magical or otherwise. So this school, Kepler High, it’s a pretty humble building, its student body is around, like, 800— Duck, did you go here?
+
+
+Justin: Yeah. Absolutely.
+
+
+Griffin: Okay, so you have a little bit of familiarity with the building. Is it weird seeing the school in the same way that, like, it’s always weird to go back to a school you went to when you’re a big grown-up?
+
+
+Justin: Yeah, I don’t think Duck has really had much reason to… come back here, y’know? It’s not like— patrolling this is part of his route, that really wouldn’t really make much sense, I don’t think he’s been back for a good long time.
+
+
+Travis: Sure. What kind of social group did he fall into?
+
+
+Griffin: Yeah, what were you— were you an Estevez? Were you a Hirsch? [Justin laughs] Were you a Ringwald?
+
+
+Travis: Were you a Sheedy?
+
+
+Justin: [contemplative] Oh God, what kind of high school kid was Duck?
+
+
+Travis: Were you a greaser?
+
+
+Griffin: A wastoid?
+
+
+Clint: Were you a T-Bird? Maybe you were a T-Bird.
+
+Travis: A real Bueller?
+
+
+Justin: No, he was a… he was a… a bad boy. 
+
+
+Travis: Like a Bueller bad boy or a Hirsch bad boy?
+
+
+Justin: No, like a— he was kind of a burnout.
+
+
+Griffin: All right.
+Justin: Yeah, that feels right to me.
+
+
+Travis: You know, I think we keep saying Judd Hirsch, I think it’s Judd Nelson, isn’t it?
+
+
+[Clint laughs]
+
+
+Griffin: Oh yeah, Judd Hirsch would be [crosstalk] a wild casting choice.
+
+
+Travis: [crosstalk] I love Judd Hirsch in The Breakfast Club!
+
+
+Griffin: Okay, so you were kind of a wastoid and then you discovered the beauty of the pines.
+
+
+Justin: Well, no, he just wanted to— he hid in the pines. I mean, like, I think it feeds into, like— He wasn’t somebody with an abiding love of the world. He wasn’t somebody with a call to duty. He wasn’t somebody who thought he was headed for big things, I think he would just like— 
+
+
+Griffin: Smoke cigarettes in the woods? 
+
+
+Justin: Smoke cigarettes and fuckin’— not in the woods. He wouldn’t have gone in the woods. He’d just kind of want to play Tony Hawk and hang out.
+
+
+Griffin: Cool, I dig it.
+
+
+Travis: Now he just vapes 24/7.
+
+Griffin: Now he just vapes constantly.
+
+
+Travis: This is a— [crosstalk] which of our characters vape, we haven’t really covered that.
+
+
+Justin: [crosstalk] This is not canonical.
+
+
+Griffin: [crosstalk] {21:38} He’s got a magic vape that can talk to him also. It’s separate from Beacon.
+
+
+Griffin: So as the three of you work your way behind the building to the sort of standalone pool building behind the school— Duck, you’re sort of reminiscing about all the good times here. But the three of you are a bit shaken as you turn the corner and you see the standalone pool facility, which has its own parking lot, attached to an access road that winds around the campus. And in that lot are two vehicles. There’s a fairly beaten up old Jeep, and then a silver midsized bus parked immediately adjacent to it. And there’s some belongings that are sort of scattered inside the bus you can see through the windows. And from within the double doors leading into the pool building you can hear a woman shouting. What do you do?
+
+
+Travis: Aubrey takes off running. For the building.
+
+
+Justin: Can I do that as I Read A Bad Situation?
+
+
+Griffin: Yeah, I think that would be good.
+
+
+[Justin rolls dice]
+
+
+Justin: Oh, wait, [crosstalk] we’re all on the… 
+
+
+Griffin: [crosstalk] roll20, baby!
+
+
+Justin: Plus one [Clint: Woo!] is 11.
+
+
+Griffin: So, Duck, Hold 3 and you get to ask something from the list of questions here. If you act on the answers, you get +1 ongoing while the information is relevant. I’m trying to decide now if it makes more sense for you to do this, like, “the doors burst open and you can see inside,” ‘cause then you’ll be able to tell a lot more about this situation than you can—
+
+
+Justin: I think that’d be a lot more logical, right? Like, [Griffin: Yeah.] the door opens and… 
+
+
+Griffin: Then let me describe what happens next, and then we will resolve the questions that you do here. And so the three of you burst into the pool, and it is not empty, as Calvin mentioned it probably would be. As you enter, you see a woman outside of the pool, she’s wearing, like, a pair of shorts over a swimsuit and she’s got a whistle around her neck, and she is sort of yelling orders toward the pool, where a dozen or so older folks are treading water with these small floats that they are holding onto. And the door to the pool slams shut behind you, and the sound booms through the chamber, and it brings these proceedings to an immediate halt and, in unison, the whole assembly, instructor and class alike, they turn to face you. Because while swim practice might not be scheduled for today, water aerobics for the Majestic Pines Senior Living Center is.
+
+
+{24:15-30:30 ad break}
+
+
+Griffin: This instructor turns to face you all, and I think all of the folks exercising in the pool also kind of rotate to face you all and the instructor says,
+
+
+Instructor: Uh, pool’s closed, folks, we… we just got started here, we got it booked for a couple hours. Do you need something?
+
+
+Griffin: And this might be a good time, Duck, for you to read the situation now that you’re inside, so you have 3 Hold if you wanna ask these questions.
+
+
+Justin: Okay, how about this: what’s the biggest threat?
+
+
+Griffin: So what you— I think the biggest threat is an assumption that you are making, and you know that this is the pool where Calvin was attacked last night, and you have no reason to believe that whatever was in here got away. And based on what she told you, they just got into the pool, so nothing has popped off yet, but the biggest threat is the fact that there are a dozen people sort of helplessly swimming in this water that came alive last night and tried to kill a young man.
+
+
+Justin: Okay, what is the best way to protect the victims?
+
+
+Griffin: The best way to protect everybody in this room is to get them out of the pool and, ideally, out of the building? So that they don’t, y’know, see a big water monster, assuming it rears its head. There’s a lot of things about this situation that could break very bad for them, and there’s a lot of ways it could also sort of break very bad for the secrecy of the Pine Guard’s mission.
+
+
+Justin: Okay. Are there any dangers we haven’t noticed?
+
+
+Griffin: Hmm. Duck, you are— I think you’re a bit startled as you come in and see that there are— “Oh shit, there’s people in here,” but you catch out of the corner of your eye, in the center of the pool, right above the drain where nobody’s really swimming and exercising— they’re all kind of against the wall where the instructor is standing— you see a single large bubble come up from the drain and hit the surface of the pool and pop.
+
+
+Travis: Nothing goes [spooky underwater bubble noises]?
+
+
+Griffin: It goes “[same noise Travis made] I’m a spooky bubble!” Uh, [Justin: Okay.] that is what you notice. So, if you act on the answers you get +1 ongoing while the information is relevant.
+
+
+Clint: I have an idea. 
+
+
+Griffin: Okay.
+
+
+Clint: Ned’s gonna go over and speak to the instructor.
+
+
+Griffin: Okay, I mean, you’re all standing right— like, you are all sort of engaged in conversation with her.
+
+
+Ned: How do you do, my name is Ned Chicane. You may have known me from, uh, my local establishment The Cryptonomica. And your name is…?
+
+
+Hannah: Uh, my name is Hannah?
+
+
+Ned: Hannah!
+
+
+Griffin: Named after Hannah Cirson, on Twitter, thank you.
+
+
+Ned: My mother’s name was Hannah Cirson, that is such a coincidence! Perhaps you didn’t know this, but, uh, I work with the local television station and I was watching my compatriots on “Good Morning Kepler!” and they had a public service announcement about your class here. And, since I am so closely tied with the chamber of commerce, I was thinking, “This is wonderful therapy! The exercise, the swimming, the muscle toning, and all that!” But, have you heard about the hot springs out in back of Amnesty Lodge? I would have to think that would be much more healthy, much more therapeutic and good for your fine swimmers here than just swimming around in a [chuckles] chlorinated pool?
+
+
+Griffin: She looks at you and says:
+
+
+Hannah: Y’know, I do remember hearing about the hot springs. I didn’t think they would be quite large enough for the sort of water aerobics [Ned: Oh!] that I do.
+
+
+Ned: It is! Well, no, but think about it. It’s like those little pools that they show in the TV infomercials where you swim against the water.
+
+
+Hannah: It has an infinity jet in it? It’s a hot spring, right?
+
+
+Ned: It’s a hot spring and the water is flowing, and, y’know, that— I would have to think that would be much better for your constituents here rather than flopping around in the water. Having that water pushing against them and the warmth and the natural minerals, it’s very soothing I don’t know if you’ve been there, but for someone like me, in his mid to [hesitant] ...late 30s, it’s very relaxing.
+
+
+Griffin: She laughs. She laughs and laughs and laughs. She laughs, she has a good good belly laugh.
+
+
+Ned: But, having close relations with the lodge, I’m sure they would love to have you try out that facility. A matter of fact, we just came from there and it’s, uh, empty, it’s unoccupied, even as we speak.
+
+
+Hannah: Uh, yeah, that sounds very promising. I’ll tell you what, after this session, I will head straight there and see what I can find out.
+
+
+Travis: Aubrey would like to cast a spell.
+
+
+Griffin: Okay.
+
+
+Travis: She would like to make a chill breeze to blow over as Ned is talking about how warm… 
+
+
+Griffin: Is this, like, a subtle thing, like “Oh, a hot spring sounds v—” it’s not like you’re trying to, like, knock these people over—
+
+
+Travis: No, yeah, I’m just—
+
+
+Griffin: You’re just subtly trying to influence the conversation with a cold wind. 
+
+
+Travis: Correct.
+
+
+Griffin: Okay.
+
+
+Travis: That was a 12.
+
+
+Griffin: Okay.
+
+
+Justin: [half-laughing, sarcastic] Jesus, get that pull right when you need it!
+
+
+Travis: Yup.
+
+
+Griffin: What does that mean?
+
+
+Travis: I can… inflict harm?
+
+
+Griffin: Yeah, I think that maybe this is Use Magic and not an attack.
+
+
+Travis: So that’s what I’m saying, like, so I’m looking at it and I think it’s just kind of… inflict harm, but I’m trying to inflict very impermanent it is cold Harm?
+
+
+Justin: So this— can I just… [laughing] I just wanna drill down for a sec! This is the moment in the episode and in this arc where Travis is making a combat roll against some elderly, wet senior citizens!
+
+
+Travis: Yeah!
+
+
+Justin: I just need to clarify that’s exactly what’s happening currently.
+
+
+Travis: I rolled a 12! I have cracked this—
+
+
+Justin: [laughing] Yeah, no, you’re gonna fucking demolish them, no question, Trav, you’re absolutely gonna wreck these old people’s shit!
+
+
+Griffin: No, I think it’s not a combat roll. It’s Use Magic, and when you Use Magic instead of just, like, attacking them, you get to choose an effect, and one of them is “Do one thing that is beyond human limitations,” which is kind of a bucket thing. I think with a 12, because you’re not trying to hurt them, you don’t hurt them, right? A 12 is an unconditional success, you do what you were trying to do.
+
+
+Travis: Trying to not hurt these folks.
+
+
+Griffin: So I think, yeah, I think a couple of the windows were open over the bleachers, and I think from outside, a kind of chilly breeze comes in- is this weird, by the way? ‘Cause I sort of wanted to make more of a moment out of this, of Aubrey doing something that’s not just explicitly, like, fire fire fire. This is not a fire thing, this is…  
+
+
+Travis: She’s been training.
+
+
+Griffin: Unless… 
+
+
+Travis & Clint: Unless… 
+
+
+Justin: Unless… 
+
+
+Griffin: It is kind of a heat thing?
+
+
+Travis: I mean, yeah, ‘cause the other option is to draw the heat out of the water. 
+
+
+Griffin: Right.
+
+
+Travis: It was one of those— those were the two things I was going back and forth of, like, chill breeze versus make the water colder. Doing Use Magic instead of combat, maybe she just kind of, like, pulls heat out of the water.
+
+
+Griffin: Okay, yeah. The water starts to get ver— not very cold, but— 
+Travis: Colder. 
+
+
+Griffin: Unpleasantly cold?
+
+
+Travis: And this is a thing I know from Teresa working at a pool, that like, people who are in the pool a lot and swim laps can like tell the difference when you drop it like a degree or two.
+
+
+Griffin: Yeah, for sure. Ok, I think as you are describing this hot spring, Ned, one of the swimmers says:
+
+
+Swimmer: Yeah, um, that actually sounds real nice about now. This— this pool is uh, it’s getting kinda chilly and I’d like to heat up my bones, and I don’t see how we can’t do our lifts and stuff in a warmer clime, if they’ve got room for us.
+
+
+Griffin: And, the rest of the people in the pool agree, and I think Hannah’s kinda like, pushing back against this, but she’s like:
+
+
+Hannah: Okay, okay, fine. Everybody get your stuff, and I guess we’ll head up to Amnesty Lodge. It’s up Cliffside right?
+
+
+Swimmer: Sure!
+
+
+Ned: Duck, Duck, what would be the best way for them to get there?
+
+
+Griffin: Duck, you see those bubbles, not it’s not just one, there’s a lot of bubbles starting to appear in the middle of the pool.
+
+
+Duck: Uh, you know what? Why don’t I call in a transport. We got a lot of vans that we usually use to haul shrubbery and brush that we’ve collected, and I’ll have them send a van down here.
+
+
+Hannah: Well we have— we have a van. It’s not—
+
+
+Duck: Well that should’ve come up earlier, don’t you think, that you had a van on hand. Here I am, falling over myself offering y’all vans. What a goose. All right, well why don’t—
+
+
+Swimmer: I thought your name was Duck.
+
+
+Duck: Yeah, it’s a nickname. Listen, y’all got a van handy, why don’t you hop in and get on trucking. Don’t forget to— don’t worry ‘bout your clothes. We’ll drive them up seperate. 
+
+
+Swimmer: Why can’t we take our clothes?
+
+
+Duck: [freezing up] You need to— you need— uh. Here, I’ll get them.
+
+
+[Laughter]
+
+
+Justin: [half-laughing] Duck runs to pick up their clothe—
+
+
+Duck: Y’all start loading in the van and I’ll bring your clothes out to ya’s. Just another one of the many services we offer from the Forestry Service.
+
+
+Swimmer: Is clothes— Oh! Okay, I’m going, I’m going, I’m going!
+
+
+Duck: Go! Go! Go! Go! Go!
+
+
+Griffin: I think because of — I know this seems a bit silly, but all of you have rolled very well here — I think they all sort of start climbing out of the pool and, in this single file line, they hurry out the door as Duck is picking up their clothes off the bleachers and just throwing them out the open doors. And soon, uh, all of them—
+
+
+Justin: [defensive] Nah, he takes them to the van! The van’s right there— 
+
+
+Griffin: Okay.
+
+
+Justin: He throws them in the van.
+
+
+Griffin: As he’s doing this transport, everybody’s outside, you and Ned see the bubbles getting faster and faster, and then they stop. And Duck, you finish taking all of their stuff out to the car and you hear the engines kick on and drive off. And the doors close behind you, and now you are all together and the water is motionless, just for a moment. [The Water, Revealed by Griffin McElroy starts playing] 
+
+
+And then a ripple extends from the center of the pool, and as it reaches the perimeter, the water around the edges of the pool starts to recede, as if called back by a tidal pull. The water collects at the center, forming a small mound, and then the water splashes upward from the center of the pool and the mound explodes. A primitive hand reaches upward several feet, grasping at nothing, before collapsing back into the pool. Three identical, cylindrical pillars of water lift from the surface and then recede just as quickly. Two waves form at either end of the pool and splash together, hanging there for just a moment, before dropping. The water takes several shapes quickly before settling on one. A tendril reaches upward from the center of the pool, writhing about and throwing water all around the room, before standing perfectly straight up 10 feet into the air.
+
+
+Aubrey: Well, dunk.
+
+
+Travis: Um, Read a Bad Situation, please.
+
+
+Griffin: Okay, I think this is probably a more reasonable time for you to— 
+
+
+Travis: Yeah.
+
+
+Griffin: To do that.
+
+
+Travis: Uh, I will—
+
+
+Justin: I draw— I go ahead and draw Beacon, by the way. 
+
+
+Travis: Yeah, I rolled a nine plus one. Ten. 
+
+
+Griffin: Okay. Go ahead and ask your questions.
+
+
+Travis: This is the thing, ‘cause a lot of these are very straightforward. Like what’s the biggest threat? Probably that big ol’ water tendril. I’m going to say what’s more vulnerable to me?
+
+
+Griffin: I think with that I can tell you: Do not get in the water. You know what is vulnerable to you is like your breath. And you—
+
+
+Travis: No, I mean, I think what that means is what’s vulnerable to me to attack.
+
+
+Griffin: Oh. To attack. Yeah…. yeah, that’s tough, that’s tough for me to describe to you. I think that you logically know that like the water in the tendril is the thinnest, you can’t like shoot something into the pool, right? 
+
+
+Travis: Let me, lemme start with my magic eye! 
+
+
+Griffin: Okay.
+
+
+Travis: Which is actually Third Eye. Magic Eye is the posters.
+
+
+Griffin:  Yeah you blur your eyes and get it real close to the water and sort of the shapes starts to take… What does that look like to you? Describe what the Third Eye— 
+
+
+Travis: Well, I would say— envision it— so there is the thing in the Dresden Files were they talk about Wizard Sight, and I always imagined it kinda like if you switched over to the negative, you know like in a photo, except in the negative I could see the things...
+
+
+Griffin: I like that. So like inverse color [Travis: Yes.] sort of thing. Okay, yeah that’s neat. You see... I think even with your Third Eye you see faintly, not in the tendril but actually in the water under the tendril several feet deep in the water, you see that yellow light that Calvin described yesterday and you are the only one that can see it. Ned and Duck, you just see the pool and you just see the tendril. But with your magic sight you see this shape in the water and then, if you are asking what is most vulnerable to you, it’s whatever that thing is.
+
+
+Travis: Okay, so next question. What’s the best way out?
+
+
+Griffin: Either the door or the, uh, the windows over the bleachers.
+
+
+Aubrey: Okay, let’s—
+
+
+Griffin: You have one more, I think, if you wanted to—
+
+
+Aubrey: —start backing towards the doors. 
+
+
+Travis: Uh, what’s the best way to protect the victims? Which [Griffin: If—] I guess are us.
+
+
+Griffin: The three of you. I mean the best way to protect the victims is to not get in the water and get as far away from this thing as is possible. But I mean you also know that, like, you’re gonna have to fight this thing eventually, and so whatever you can learn...
+
+
+Travis: Okay.
+
+
+Griffin: So, Aubrey, after sort of reading it, that tendril, which was sort of poking straight up before, it kind of bends and crooks towards the middle and sort of, almost like it looks in your direction like it is eyeing the three of you. Still in the middle of the pool, still like, a little bit of aways away from you, but it seems to have noticed you. Ned, what are you up to?
+
+
+Clint: Uh, Ned climbs the high dive. Starts up the ladder, climbs up the high dive. I mean—
+
+
+Travis: [crosstalk] Okay?
+
+
+Griffin: [crosstalk] How about— I mean, I don’t—
+
+
+Justin: [crosstalk] Gonna hit him with a— gonna hit him with a ‘phoon!
+
+
+Clint: Ostensibly to get away from whatever’s going on, but I think he’s also going up there to get a higher perspective. That maybe looking down on it, visually, that’ll tell him more about the situation than being on eye level with it.
+
+
+Griffin: Okay, I don’t think it’s like a super high dive, because that, to me, seems like weird pacing, like, “Oh no, let me climb this ladder for 30 seconds!” But I think it definitely puts you at eye level and you are on this high dive and it sounds like Investigate a Mystery, right? Which is less — I know it seems like that’s all you guys are doing right now, but that’s kind of—
+
+
+Travis: We know nothing.
+
+
+Griffin: Right, this is sort of a research gathering mission, and Investigate a Mystery is more about what the monster is and not what immediate danger you all are in.
+
+
+Clint: So, I rolled a nine plus two for [crosstalk] Sharp.
+
+
+Griffin: [crosstalk] These fucking rolls! You guys are killing it! Hopefully, when you actually fight this thing, you guys will fuck up a bunch. That’s my [crosstalk] dream.
+
+
+Clint: [crosstalk] What sort of creature is it?
+
+
+Griffin: Here’s what I— Here— This is one of those situations where, like, the answer is so obvious that I won’t charge you one of the hold two, because I think, you can’t see what Aubrey sees, what sort of creature it is is shapeshifting water, and it’s taking a different shape than the one that Calvin described yesterday, so you assume it’s got a few tricks up its sleeve. But what sort of creature it is is a big shapeshifting water monster, but I won’t charge you a hold for that because that’s sort of obvious.
+
+
+Clint: Alright, then what can it do?
+
+
+Griffin: Okay, I think the way that we resolve this is the tendril notices you climb the high dive and get on eye level with you, and the tendril starts to move in your direction. Like, not just the tip of the tendril, but the shape itself. The base of it moves across the surface of the water. So it seems to be able to move around to do whatever it wants to.
+
+
+Travis: I’ve got it, you guys. Old people in a pool? Energy in the pool— This is a Cocoon situation!
+
+
+Justin: Cocoon. We’ve got a Cocoon situation [crosstalk] on our hands.
+
+
+Travis: [crosstalk] We have got a full-blown Cocoon.
+
+
+Griffin: You have one more question, Ned.
+
+
+Clint: Well if it’s zooming at me, I’m gonna wanna know what can hurt it?
+
+
+Griffin: You get the impression, getting an eyeful of this tendril right now, you still don’t know what this monster is, right? But you know that if you can sever this tendril, if you can sever this water, this aquatic tentacle, it will go away. That doesn’t necessarily mean you’ve killed the beast or whatever, but you get the idea that, you know, the water is thinner here on the tendril than it is at the base of the pool, so if you sever it, it will resolve this situation. And with your questions asked, this thing is now moving towards you— now the tip of it is moving towards you at speed. Looking like it— it actually kind of goes around the side of you, almost like it wants to grab you. That is a soft move of me setting up future danger. What do you do?
+
+
+Clint: Um, so it’s moving at me at speed? [chuckles] I wanna take Justin’s suggestion from earlier and do a ‘phoon! 
+
+
+[Clint laughs]
+
+
+Justin: Oh no, the ‘phoon! The dreaded ‘phoon!
+
+
+Clint: I wanna ‘phoon into the pool. I’m not gonna have time to get down the ladder, probably.
+
+
+Justin: So many childhood summer days have been wrecked by the power of the ‘phoon. My worry has now pivoted, I am no longer concerned for my dad’s imaginary character. I am now concerned for this poor tendril getting ready to get his shop wrecked!
+
+
+Griffin: Can you explain what a ‘phoon is [crosstalk] to our audience?
+
+
+Clint: [crosstalk] A ‘phoon is— 
+
+
+Justin: The power of the ‘phoon.
+
+
+Clint: A ‘phoon is a dive invented by my cousin Tom Neill that— imagine a jack-knife but you do the jackknife and you don’t unfold, so you get all the worst elements of a belly-flop, but even more because it impacts all of your body.
+
+
+Justin: [crosstalk] So it is short for typhoon, correct?
+
+
+Travis: [crosstalk] So it is both punishment for other people in the pool, but mostly a way that one might, I don’t know, give penance for something terrible they’ve done.
+
+
+Justin: The least pleasing way of entering a body of water.
+
+
+Clint: It is! And it might disrupt the surface tension a bit.
+
+
+Griffin: Okay, I like this, so go ahead and Act Under Pressure, it sounds like. You roll plus Cool, ‘cause you are in a pressured situation. I like the instinct of, like, “Oh shit, I can’t get back down that ladder fast enough, this thing’s gonna get me. May as well charge right into it!” as you do a cool dive.
+
+
+[Clint laughs triumphantly]
+
+
+Griffin: You are kidding me!
+
+
+Clint: Twelve plus one Cool! 
+
+
+Justin: ‘Phoon!
+
+
+Clint: Thirteen! 
+
+
+Justin: The ‘phoooooon!
+
+
+Clint: That’s not just a ‘phoon, that’s a [deep breath] ‘PHOOOOOOOOOOOOOONNNN!!!
+
+
+Travis: So this kills the creature?
+
+
+Griffin: [sarcastic] Uh yeah, they die. Okay, here’s what happens. You realized you’re not gonna make it down that ladder and you turn and do a ‘phoon off the edge of the diving board. A full-spring, the diving board makes that satisfying, like, [diving board sound] [crosstalk] noise.
+
+
+Clint: [crosstalk] [diving board sound, but better]
+
+
+Griffin: Uh, and Aubrey and Duck, from the ground level, you see Ned’s imposing form launch off the end of the diving board, and, as you are going down, the path of your ‘phoon actually cuts through the tendril. And the force, the pure, like, inertia of your maneuver here, it cuts through the tendril, and severs it from the pool itself. And as it does, the water that was forming this tendril loses its shape and sort of just falls harmlessly down onto the floor. And Aubrey and Duck, you probably get splashed a little bit by this as the water falls and hits the water. Ned, you killed the tendril but you are now inside the water. You splash down into the pool and, as you do, uh, and you are now submerged a few feet under the water, your face is illuminated by this yellow light as you are now just right up against it. Now that you are, like, right up against it, you can see it, and that is what has happened. And then, I think you also, like, you were [crosstalk] prepared for the—
+
+
+Clint: [crosstalk] Full disclosure, there’s gotta be some damage done. I’m  tellin’ [Griffin: Uhh...] ya, a good ‘phoon hurts. 
+
+
+Griffin: I think it hurts, but you rolled a 12, so I’ll, like, I’m powerless to sort of do a bad thing to you here. You did something— the most rad ‘phoon anyone’s ever done. The bad thing [crosstalk] that has happened—
+
+
+Travis: [crosstalk] As Aubrey and Duck stand at the side:
+
+
+Aubrey: [awed] The perfect ‘phoon…
+
+
+Duck: I’ve always heard tale of it, but I never thought— 
+
+
+Aubrey: He did it…
+
+
+Duck: I’d see it with my own eyes.
+
+
+Griffin: So something bad did happen.
+
+
+        Aubrey: This is exactly how he would want to die.
+
+
+Griffin: Um—
+
+
+[Justin laughs]
+
+
+Ned: What!?
+
+
+Griffin: Something bad did happen, though. I think because you, uh, you were so smooth in this maneuver you, like, got a nice, deep breath as you were heading down. So you are not sort of being actively damaged or whatever, but you feel that same tug that Calvin felt. Actually far more powerful. Ned [sic] and Aubrey, from above the pool, you see Ned being kind of yanked around the deep end of the pool. Like, by his feet. You see him just sort of zooming around the water as Ned, you are being pulled all around the water. You had a nice deep breath, so you are not being damaged by this, but this thing’s got a hold on you now. And is— you are its plaything now inside the pool. Duck, what do you do?
+
+
+Justin: So… I… I’ll tell you what Duck does. Duck has his sword out and he… just stands there. He doesn’t have any idea what to do. He knows that he— his friend is in danger, he knows that there’s a monster in the thing… And he’s got nothing. For Duck, this is like… it’s 100 percent the situation that he kind of feared would happen. He doesn’t know how to do this. He doesn’t know what to do. And I don’t think he does… anything.
+
+
+Griffin: [amused] That’s very good. Okay, Aubrey, you see Duck pull out his sword and then just kind of freeze up.
+
+
+Aubrey: Duck!
+
+
+Duck: [dazed] Y— yeah. 
+
+
+Aubrey: Grab the skimmer!
+
+
+Duck: The… skimmer? 
+
+
+Aubrey: Pool skimmer!
+
+
+Duck: All— all right. Yeah, yeah yeah, yes. Skimmer skimmer skimmer.
+
+
+Justin: So he runs over to grab the skimmer and… is gonna try to, I guess… catch... him?
+
+
+Travis: Okay, going one step further than what Aubrey did earlier. She’s gonna try to lower the pool temperature even more. 
+
+
+Griffin: Okay.
+
+
+Travis: So that the water gets sluggish and slower. [Griffin: Hm…] To kinda help Duck.
+
+
+Griffin: I will say, totally? You have no idea if that works, right? 
+
+
+Travis: [crosstalk] No, no, listen. 
+
+
+Griffin: [crosstalk] You have no idea if that’s what this thing… Okay.
+
+
+Travis: We don't know anything.
+
+
+Aubrey: Here goes nothing.
+
+
+Justin: Oh no…
+
+
+Griffin: Oh, shit.
+
+
+Justin: Oh no…
+
+
+Travis: Oh no.
+
+
+Justin: He rolled a five.
+
+
+Travis: Is that plus Weird? So that’s a seven. It’s not a total miss. 
+
+
+Griffin: Yeah. That is a— a seven. So, I’m so glad this happened because Use Magic has one of the coolest effects on a mixed success. On a seven to nine, it works imperfectly. Choose your effect and a glitch. The Keeper will decide what effect the glitch has. So you get to choose whatever effect you were trying to do. Which I think was “Do one thing which is beyond human limitations.” [Travis: Uh-huh.] Which was soaking up the heat of the pool. And then you choose a glitch: the effect is weakened, the effect is of short duration, you take one harm ignore armor, the magic draws immediate unwelcome attention, or it has a problematic side effect.
+
+
+Travis: Um… I’m going to say for this [laughs] because I think it’ll be the most interesting. 
+
+
+Griffin: Yes yes yes. 
+
+
+Travis: The magic draws immediate unwelcome attention?
+
+
+Griffin: Yeah. So here’s what happens: the water gets cold. And Ned, you feel it now. And it’s— now it’s uncomfortably cold. It’s not like freezing, but it’s like, you know, probably around 50 degrees or so, which is very very cold for— for water. You don’t want to be in water that cold for that long. But as it cools down Ned you do feel this thing stop pulling you. And you— you are now sort of under the water. And I think that now you see the skimmer in the water that Duck has put down there for you. You’re probably pretty disoriented at this point because you’ve just been dragged around the water for a while. And so I think it’s probably pretty easy for you to grab onto that, if you want to.
+
+
+However, the unwanted attention… the water— you see it start to pull away from the deep end of the pool where Ned was just at. And now it forms a huge wave on the more shallow end of the pool that was closer to where Aubrey is. And now it is— it comes down on you, and splashes over you and as it does, it just kind of actually… stays there. The water is now no longer contained in the pool, it’s not pulling you into the pool, it has come to you and it is all around you. And you are— you are submerged. And I think it caught you by surprise, so you are out of breath. Ned, what do you do? [pause] Uh, I think let’s resolve first, did you— did you get pulled up through this— with the skimmer? Are you back out of the water or are you still in the water?
+
+
+Clint: Yeah, Duck— I grabbed the skimmer and Duck pulled me up. 
+
+
+Griffin: Okay.
+
+
+Clint: And I— I took a breath and now I’m back at it. I’m gonna help out. 
+
+
+Travis: Oh, good! [laughs] 
+
+
+Clint: Ned goes running towards Aubrey and takes his… Thudomatic walking stick and just sweeps it right through the stream of water to try and break the contact between the globe of water and the water in the pool. And that’s a seven, and there’s— he has no tough. So he’s kicking some water ass, sort of.
+
+
+Griffin: Okay. On a seven, you and whatever you’re fighting inflict harm on each other. You charge towards it, and you bring up your— your cane in and upward sweeping strike. And you— you splash some of the sort of narrow connection of water between this frozen wave and the pool. And as you do, a tendril peels off the wave and just smashes you from above. It clubs right into you and hits you for one harm.
+
+
+Clint: Mm!
+
+
+Griffin: But I think you are sort of unfazed in that, and you continue sort of your strike against this— this connective tissue and you finally, with one more sweep, you do sever it. And as that happens, Aubrey, the water falls away from you. And you—
+
+
+[Travis gasps] 
+
+
+Griffin: You fall to the ground and take a nice deep breath. 
+
+
+[Travis gasps more]
+
+
+Griffin: Which probably sounds very good in the audio. Duck, you are up, and both of your compatriots at this moment are sort of free. 
+
+
+Justin: And what was— what did you see the effect of the— of the walking stick was?
+
+
+Griffin: It separated— it basically killed the wave. 
+
+
+Justin: Cool.
+
+
+Griffin: So the shapes that this water is making are Minions, which is another mechanic in this game. It’s not the— it’s not the boss itself, but it is things that are serving the boss. And that’s kind of how I am… making— making sense of how this monster operates. You see the water start to move around. I think there’s a few of the exercise floats that a few of the— the exercisers were using earlier. And you see them start to rotate clockwise, sort of around the center of the pool. But no shapes have formed right now. What do you do?
+
+
+Duck: Listen, y’all, I— I think we need to get outta here, uh, posthaste. I— I know we haven’t learned much from this, but I’d say that we’ve learned that it’s… a living pool. And, uh… it can send as much ater out as it wants and not get tired and not get hurt. Um… and I think if we play that game long enough, we’re gonna end up… underground. So I’m kinda feeling like we should maybe get the hell outta here.w
+
+
+Griffin: I think as you say that, the water, uh, the water starts to pick up its sort of spiral. And now a full-blown whirlpool is forming in the center of the pool. 
+
+
+Aubrey: Yeah, you know what… [nervous chuckle]
+
+
+Duck: Sounds— Yep. 
+
+
+Aubrey: Yep. 
+
+
+Duck: Yep yep yep yep. 
+
+
+Ned: Yep. Yep yep. 
+
+
+Griffin: So what do you all do?
+
+
+Clint: Run away!
+
+
+Justin: Yeah, we run. We’re gone.
+
+
+Griffin: Okay. You all run towards the door. And right as you reach it, you hear a sickening kind of gurgling noise as that whirlpool, uh, closes up. And as it does, the pool stands completely still. And Aubrey, I think with your— with your Third Eye magic, still sort of, traces of it still functioning, you can tell that this light that was in the water is now just gone.
+
+
+Aubrey: Huh… Well, I’ve got good news, and… uh, potentially bad news.
+
+
+Duck: Well, why don’t you hit me with the good news first. 
+
+
+Aubrey: Y— okay. Um… good news is… I think we’re safe for the time being, ‘cause whatever was in that pool seems to be gone.
+
+
+Duck: All right, mission accomplished. 
+
+
+Aubrey: Well…
+
+
+Duck: Good work Pine Guard, huh?
+
+
+Aubrey: Then we’ve got the bad news. 
+
+
+Ned: Which is?
+
+
+Aubrey: The bad news is… I think maybe it went into, you know, all the water? Like in town? I think it’s not just confined to the pool.
+
+
+Duck: Well… Fuck. 
+
+
+[Theme music (The Adventure Zone: Amnesty Theme by Griffin McElroy) plays]
+
+
+{1:00:22}
+
+
+[Next Episode]
